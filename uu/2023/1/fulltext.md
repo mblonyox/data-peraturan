@@ -899,14 +899,14 @@ c. bukan pengulangan Tindak Pidana.
 ketentuan sebagaimana dimaksud pada ayat (1) adalah
 pidana denda paling banyak kategori V dan pidana
 denda paling sedikit kategori III.
-(4) Ketentuan sebagaimana dimaksud pada ayat (21
+(4) Ketentuan sebagaimana dimaksud pada ayat (2)
 huruf c tidak berlaku bagi orang yang pernah dijatuhi
 pidana penjara untuk Tindak Pidana yang dilakukan
 sebelum berumur 18 (delapan belas) tahun.
 Pasal 72
 (1) Narapidana yang telah menjalani paling singkat
-2l 3 ldua per tiga) dari pidana penjara yang dijatuhkan
-dengan ketentuan 213 ldua per tiga) tersebut tidak
+2/3 (dua per tiga) dari pidana penjara yang dijatuhkan
+dengan ketentuan 2/3 (dua per tiga) tersebut tidak
 kurang dari 9 (sembilan) Bulan dapat diberi
 pembebasan bersyarat.
 (2) Narapidana yang menjalani beberapa pidana penjara
@@ -1031,19 +1031,14 @@ rupiah).
 
 Pasal 79
 (1) Pidana denda paling banyak ditetapkan berdasarkan:
-a. kategori I, Rp1.000.00O,0O (satu juta rupiah);
+a. kategori I, Rp1.000.000,00 (satu juta rupiah);
 b. kategori II, Rp10.000.000,00 (sepuluh juta rupiah);
-c. kategori III, Rp50.0O0.O00,0O (lima puluh juta
-rupiah);
-d. kategori IV, Rp200.000.000,00 (dua ratus juta
-rupiah);
-e. kategori V, Rp500.000.000,O0 (lima ratus juta
-rupiah);
+c. kategori III, Rp50.000.000,00 (lima puluh juta rupiah);
+d. kategori IV, Rp200.000.000,00 (dua ratus juta rupiah);
+e. kategori V, Rp500.000.000,00 (lima ratus juta rupiah);
 f. kategori VI, Rp2.000.000.000,00 (dua miliar rupiah);
-g. kategori VII, RpS.0O0.O00.0O0,O0 (lima miliar
-rupiah); dan
-h. kategori VIII, Rp5O.0O0.O0O.00O,0O (lima puluh
-miliar rupiah).
+g. kategori VII, Rp5.000.000.000,00 (lima miliar rupiah); dan
+h. kategori VIII, Rp50.000.000.000,00 (lima puluh miliar rupiah).
 (2) Dalam hal terjadi perubahan nilai uang, ketentuan
 besarnya pidana denda ditetapkan dengan Peraturan
 Pemerintah.
@@ -1249,8 +1244,9 @@ memperoleh pembebasan bersyarat.
 (3) Pidana pencabutan hak mulai berlaku pada tanggal
 putusan pengadilan telah memperoleh kekuatan
 hukum tetap.
+
 Pasal 91
-Pidana tambahan berupa perErmpasan Barang tertentu
+Pidana tambahan berupa perampasan Barang tertentu
 dan/atau tagihan sebagaimana dimaksud dalam Pasal 66
 ayat (1) huruf b yang dapat dirampas meliputi Barang
 tertentu dan/ atau tagihan:
@@ -1401,7 +1397,7 @@ perintah Jaksa Agung.
 
 Pasal 101
 Jika permohonan grasi terpidana mati ditolak dan pidana
-mati tidak dilaksanakan selama l0 (sepuluh) tahun sejak
+mati tidak dilaksanakan selama 10 (sepuluh) tahun sejak
 grasi ditolak bukan karena terpidana melarikan diri, pidana
 mati dapat diubah menjadi pidana penjara seumur hidup
 dengan Keputusan Presiden.
@@ -1693,7 +1689,7 @@ sendiri dan diancam dengan pidana pokok yang tidak
 sejenis, pidana yang dijatuhkan adalah semua jenis
 pidana untuk Tindak Pidana masing-masing, tetapi
 tidak melebihi maksimum pidana yang terberat
-ditambah l/3 (satu per tiga).
+ditambah 1/3 (satu per tiga).
 (2) Dalam hal ketentuan sebagaimana dimaksud pada ayat (1) diancam dengan pidana denda, penghitungan denda
 didasarkan pada lama maksimum pidana penjara
 pengganti pidana denda.
@@ -1719,7 +1715,7 @@ a. pidana pencabutan hak yang sama dijadikan satu
 dengan ketentuan:
   1. paling singkat 2 (dua) tahun dan paling lama
   5 (lima) tahun lebih lama dari pidana pokok yang
-  dljatuhkan; atau
+  dijatuhkan; atau
   2. apabila pidana pokok yang diancamkan hanya
   pidana denda, lama pidana paling singkat
   2 (dua) tahun dan paling lama 5 (lima) tahun.
@@ -2173,7 +2169,7 @@ Pasal 182
 Dalam Dinas Penerbangan adalah jangka waktu sejak saat
 Pesawat Udara disiapkan oleh awak darat atau oleh awak
 pesawat untuk penerbangan tertentu sampai lewat
-24 (dtua puluh empat) jam sesudah pendaratan.
+24 (dua puluh empat) jam sesudah pendaratan.
 
 Pasal 183
 Ternak adalah hewan peliharaan yang dipenrntukkan
@@ -2183,7 +2179,7 @@ Pasal 184
 Bulan adalah waktu 30 (tiga puluh) Hari.
 
 Pasal 185
-Hari adalah waktu selama 24 (&ta puluh empat) jam.
+Hari adalah waktu selama 24 (dua puluh empat) jam.
 
 Pasal 186
 Malam adalah waktu di antara matahari terbenam dan
@@ -2482,7 +2478,7 @@ memberikan Surat, berita, atau keterangan mengenai suatu
 hal kepada negara asing atau organisasi asing, padahal
 orang tersebut mengetahui bahwa hal tersebut harus
 dirahasiakan untuk kepentingan negara, dipidana dengan
-pidana penjara paling lama 7 (tqjuh) tahun.
+pidana penjara paling lama 7 (tujuh) tahun.
 
 Pasal 205
 Setiap Orang yang mengumumkan, memberitahukan, atau
@@ -2934,7 +2930,7 @@ tulisan menghina pemerintah atau lembaga negara,
 dipidana dengan pidana penjara paling lama 1 (satu)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
 kategori II.
-(2)Dalam hal Tindak Pidana sebagaimana dimaksud pada
+(2) Dalam hal Tindak Pidana sebagaimana dimaksud pada
 ayat (1) berakibat terjadinya kerusuhan dalam
 masyarakat, dipidana dengan pidana penjara paling
 lama 3 (tiga) tahun atau pidana denda paling banyak
@@ -3109,7 +3105,7 @@ obat tersebut dapat mengakibatkan gugurnya
 kandungan, dipidana dengan pidana penjara paling
 lama 4 (empat) tahun atau pidana denda paling banyak
 kategori IV.
-(2)Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
 melakukan perbuatan tersebut dalam menjalankan
 profesinya dapat dijatuhi pidana tambahan berupa
 pencabutan hak sebagaimana dimaksud dalam Pasal 86
@@ -3248,7 +3244,7 @@ menghambat, dan/ atau mencatat transmisi Informasi
 Elektronik dan/atau Dokumen Elektronik yang tidak
 bersifat publik, baik menggunakan jaringan kabel
 komunikasi maupun jaringan nirkabel, dipidana
-dengan pidana penjara paling lama l0 (sepuluh) tahun
+dengan pidana penjara paling lama 10 (sepuluh) tahun
 atau pidana denda paling banyak kategori M.
 (2) Setiap Orang yang menyiarkan atau menyebarluaskan
 hasil pembicaraan atau perekaman sebagaimana
@@ -3305,7 +3301,7 @@ denda paling banyak kategori III.
 (4) Dalam hal Tindak Pidana sebagaimana dimaksud pada
 ayat (1) dan ayat (3) dilakukan oleh 2 (dua) orang atau
 lebih dengan bersekutu dan bersama-sama, pidananya
-dapat ditamb ah L l3 (satu per tiga).
+dapat ditamb ah 1/3 (satu per tiga).
 
 Paragraf 5
 Turut Serta dalam Organisasi yang Bertujuan Melakukan Tindak Pidana
@@ -3317,8 +3313,8 @@ atau organisasi yang dilarang berdasarkan UndangUndang atau putusan pengadilan y
 memperoleh kekuatan hukum tetap, dipidana dengan
 pidana penjara paling lama 5 (lima) tahun atau pidana
 denda paling banyak kategori V.
-(2) Pendiri atau pengunts organisasi sebagaimana
-dimaksud pada ayat ( 1) pidananya dapat ditamb ah I I 3
+(2) Pendiri atau pengurus organisasi sebagaimana
+dimaksud pada ayat (1) pidananya dapat ditamb ah 1/3
 (satu per tiga).
 
 Paragraf 6
@@ -3464,7 +3460,7 @@ Pasal 274
 keramaian untuk umum di jalan umum atau di tempat
 umum, dipidana dengan pidana denda paling banyak
 kategori II.
-(2)Setiap Orang yang melakukan Tindak Pidana
+(2) Setiap Orang yang melakukan Tindak Pidana
 sebagaimana dimaksud pada ayat (1) yang
 mengakibatkan terganggunya kepentingan umum,
 menimbulkan keonaran, atau huru-hara dalam
@@ -3839,7 +3835,7 @@ Setiap Orang yang secara melawan hukum memberitahukan
 keberadaan saksi dan/ atau Korban yang sedang dilindungi
 da-lam suatu tempat kediaman sementara atau tempat
 kediaman baru, dipidana dengan pidana penjara paling
-singkat 2 (dua) tahun dan paling lama 7 (tqjuh) tahun dan
+singkat 2 (dua) tahun dan paling lama 7 (tujuh) tahun dan
 pidana denda paling sedikit kategori III dan paling banyak
 kategori V.
 
@@ -4633,7 +4629,7 @@ perbuatan tersebut mengakibatkan mati.
 Pasal 350
 Dalam hal Tindak Pidana sebagaimana dimaksud dalam
 Pasal 347 dilakukan secara bersama-sarna dan bersekutu,
-pidananya dapat ditamb ah I l3 (satu per tiga).
+pidananya dapat ditamb ah 1/3 (satu per tiga).
 
 Paragraf 2
 Pengabaian terhadap Perintah Pejabat yang Berwenang
@@ -4727,7 +4723,7 @@ b. atas permintaan orang lain membuat orang lain
 tersebut tidak mampu memenuhi kewajiban bela
 negara sesuai dengan ketentuan yang diatur dalam
 Undang-Undang.
-(2)Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
 huruf b mengakibatkan kematian, dipidana dengan
 pidana penjara paling lama 5 (lima) tahun atau pidana
 denda paling banyak kategori V.
@@ -5575,7 +5571,7 @@ orang, dipidana dengan pidana penjara paling lama 15
 (lima belas) tahun.
 
 Pasal 417
-Setiap Orang yang memberi atau be{anji akan memberi
+Setiap Orang yang memberi atau bejanji akan memberi
 hadiah wibawa yang timbul dari
 hubungan keadaan atau dengan penyesatan menggerakkan
 orang yang diketahui atau patut diduga Anak, untuk
@@ -5934,7 +5930,7 @@ Pasal 433 sampai dengan Pasal 439 dapat ditambah
 teknologi informasi.
 (2) Ketentuan pidana sebagaimana dimaksud dalam
 Pasal 433, Pasal 434, dan Pasal 436 dapat ditambah
-I /3 (satu per tiga), jika yang dihina atau difitnah adalah
+1/3 (satu per tiga), jika yang dihina atau difitnah adalah
 seorang Pejabat yang sedang menjalankan tugasnya
 yang sah.
 
@@ -5985,7 +5981,7 @@ Pasal 446
 kemerdekaan orang atau meneruskan perampasan
 tersebut, dipidana dengan pidana penjara paling lama
 7 (tqjuh) tahun.
-(2)Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
 mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 9 (sembilan) tahun.
 (3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
