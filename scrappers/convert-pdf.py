@@ -1,13 +1,19 @@
 from os import path
 from pathlib import Path
 
-from lib import ocr
+from lib import kreuzberg
+from tqdm import tqdm
 
-for p in Path("../uu/2024").rglob("*.pdf"):
+for p in tqdm(Path("../uu/2024").rglob("*.pdf")):
     output = f"{p.parent}/fulltext.md"
     if path.exists(output):
         continue
-    text = ocr.convert_pdf_to_text(f"{p}")
-    with open(output, "w") as f:
-        f.write(text)
+    print(f"Processing {p.name}\n")
+    try:
+        text = kreuzberg.convert(str(p))
+        with open(output, "w") as f:
+            f.write(text)
+    except Exception as e:
+        print(f"Error processing {p.name}: {e}")
+        continue
     p.unlink()
