@@ -2,8 +2,10 @@ import re
 from enum import Enum
 
 import requests
+import urllib3
 from bs4 import BeautifulSoup
 
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 session = requests.Session()
 session.headers.update({"X-Requested-With": "XMLHttpRequest"})
 
@@ -20,12 +22,12 @@ class IdJenis(Enum):
 
 
 def get_csrf():
-    response = session.get("https://jdih.setneg.go.id/csrf")
+    response = session.get("https://jdih.setneg.go.id/csrf", verify=False)
     return response.json()
 
 
 def get_token():
-    response = session.get("https://jdih.setneg.go.id/token")
+    response = session.get("https://jdih.setneg.go.id/token", verify=False)
     return response.json()
 
 
@@ -45,11 +47,12 @@ def produk_hukum(
     response = session.post(
         "https://jdih.setneg.go.id/ProdukHukum",
         data={
-            "idjenis": [jenis.value for jenis in idjenis],
-            "tahun": tahun,
+            "idjenis[]": [jenis.value for jenis in idjenis],
+            "tahun[]": tahun,
             "CSRFToken": get_csrf(),
             "Authorization": get_token(),
         },
+        verify=False,
     )
     response.raise_for_status()
     json = response.json()
@@ -69,7 +72,7 @@ def produk_hukum(
 
 def view_produk_hukum(p_id: str):
     response = session.get(
-        f"https://jdih.setneg.go.id/front/Peraturan/ajaxview?id={p_id}"
+        f"https://jdih.setneg.go.id/front/Peraturan/ajaxview?id={p_id}", verify=False
     )
     response.raise_for_status()
     return response.json()
@@ -79,6 +82,7 @@ def download_produk_hukum(p_id: str, basename: str):
     response = session.post(
         f"https://jdih.setneg.go.id/downloadFile/{basename}",
         data={"CSRFToken": get_csrf(), "f": p_id, "ts": basename},
+        verify=False,
     )
     response.raise_for_status()
     return response.content

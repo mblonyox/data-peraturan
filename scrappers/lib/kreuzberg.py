@@ -1,8 +1,8 @@
-from kreuzberg import ExtractionConfig, OcrConfig, extract_file_sync
+from kreuzberg import ExtractionConfig, OcrConfig, extract_bytes_sync
 
 config = ExtractionConfig(ocr=OcrConfig(backend="easyocr", language="id"))
 
 
-def convert(pdf_path: str) -> str:
-    result = extract_file_sync(pdf_path, config=config)
+def convert(data: bytes) -> str:
+    result = extract_bytes_sync(data, mime_type="application/pdf", config=config)
     return result.content
