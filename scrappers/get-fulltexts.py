@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from os import path
+from os import path, makedirs
 
 import typer
 from lib import kreuzberg, setneg
@@ -21,15 +21,18 @@ def main():
     ) as pb:
         for p in pb:
             try:
-                pb.label = "Get detail..."
-                detail = setneg.view_produk_hukum(p["p_id"])
                 f_path = f"../{p['jenis']}/{p['tahun']}/{p['nomor']}/fulltext.md"
                 if path.exists(f_path):
+                    continue
+                pb.label = "Get detail..."
+                detail = setneg.view_produk_hukum(p["p_id"])
+                if len(detail["datafile"]) == 0:
                     continue
                 basename = detail["datafile"][0]["basename"]
                 pb.label = "Download pdf..."
                 data = setneg.download_produk_hukum(p["p_id"], basename)
                 content = kreuzberg.convert(data)
+                makedirs(path.dirname(f_path), exist_ok=True)
                 with open(f_path, "w") as f:
                     f.write(content)
                 pb.label = f"Done writing {f_path}"
