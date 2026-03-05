@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from os import path
 
 import typer
@@ -13,9 +15,9 @@ def main():
     ph = setneg.produk_hukum(tahun=[tahun], idjenis=idjenis)
     with typer.progressbar(
         ph,
-        item_show_func=lambda x: f"{x['jenis']} Nomor {x['nomor']} Tahun {x['tahun']}"
-        if x
-        else None,
+        item_show_func=lambda x: (
+            f"{x['jenis']} Nomor {x['nomor']} Tahun {x['tahun']}" if x else None
+        ),
     ) as pb:
         for p in pb:
             try:
