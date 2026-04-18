@@ -1,341 +1,816 @@
- PERATURAN PEMERINTAH REPUBLIK INDONESIA PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 22 TAHUN 2021 TENTANG PENYELENGGARAAN PERLI N DU NGAN DAN PENGELO I-AAN LINGKUNGAN HIDUP
-DENGAN RAHMAT TUHAN YANG MAHA ESA bahwa untuk melaksanakan ketentuan Pasal 22 dan pasal 185 huruf b Undang-Undang Nomor I 1 Tahun 2O2O tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup; Menimbang Mengingat 1.
-2.
-3. Pasal 5 ayat 12) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; Undang-Undang Nomor 32 Tahun 2OOg tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2OOg Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5059) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2O2O tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2O2O Nomor 245, Tambahan l.embaran Negara Republik Indonesia Nomor 6573); Undang-Undang Nomor 11 Tahun 2O2O tentang Cipta Kerja (l,embaran Negara Republik Indonesia Tahun 2O2O Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573); MEMUTUSKAN SALINAN Menetapkan MEN,IUTUSI(AN: PERATURAN PEMERINTAH TENTANC} PENYELENGGARAAN PERLINDI.INGAN DAN PENGELOLAAN LINGKUNGAN HIDUP.
-BAB I KETENTUAN UI\.{UM Pasal 1 Dalam Peraturan Pemerintah ini yang dimaksud dengan: Lingkungan I{idup adalah kesatuan ruang dengan sernuA benda, daya, keadaan, dan makhluk hidup, termas,_rk manusia darr perilakunya, yang mempengarutri alanr itu sendiri, kelangsungan perikehidupan, dan kesejahteraan manusia serta makhluk hidup lain. Perlindungan dan Pengelolaan Lingkungan Hidup adalah upaya sistematis dan terpadu yang dilakukan untuk mel.estarikan fungsi Lingkungan Hidup dan mencegah terjadinya pencemaran dan/atau kerusakan Lingkurrg"r, Hidup yang meliputi perencanaan, pemanfaatan, pengendalian, pemeliharaan, pengawasan, dan penegakan hukum. Perizinan Berusaha adalatr legalitas yang drberrkan kepada Pelaku Usaha untuk memulai dan menjarankan usaha dan/atau kegiatannya. Persetujuan Lingkungan adalah Keputusan Kelayakan Lingkrrngan Hidup atau pernyataan Kesanggupan Pengelolaan Lingkungan Hidup yang tela.h me,dapatkan persetujuan dari Pemerintah pusat atau pemerintah Daerah. Analisis Mengenai Dampak Lingkungan Hidup yang selanjutnya disebut Amdal adalah Kajian -..rg.rrri dampak penting pada Lingkungan Hidup dari suatu usaha dan/atau kegiatan yailg direncana.kan, untuk digunakan sebagai prasjiarar. pengambilan keputusarr tentang penyelenggaraan usaha dan/atau kegiatan serta termuat dalam Perizinan Berusaha, a.tau persetujuan Pemerintah R"rsat atau Pemerintah Daerah. 1 2 3 4 5 6 Upaya 6. Upaya Pengelolaan Lingkungan Hidup dan Upaya Pemantauan Lingkungan Hidup i,ang selanjutnya disebrrt UKL-UPL adalah rangkaian proses pengelolaan Can pemantauan Lingkungan Hidup yang dituangkan dalam bentuk standar untuk digunakan sebagai prasyarat pengambilan keputusan serta terrnuat dalam perizinan Berusaha, at-au persetujuan Pemerintah Pusat atau Pemerintah Daerah. 7. Keputusan l(elayakan Lingkungan Hidup adalah keputusan yang menyatakan kelayakan Lingkungan Hidup dari suatu rencana Usaha dan/atau Kegiatan yang waiib dilengkapi dengan Amdal. 8. Pernyataan Kesanggupan pengelolaan LingkLrngan Hidrrp adalah standar pengelolaan Lingkungan Hidup dan pemantauan Lingkungan Hidup dari penanggung jawab Usaha dan/atau Kegiatan yang telah mendapatkan persetujuan dari Pemerintah pusat atau pemerintah Daerah bagi Usaha dan/atau Kegiatan yang wajib UKL- UPL. 9. Surat Pernyataan Kesanggupan pengelolaan dan Pemantauan Lingkungan Hidup yang selanjutnya disebut SPPL adalah pernyataan kesanggupan dari penanggung jawab Usaha dan/atau Kegiatan untuk melakukan pengelolaan dan pemantauan Lingkungan Hidup atas Dampak Lingkungan Hidup dari Usaha dan/atau Kegiatannya di luar Usaha danlatau Kegiatan yang wajib Amdal atau UKL-UPL. 10. Persetujuan Pemerintah adalah bentuk keputusan yang diterbitkan oleh Pemerintah pusat atau pemerintali Daerah sebagai dasar pelaksanaan kegiatan yang dilakukan oleh Instansi ^pemerintah. 11. Usaha dan/atau Kegiatan adalah segala bentuk aktivitas yang dapat menimbulkan perubahan terhadap rona Lingkungan Hidup serta menyebabkan dampak terharJap Lingkungan Hidup. 12. Dampak Lingkungan Hidup adalah pengaruh perubahan pada Lingkungan Hidup yang diakibatkan oleh suatu Usaha dan/atau Kegiatan. 13. Dampak Penlirrg a"dalah perubahan I.ingkungan Hidup yang sangar mendasar yang diakibatkan oleh suatu Usaha dan/atau Kegiatan.
-14. Formulir 14. Formulir UKL-UPL adalah isian ruang lingkup uKL-upL. 15. Formulir Kerangka Acuan adalah isian ruang lingkup kajian analisis Dampak Lingkungan Hidup y"rg merupakan hasil pelingkuparr. 16. Analisis Dampak Lingkungan Hidup yang selanjutnya disebut Andal adalah telaahan secara cermat dan mendalam tentang Dampak penting suatu rencana Usaha dan/atau Kegiatan. 17. Rencana Pengelolaan Lingkungan Hidup yang selanjutn*ra disebut RKL adalah upaya penanganan dampak teihadap Lingkungan Hidup yang ditimbulkan akibat dari ,..r.r.ro Usaha dan/atau Kegiatan. 18. Rencana Pengelolaan Lingkungan Hidup Rinci yang selanjutnya disebut RKL Rinci adalah upaya penanganan dampak terhadap Lingkungan Hidup yang eiti.,.,butt a., akibat dari 'encana Usaha dan/atau Kegiatan ya,ng berada dalam kawasan yang sudah mernilki Amdal kawasan. 19. Rencana Pemantauan Lingkungan Hidup yang selanjutnya disebut RpL adalah upaya pemantauan komponen Lingkungan Hidup yang terkena darnpak akibat dari rencana Usaha dan/atau Kegiatan. 20. Rencana Pemantauan Lingkungan Hidup Rinci yang selanjutnya disebut RPL Rinci adalah upaya pemalrtauan komponen Lingkungan Hidup yang terkena dampak akibat dari rencana Usaha dan/atau Kegiatan yang berada dalam Kawasan yang sudah memilki Amdal kawasan. 21. Lembaga uji Kelayakan Lingkungan Hidup adalah lembaga yang dibentuk oleh pemerintah pusat untuk melakukan uji kelayakan. 22. Tim Uji Kelayakan Lingkungan Hidup adalah tirn yang dibentuk oleh Lembaga uji Kelayakan Lingkungan Hiauf yang berkedudukan di pusat dan daerah urrtui< melakukan uji kelayakan 23- Sistem Informasi Lingkungan Hidup adalerh sistem kombinasi dari teknologi informasi dan aktivitas orang yang menggunakan teknologi untuk mendukung operasi dan manajernen Lirrgkungan Hidup.
-24. Pelaku asl dampak tidak penting pada Lingkungan HirJup terhadap Usaha dan/atau Kegiatan ,vang terah berjalarr ,ntui< digunakan sebagai instrumen perlindungan dan Pengelolaan Lingkungan Hidup. 28- Pencemaran Lingkungan Hidup adalah masuk atau dimasukkannya makhluk hidup, zat, energi, clan/atau komponen lain ke dalam Lingkungan Hidup oleh kegiatan manusia sehingga melampaui baku muttr Lingkungan Hidup yang telah ditetapkan. 29. Kerusakan I ingkungan Hidup adalah perubahan langsung dan/atau tidak langsung terhadap sifat fisrk, kimia, dan/atau hayati Lingkungan Ciaup yang melampaui Kriteria Baku Kerusakan Lingkungan Hioup.- 30. Perusakan Lingkungan Hidup adalah tindakan orangyang menimbulkan perubahan langsung atau tidak tangsun[ terhadap sifat fisik, kimia, cian/atau hayati Lingkungan Hidup sehingga melampaui Kriteria glku Kerusakan Lingkungan Hidup. 31. Penanggulangan Pencemaran Lingkungan Hidup dan/atau Kerusakan Lingkungan Hidup adalah carA atau proses untuk mengatasi pencemaran Lingkungan Hiclup dan/atau Perusakan Lingkungan Hidup. 32. Perlindungan dan pengeloraan Mutu Air adalah upaya sistematis dan terpadu J/ang dilakukan untuk rn".r3"g, Mutu Air.
-33. Daerah 33. Daerah Aliran Sungai yang selanjutnya disingkat DAS adalah suatu wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak sungainya, yang berfungsi menampung, menyimpan, dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alamiah, yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan. 34. Cekungan Air Tanah yang selanjutnya disingkat CAT adalah suatu wilayah yang dibatasi oleh batas hidrogeologis, tempat semua kejadian hidrogeologis, seperti pengimbuhan, pengaliran, dan pelepasan air tanah berlangsung. 35. Badan Air adalah air yang terkumpul dalam suatu wadah baik alami maupun buatan yang mempunyai tabiat hidrologikal, wujud fisik, kimiawi, dan hayati. 36. Pencemaran Air adalah masuk atau dimasukkannya makhluk hidup, zat, er:
-.ergi, danlatau komponen lain ke dalam air oleh kegiatan manusia sehingga melampaui Baku Mutu Air yang telah ditetapkan. 37. Mutu Air adalah ukuran kondisi air pada waktu dan tempat tertentu yang diukur dan/atau diuji berdasarkan parameter tertentu dan metode tertentu sesuai dengan ketentuan peraturan perundang-undangan. 38. Baku Mutu Air adalah ukuran batas atau kadar makhluk hidup, zat, ertergi, atau komponen yang ada atau harus ada dan/atau unsur pencemar yang ditenggang keberadaannya di dalam air. 39. Mutu Air Sasaran adalah lvlutu Air yang ditentukan pada waktu tertentu untuk mencapai Baku Mutu Air yang ditetapkan. 40. Air Limbah adalah air yang berasal dari suatu ptoses dalam suatu kegiatan. 41. Baku Mutu Air Linibah adalah ukuran batas atau kadar unsur pencemar dan/atau jumlah unsur pencemar yang ditenggang keberadaannya dalam Air Limbah yang akan dibuang atau dilepas ke dalam media air dan tanah dari suatu Usaha dan/atau Kegiata-n.
-42. Udara 42. Udara Ambien adalah udara bebas di permukaan bumi pada lapisan troposfir yang berada di dalam wilayah yurisdiksi Republik Indonesia yang dibutuhkan dan berpengaruh terhadap kesehatan manusia, makhluk hidup, dan unsur Lingkungan Hidup lainnya. 43. Mutu Udara adalah ukuran kondisi udara pada waktu dan tempat tertentu yang diukur dan/atau diuji berdasarkan parameter tertentu dan metode tertentu berdasarkan ketentuan peraruran perundang-undangan. 44. Perlindungan dan Pengelolaan Mutu Udara adalah upaya. sistematis dan terpadu yang dilakrrkan untuk rnenjaga Mutu Udara. 45. Rencana Perlindungan dan Pengelolaan Murtu Udara yang selanjutnya disingkat RPPMU adalah perencanaan yang memuat potensi, masalah, dan upaya Perlindungan dan Pengelolaan Mutu Udara dalam kurun waktu tertentu. 46. Wilayah Perlindungan dan Pengelolaan Mutu Udara yang selanjutnya disingkat WPPMU adalah wilayah yang dibagi dalam beberapa area untuk perencanaan Perlindungan dan Pengelolaan Mutu Udara. 47. Pencemar Udara adalah zat, energi, dan/atau komponen lainnya yang menyebabkan terjadinya pencemaran udara. 48. Sumber Pencemar Udara adalah setia.p kegiatan manusia yang mengeluarkan Pencemar Udara ke dalam Uda.ra Ambien. 49. Pencemaran Udara adalah masuk atau dimasukkannya zat, energi, dan/atau komponen lainnya ke dalam Udara Ambien oleh kegiatan manusia sehi.ngga melampaui Baku Mutu Udara Ambien yang telah ditetapkan. 50. Baku Mutu Udara Ambien adalah nilai Pencemar Udara yang ditenggang keberadaannya dalam Udara Ambien. 51. Emisi ad.alah Pencemar Udara yang dihasilkan dari kegiatan manusia yang masuk dan/atau dimasukkannya ke dalam udara, mempunyai danlatau tidak mempunyai potensi Pencemaran Udara.
-52. Beban 52. Beban Emisi aCalah jumlah Pencemar Udar-a yang dibuang cleh suatu Usaha dan/atau Kegiatan ke Udara Ambierr. 53. Baku l,{rrtu Emlsi adalah nilai Pencemar Udare maksimum yang diperbolehkan masuk atau dimasrrkkan ke dalam Udara Ambien. 54, Perlindungan dan Pengelolaan Mutu Laut a.dalah 'lpaya sistcmatis dan terpadu yang diiakukan untuk rnenjaga Ilutu Laut. 55. Laut adalah ruang perairan di muka burrri yang menghubungkan daratan dengan daratan dan berrtuk- bentuk alamiah lainnya, yang merupakan kesatuan geografis dan ekologis beserta segenap unsur terkait, dan yang batas dan sistemnya ditentukan oleh peraturan perundang-undangan dan hukum internasiclnal. 56. Arr Laut adalah air yang berasal dari Laut atau sarrruclera yang memiliki salinitas 0,5 sampai dengarr 3O practical salinitg unil (psu) atau lebih dari 30 psu. 57. lt{utu Laut adalah ukuran kondisi Laut pada waktu Carr tempat tertentu yarlg diukur dan/atau diuji berdasarkan parameter tertentu dan metode tertentu berdasarkan ketentuan peraturan perLlndang-undangan. 58. Baku Mutu Air Laut adalah ukuran batas atau kadar makhluk ludup, zat, energi, atau komponen yang ada atau harus ada dan/atau unsur pencemar yang ditenggang keberadaannya di dalam Air Laut. 59. Kriteria Baku Kerusakan Lingliungan Hidup adalah ukuran batas perubahan sifat fisik, kimia, dan/atau. hayati Lingkungan Hidup yang dapat ditenggarrg oleh Lingkungan Hidup untuk dapat tetap melestarikan fungsinya. 60. Pencemaran Laut adalah masuknva atau dirnasukannya makhiuk hidup, zat, erlergi, dan/atau komporlen lain ke dalam lirrgkungan Laut oleh kegiatan manusia sehingga kualitasnya turun sampai ke tingkat tertentu yang menyebabkan lingkungan Laut tidak sesuai lagi dengan Baku Mutu Air Laut.
-61. Kerusakan 61. Kerusakan Laut adalah perubahan langsung dan/atau tidak langsur.g terhadap sifat fisik, kimia, dan/atau hayati Laut yang melanrpaui kriteria baku kerusakan yang telah ditetapkan. 62. Pengendalian Pencemaran dan/atau Kerusakan Laut adalah setiap upaya atau kegiatan pencegahan dan/atau penanggrlangan dan/atau pemulihan Pencemaran Laut dan/atau Kerusakan Laut. 63. Status Mutu Laut adaiah tingkatan Mutu Laut pada lokasi dan waktu tertentu yang dinilai berdasarkan Baku Muter Air Laut dan/atau kriteria baku kerusakan ekosrstern Laut. 64. Terumbu Karang adalah suatu ekosistem yang hidup di clasar perairan dan berupa bentukan batuan ka.pur terdiri dari polip-polip karang dan organisme-organisme kecil lain yang hidup dalam koloni. 65. Mangrove adalah vegetasi pantai yang memiliki morfologi khas dengan sistem perakaran yang mampu beradaptasi pada daerah pasang surut dengan substrat lumpur atau lumpur berpasir. 66. Padang Lamun adalah hamparan lamun yang hidup dan tumbuh di laut dangkai, mempunyai akar, rimpang, daun, bunga dan buah, dan berkembang biak secara generatif dan vegetatif. 67. Bahan Berba.haya dan Beracun yang selanjutnya disingkat 83 adalah zat, energi, darrf atau komponen lain yang karena sifat, konsentrasi, dan/atau jurmlahnya, baik secara langsung maupun tidak langsung, dapat mencemarkan dan/atau merusak Lingkungan Hidup, dan/atau membahayakan Lingkungan Hidup, kesehatan. serta kelangsungan hidup manusia dan makhluk hidup lain. 6E. Limbah adalah sisa suatu Usaha dan/atau Kegiatan. 69. Limbah Bahan Berbahaya dan Beracun yang selanjutnya disebut Limbah 83 adalah sisa suatu usaha dan/atau kegiatan tang rnengandung 83. -/ A. Limbah Non Bahan Berbahaya dan Beracun i-atig selanjutnya disebut Limbah nonB3 adalah sisa suatu Usaha dan/atau Kegiatan yang tidak menurijukkan karakteristik Limbah E}3. 7 7. Prosedur Pelindian Karakteristik Beracun (Toxicitg Characteistic .Leaching Procedure) yang selanjutnya disingkat TCLP adalah prosedur iaboratorium untuk memprediksi potensi pelindian 83 dari suatu Limbah. 72. Uji Toksikologi Lethal Dose-S0 yang selanjutnya disebut Lli Toksikologi LDso adalah uji hayati untuk mengukur hubungan dosis-respon antara Limbah 83 dengan kematian hewan uji yang menghasilkan 50% (lima puluh persen) respon kematian pada populasi hewan uji. 73. Simbol Limbah 83 adalah gambar yang menunjtrkkan karakteristik Limbah 83. 74. Label Limbah 83 adalah keterangan mengenzri Limbah 83 yang berbentuk tulisan yang berisi informasi mengenai Penghasil Limbatr 83, alamat Penghasii Limbah 83. waktu pengemasan, jumlah, dan karakteristik Limbah 83. -/5. Pelabelan Limbah 83 adalah proses penandaarr ata-r.r pemberian label yang clilekatkan atau dibubuhkan pada. kemasan langsung Limbah 83. 76. Ekspor Limbah 83 adalah kegiatan mengeluarkan Limbah E}3 dari Indonesia 77. Notifikasi daerah pabean Negara Kesatuan Republik Ekspor Limbah 83 adalah pemberitahuan terlebih dahulu dari otoritas negara eksportir kepada otoritas negara penerima sebelum dilaksanakan perpindahan lintas batas Limbah 83. 78. Pengelolaan Limbah 83 adalah kegiatan yang meriputi pengurangan, penyimpanan, pengumpulan, pengangkLltan, pemanfaatan, pengolahan. dan/atau penimbuna-n. 79. Dumping (Pembuangan) adaiah kegiatan membuang, menempatkan, dan/atau memasukkan iimbah dan/atau bahan dalam jumlah. konsentrasi, waktu, dan lokasi tertentu dengan persyaratan tertentu ke media Lingkungan HiCup tertentu.
-80. Pengurangan 80. Pengurangan Limbah 83 adalah kegiatan Penghasii Limbah 83 untuk mengurangi jumlah danlatau mengurangi sifat bahaya darr/atau racun dari Limbah 83 sebelum dihasilkan dari suatu Usaha dan/atau Kegiatan. 81. Penghasil Limbah 83 adalah Setiap Orarrg yang karena Usaha dan/atau Kegiatannya menghasilkan Limbah 83. 82. Pengumpul Limbah 83 adalah badarr usaha yang melakukan kegiatan Pengumpulan Limbah 83 sebelum dikirim ke tempat Pengolahan Limbah 83, Pemanfaatarr Limbah 83, dan/atau Penimbunan Limbah 83. 83. Pengangkut Limbah 83 adalah badan usaha yang rnelakukan kegiatan Pengangkutan Limbah 83. 84. Pemanfaat Limbah 83 adaiah badan usaha yang melakukan kegiatan Pemanfaatan Limbah 83. 85. Pengolah Limba.h 83 adalah badan usaha yang melakukan kegiatan Pengolahan Limbah ts3. 86. Penimbun Limbah 83 adalah badan usaha yang melakukan kegratan Penimbunan Lirnbah 83. 87. Penyimpauan Limbah 83 adalah kegiatan menyimpan Limbah E}3 yang dilakukan oleh Penghasil Limbah B3 dengan maksud menyimpan sementara Limbah 83 yang dihasilkannya. 88. Pengumpulan Limbah 83 adalah kegiatan mengr-rmpulkan Limbah 83 dari Penghasil Limbah 83 sebelum Ciserahkan kepada Pemanfaat Limbah 83, Pengolah Limhah 83, dan/atau Penimbun Limbah El3. 89. Pemanfaatan Limbah 83 adalah kegiatan penggunaan kembali, daur ^',.rlang, dan/atau perolehan kembali yang bertujuan untuk mengubah Limbah 83 menjadi produk yang dapat digunakan sebagai substitusi bahan baku, bahan penolong , dan f atau bahan bakar yang aman bagi kesehatan manusia dan Lingkungan Hidup. 90. Pengolahan Limbah 83 adalah proses untuk mengurangi dan/atau menghilarrgkan sifat bahaya dan/atau sifat racun. 91. Penimbunan Lirnbah 83 adalah kegiatan menempatkan Limbah 83 pada fasilitas penimbunan dengan maksud tidak membahayakan kesehatan manusia dan Lingkungan Hidup.
-92. Sistem .
-92. sistenr Tanggap Darurat adalah sistem pengendalian keadaan darurat yalrg meliputi pencegahan, kesiapsiagaan, dan penanggulangan kedaruratarr Pengelolaan Limbah B3 akibat kejadian kecelakaan Pengelolaan Limbah 83. 93. Persetujuan Teknis adalah persetujuan dari pemerintah atau Pemerintah Daerah berupa ketentuan mengenai. standar Periindungan dan Pengelolaan Lingkungan Hiclup dan/atau analisis mengenai dampak lalu lintas Usaha dan/atau Kegiatan sesuai peraturan penindang- undangan. 94. Surat Kelayakan operasional yang selanjutnya disingkat SLO adalah surat yang memuat pernyataan pemenuhan mengenai standar Perlindungan dan pengelolaan Lingkungan Hidup Usaha dan/atau Kegiatan sesurai dengan ketentuan peraturan perundang-undangan. 95. Setiap Orang adalah orang perseorangan atau baclan usaha, baik yang berbadan hukum maupun yang tidak berbadan hukum. 96. Pejabat Fungsional adalah adalah pega-wai negeri sipil yang menduduki jabatan fungsional pa.da Instansi Pemerintah. 97. Pejabat Fungsional Pengawas Lingkungan Hidup yang selanjutnya disebut Pejabat Pengawas Lingkungan Hidup adalah pegawai negeri sipil yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melakukan pengarvi'asan dan/atau penegakan hukum Lingkungan Hidup. 98. Pengawasan adalah kegiatan yang dilaksanakan secara langsung atau tidak langsung oleh pejabat penga'was Lingkungan Hidup untuk mengetahui dan/atau menetapkan tingkat ketaatan penanggung jawab Usaha dan/atau Kegiatan atas ketentuan yang ditetapkan dalam Perizinan Berusaha atau Persetujuan pemerintah serta peraturan perundang-undangan di bidang perlindungan dan Pengelolaan Lingk^ungan Hidup.
-99. Sanksi Administratif adalah perangkat sarana hukum administrasi yang bersifat pembebanan kewajiban/perintah dan/atau penarikan kembali keputusan tata usaha negara yang dikenakan kepada penanggung jawab Usa,ha dan/atau Kegiatan a.tas dasar ketidaktaatan terhadap ketentuan yang ditetapkan dalam peraturan perundang-undangan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup serta Perizinan Berusaha atau Persetujuan Pemerintah. 1O0. Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaarr pemerintahan Negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. 1O1. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh Pemerintah Daerah dan dewan perwakilan ralryat daerah menurur asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas- luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun t945. 1O2. Pemerintah Daerah adalah kepaia daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjacli kewenangan daerah otonom.
-103. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Perlindungan Can Pengelolaan Lingkungan Hidup. Pasal 2 Peraturan Pemerintah ini mengatur mengenai:
-a. PersetujuanLingkungan;
+PERATURAN PEMERINTAH REPUBLIK INDONESIA
+NOMOR 22 TAHUN 2021
+TENTANG
+PENYELENGGARAAN PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+Menimbang :
+bahwa untuk melaksanakan ketentuan Pasal 22 dan pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup;
+
+Mengingat :
+1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+2. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5059) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);
+3. Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);
+
+MEMUTUSKAN:
+Menetapkan:
+PERATURAN PEMERINTAH TENTANG PENYELENGGARAAN PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP.
+
+BAB I
+KETENTUAN UMUM
+
+Pasal 1
+Dalam Peraturan Pemerintah ini yang dimaksud dengan:
+1. Lingkungan Hidup adalah kesatuan ruang dengan semuA benda, daya, keadaan, dan makhluk hidup, termasuk manusia dan perilakunya, yang mempengaruhi alam itu sendiri, kelangsungan perikehidupan, dan kesejahteraan manusia serta makhluk hidup lain.
+2. Perlindungan dan Pengelolaan Lingkungan Hidup adalah upaya sistematis dan terpadu yang dilakukan untuk melestarikan fungsi Lingkungan Hidup dan mencegah terjadinya pencemaran dan/atau kerusakan Lingkungan Hidup yang meliputi perencanaan, pemanfaatan, pengendalian, pemeliharaan, pengawasan, dan penegakan hukum.
+3. Perizinan Berusaha adalah legalitas yang diberikan kepada Pelaku Usaha untuk memulai dan menjarankan usaha dan/atau kegiatannya.
+4. Persetujuan Lingkungan adalah Keputusan Kelayakan Lingkungan Hidup atau pernyataan Kesanggupan Pengelolaan Lingkungan Hidup yang telah mendapatkan persetujuan dari Pemerintah pusat atau pemerintah Daerah.
+5. Analisis Mengenai Dampak Lingkungan Hidup yang selanjutnya disebut Amdal adalah Kajian dampak penting pada Lingkungan Hidup dari suatu usaha dan/atau kegiatan yang direncanakan untuk digunakan sebagai prasyarat pengambilan keputusan tentang penyelenggaraan usaha dan/atau kegiatan serta termuat dalam Perizinan Berusaha atau persetujuan Pemerintah Pusat atau Pemerintah Daerah.
+6. Upaya Pengelolaan Lingkungan Hidup dan Upaya Pemantauan Lingkungan Hidup yang selanjutnya disebut UKL-UPL adalah rangkaian proses pengelolaan dan pemantauan Lingkungan Hidup yang dituangkan dalam bentuk standar untuk digunakan sebagai prasyarat pengambilan keputusan serta terrnuat dalam perizinan Berusaha, atau persetujuan Pemerintah Pusat atau Pemerintah Daerah.
+7. Keputusan Kelayakan Lingkungan Hidup adalah keputusan yang menyatakan kelayakan Lingkungan Hidup dari suatu rencana Usaha dan/atau Kegiatan yang wajib dilengkapi dengan Amdal.
+8. Pernyataan Kesanggupan pengelolaan Lingkungan Hidup adalah standar pengelolaan Lingkungan Hidup dan pemantauan Lingkungan Hidup dari penanggung jawab Usaha dan/atau Kegiatan yang telah mendapatkan persetujuan dari Pemerintah pusat atau pemerintah Daerah bagi Usaha dan/atau Kegiatan yang wajib UKL-UPL.
+9. Surat Pernyataan Kesanggupan pengelolaan dan Pemantauan Lingkungan Hidup yang selanjutnya disebut SPPL adalah pernyataan kesanggupan dari penanggung jawab Usaha dan/atau Kegiatan untuk melakukan pengelolaan dan pemantauan Lingkungan Hidup atas Dampak Lingkungan Hidup dari Usaha dan/atau Kegiatannya di luar Usaha dan/atau Kegiatan yang wajib Amdal atau UKL-UPL.
+10. Persetujuan Pemerintah adalah bentuk keputusan yang diterbitkan oleh Pemerintah Pusat atau Pemerintah Daerah sebagai dasar pelaksanaan kegiatan yang dilakukan oleh Instansi Pemerintah.
+11. Usaha dan/atau Kegiatan adalah segala bentuk aktivitas yang dapat menimbulkan perubahan terhadap rona Lingkungan Hidup serta menyebabkan dampak terhadap Lingkungan Hidup.
+12. Dampak Lingkungan Hidup adalah pengaruh perubahan pada Lingkungan Hidup yang diakibatkan oleh suatu Usaha dan/atau Kegiatan.
+13. Dampak Penlirrg a"dalah perubahan Lingkungan Hidup yang sangar mendasar yang diakibatkan oleh suatu Usaha dan/atau Kegiatan.
+14. Formulir UKL-UPL adalah isian ruang lingkup UKL-UPL.
+15. Formulir Kerangka Acuan adalah isian ruang lingkup kajian analisis Dampak Lingkungan Hidup yang merupakan hasil pelingkupan.
+16. Analisis Dampak Lingkungan Hidup yang selanjutnya disebut Amdal adalah telaahan secara cermat dan mendalam tentang Dampak penting suatu rencana Usaha dan/atau Kegiatan.
+17. Rencana Pengelolaan Lingkungan Hidup yang selanjutnya disebut RKL adalah upaya penanganan dampak teihadap Lingkungan Hidup yang ditimbulkan akibat dari Usaha dan/atau Kegiatan.
+18. Rencana Pengelolaan Lingkungan Hidup Rinci yang selanjutnya disebut RKL Rinci adalah upaya penanganan dampak terhadap Lingkungan Hidup yang terkena dampak akibat dari Rencana Usaha dan/atau Kegiatan yang berada dalam kawasan yang sudah memiliki Amdal kawasan.
+19. Rencana Pemantauan Lingkungan Hidup yang selanjutnya disebut RPL adalah upaya pemantauan komponen Lingkungan Hidup yang terkena dampak akibat dari rencana Usaha dan/atau Kegiatan.
+20. Rencana Pemantauan Lingkungan Hidup Rinci yang selanjutnya disebut RPL Rinci adalah upaya pemantauan komponen Lingkungan Hidup yang terkena dampak akibat dari rencana Usaha dan/atau Kegiatan yang berada dalam Kawasan yang sudah memilki Amdal kawasan.
+21. Lembaga uji Kelayakan Lingkungan Hidup adalah lembaga yang dibentuk oleh pemerintah pusat untuk melakukan uji kelayakan.
+22. Tim Uji Kelayakan Lingkungan Hidup adalah tim yang dibentuk oleh Lembaga uji Kelayakan Lingkungan Hidup yang berkedudukan di pusat dan daerah untuk melakukan uji kelayakan.
+23. Sistem Informasi Lingkungan Hidup adalah sistem kombinasi dari teknologi informasi dan aktivitas orang yang menggunakan teknologi untuk mendukung operasi dan manajemen Lingkungan Hidup.
+24. Pelaku Usaha adalah orang perseorangan atau badan usaha yang melakukan Usaha dan/atau Kegiatan pada bidang tertentu.
+25. Instansi Pemerintah adalah kementerian/lembaga pemerintah nonkementerian/instansi Pemerintah Daerah yang melakukan kegiatan pada bidang tertentu.
+26. Dokumen Evaluasi Lingkungan Hidup yang selanjutnya disingkat DELH adalah dokumen evaluasi Dampak Penting pada Lingkungan Hidup terhadap Usaha dan/atau Kegiatan yang telah berjalan untuk digunakan sebagai instrumen Perlindungan dan Pengelolaan Lingkungan Hidup.
+27. Dokumen Pengelolaan Lingkungan Hidup yang selanjutnya disingkat DPLH adalah dokumen evaluasi Dampak Penting pada Lingkungan Hidup terhadap Usaha dan/atau Kegiatan yang telah berjalan untuk digunakan sebagai instrumen Perlindungan dan Pengelolaan Lingkungan Hidup.
+28. Pencemaran Lingkungan Hidup adalah masuk atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam Lingkungan Hidup oleh kegiatan manusia sehingga melampaui baku mutu Lingkungan Hidup yang telah ditetapkan.
+29. Kerusakan Lingkungan Hidup adalah perubahan langsung dan/atau tidak langsung terhadap sifat fisik, kimia, dan/atau hayati Lingkungan Hidup yang melampaui Kriteria Baku Kerusakan Lingkungan Hidup.
+30. Perusakan Lingkungan Hidup adalah tindakan orang yang menimbulkan perubahan langsung atau tidak langsung terhadap sifat fisik, kimia, dan/atau hayati Lingkungan Hidup sehingga melampaui Kriteria Baku Kerusakan Lingkungan Hidup.
+31. Penanggulangan Pencemaran Lingkungan Hidup dan/atau Kerusakan Lingkungan Hidup adalah cara atau proses untuk mengatasi pencemaran Lingkungan Hidup dan/atau Perusakan Lingkungan Hidup.
+32. Perlindungan dan Pengelolaan Mutu Air adalah upaya sistematis dan terpadu yang dilakukan untuk menjaga Mutu Air.
+33. Daerah Aliran Sungai yang selanjutnya disingkat DAS adalah suatu wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak sungainya, yang berfungsi menampung, menyimpan, dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alamiah, yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan.
+34. Cekungan Air Tanah yang selanjutnya disingkat CAT adalah suatu wilayah yang dibatasi oleh batas hidrogeologis, tempat semua kejadian hidrogeologis, seperti pengimbuhan, pengaliran, dan pelepasan air tanah berlangsung.
+35. Badan Air adalah air yang terkumpul dalam suatu wadah baik alami maupun buatan yang mempunyai tabiat hidrologikal, wujud fisik, kimiawi, dan hayati.
+36. Pencemaran Air adalah masuk atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam air oleh kegiatan manusia sehingga melampaui baku mutu Air yang telah ditetapkan.
+37. Mutu Air adalah ukuran kondisi air pada waktu dan tempat tertentu yang diukur dan/atau diuji berdasarkan parameter tertentu dan metode tertentu sesuai dengan ketentuan peraturan perundang-undangan.
+38. Baku Mutu Air adalah ukuran batas atau kadar makhluk hidup, zat, energi, atau komponen yang ada atau harus ada dan/atau unsur pencemar yang ditenggang keberadaannya di dalam air.
+42. Udara Ambien adalah udara bebas di permukaan bumi pada lapisan troposfir yang berada di dalam wilayah yurisdiksi Republik Indonesia yang dibutuhkan dan berpengaruh terhadap kesehatan manusia, makhluk hidup, dan unsur Lingkungan Hidup lainnya.
+43. Mutu Udara adalah ukuran kondisi udara pada waktu dan tempat tertentu yang diukur dan/atau diuji berdasarkan parameter tertentu dan metode tertentu berdasarkan ketentuan peraturan perundang-undangan.
+44. Perlindungan dan Pengelolaan Mutu Udara adalah upaya sistematis dan terpadu yang dilakukan untuk menjaga Mutu Udara.
+45. Rencana Perlindungan dan Pengelolaan Murtu Udara yang selanjutnya disingkat RPPMU adalah perencanaan yang memuat potensi, masalah, dan upaya Perlindungan dan Pengelolaan Mutu Udara dalam kurun waktu tertentu.
+46. Wilayah Perlindungan dan Pengelolaan Mutu Udara yang selanjutnya disingkat WPPMU adalah wilayah yang dibagi dalam beberapa area untuk perencanaan Perlindungan dan Pengelolaan Mutu Udara.
+47. Pencemar Udara adalah zat, energi, dan/atau komponen lainnya yang menyebabkan terjadinya pencemaran udara.
+48. Sumber Pencemar Udara adalah setiap kegiatan manusia yang mengeluarkan Pencemar Udara ke dalam Udara Ambien.
+49. Pencemaran Udara adalah masuk atau dimasukkannya zat, energi, dan/atau komponen lainnya ke dalam Udara Ambien oleh kegiatan manusia sehi.ngga melampaui Baku Mutu Udara Ambien yang telah ditetapkan.
+50. Baku Mutu Udara Ambien adalah nilai Pencemar Udara yang ditenggang keberadaannya dalam Udara Ambien.
+51. Emisi ad.alah Pencemar Udara yang dihasilkan dari kegiatan manusia yang masuk dan/atau dimasukkannya ke dalam udara, mempunyai danlatau tidak mempunyai potensi Pencemaran Udara.
+52. Beban Emisi aCalah jumlah Pencemar Udara yang dibuang oleh suatu Usaha dan/atau Kegiatan ke Udara Ambien. 
+53. Baku mutu Emisi adalah nilai Pencemar Udara maksimum yang diperbolehkan masuk atau dimasukkan ke dalam Udara Ambien.
+54. Perlindungan dan Pengelolaan Mutu Laut adalah upaya sistematis dan terpadu yang dilakukan untuk menjaga mutu Laut.
+55. Laut adalah ruang perairan di muka bumi yang menghubungkan daratan dengan daratan dan bentuk-bentuk alamiah lainnya, yang merupakan kesatuan geografis dan ekologis beserta segenap unsur terkait, dan yang batas dan sistemnya ditentukan oleh peraturan perundang-undangan dan hukum internasional.
+56. Air Laut adalah air yang berasal dari Laut atau samudera yang memiliki salinitas 0,5 sampai dengan 30 _practical salinity unit_ (psu) atau lebih dari 30 psu.
+57. Mutu Laut adalah ukuran kondisi Laut pada waktu dan tempat tertentu yarlg diukur dan/atau diuji berdasarkan parameter tertentu dan metode tertentu berdasarkan ketentuan peraturan perLlndang-undangan. 
+58. Baku Mutu Air Laut adalah ukuran batas atau kadar makhluk hidup, zat, energi, atau komponen yang ada atau harus ada dan/atau unsur pencemar yang ditenggang keberadaannya di dalam Air Laut.
+59. Kriteria Baku Kerusakan Lingliungan Hidup adalah ukuran batas perubahan sifat fisik, kimia, dan/atau. hayati Lingkungan Hidup yang dapat ditenggang oleh Lingkungan Hidup untuk dapat tetap melestarikan fungsinya.
+60. Pencemaran Laut adalah masuknya atau dimasukkannya makhiuk hidup, zat, energi, dan/atau komponen lain ke dalam lingkungan Laut oleh kegiatan manusia sehingga kualitasnya turun sampai ke tingkat tertentu yang menyebabkan lingkungan Laut tidak sesuai lagi dengan Baku Mutu Air Laut.
+61. Kerusakan Laut adalah perubahan langsung dan/atau tidak langsung terhadap sifat fisik, kimia, dan/atau hayati Laut yang melampaui kriteria baku kerusakan yang telah ditetapkan.
+62. Pengendalian Pencemaran dan/atau Kerusakan Laut adalah setiap upaya atau kegiatan pencegahan dan/atau penanggrlangan dan/atau pemulihan Pencemaran Laut dan/atau Kerusakan Laut.
+63. Status Mutu Laut adaiah tingkatan Mutu Laut pada lokasi dan waktu tertentu yang dinilai berdasarkan Baku Mutu Air Laut dan/atau kriteria baku kerusakan ekosistem Laut.
+64. Terumbu Karang adalah suatu ekosistem yang hidup di dasar perairan dan berupa bentukan batuan kapur terdiri dari polip-polip karang dan organisme-organisme kecil lain yang hidup dalam koloni.
+65. Mangrove adalah vegetasi pantai yang memiliki morfologi khas dengan sistem perakaran yang mampu beradaptasi pada daerah pasang surut dengan substrat lumpur atau lumpur berpasir.
+66. Padang Lamun adalah hamparan lamun yang hidup dan tumbuh di laut dangkal, mempunyai akar, rimpang, daun, bunga dan buah, dan berkembang biak secara generatif dan vegetatif.
+67. Bahan Berbahaya dan Beracun yang selanjutnya disingkat B3 adalah zat, energi, dan/atau komponen lain yang karena sifat, konsentrasi, dan/atau jumlahnya, baik secara langsung maupun tidak langsung, dapat mencemarkan dan/atau merusak Lingkungan Hidup, dan/atau membahayakan Lingkungan Hidup, kesehatan. serta kelangsungan hidup manusia dan makhluk hidup lain.
+68. Limbah adalah sisa suatu Usaha dan/atau Kegiatan.
+69. Limbah Bahan Berbahaya dan Beracun yang selanjutnya disebut Limbah B3 adalah sisa suatu usaha dan/atau kegiatan yang mengandung B3.
+70. Limbah Non Bahan Berbahaya dan Beracun yang selanjutnya disebut Limbah nonB3 adalah sisa suatu Usaha dan/atau Kegiatan yang tidak menunjukkan karakteristik Limbah B3.
+71. Prosedur Pelindian Karakteristik Beracun _(Toxicity Characteristic Leaching Procedure)_ yang selanjutnya disingkat TCLP adalah prosedur laboratorium untuk memprediksi potensi pelindianan B3 dari suatu Limbah.
+72. Uji Toksikologi _Lethal Dose-50_ yang selanjutnya disebut Uji Toksikologi LD50 adalah uji hayati untuk mengukur hubungan dosis-respon antara Limbah B3 dengan kematian hewan uji yang menghasilkan 50% (lima puluh persen) respon kematian pada populasi hewan uji.
+73. Simbol Limbah B3 adalah gambar yang menunjukkan karakteristik Limbah B3.
+74. Label Limbah B3 adalah keterangan mengenai Limbah B3 yang berbentuk tulisan yang berisi informasi mengenai Penghasil Limbah B3, alamat Penghasil Limbah B3. waktu pengemasan, jumlah, dan karakteristik Limbah B3.
+75. Pelabelan Limbah B3 adalah proses penandaan atau pemberian label yang dilekatkan atau dibubuhkan pada kemasan langsung Limbah B3.
+76. Ekspor Limbah B3 adalah kegiatan mengeluarkan Limbah B3 dari Indonesia
+77. Notifikasi daerah pabean Negara Kesatuan Republik Ekspor Limbah B3 adalah pemberitahuan terlebih dahulu dari otoritas negara eksportir kepada otoritas negara penerima sebelum dilaksanakan perpindahan lintas batas Limbah B3.
+78. Pengelolaan Limbah B3 adalah kegiatan yang meliputi pengurangan, penyimpanan, pengumpulan, pengangkutan, pemanfaatan, pengolahan. dan/atau penimbunan.
+79. Dumping (Pembuangan) adalah kegiatan membuang, menempatkan, dan/atau memasukkan iimbah dan/atau bahan dalam jumlah. konsentrasi, waktu, dan lokasi tertentu dengan persyaratan tertentu ke media Lingkungan Hidup tertentu.
+80. Pengurangan Limbah B3 adalah kegiatan Penghasil Limbah B3 untuk mengurangi jumlah danlatau mengurangi sifat bahaya darr/atau racun dari Limbah B3 sebelum dihasilkan dari suatu Usaha dan/atau Kegiatan.
+81. Penghasil Limbah B3 adalah Setiap Orang yang karena Usaha dan/atau Kegiatannya menghasilkan Limbah B3.
+82. Pengumpul Limbah B3 adalah badarr usaha yang melakukan kegiatan Pengumpulan Limbah B3 sebelum dikirim ke tempat Pengolahan Limbah B3, Pemanfaatarr Limbah B3, dan/atau Penimbunan Limbah B3.
+83. Pengangkut Limbah B3 adalah badan usaha yang rnelakukan kegiatan Pengangkutan Limbah B3.
+84. Pemanfaat Limbah B3 adaiah badan usaha yang melakukan kegiatan Pemanfaatan Limbah B3.
+85. Pengolah Limbah B3 adalah badan usaha yang melakukan kegiatan Pengolahan Limbah B3.
+86. Penimbun Limbah B3 adalah badan usaha yang melakukan kegratan Penimbunan Limbah B3.
+87. Penyimpauan Limbah B3 adalah kegiatan menyimpan Limbah B3 yang dilakukan oleh Penghasil Limbah B3 dengan maksud menyimpan sementara Limbah B3 yang dihasilkannya.
+88. Pengumpulan Limbah B3 adalah kegiatan mengumpulkan Limbah B3 dari Penghasil Limbah B3 sebelum Ciserahkan kepada Pemanfaat Limbah B3, Pengolah Limbah B3, dan/atau Penimbun Limbah B3.
+89. Pemanfaatan Limbah B3 adalah kegiatan penggunaan kembali, daur ulang, dan/atau perolehan kembali yang bertujuan untuk mengubah Limbah B3 menjadi produk yang dapat digunakan sebagai substitusi bahan baku, bahan penolong, dan/atau bahan bakar yang aman bagi kesehatan manusia dan Lingkungan Hidup.
+90. Pengolahan Limbah B3 adalah proses untuk mengurangi dan/atau menghilarrgkan sifat bahaya dan/atau sifat racun.
+91. Penimbunan Limbah B3 adalah kegiatan menempatkan Limbah B3 pada fasilitas penimbunan dengan maksud tidak membahayakan kesehatan manusia dan Lingkungan Hidup.
+92. Sistem Tanggap Darurat adalah sistem pengendalian keadaan darurat yalrg meliputi pencegahan, kesiapsiagaan, dan penanggulangan kedaruratarr Pengelolaan Limbah B3 akibat kejadian kecelakaan Pengelolaan Limbah B3.
+93. Persetujuan Teknis adalah persetujuan dari pemerintah atau Pemerintah Daerah berupa ketentuan mengenai standar Perlindungan dan Pengelolaan Lingkungan Hidup dan/atau analisis mengenai dampak lalu lintas Usaha dan/atau Kegiatan sesuai peraturan penindang-undangan.
+94. Surat Kelayakan Operasional yang selanjutnya disingkat SLO adalah surat yang memuat pernyataan pemenuhan mengenai standar Perlindungan dan pengelolaan Lingkungan Hidup Usaha dan/atau Kegiatan sesuai dengan ketentuan peraturan perundang-undangan.
+95. Setiap Orang adalah orang perseorangan atau badan usaha, baik yang berbadan hukum maupun yang tidak berbadan hukum.
+96. Pejabat Fungsional adalah adalah pegawai negeri sipil yang menduduki jabatan fungsional pada Instansi Pemerintah.
+97. Pejabat Fungsional Pengawas Lingkungan Hidup yang selanjutnya disebut Pejabat Pengawas Lingkungan Hidup adalah pegawai negeri sipil yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melakukan pengawasan dan/atau penegakan hukum Lingkungan Hidup.
+98. Pengawasan adalah kegiatan
+103. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup.
+
+Pasal 2
+Peraturan Pemerintah ini mengatur mengenai:
+a. Persetujuan Lingkungan;
 b. Perlindungan dan Pengelolaan Mutu Air;
-c. Pcrlindungan dan Pengelolaan Mutu Udara;
+c. Perlindungan dan Pengelolaan Mutu Udara;
 d. Perlindungan dan Pengelolaan Mutu Laut;
-e. Pengendalian Kerursakan Lingkungan Hidup;
-f. Pengelolaan Limbah 83 dan Pengelolaan Limbah nonB3;
-g. dana penjaminan untuk pemulihan fu.ngsi Lingkungan Hidup: h Sistem Informasi Lingkungan Hidup;
-i. pernbinaan dan Pengawasan; dan j pengenaan Sanksi Administratif.
-BAB II PERSETU.IUAN LINGKUNGAN Bagian Kesatu Umum Pasal 3 (1) Persetujuan Lingkungan sebagaimana dimaksud clalarn Pasal 2 truruf a wajib dimiliki oleh setiap Usaha dan/atau Kegiatan yang memiliki Dampak Pentrng atau tidak penting terhadap lingkungan. (2) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (1) ciiberikan kepacla Pelaku Usaha atau Instansi Pemerintah. (3) Persetujuan Lingkungan sebagaimana dimaksuci pada ayat (21 menjadi prasyarat penerbitan Perizinan Berusaha atau Persetujuan Pemerintah. (4) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (3) dilakukan melalui:
-a. penyusunan Amdal dan uji kelayakan Amdal; atau
-b. pen)rusur-ran Formulir UKL-UPL dan pemeriksaan Formulir UKL-UPL. (5) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (3) berakhir bersarnaan clengan berakhirnya Perizinan Berusaha atau Persetujuan Pemerintah.
-(6) Dalam (6) Dalam hal Perizinan Berr-rsaha berakhir sehagaimana dimaksud pada ayat (5) dan tidak terfadi perubahan Usaha dan/atau Kegiatan, perpanjangan Perizinan Berusaha dapat menggunakan dasar Persetujuan Lingkungan yang eksisting. (7) Bentuk pengakhiran Persetujuan Lingkungan sebagaimana dimaksud pada ayat (5) dibuktikan oleh penanggungjawab Usaha dan/atau Kegiatan dengan tclah melakukan pengelolaan Lingkungan Hidup di tahap pasca operasi. Pasal 4 Setiap rencana Usaha dan/atau Kegiatan yang berdampak terhadap Lingkungan Hidup wajib memiliki:
+e. Pengendalian Kerusakan Lingkungan Hidup;
+f. Pengelolaan Limbah B3 dan Pengelolaan Limbah nonB3;
+g. dana penjaminan untuk pemulihan fungsi Lingkungan Hidup;
+h. Sistem Informasi Lingkungan Hidup;
+i. Pembinaan dan Pengawasan; dan
+j. Pengenaan Sanksi Administratif.
+
+BAB II
+PERSETUJUAN LINGKUNGAN
+
+Bagian Kesatu
+Umum
+
+Pasal 3
+(1) Persetujuan Lingkungan sebagaimana dimaksud dalam Pasal 2 huruf a wajib dimiliki oleh setiap Usaha dan/atau Kegiatan yang memiliki Dampak Penting atau tidak penting terhadap lingkungan.
+(2) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (1) diberikan kepada Pelaku Usaha atau Instansi Pemerintah.
+(3) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (2) menjadi prasyarat penerbitan Perizinan Berusaha atau Persetujuan Pemerintah.
+(4) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (3) dilakukan melalui:
+  a. penyusunan Amdal dan uji kelayakan Amdal; atau
+  b. penyusunan Formulir UKL-UPL dan pemeriksaan Formulir UKL-UPL.
+(5) Persetujuan Lingkungan sebagaimana dimaksud pada ayat (3) berakhir bersamaan dengan berakhirnya Perizinan Berusaha atau Persetujuan Pemerintah.
+(6) Dalam hal Perizinan Berusaha berakhir sebagaimana dimaksud pada ayat (5) dan tidak terjadi perubahan Usaha dan/atau Kegiatan, perpanjangan Perizinan Berusaha dapat menggunakan dasar Persetujuan Lingkungan yang eksisting.
+(7) Bentuk pengakhiran Persetujuan Lingkungan sebagaimana dimaksud pada ayat (5) dibuktikan oleh penanggungjawab Usaha dan/atau Kegiatan dengan telah melakukan pengelolaan Lingkungan Hidup di tahap pasca operasi.
+
+Pasal 4
+Setiap rencana Usaha dan/atau Kegiatan yang berdampak terhadap Lingkungan Hidup wajib memiliki:
 a. Amdal;
 b. UKL-UPL; atau
-c. SPPL. Pasal 5 (1) Amdal sebagaimana dimaksud dalam Pasal 4 huruf a wajib dimiliki bagi setiap rencana Usaha dan/atau Kegiatan yang memiliki Dampak Penting t.erhadap Lingkungan Hidup. (21 Rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal sebagaimana dimaksud pada ayat (1) meliputi:
-a. jenis rencana tlsaha dan/atau Kegiatan yang besaran/ skalanya ^..vajih Amdal; dan/atau
-b. jenis rencana Usaha dan/atau Kegiatan yang lokasi Usaha dan/atau Kegiatan dilakukan di dalam dan/atau berbatasan langsung dengan kawasan lindung. (3) Rencana Usaha dan/atau Kegiatan yang iokasinya berada di dalam kawasan lindung sebagaimana dimaksud pada ayat (21 huruf b meliputi jenis rencana Usaha dan/atau Kegiatan yang dapat dilakukan sesuai dengan ketentuan peraturan perundang-r rndangan.
-(4) Rencana. (41 Rencana Usaha dan/atau Kegiatan yang lokasinya berbatasan langsung dengan kawasan lindung sebagaimana dimaksud pada ayat (21 huruf b, meliputi jenis rencana Usaha dan/atau Kegiatan yang:
-a. batas tapak proyeknya bersinggungan langsung dengan batas kawasan lindung; dan/atau
-b. berdasarkan pertimbangan ilmiah memiliki potensi dampak yang mempengaruhi fungsi kawasan lindung tersebut. (5) Dalam hal rencana Usaha dan/atau Kegiatan memenuhi ketentuan sebagaimana dimaksud pada ayat (4) huruf b, penanggung jawab Usaha dan/atau Kegiatan meminta arahan instansi Lingkungan Hidup sesuai dengan kewenangannya dengan melampirkan ringkasan pertimbangan ilmiah. (6) Berdasarkan ringkasan pertimbangan ilmiah yang disampaikan sebagaimana dimaksud pada ayat (5), Tim Uji Kelayakan Lingkungan Hidup mela.kukan telaahan dan memberikan arahan kepada penanggung jawab Usaha dan/atau Kegiatan berupa:
-a. rencana Usaha dan/atau Kegiatan mempengaruhi fungsi kawasan lindung; atau b, rencana Usaha dan/atau Kegiatan tidak mempengaruhi fungsi kawasan lindung. (7) Kawasan lindung sebagaimana dimaksud pada ayat (2) huruf b tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan pemerintah ini. Pasal 6 (1) UKL-UPL sebagaimana dimaksud dalam pasal 4 huruf b wajib dimiliki bagi Usaha dan/atau Kegiatan yang tidak memiliki Dampak Penting terhadap Lingkungan Hidup. (21 Rencana Usaha dan/atau Kegiatan yang wajib merniriki UKL-UPL sebagaimana dimaksud pada ayat (1) meliputi:
-a. ^jenis rencana Usaha dan/atau Kegiatan yang tidak rremiliki Dampak Penting;
-b. jenis -)_7- b. jenis rencarra Uszrha dan,/atau Kegiatan: yarrg, lc,kasi IJsah.a dan/atau Kegiatan dilal: ul<an di luar dan/atau trdak berbatasan langsung dengan kawasan lindung; Can c. termasuk jenis rencana Usaha dan/atau Kegiaran yang cjikecr,ralikan dari waj'ib Amdai. Pasal 7 (1) SPPL sebagaimana dimaksud Cala.m Pasal 4 huruf c ,va-iib dirnilikr bagi i.rsaha dan/atau Kegiatan yang tidal< memiliki Dampak Penting terhadap Lingkungaa }iidr-rp dan tidak termasuk daiam kriteria wa3ib UKL-UPL. (2) Rencana IJsaha dan/atau Kegiatan yanB wajib memiliki SPPL sebagaimana dimaksud pada ayat (1) meliputi:
-a. jenis rencana Usaha dan/atau Kegiatan yarrg tidak menriliki Dampak Penting dan tidak wajib UKL-UpL;
-b. merupakan Usaha dan/atau Kegiatan Usahn rnikro cian kecil yang tidak memiliki Dampak ^penting terhadap Lingkungan Hidup; dan /ata,,r c. termasuk .jenis rencana Usaha dan/atau Kegiatan yang dikecualikan dari wajib UKL-UPL. Pasal 8 Kriteria Usaha dan/atau Kegiatan yang merrriiiki Dampak Penting terhaclap Lingkungan Hidup yang wajib memiliki Amdal sebagaimana dimaksud dalam Pasal 5 ayat (l) terdiri atas a.
-b. c d pengubahan bentuk lahan dan bentang alam; eksploita.si sumber daya alam, baik yang terbarukan maupun )'ang tidak terbarukan; proses dan kegiatan yang secara potensial dapat menimbulkan Pencemaran Lingkungan tlidup dan/atau Kerusakan Lingkungan HiCup serta pemborosan dan kemerosotan sumber daya alam dalam pemanfaatannya; proses dan kegial-irn yang hasiioya dapat menipengartrhi iingkungan alarn, iingkungan b,latan, serta lingkungan sosial darr ,trudaya: ?. proses dan kegiatan yang hasilnya akan mempenqatruhi peiestarian kawasan konservasi sumber daya. alarrr dan/atau perlindungan cagar budaya;
-f. introduksi jenis tumbuh-rumbuhan, Lrerff&n, darr jasad rerrik;
-g. pembuatan dan penggunaan bahan hayati clan nonhayati; h kegiatan yang mempunyai risiko tinggi dan/atau mempengaruhi pertahanan negara: cian/atau i. penerapan teknologi yang diperkirakan mernpunyai potensi besar untuk mempengaruhi Lingkungarr Hidtrp. Pasai 9 Menteri melakukan evaluasi terhadap jenis rencana Usaha clan/atau Kegiatan yang wajib dilengkapi dengarr Amdai sebagaimana dimaksud dalam Pasal 5 al7a t (2), UKL-UPL sebagaimana ciimaksud dalam Pasal 6 ayar (2), dan SppL sebagaimana dimaksud da"lam Pasal 7 ayat (2) paling sedikit setiap 5 (lima) tahun sekali. Pasal 10 (1) Kewajiban memihki Amdai sebagaimana dimaksud tlala,m Pasai 5 ayat (21 dikecualikan bagi rencana Usaha Can,i atau Kegiatan )iang:
-a. lokasi rencana Usaha dan/atau Kegiatannya berada pada kabupaten/kota yang memiliki rencana detail tata rlrang yang telah dilengkapi dengan kajian Lingkungan Hidup str ategis J,ang ciibuat Can dilaksanakan secara komprehensif dan rinci sesuai dengan ketent-uan peraturan perundang-undangan:
-b. lokasi rencana Usa.ha dan/atau Kegiatannya berada pada kawasan hrr_tan yang telah memiiiki rencana kelola hutan yang telah dilengkapi dengan kajian Lingkungan Iiidup strategis yang dibuat dan riilaksanakarr secara komprehensif Can rincr sesuai <lengan ketentuan peraturan peru11,lang-undangan; C. pro$ralr'l c. program Pemerintah dan/atau Pemerintah Daerah yang telah memiliki kebijakan, rencana, dan/atau program berupa rencana induk yang telah dilengkapi dengan kajian Lingkungan Hidup strategis yang dibuat dan dilaksanakan secara komprehensif dan rinci sesuai dengan ketentuan peraturan perundang-undangan ;
-d. rencana Usaha dan/atau Kegiatan yang dilakukan di dalam dan/atau berbatasan langsung dengan kawasan lindung yang dikecualikan;
-e. merupakan kegiatan Pemerintah dan/atau Pemerintah Daerah yang dilakukan dalam rangka penelitian dan bukan untuk tujuan komersial;
-f. rencana Usaha dan/atau Kegiatan yang berada di dalam kawasan yang telah dilengkapi dengan Amdal kawasan dan Persetujuan Lingkungan kawasan;
-g. rencana Usaha dan/atau Kegiatan yang berada di dalam kawasan yang berdasarkan peraturan perundang-undangan, Usaha danl atau Kegiatan di dalam kawasan dipersyaratkan men5rusun RKL-RPL rinci yang telah dilengkapi dengan Amdal kawasan dan Persetujuan Lingkungan kawasan;
-h. dilakukan daiam kondisi tanggap darurat bencana;
-i. dalam rangka pemr.rlihan fungsi Lingkungan Hidup yang dilakukan oleh Pemerintah dan/atau Pemerintah Daerah di kawasan yang tidak dibebani Perizinan Berusaha; dan/atau
-j. rencana Usaha dan/atau Kegiatan selain sebagaimana dirnaksud dalam Pasal 5 ayat (2) huruf a, yang berbatasan langsung atau berada dalam kawasan lindung, yang telah menCapatkan penetapan pengecualian wajib Arndal dari instansi yang berwenang dan bertanggtrng jawab terhadap pengelolaan kawasan lindung. (21 Kajian Lingkungan Hidup strategis yang dibuat dan dilaksanakan secara komprehensif dan rinci sebagaimana dimaksud pada ayat (L) huruf a, huruf b, dan huruf c diselenggarakan dengan pendekatan holistik, integratif, tematik, dan spasial.
-(3) Rencana (3) Rencana Usaha dan/atau Kegiatan yang dikecualikan sebagaimana dimaksud pada ayat (1) huruf d meliputi:
-a. eksplorasi pertambangan, minyak dan gas bumi, dan panas bu,mi yang tidak diikuti dengan Usaha danr/atau Kegiatan pendukung yang skala/ besarannya wajib Amdal;
-b. penelitian dan pengembangan nonkomersial di bidang ilmu pengetahLran yang tidak menggaltggu fungsi kawasan lirrdr.rng;
-c. kegiatan yang menunjang/mendukung pelestarian kawasan lindung;
-d. kegiatan yang terkait kepentingan pertahanan dan keamanan negara yang tidak memiliki Dampak Penting terhadap Lingkungan Hidup;
-e. kegiatarr secara nyata tidak memiliki Dampak Penting terhadap Lingkungan Hidup; dan/atau
-f. budidaya yang diizinkan bagi penduduk asli dengan luasan tetap dan tidak mempengaruhi fungsi lindung kawasan dan di bawah pengawasan ketat. (4) Ketentuan lebih lanjut mengenai tata cara pengecualian sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah, ini. Pasal 1 1 (1) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 10 ayat (1) huruf a sampai dengan huruf f, dan huruf j wajib memiliki UKL-UPL atau SPPL sesuai dengan ketentuan peraturan perundang- undangan. (2) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud daiam Pasal 10 ayat (1) hunrf g wajib memiliki RKL-RPL rinci berdasarkan Persetujuan Lingkungan kawasan sesuai dengan ketentuan peraturan perundang-undangan.
-(3) RKr, (3) RKL-RPL rinci sebagarmana dimaksud pada ayat (2) merupakan hentrrk Persetujuan Lingliungan bagi pelaku Usaha di ca.lam kawasan clan dinyatakan rlararn bentuk Pernya.taarr Kesangguparl Pengelolaan Lingkungan Flidrrp ),anB ^disahl<an ^oleh ^pengelola kawasan clair menjadi prasyarat Perizinan Rerusaha Pelaku Usaira cii dalam kavrasan. (41 Rencana Usaha dan/atau Kegiatan sebaqainnana dirrraksud dalam Pasal lo ayat (r) huruf h dan huruf i tidak memerlukan dokumen Lingkungan Hiciup. Pasal 12 (1) Rencana Usaha dan/atau Kegiatan ],ang:
-a. tidak wajib Amdal sebagaimana dimaksud dal.am Pasal 5 ayat (2) huruf a; dan/atau
-b. wajib UKL-UPL sebagainrana dirnaksucl dalam pasal 6 ayat (2) huruf a, atau SppL sebagaimana dimaksucl dalam Pasal 7 ayat (2) huruf a, dapat ditetapkan menjadi jenis rencana Usaha dan/atau Kegiat-an yang wajib memiliki Amdal oleh Menteri. i2l ^Rencana Usal,a dan/atau Kegiatan sebagaimana dimaksr.rc pada ayat (l) diusulkan secara tertulis kepada Menteri oleh:
-a. menteri danT atau kepala lembaga pernerintah nonkementerian;
-b. gubernur;
-c. bupati/v.rali kora; dan/atau
-d. masya.rakat. (3) Usulan t-ertulis sebagaimana dimaksud pada a1,at i.2l paling sedikit berisi:
-a. rdentitas pengusul, hr. deskripsi .ienis rencana Usaha dan/atau Kegiatan yang akan clilakukan beserta skala/besarannya;
-c. status dan koniir.; i hngkungan di d.alam clan di sekitar lokasi rerrcrlna Usaha d,anf atau Kegiatan; dan
-d. analisis ' lN: -tiNESlA -zz- d. anaiisis Dampak Lingkungan l{iriup },an-g akan "-cr-iacii, ^lietersediaan teknologi ^pengelcriaan Lingkungan Hidup, dan ala-san iln: rah bahrva .rencana Usaha dan/atau Kegiatan t-ersebut rnenriliki Dampak Perrtrng terhadap Lingkungan Hidup Can dapat dit-er.apl<an nrenjadi rencana Usaha dan/arau Kegiatan yang wa3rb rnemiliki Amdal. (4) Usulan sebagairna.na dirnaksud pada ayat (3) disusr_rn dalam 1 (satu) dokurnen pengajuan perretapan -renis rencana Usaha dan/atau- Kegiatan yang wajib lnerniliki Amdal. Pasal 13 (1) Menteri melakukan evaluasi terhadap usulan tertulis sebagaimana dimaksud dalam Pasal 12 ayat (3), (2i Dalam melakukan evaluasi sebagaimana Cim.aksrrrl pada ayat (1), Menteri menugaskan pejabat yang membidangi Amdal, UKL-UPL, dan SPPL. (3) Evaluasr sebagaimana dimaksud pada ayar (21 dilaksanakar, dengan lnempertimbangkan. a. alasan ihniah bahu,a rencana Usaha danf atat Ke.gia.tan tersebut merniliki Da.mpak Penting terhadap Lingkungan Hidup;
-b. daya dukurrg dan daya tampung Lingkungan Hidup di iokasi rencana Usaha dan/atau Kegiatarr;
-c. tipologi ekosirstem setempat yang diperkirakan memiliki Dampak Penting terhadap Lingkungnn Hidup; dan C. teknologi pengelolaan Da.mpak Lingkungan Hid.up. (41 Dalam hal hasil evaluasi menunjukkan:
-a. usuian clapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi perretapan rencana Usaha dan/atau Kegiatan yarlg tidak wajib memiliki Amdal menjadi rencarla Usaha danlat,au Kegiatan yang v,ajib rnerniliki Arrrdal, kenacta Menteri; atau
-b. usuian usulan tidak dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkarn rekomendasi penolakan penetb.pan suatu rencana Usaha dan/atau Kegiatan yang tidak wajib memrliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal, kepada Menteri. Pasal 14 Hasil evaluasi sebagaimana dimaksud dalam Pasa.l 13 ayat (4) menjadi bahan pertimbangan Menteri untuk:
-a. menetapkan keputusan suatu rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal merrjadi wajib memiliki Amdal; atau
-b. menolak rrsulan penetapan suatu rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal menjadi wajib memiliki Amdal. Pasal 15 Jangka waktu pelaksanaan evaluasi dan penetapan atau penolakan penetapan rencana Usaha danlatau Kegiatan yang tidak wajib memiliki Amdal menjadi wajib memiliki Amdal sebagaimana dimaksud dalarn Pasal 13 dan Pasal 14 dilakukan paling lama 30 (tiga puluh) hari kerja sejak permohonan dinyatakan lengkap. Pasal 16 (1) Rencana Usaha danTatau Kegiatan yang wajib meniiliki Amdal sebagaimana dimaksud dalam Pasal 5 ayat (21 huruf a dapat ditetapkan menjadi rencana Usaha dan/atau Kegiatan yang r.idak wajib memiliki Amdal oleh Menteri. (2i Rencana Usaha dan/atau I(egiatan sebagaimana dimaksud pada ayat (1) diusulkan secara tertulis kepada Menteri. oleh:
-a. menterr dan,/atau kepala lembaga pemerintah nonkementerian;
-b. gubernur; b c. bupati/wali kota; dan/atau
-d. masyarakat. (3) Usulan tertulis sebagaimana dimaksud pada ayar- (2) paling seCikrt berisi:
-a. identitas pengusul;
-b. deskripsi rencana Usaha dan/atau Kegiaran yang akan dilakukan beserta skala/besarannya;
-c. status dari kondisi lingkungan di dalam dan di sekitar lokasi t-encena Usaha dan/ataur Kegiatan; dan
-d. analisis darnpak Lingkungan Hidup yang akarr terjadi, ketersediaan teknologi pengelolaan Lingkungarr Hidup, cian alasan ilrriah bahu,a rencana Usaha clan/atau Kegiatarr tersetrut tidak memiliki Dampak Fentrng terhadap I-inqkr.rngan Hidup Can dapat ditetapkan menjadi jenis t.encana Usaha dan/ietau Kegiatan yaltg tidak rvajib r.,.enriiiki Amdal. Pasal 17 (1) Menteri rrrelakukan evaluasi terhadap usulan tertulis sebaga-imana dimaksuci dalam pasal 16 ayar- (3). (2) Dalam rnelakukan evaluasi sebagaimana dimaksud pada ayat (1), Menteri menugaskarr pejabat )'ang menrbidangi Amcial. LJIO-UPL, clan SPPL. (3) Evaluasi sebagaimana dimirksud pada ayat (2) dilaksanakan dengan mempertimbangkan aspek:
-a. Dampak Lingkurrgan Hrdup dari rencana Usaha dan/atar"r Kcgiatan dapat ditanggulangi sesuai dengan perkembanga.n iimu penget.ahr.ran dan teknologi;
-b. daya dukung dan da; ,a tampung Lingkungan Hidup di lokasi rencana Usaha dan/atau Kegiatan; dan
-c. berdasarkair pertimbangan ilnriah bahwa rencana Usaha dan/atau Kegiatan cidak menimbulkan Dampak Penting.
-(4) Dalam (4) Dalam hal hasil evaluasi menunjukkan:
-a. usulan dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi penetapan rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Arndal, kepada Menteri; atau
-b. usulan tidak dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi penolakan penetapan suatu rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal, kepada Menteri. Pasai 18 ' Hasil evaluasi sebagaimana dimaksud dalam Pasal 17 ayat (41 menjadi bahan pertimbangan Menteri untuk:
-a. menetapkan keputusan suatu rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha Can/atau Kegiatan yang tidak wajihr memiliki Amdal; atau
-b. menolak usulan penetapar, suatu rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Anrdal. Pasal 19 Jangka waktu pelaksanaan evaluasi dan penetapan atau penolakan penetapan rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjacli tidak wajib memiliki Amdal sebagaimana dimaksud dalanr Pasal 17 darr Pasal 18 dilakukan paling iama 30 (tiga puluh) hari kerja sejak permohonan dinyatakan lengkap,
+c. SPPL.
+
+Pasal 5
+(1) Amdal sebagaimana dimaksud dalam Pasal 4 huruf a wajib dimiliki bagi setiap rencana Usaha dan/atau Kegiatan yang memiliki Dampak Penting terhadap Lingkungan Hidup. 
+(2) Rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal sebagaimana dimaksud pada ayat (1) meliputi:
+  a. jenis rencana usaha dan/atau Kegiatan yang besaran/ skalanya wajib Amdal; dan/atau
+  b. jenis rencana Usaha dan/atau Kegiatan yang lokasi Usaha dan/atau Kegiatan dilakukan di dalam dan/atau berbatasan langsung dengan kawasan lindung. 
+(3) Rencana Usaha dan/atau Kegiatan yang iokasinya berada di dalam kawasan lindung sebagaimana dimaksud pada ayat (2) huruf b meliputi jenis rencana Usaha dan/atau Kegiatan yang dapat dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
+(4) Rencana Usaha dan/atau Kegiatan yang lokasinya berbatasan langsung dengan kawasan lindung sebagaimana dimaksud pada ayat (2) huruf b, meliputi jenis rencana Usaha dan/atau Kegiatan yang:
+  a. batas tapak proyeknya bersinggungan langsung dengan batas kawasan lindung; dan/atau
+  b. berdasarkan pertimbangan ilmiah memiliki potensi dampak yang mempengaruhi fungsi kawasan lindung tersebut. 
+(5) Dalam hal rencana Usaha dan/atau Kegiatan memenuhi ketentuan sebagaimana dimaksud pada ayat (4) huruf b, penanggung jawab Usaha dan/atau Kegiatan meminta arahan instansi Lingkungan Hidup sesuai dengan kewenangannya dengan melampirkan ringkasan pertimbangan ilmiah. 
+(6) Berdasarkan ringkasan pertimbangan ilmiah yang disampaikan sebagaimana dimaksud pada ayat (5), Tim Uji Kelayakan Lingkungan Hidup mela.kukan telaahan dan memberikan arahan kepada penanggung jawab Usaha dan/atau Kegiatan berupa:
+  a. rencana Usaha dan/atau Kegiatan mempengaruhi fungsi kawasan lindung; atau 
+  b. rencana Usaha dan/atau Kegiatan tidak mempengaruhi fungsi kawasan lindung. 
+(7) Kawasan lindung sebagaimana dimaksud pada ayat (2) huruf b tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan pemerintah ini. 
+
+Pasal 6
+(1) UKL-UPL sebagaimana dimaksud dalam pasal 4 huruf b wajib dimiliki bagi Usaha dan/atau Kegiatan yang tidak memiliki Dampak Penting terhadap Lingkungan Hidup. 
+(2) Rencana Usaha dan/atau Kegiatan yang wajib merniriki UKL-UPL sebagaimana dimaksud pada ayat (1) meliputi:
+  a. jenis rencana Usaha dan/atau Kegiatan yang tidak memiliki Dampak Penting;
+  b. jenis rencana Usaha dan/atau Kegiatan: yang lokasi Usaha dan/atau Kegiatan dilakukan di luar dan/atau tidak berbatasan langsung dengan kawasan lindung; dan 
+  c. termasuk jenis rencana Usaha dan/atau Kegiatan yang dikecualikan dari wajib Amdal. 
+
+Pasal 7 
+(1) SPPL sebagaimana dimaksud dalam Pasal 4 huruf c wajib dimiliki bagi Usaha dan/atau Kegiatan yang tidak memiliki Dampak Penting terhadap Lingkungan Hidup dan tidak termasuk dalam kriteria wajib UKL-UPL. 
+(2) Rencana Usaha dan/atau Kegiatan yang wajib memiliki SPPL sebagaimana dimaksud pada ayat (1) meliputi:
+  a. jenis rencana Usaha dan/atau Kegiatan yang tidak memiliki Dampak Penting dan tidak wajib UKL-UPL;
+  b. merupakan Usaha dan/atau Kegiatan Usaha mikro dan kecil yang tidak memiliki Dampak penting terhadap Lingkungan Hidup; dan /atau 
+  c. termasuk jenis rencana Usaha dan/atau Kegiatan yang dikecualikan dari wajib UKL-UPL.
+
+Pasal 8
+Kriteria Usaha dan/atau Kegiatan yang memiliki Dampak Penting terhadap Lingkungan Hidup yang wajib memiliki Amdal sebagaimana dimaksud dalam Pasal 5 ayat (1) terdiri atas 
+  a. pengubahan bentuk lahan dan bentang alam; 
+  b. eksploitasi sumber daya alam, baik yang terbarukan maupun yang tidak terbarukan; 
+  c. proses dan kegiatan yang secara potensial dapat menimbulkan Pencemaran Lingkungan Hidup dan/atau Kerusakan Lingkungan Hidup serta pemborosan dan kemerosotan sumber daya alam dalam pemanfaatannya; 
+  d. proses dan kegiatan yang hasilnya dapat mempengaruhi lingkungan alam, lingkungan buatan, serta lingkungan sosial dan budaya; 
+  e. proses dan kegiatan yang hasilnya akan mempengaruhi pelestarian kawasan konservasi sumber daya alam dan/atau perlindungan cagar budaya;
+  f. introduksi jenis tumbuh-rumbuhan, hewan, dan jasad renik;
+  g. pembuatan dan penggunaan bahan hayati dan nonhayati;
+  h. kegiatan yang mempunyai risiko tinggi dan/atau mempengaruhi pertahanan negara; dan/atau
+  i. penerapan teknologi yang diperkirakan mernpunyai potensi besar untuk mempengaruhi Lingkungarr Hidtrp.
+
+Pasal 9
+Menteri melakukan evaluasi terhadap jenis rencana Usaha dan/atau Kegiatan yang wajib dilengkapi dengarr Amdal sebagaimana dimaksud dalam Pasal 5 ayat (2), UKL-UPL sebagaimana dimaksud dalam Pasal 6 ayat (2), dan SPPL sebagaimana dimaksud dalam Pasal 7 ayat (2) paling sedikit setiap 5 (lima) tahun sekali.
+
+Pasal 10
+(1) Kewajiban memiliki Amdal sebagaimana dimaksud dalam Pasal 5 ayat (2) dikecualikan bagi rencana Usaha dan/atau Kegiatan yang:
+  a. lokasi rencana Usaha dan/atau Kegiatannya berada pada kabupaten/kota yang memiliki rencana detail tata ruang yang telah dilengkapi dengan kajian Lingkungan Hidup strategis yang dibuat dan dilaksanakan secara komprehensif dan rinci sesuai dengan ketentuan peraturan perundang-undangan:
+  b. lokasi rencana Usaha dan/atau Kegiatannya berada pada kawasan hutan yang telah memiiiki rencana kelola hutan yang telah dilengkapi dengan kajian Lingkungan Iiidup strategis yang dibuat dan dilaksanakan secara komprehensif dan rinci sesuai dengan ketentuan peraturan perundang-undangan; 
+  c. program Pemerintah dan/atau Pemerintah Daerah yang telah memiliki kebijakan, rencana, dan/atau program berupa rencana induk yang telah dilengkapi dengan kajian Lingkungan Hidup strategis yang dibuat dan dilaksanakan secara komprehensif dan rinci sesuai dengan ketentuan peraturan perundang-undangan ;
+  d. rencana Usaha dan/atau Kegiatan yang dilakukan di dalam dan/atau berbatasan langsung dengan kawasan lindung yang dikecualikan;
+  e. merupakan kegiatan Pemerintah dan/atau Pemerintah Daerah yang dilakukan dalam rangka penelitian dan bukan untuk tujuan komersial;
+  f. rencana Usaha dan/atau Kegiatan yang berada di dalam kawasan yang telah dilengkapi dengan Amdal kawasan dan Persetujuan Lingkungan kawasan;
+  g. rencana Usaha dan/atau Kegiatan yang berada di dalam kawasan yang berdasarkan peraturan perundang-undangan, Usaha danl atau Kegiatan di dalam kawasan dipersyaratkan menyusun RKL-RPL rinci yang telah dilengkapi dengan Amdal kawasan dan Persetujuan Lingkungan kawasan;
+  h. dilakukan dalam kondisi tanggap darurat bencana;
+  i. dalam rangka pemulihan fungsi Lingkungan Hidup yang dilakukan oleh Pemerintah dan/atau Pemerintah Daerah di kawasan yang tidak dibebani Perizinan Berusaha; dan/atau
+  j. rencana Usaha dan/atau Kegiatan selain sebagaimana dirnaksud dalam Pasal 5 ayat (2) huruf a, yang berbatasan langsung atau berada dalam kawasan lindung, yang telah mendapatkan penetapan pengecualian wajib Amdal dari instansi yang berwenang dan bertanggung jawab terhadap pengelolaan kawasan lindung. 
+(2) Kajian Lingkungan Hidup strategis yang dibuat dan dilaksanakan secara komprehensif dan rinci sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c diselenggarakan dengan pendekatan holistik, integratif, tematik, dan spasial.
+(3) Rencana Usaha dan/atau Kegiatan yang dikecualikan sebagaimana dimaksud pada ayat (1) huruf d meliputi:
+  a. eksplorasi pertambangan, minyak dan gas bumi, dan panas bumi yang tidak diikuti dengan Usaha dan/atau Kegiatan pendukung yang skala/ besarannya wajib Amdal;
+  b. penelitian dan pengembangan nonkomersial di bidang ilmu pengetahuan yang tidak mengganggu fungsi kawasan lindung;
+  c. kegiatan yang menunjang/mendukung pelestarian kawasan lindung;
+  d. kegiatan yang terkait kepentingan pertahanan dan keamanan negara yang tidak memiliki Dampak Penting terhadap Lingkungan Hidup;
+  e. kegiatan secara nyata tidak memiliki Dampak Penting terhadap Lingkungan Hidup; dan/atau
+  f. budidaya yang diizinkan bagi penduduk asli dengan luasan tetap dan tidak mempengaruhi fungsi lindung kawasan dan di bawah pengawasan ketat.
+(4) Ketentuan lebih lanjut mengenai tata cara pengecualian sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 11
+(1) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 10 ayat (1) huruf a sampai dengan huruf f, dan huruf j wajib memiliki UKL-UPL atau SPPL sesuai dengan ketentuan peraturan perundang- undangan.
+(2) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 10 ayat (1) huruf g wajib memiliki RKL-RPL rinci berdasarkan Persetujuan Lingkungan kawasan sesuai dengan ketentuan peraturan perundang-undangan.
+(3) RKL-RPL rinci sebagaimana dimaksud pada ayat (2) merupakan bentuk Persetujuan Lingkungan bagi pelaku Usaha di dalam kawasan dan dinyatakan dalam bentuk Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup yang disahkan oleh pengelola kawasan dan menjadi prasyarat Perizinan Berusaha Pelaku Usaha di dalam kawasan.
+(4) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 10 ayat (1) huruf h dan huruf i tidak memerlukan dokumen Lingkungan Hidup.
+
+Pasal 12
+(1) Rencana Usaha dan/atau Kegiatan yang:
+  a. tidak wajib Amdal sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a; dan/atau
+  b. wajib UKL-UPL sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf a, atau SPPL sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a, dapat ditetapkan menjadi jenis rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal oleh Menteri.
+(2) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1) diusulkan secara tertulis kepada Menteri oleh:
+  a. menteri dan/atau kepala lembaga pemerintah nonkementerian;
+  b. gubernur;
+  c. bupati/wali kota; dan/atau
+  d. masyarakat.
+(3) Usulan tertulis sebagaimana dimaksud pada ayat (2) paling sedikit berisi:
+  a. identitas pengusul
+  b. deskripsi jenis rencana Usaha dan/atau Kegiatan yang akan dilakukan beserta skala/besarannya;
+  c. status dan kondisi lingkungan di dalam dan di sekitar lokasi rencana Usaha dan/atau Kegiatan; dan
+  d. analisis mengenai Dampak Lingkungan Hidup yang akan terjadi, ketersediaan teknologi pengelolaan Lingkungan Hidup, dan alasan bahwa rencana Usaha dan/atau Kegiatan tersebut memiliki Dampak Penting terhadap Lingkungan Hidup dan dapat ditetapkan menjadi rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal.
+(4) Usulan sebagaimana dimaksud pada ayat (3) disusun dalam 1 (satu) dokumen pengajuan penetapan jenis rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal.
+
+Pasal 13
+(1) Menteri melakukan evaluasi terhadap usulan tertulis sebagaimana dimaksud dalam Pasal 12 ayat (3).
+(2) Dalam melakukan evaluasi sebagaimana dimaksud pada ayat (1), Menteri menugaskan pejabat yang membidangi Amdal, UKL-UPL, dan SPPL.
+(3) Evaluasi sebagaimana dimaksud pada ayat (2) dilaksanakan dengan mempertimbangkan:
+  a. alasan ilmiah bahwa rencana Usaha dan/atau Kegiatan tersebut memiliki Dampak Penting terhadap Lingkungan Hidup;
+  b. daya dukung dan daya tampung Lingkungan Hidup di lokasi rencana Usaha dan/atau Kegiatan;
+  c. tipologi ekosistem setempat yang diperkirakan memiliki Dampak Penting terhadap Lingkungan Hidup; dan
+  d. teknologi pengelolaan Dampak Lingkungan Hidup.
+(4) Dalam hal hasil evaluasi menunjukkan:
+  a. usulan dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi penetapan rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal, kepada Menteri; atau
+  b. usulan tidak dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi penolakan penetapan suatu rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal, kepada Menteri.
+
+Pasal 14
+Hasil evaluasi sebagaimana dimaksud dalam Pasal 13 ayat (4) menjadi bahan pertimbangan Menteri untuk:
+  a. menetapkan keputusan suatu rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal menjadi wajib memiliki Amdal; atau
+  b. menolak rrsulan penetapan suatu rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal menjadi wajib memiliki Amdal.
+
+Pasal 15
+Jangka waktu pelaksanaan evaluasi dan penetapan atau penolakan penetapan rencana Usaha danlatau Kegiatan yang tidak wajib memiliki Amdal menjadi wajib memiliki Amdal sebagaimana dimaksud dalarn Pasal 13 dan Pasal 14 dilakukan paling lama 30 (tiga puluh) hari kerja sejak permohonan dinyatakan lengkap.
+
+Pasal 16
+(1) Rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a dapat ditetapkan menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal oleh Menteri. (2) Rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1) diusulkan secara tertulis kepada Menteri. oleh:
+  a. menteri dan/atau kepala lembaga pemerintah nonkementerian;
+  b. gubernur;
+  c. bupati/wali kota; dan/atau
+  d. masyarakat.
+(3) Usulan tertulis sebagaimana dimaksud pada ayat (2) paling sedikit berisi:
+  a. identitas pengusul;
+  b. deskripsi rencana Usaha dan/atau Kegiatan yang akan dilakukan beserta skala/besarannya;
+  c. status dari kondisi lingkungan di dalam dan di sekitar lokasi rencana Usaha dan/atau Kegiatan; dan
+  d. analisis dampak Lingkungan Hidup yang akan terjadi, ketersediaan teknologi pengelolaan Lingkungan Hidup, dan alasan ilmiah bahwa rencana Usaha dan/atau Kegiatan tersebut tidak memiliki Dampak Penting terhadap Lingkungan Hidup dan dapat ditetapkan menjadi jenis rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal.
+
+Pasal 17
+(1) Menteri melakukan evaluasi terhadap usulan tertulis sebagaimana dimaksud dalam Pasal 16 ayat (3).
+(2) Dalam melakukan evaluasi sebagaimana dimaksud pada ayat (1), Menteri menugaskan pejabat yang membidangi Amdal, UKL-UPL, dan SPPL.
+(3) Evaluasi sebagaimana dimaksud pada ayat (2) dilaksanakan dengan mempertimbangkan aspek:
+  a. Dampak Lingkungan Hidup dari rencana Usaha dan/atau Kegiatan dapat ditanggulangi sesuai dengan perkembangan ilmu pengetahuan dan teknologi;
+  b. daya dukung dan daya tampung Lingkungan Hidup di lokasi rencana Usaha dan/atau Kegiatan; dan
+  c. berdasarkair pertimbangan ilnriah bahwa rencana Usaha dan/atau Kegiatan cidak menimbulkan Dampak Penting.
+(4) Dalam hal hasil evaluasi menunjukkan:
+  a. usulan dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi penetapan rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal, kepada Menteri; atau
+  b. usulan tidak dapat diterima, pejabat yang membidangi Amdal, UKL-UPL, dan SPPL menerbitkan rekomendasi penolakan penetapan suatu rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal, kepada Menteri.
+
+Pasal 18
+Hasil evaluasi sebagaimana dimaksud dalam Pasal 17 ayat (4) menjadi bahan pertimbangan Menteri untuk:
+  a. menetapkan keputusan suatu rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha Can/atau Kegiatan yang tidak wajihr memiliki Amdal; atau
+  b. menolak usulan penetapan suatu rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi rencana Usaha dan/atau Kegiatan yang tidak wajib memiliki Amdal.
+
+Pasal 19
+Jangka waktu pelaksanaan evaluasi dan penetapan atau penolakan penetapan rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal menjadi tidak wajib memiliki Amdal sebagaimana dimaksud dalam Pasal 17 dan Pasal 18 dilakukan paling lama 30 (tiga puluh) hari kerja sejak permohonan dinyatakan lengkap.
+
 Pasal 20
-Pasal 20 (1) Untuk menentukan rencana Usaha danlatau Kegiatan yang wajib memiliki Amdal, UKL-UPL, atau SPPL, penanggung jawab Usaha dan/atau Kegiatan melakukan proses penapisan secara mandiri. (21 Dalam hal penanggung jawab Usaha dan/atau Kegiatan tidak dapat melakukan penapisan secara mandiri, penanggung jawab Usaha dan/atau Kegiatan mengajukan penetapan penapisan dari instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota sesuai dengan kewenangannya. (3) Penetapan penapisan yang disampaikan oleh instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota sesuai dengan kewenangannya memuat:
-a. rencana Usaha dan/atau Kegiatan wajib memiliki Amdal, UKL-UPL, atau SPPL; dan
-b. kewenangan uji kelayakan Amdal, pemeriksaan UKL- UPL, atau SPPL. (41 Proses penetapan penapisan sebagaimana dimaksud pada ayat (3) tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini. Bagian Kedua Penyusunan Amdal dan Uji Kelayakan Amdal Pasal 2 1 (l) Amdal disusun oleh penanggung jawab Usaha dan/atau Kegiatan pada tahap perencanaan suatu Usaha dan/atau Kegiatan. (21 Lokasi rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1) wajib sesuai dengan rencana tata ruang.
-(3) Kesesuaian (3) Kesesual-an iokasi rencana l-isaha danr/atau Kegiatan dengarl rencana tata ruang sebagaimana dinrakstrd parta. ayat (21 dibuktikan- dei: gan konfirmasi kesesrraian kegiatan pemanfaatan ruang atau rekomendasi kesesuaian kegiatan pemanfaatan ruang sesuai derrgan ketenluan peraturan perundang-undangarr. (4) Dalam hai lokasi rencana Usaha dan/atatr Kegiatan tidak sesuat clengan rencana tata rLlang sebagairnana dimaksud pada ayat (3), dckumen Amdal tirtak dapat dinilar dan Cikembalikan kepada pencrnggung .iawab Usaha dan/atau Kegiatern" Pasal 22 (lt Dalam menvusun Amdal, penarrggung jarvab Usa.ha dan/atau Kegiatan mengBltnakan pendekatan str-rcli:
-a. tunggal;
-b. terpadu; ata.u c. kawasan. (2) Pendekatan studi tunggal sebagaimana dimaksud pada ayal (1; h'uruf a o.ilakukan apabila penanggung ja.rab Usaha cian/atau Kegiatan rrerencanakan untuk melakukan 1 (satu) jenis Usahrr danlatau Kegiatan yang ke'*'errangan pembinaa: r dan/atau pengawasannya berada di bawah 1 {satu) kementerian, lerribaga pemerintah nonkementerian, organisasi per.angkat daerah provinsi, a.ta.r organisasi perangkat Caerah kabupaten/kota. (3) Fendekatan studi terpadu sebagaimana dimaksr_rd pada ayat (i) huruf b ^.jilaxukan apabila penanggung jawab Usaha dan/atau Kegiatan mercncanakan untuk rnelakuketn lebih dari 1 (satu) jenis Usaha dan/atau Kegiatan yang pei: encanaan dan pengelolaannya saling terkait dalain sacu kesatuan harnpara: r ekosistem serta pembinaan danf atarr per:
-.rgawasannya berada di bau,ah lebih dari 1 (satuf kementerian, lernbaga pemerintah nonkementerian, organisasi perangkat daeraii provinsi, atau organisasi perangkat daer: ah kabupatcn,i kclta.
-(4) Perrdekatan (41 Pendekar.an studi kawasan sebagaimana dimaksucl pada ayat- (11 huruf c dilakukan oleh pengelola karrasan selaLu penanggung jawab Usaha dan/atau Kegiatan yang merencanakarr untuk melakrr.kan lebih dari 1 (satrr) Usaha dan/atau Kegiatan yang akan dilaksanakan oleh Pelaku Usaha di dalarn kawasan, terletak dalann saul kesatuan zor: ra rencana pengembangan kawasan, yang telah mendapatkan penetapan karvasa.n dan pengelola kawasan sesuai derrgan ketentuan peraturan perundang- undangan. (5) Pendekatan penyusunan Amct-al sebagain: aria dimaksuci pada ayat (1) huruf a dan huruf [r yang dilakukan oleh lebih dari 1 (satu) penanggung jawab Usaha dan/atau Kegiatan terhadap Usaha dan/atau Kegiatan yang saling terintegrasi dapat disusun dalam 1 (satu) Amdal yarrg dapat ciigunakan untuk penerbitan tebih dari 1 (satu) Perizinan Berusaha. Pasal 23 (1) Penanggung jau,ab l.rsaha dan/atau Kegiatar-i sebagaimana dimaksud dalam Pasal 21 a5'at (i) cialam pen\,1-rsuna-n Amdal dapat oilakukan sendiri atau menunjuk pihak Iain dalani hal tidak mampu. (2j Pen5rusunan Amdal wajib dilakukan oleh penyusun yang merniliki sertifikat kompetensi. (3) Hasil pen1rusunan Amrlar yang disusun piha.k lain sebagaimana dtrrraksud pada ayat (1) menjacli tanggung jawab penanggung jaw'ab Usaha dan/atau Kegiatan. Pasal 24 (1) Aparatur sipil negara yang bekerja pada instansi Lingkurrgan Hictup pusat, ors.rnisasi pr-.rangkat daei-ah ya.ng membidangi Lingkur,gan Hidr"rp provinsi, atau organisasi perangkat dererzlh yang rrrembidangi Lingkungan Hidup icabupaten/kota dilarang menjadi pen5rustrir Arndal.
-(2) Dalarn (2\ Dalam hai instansi Lingkungan Hidup pusat. organisasi perangkat daerah J,ang membidarrgi Lingkungan Hidup provinsi, atau or.garrisasi perangkat daerah ya,ng membidangi Lingkungan Hidup kabupatenf kota bertindak sebagai penanggung jawab Usaha dan,/atau Kegiatan, aparatur sipil rregara sebagaimana dimaksud pada ayat (1) dapat menjadi penJrusun Amdal. Pasal 25 Pen5rusunan Amdal dimulai dengan penyediaan data dan informasi sebagai berikut:
-a. hasil penapisan kewenangan penilaian Amdal sebagairnana dimaksud dalam Pasal 20; b,. deskripsi rencana Usaha d,an/atau Kegiatan;
-c. rona Lingkungan Hiciup awal di dalam darr di sekitar lokasi rencana Usaha daniatau Kegiatan yarig akan dilakukan; dari d. hasil pengumuman dan konsultasi publik. Pasal 26 Amdal sebagairnana dimaksud dalarn pasal 22 ayat (i) terdiri atas: a^ Formulir Kerangka Acuan;
-b. Andai; dan
-c. RKL-RPL. Pasal 2'7 (1) Penvusunan Amda,l sebagaimana, cinraksud dalam pasa.l 21 ayat (r) dilakukan mela.lui tairapan:
-a. pelaksanaan pelibatan masyarakat terhadap rencana Usltha dan/atau Kegiatan;
-b. pengisiarr. per.gajuan, perneriksaan, .-lan penerbitan L.,erita acara, kt-. sepakatan ff ormuiir Kera ngka Acuan :
-c. pelr_\rusunan - lit.) - c. pct'r.f'rsooan dan pengErjuan Andal dan RKi--RpL: dan d. penilaian Andal dan RKL-RPL. (2) Perrieriksaan Formulir Kerangka Acuan sebagaimrrna diinaksud pada ayat (l ) huruf b da.n penilaian Antlal darr RKL-RPL sebagaimana rlimaksud pada ayat (1) huruf d merupakan bagian uji kelayakan An: dal. Pasal 28 (l) Penanggung jawah Usaha dan/atau Kegiatan dalam men5rusun Amdal sebagaimana dirnaksud dalam pasal 2l ayat (1) mehbatkan masya"rakat yang t.erkena dampak iangsung. (21 Pelibatan masyarakat yang terkena Campak langsurrg sebagaimana dimaksud pada ayat (l) dilakukarr melalui:
-a. pengumuman rencana Usaha dan/atau Kegiatan; dan
-b. konsrrltasi publik. (3) Masyarakat yang terkena dampak langsung sebagaimana dimaksud pada ayat (i) berhak mengajukan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan dalarn jangka waktu 10 (sepuluh) hari kerja sejak pcngumuman sebagairnana dimaksud pada ayat (2| huruf a. (4) Saran, perrdapat, darr tanggapan sebagaimana dimaksud pada ayat (3) disampaikan secara tertulis kepada penanggung jawab Usaha danlatau Kegiatan. (5) Masyarakat yang t.erkena dampak langsung memberikan saran, pendapat-, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan pada konsultasi publik sebagaimana dir"naksud pada ayat (2) huruf b. (6) Saran, pendapat, rian tanggatrran terhadap rencana ljsaha danr/atau Kegiatan pada konsultasi pubiik sebagaimarra ciimaksud pada ayat (5) dicatat dalam berita acara konsultasi publik. (71 Pehbatan masyarakat yang terkeni,, da.mpak larrgsung sebagaimana ciimaksud pada ayat (2-l dilakukan sebelum pen5rusunan Formulir Kerangxa Acuan.
+(1) Untuk menentukan rencana Usaha dan/atau Kegiatan yang wajib memiliki Amdal, UKL-UPL, atau SPPL, penanggung jawab Usaha dan/atau Kegiatan melakukan proses penapisan secara mandiri.
+(2) Dalam hal penanggung jawab Usaha dan/atau Kegiatan tidak dapat melakukan penapisan secara mandiri, penanggung jawab Usaha dan/atau Kegiatan mengajukan penetapan penapisan dari instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota sesuai dengan kewenangannya.
+(3) Penetapan penapisan yang disampaikan oleh instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota sesuai dengan kewenangannya memuat:
+  a. rencana Usaha dan/atau Kegiatan wajib memiliki Amdal, UKL-UPL, atau SPPL; dan
+  b. kewenangan uji kelayakan Amdal, pemeriksaan UKL- UPL, atau SPPL.
+(4) Proses penetapan penapisan sebagaimana dimaksud pada ayat (3) tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Bagian Kedua
+Penyusunan Amdal dan Uji Kelayakan Amdal
+
+Pasal 21
+(1) Amdal disusun oleh penanggung jawab Usaha dan/atau Kegiatan pada tahap perencanaan suatu Usaha dan/atau Kegiatan.
+(2) Lokasi rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1) wajib sesuai dengan rencana tata ruang.
+(3) Kesesuaian lokasi rencana Usaha dan/atau Kegiatan dengan rencana tata ruang sebagaimana dimaksud pada ayat (2) dibuktikan dengan konfirmasi kesesuaian kegiatan pemanfaatan ruang atau rekomendasi kesesuaian kegiatan pemanfaatan ruang sesuai dengan ketentuan peraturan perundang-undangan.
+(4) Dalam hal lokasi rencana Usaha dan/atau Kegiatan tidak sesuai dengan rencana tata ruang sebagaimana dimaksud pada ayat (3), dokumen Amdal tidak dapat dinilai dan dikembalikan kepada penanggung jawab Usaha dan/atau Kegiatan.
+
+Pasal 22
+(1) Dalam menyusun Amdal, penanggung jawab Usaha dan/atau Kegiatan menggunakan pendekatan studi:
+  a. tunggal;
+  b. terpadu; atau
+  c. kawasan.
+(2) Pendekatan studi tunggal sebagaimana dimaksud pada ayal (1) huruf a dilakukan apabila penanggung jawab Usaha dan/atau Kegiatan merencanakan untuk melakukan 1 (satu) jenis Usaha dan/atau Kegiatan yang kewenangan pembinaan dan/atau pengawasannya berada di bawah 1 (satu) kementerian, lembaga pemerintah nonkementerian, organisasi perangkat daerah provinsi, atau organisasi perangkat daerah kabupaten/kota. 
+(3) Pendekatan studi terpadu sebagaimana dimaksud pada ayat (1) huruf b dilakukan apabila penanggung jawab Usaha dan/atau Kegiatan merencanakan untuk melakukan lebih dari 1 (satu) jenis Usaha dan/atau Kegiatan yang perencanaan dan pengelolaannya saling terkait dalam satu kesatuan hamparan ekosistem serta pembinaan dan/atau pengawasannya berada di bawah lebih dari 1 (satu) kementerian, lembaga pemerintah nonkementerian, organisasi perangkat daerah provinsi, atau organisasi perangkat daerah kabupaten/kota.
+(4) Pendekatan studi kawasan sebagaimana dimaksud pada ayat (1) huruf c dilakukan oleh pengelola kawasan selaku penanggung jawab Usaha dan/atau Kegiatan yang merencanakan untuk melakukan lebih dari 1 (satu) Usaha dan/atau Kegiatan yang akan dilaksanakan oleh Pelaku Usaha di dalam kawasan, terletak dalam satu kesatuan zona rencana pengembangan kawasan, yang telah mendapatkan penetapan kawasan dan pengelola kawasan sesuai dengan ketentuan peraturan perundang-undangan.
+(5) Pendekatan penyusunan Amdal sebagaimana dimaksud pada ayat (1) huruf a dan huruf b yang dilakukan oleh lebih dari 1 (satu) penanggung jawab Usaha dan/atau Kegiatan terhadap Usaha dan/atau Kegiatan yang saling terintegrasi dapat disusun dalam 1 (satu) Amdal yang dapat digunakan untuk penerbitan lebih dari 1 (satu) Perizinan Berusaha.
+
+Pasal 23
+(1) Penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 21 ayat (1) dalam penyusunan Amdal dapat dilakukan sendiri atau menunjuk pihak lain dalam hal tidak mampu.
+(2) Penyusunan Amdal wajib dilakukan oleh penyusun yang memiliki sertifikat kompetensi.
+(3) Hasil penyusunan Amdal yang disusun pihak lain sebagaimana dimaksud pada ayat (1) menjadi tanggung jawab penanggung jawab Usaha dan/atau Kegiatan.
+
+Pasal 24
+(1) Aparatur sipil negara yang bekerja pada instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota dilarang menjadi penyusun Amdal.
+(2) Dalam hal instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota bertindak sebagai penanggung jawab Usaha dan/atau Kegiatan, aparatur sipil negara sebagaimana dimaksud pada ayat (1) dapat menjadi penyusun Amdal.
+
+Pasal 25
+Penyusunan Amdal dimulai dengan penyediaan data dan informasi sebagai berikut:
+  a. hasil penapisan kewenangan penilaian Amdal sebagaimana dimaksud dalam Pasal 20;
+  b. deskripsi rencana Usaha dan/atau Kegiatan;
+  c. rona Lingkungan Hiciup awal di dalam dan di sekitar lokasi rencana Usaha daniatau Kegiatan yarig akan dilakukan; dan
+  d. hasil pengumuman dan konsultasi publik.
+
+Pasal 26
+Amdal sebagairnana dimaksud dalarn pasal 22 ayat (1) terdiri atas:
+  a. Formulir Kerangka Acuan;
+  b. Andal; dan
+  c. RKL-RPL.
+
+Pasal 27
+(1) Penvusunan Amdal sebagaimana, cinraksud dalam pasal 21 ayat (1) dilakukan melalui tahapan:
+  a. pelaksanaan pelibatan masyarakat terhadap rencana Usaha dan/atau Kegiatan;
+  b. pengisian, pengajuan, pemeriksaan, dan penerbitan Berita Acara Kesepakatan Formulir Kerangka Acuan;
+  c. penyusunan dan pengajuan Andal dan RKL-RPL; dan
+  d. penilaian Andal dan RKL-RPL.
+(2) Pemeriksaan Formulir Kerangka Acuan sebagaimana dimaksud pada ayat (1) huruf b dan penilaian Andal dan RKL-RPL sebagaimana dimaksud pada ayat (1) huruf d merupakan bagian uji kelayakan Amdal.
+
+Pasal 28
+(1) Penanggung jawab Usaha dan/atau Kegiatan dalam menyusun Amdal sebagaimana dimaksud dalam pasal 21 ayat (1) melibatkan masyarakat yang terkena dampak langsung.
+(2) Pelibatan masyarakat yang terkena dampak langsung sebagaimana dimaksud pada ayat (1) dilakukan melalui:
+  a. pengumuman rencana Usaha dan/atau Kegiatan; dan
+  b. konsultasi publik.
+(3) Masyarakat yang terkena dampak langsung sebagaimana dimaksud pada ayat (1) berhak mengajukan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan dalam jangka waktu 10 (sepuluh) hari kerja sejak pengumuman sebagaimana dimaksud pada ayat (2) huruf a.
+(4) Saran, pendapat, dan tanggapan sebagaimana dimaksud pada ayat (3) disampaikan secara tertulis kepada penanggung jawab Usaha dan/atau Kegiatan.
+(5) Masyarakat yang terkena dampak langsung memberikan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan pada konsultasi publik sebagaimana dimaksud pada ayat (2) huruf b.
+(6) Saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan pada konsultasi publik sebagaimana dimaksud pada ayat (5) dicatat dalam berita acara konsultasi publik.
+(7) Pelibatan masyarakat yang terkena dampak langsung sebagaimana dimaksud pada ayat (2) dilakukan sebelum penyusunan Formulir Kerangka Acuan.
+
 Pasal 29
-Pasal 29
-(f ) MasS'arakat yang terkena dampak langsung yailg dilibatkan dalam pen],usunan Amdal sebagaimana dimaksrltl dalarn Pasal 28 a,,,a1(l) merupakan masyarakat yang ^l-^rerada di dalam batas wilayah stucli Amdal yang akan t-erkena danrpak secara langsung baik positif dan/atatt negatif dari adanya rencana Usaha darr/atarr Kegiatan. (21 Pemerhati Lingku.ngan i{idup, peneliti, atau lenrbaga swadaya masyarakat pendamping yang telah membina dan/atau merrdampingi masyarakat terkena ilampak langsung sebagaimana ciimaksud pada ayar (1) dapat dilibatkan sebagai bagian dari masyarakat yang terkena dampak langsung. Pasal 30 (1) Dalam. melakukan pengumuman rencana Usaha dan/atau Kegiatarr sebagaimana dirnaksud dalam Pasal 28 ayat ^(2) huruf a, penanggung jawab Usaha dar: /atau Kegiatan wajrb menyampaikan informasi secara ringkas, benar, dan tepat mengenai:
-a. narra dan alarnat penanggung jau,al: Usaha dan/atau Kegiatan;
-b. jenis rencana Usaha dan/atau I(egiatan;
-c. skala/besaran dari rencana Usaha dan/arau Kegiatan;
-d. lokasi rencana Usaha dan/atau Kegiatan;
-e. dampak potensial terhadap iingkungan yang akan timbul dan konsep umum pengendalian Dampak Lingkungan Hidup;
-f. tauggal pengumurrralr mulai dipasang dan ba'.as rvaktu penyampaian saran, pendapat, dan tanggapan dari masyarakat; dan
-g. nama dan alamat penanggung jarvab LJsaha danlatau I(egiatan yang menerima saran, pendapar, dan tanggapan dari masyarakat. -:
-(2) inforrnasi dalam peh?urrruma,n rencana Usaha danlatau Kegiatan sebtrgaimana dimaksud pada a)'at (1) disarnpaikan Cengan rnenggunakan bahasa lndonesia yang baik dan benar, jelas, dan rnudah dimengerti <lleh seluruh lapisan masyarakat. (3) Sela; ,n menggunakan bahasa Incionesia. sebagaimana dimaksud pada ayat (2), informasi dalam pengun\rlman rencana Usaha dan/atau Kegiatan dapat disampaikan dengan menggunakan bahasa daerah atau iokal yang sesuai dengan lokasi rfimaira pengurnuman tersebut akan dilakukan. (41 Pengurrruman rencana Usaha dan/atau Kegiar"ar, yang merrruaL informasi sebagaimana dimaksud pada ayat (1) disampaikan melalui:
-a. media massa; dan/atau
-b. frcngumurnan pada lokasi Usaha dan/atau Kegiatan. (5) Selain mcdia yang wajib digunakan untuk melakukan pengumuman sebagaimana dimaksud pada ayat (4), penanggung jawab Usaha danf a: rat_r Kegiatan dapat menggunakan media lain untuk mc.lakukan penElurnrlrnan, berupa :
-a. media cetak seperti brcsur, pamflet, atau spancluk;
-b. media elektronik melalui televisi, laman, jejariug sosial, pesan elektronik, dan/atau radi<_,;
-c. papan pengt.lmuman di instansi Lingkungan l{idup dan instansi yang membidangi Usaha dan/atau Kegiatan di tingkat pusat, daerah provinsi. dan/atau daerah kabupaten I kota; dan
-d. aredia iain yang dapat digrnakan. Pasai iJ i (1) Masyarakat yang teri<erra dampak langsung sebagaimana dirnaksud dalam Pasal 29 berhak mengajukan saran, pendapat, rlan tanggapan terhadap rencana LIsa.ha dan/atau Kegiatan tialam jangka waktu 10 (sepuluirf har.i kerja sejak pengumuman sebagaimana dimaksud dalam Pasal 2ls ayat (2) huruf a. QA - rjul ' (2) Saran, pendapa.t, dan tanggapan sebagaimana dimaksud pada ayat (t) disanrparikan secara r.er: tulis l<cpada penanggung jawab Usaha dan/atau Kegiata.rr. (3) Dalam. menyampaikir.n sarail, pendapat, dan t_arrgg.epan terkair pengum-urna.n re.ricana Usaha dan/atau Kegiatan sebagaimarra dimaksud pada ayat (2), rnasyarakat wajib mencarrturnkan identitas pribadi yang jelas sesuai ciengan ciokuinen kependudukan. (4) Sarar,, pendapat, dan tanggapan masya_rakat sebagairrrana dimaksud pa.da ayat (3) dapat berupa: a, informasi cleskriptif tentang kondisi iingkungan vang berada di dalarn dan di sekitar lokasii ta.pak rencana Usaha dan/atau Kegiatan;
-b. nilai-nilai lokal yang berpotensi akan terkena dampak rencana Usaha clan/atau Kegiatan yang skan dilal.,ukan; dan/atau
-c. aspirasi masyarakat, keinginan, dan harapan terkait dengan rencana tlsaha danlatau Kegiatan. (5) Saran, pendapat, dan tanggapan masyarakat sebagaimana dimaksud pada ayat (4) disampaikan d,engan rnenggunakan bahasa lndonesia dan/atau bahasa daerah atau lokal yang sesuai dengan iokasi rencana Usaha dan/atau Kegiatan. (6) Berdasarkan saran, pcndapat. cian tanggapan masyarakat yang telah diterima sebagaimarra dimaksud pada ayat (5), penanggung jawab Usaha dan/atau Kegiatan mendokumentasikan dan mengolah saran, pendapat, dan tanggapan masyarakat. (71 Saran, pendapa-t, dan tanggapan masyerakat ya.ng telah cliolah sebagaimana dimaksud pada ayat (6) wajib digunakan oleh penanggung jawab Usaha dan/atau Kegiatan sebagai masukan dalarn penqisian Forrnulir Kerangka Acuan. Pasal 32 Pelibatan masyarakat yang terkena dampak langsurrg inelalui konsultasi publik sebagainrana di.maksud dalam pasal 28 ayat (2) huruf b mt: ncakup:
-a. keiornpok masyarakat rentan lwlrrcrable group); b, rnasyarakat aclat (indigenous peoplel: dan/etau c. kelompok laki-laki dan keiompok perempuan dengan memperhatikan kesetaraan gender.
+(1) Masyarakat yang terkena dampak langsung yang dilibatkan dalam penyusunan Amdal sebagaimana dimaksud dalam Pasal 28 ayat (1) merupakan masyarakat yang berada di dalam batas wilayah studi Amdal yang akan terkena dampak secara langsung baik positif dan/atau negatif dari adanya rencana Usaha dan/atau Kegiatan.
+(2) Pemerhati Lingkungan Hidup, peneliti, atau lembaga swadaya masyarakat pendamping yang telah membina dan/atau mendampingi masyarakat terkena dampak langsung sebagaimana dimaksud pada ayat (1) dapat dilibatkan sebagai bagian dari masyarakat yang terkena dampak langsung.
+
+Pasal 30
+(1) Dalam melakukan pengumuman rencana Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf a, penanggung jawab Usaha dan/atau Kegiatan wajib menyampaikan informasi secara ringkas, benar, dan tepat mengenai:
+  a. nama dan alamat penanggung jawab Usaha dan/atau Kegiatan;
+  b. jenis rencana Usaha dan/atau Kegiatan;
+  c. skala/besaran dari rencana Usaha dan/atau Kegiatan;
+  d. lokasi rencana Usaha dan/atau Kegiatan;
+  e. dampak potensial terhadap iingkungan yang akan timbul dan konsep umum pengendalian Dampak Lingkungan Hidup;
+  f. tanggal pengumuman mulai dipasang dan batas waktu penyampaian saran, pendapat, dan tanggapan dari masyarakat; dan
+  g. nama dan alamat penanggung jawab Usaha dan/atau Kegiatan yang menerima saran, pendapat, dan tanggapan dari masyarakat.
+(2) Informasi dalam pengumuman rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1) disampaikan dengan menggunakan bahasa Indonesia yang baik dan benar, jelas, dan mudah dimengerti oleh seluruh lapisan masyarakat.
+(3) Selain menggunakan bahasa Indonesia sebagaimana dimaksud pada ayat (2), informasi dalam pengumuman rencana Usaha dan/atau Kegiatan dapat disampaikan dengan menggunakan bahasa daerah atau lokal yang sesuai dengan lokasi dimana pengumuman tersebut akan dilakukan.
+(4) Pengumuman rencana Usaha dan/atau Kegiatan yang memuat informasi sebagaimana dimaksud pada ayat (1) disampaikan melalui:
+  a. media massa; dan/atau
+  b. pengumuman pada lokasi Usaha dan/atau Kegiatan.
+(5) Selain media yang wajib digunakan untuk melakukan pengumuman sebagaimana dimaksud pada ayat (4), penanggung jawab Usaha dan/atau Kegiatan dapat menggunakan media lain untuk melakukan pengumuman, berupa:
+  a. media cetak seperti brosur, pamflet, atau spanduk;
+  b. media elektronik melalui televisi, laman, jejaring sosial, pesan elektronik, dan/atau radio;
+  c. papan pengumuman di instansi Lingkungan Hidup dan instansi yang membidangi Usaha dan/atau Kegiatan di tingkat pusat, daerah provinsi. dan/atau daerah kabupaten I kota; dan
+  d. media lain yang dapat digunakan.
+
+Pasal 31
+(1) Masyarakat yang terkena dampak langsung sebagaimana dimaksud dalam Pasal 29 berhak mengajukan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan dalam jangka waktu 10 (sepuluh) hari kerja sejak pengumuman sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf a.
+(2) Saran, pendapat, dan tanggapan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis kepada penanggung jawab Usaha dan/atau Kegiatan.
+(3) Dalam menyampaikan saran, pendapat, dan tanggapan terkait pengumuman rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (2), masyarakat wajib mencantumkan identitas pribadi yang jelas sesuai dengan dokumen kependudukan.
+(4) Saran, pendapat, dan tanggapan masyarakat sebagaimana dimaksud pada ayat (3) dapat berupa:
+  a. informasi deskriptif tentang kondisi lingkungan yang berada di dalam dan di sekitar lokasi tapak rencana Usaha dan/atau Kegiatan;
+  b. nilai-nilai lokal yang berpotensi akan terkena dampak rencana Usaha dan/atau Kegiatan yang akan dilakukan; dan/atau
+  c. aspirasi masyarakat, keinginan, dan harapan terkait dengan rencana tlsaha danlatau Kegiatan.
+(5) Saran, pendapat, dan tanggapan masyarakat sebagaimana dimaksud pada ayat (4) disampaikan dengan menggunakan bahasa Indonesia dan/atau bahasa daerah atau lokal yang sesuai dengan iokasi rencana Usaha dan/atau Kegiatan.
+(6) Berdasarkan saran, pendapat, dan tanggapan masyarakat yang telah diterima sebagaimana dimaksud pada ayat (5), penanggung jawab Usaha dan/atau Kegiatan mendokumentasikan dan mengolah saran, pendapat, dan tanggapan masyarakat.
+(7) Saran, pendapat, dan tanggapan masyarakat yang telah diolah sebagaimana dimaksud pada ayat (6) wajib digunakan oleh penanggung jawab Usaha dan/atau Kegiatan sebagai masukan dalam pengisian Formulir Kerangka Acuan.
+
+Pasal 32
+Pelibatan masyarakat yang terkena dampak langsurrg melalui konsultasi publik sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf b mencakup:
+a. kelompok masyarakat rentan _(vulnerable group)_;
+b. masyarakat adat _(indigenous people)_;
+dan/atau
+c. kelompok laki-laki dan kelompok perempuan dengan memperhatikan kesetaraan gender.
+
 Pasal 33
-(f ) Sebelurn pelaksanaan konsultasi pubiik sebagarmar,a dimaksud dalarrr Pasal 28 ayat (2) l:
-un.rf b, penanggung ja.wab Usaha danlatau Kegiatan:
-a. berkoordinasi dengan instansi terkait dan tokoh masyarakat yang akan Cilibatkan dalam proses konsultasi ptrblik: dan b. mengundang masyarakat yang akarr dilibatkan dalam konsultasi publik. (21 Dalam undangan konsultasi publik sebagaimana dirnaksud pada ayat (1) truruf b, penariggung jarvahr Usaha dan/atau Kegiatai: r menyampaikan iniornasi naengenai:
-a. tujuan konsultasi publik;
-b. waktu dan temoat pelnksanaan konsultasi publik;
-c. bentuk, cara, dan metcde konsrrltasi publik yang akan dilakukan;
-d. tempat dimana rrrasyarakat dapat memperoleh informasi tambahan; dan
-e. lingkup saran, perrdapat, dan tanggapan dari rrrasyarakat. (3) Bentuk, c.ara, dan rnetode konsultasi publik sebagaimana dimaksud pada ayat (2) huruf c dilakukan secara dalam jaringan atau luar jaringan mencakup:
-a. lokakarya;
-b. serninar, c. fccus group discussktn;
-d. temu warga;
-e. forum dengar pendapat-;
-f. dialog interaktif; dan/atau
-g. be'rtuk, cara, dan metode lain yang clapat digunakan untu.k berkomurrikasi secara 2 (dua) arah. (4) Penanggung jav.,ab Usaha danlatau Kegiatan dapat memilih salah satu atau kombinasi ciari berbagai bentuk, cara, dan metode konsr: ltasi publik sebagaimana dimaksud pada ayat (3) )'ang $; ecara efektif dan efisien dapat menjaring saran, pendapat, dan tanqgapan masyarakat secai'a optirnal. Pasal 34 (i) Dalam peiaksanaan konsultasi publik, penanggurlg jawab Usaha dan latau Kegiatan menl ampaikan informasi paling scdil<it terkait:
-a. deskripsi rencana Usaha dan/atau Kegratan;
-b. dampak potensial yang akan timbul dari identiiikasi awal penanggrrng jawab Usaha dar,,t atatr Kegiatan rneliptrti penrlrurlan kualitas a"ir permukaar: , penurunan kualitas Udara Ambien, Kerusakan Lingkungan, keresahan masyarakat, gangguan lalu Iintas, gangguan kesehatien- masyarakat, kesempatan kerja, dan peluang berusaha; dan
-c. kompcnen lingkungan yang akan terkena dampak Cari rencana Usaha dan/atau Kegiatan. (21 Berdasarkan intbrmasi yang disampaikan oleh penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1), masya; -akat yang terkena darnpak langsung berhak menyampaikan saran, pendapat, dan tanggapan terhaCap ; 'erlcana Usatra dan/i: tau Kegiatan. (3) Penanggung jawab Usaha danlatau I(egiatan wajib rnendokumentasikan darr rnengolah sa_ran, pendapat, dan tanggapan masvarakat yang disarnpaikan sebagaimana dimaksud pada ayat (2).
-(4) Saran (4) Saran, pendapal, dan tanggapan rnasyarakat yang telah drolah sebagaimana dirnaksud pada ayat (3) wajib digunakarr oleh pcitanggung jawab Usaha dan/atau Kegiatan sebagai masukan dalam pengisiarr Formulir Kerangka Acuan. Pasal 35 (1) Pengumuman r'encafla Usaha dan/atau. Kegia.tar,- sebagaimana dimaksucl dalam Pasal 28 ayat (2) hur,.: f a disampaikan juga oleh penanggurlg jawab lJsaha dan/atau Kegiatan kepada Tim Uji Keiayakan Lingkungan Hidup. (2) Tim Uji Kelayakan Lingkungan Flidup melakukan pelibatan mas5r6i12[41 dengan rnenempatkan pengumuman yang disampaikan penanggung jar,vab Usaha dan/atau Kegia-tan kepada masyarakat pada sistem informasi dokumen Lingkungan Hidup bersarnaan dengan pengumirman yang dilakukan penanggung ja',vab Usaha dan/atau Kegiatan sebagaimana dimaksrrd rlaiarn Pasal 28 ayat (2) huruf a. (3) Masyarakat sebagaimana dlmaksud pada ayat_ \2) rnelipi: ti:
-a. pemerhati Lingkungarr Hidup; dan/atau
-b. masyarakatberkepentinganlainnya. (4) Masyarakat sebagaimana dimaksud pada ayat (3) berhak mengajukan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan dalam .jangka waktu 10 (sepuluh) hari kerja sejak pengumuman dipublikasikan. (5) Saran, pendapat, dan tanggapan sebagairnana dirnaksud pada, ayat (4) disampaikan kepada 'l'im Uji Ketayakan Lingkungan Hidup. (6) Tim Uji I(clayakan Lingkungan Hicl.up menyaring saran, pcndapat, dan tanggapan yang rlisanrpaikan sebagaimana dimaksud pada ayat (5) untuk mernilah masukan yang relevan.
-(7) Tim (7) Tim Uji Kelayakan Lingkungan Hidup menyampaikan saran, pendapat, dan tanggapan yang relevan sebagaimana dimaksud pada ayat (6) kepada penanggung jawab Usaha danlatau Kegiatan untuk digunakan dalam pengisian Formulir Kerangka Acuan. Pasal 36 (1) Kementerian/lembaga pemerintah nonkementerian yang membidangi sektor biclang Usaha Can/atau Kegiatan wajib Amdal menJrusun Formulir Kerangka Acuan spesifik sesuai dengan jenis Usaha dan/atau Kegiatan. (21 Formulir Kerangka Acuan spesifik sebagaimana dimaksud pada ayat (1) terdiri atas:
-a. formulir pelingkupan; dan
-b. formulir metode studi Andal. (3) Kementeria.n/lembaga pemerintah nonkementerian yang membidangi sektor bidang Usaha dan/atau Kegiatan wajib Amdal, dalam menj/'usun Formulir Kerarrgka Acuan spesifik sebagaimana dirnaksud pada ayat (1) berkoorciinasi dengan Menteri. (4) Menteri. memasukkan Formulir Kerarrgka Acuan spesifik yang disusun oleh kementerian/lembaga pemerintah nonkementerian sebagaimana dimaksud pada ayat (3) ke dalam sistem informasi dokumen Lingkungan Hidup. (5) Formulir Kerangka Acuan spesifik sebagaimana dimaksud pada ayat (1) disusun dengan menggunakan format sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini. Pasal 37 (1) Penanggung jawab Usaha dan/atau Kegiatan neengisi Formulir Kerangka Acuan spesifik yang tersedia dalam sistem inlbrmasi dokurrren Lingkungan Hidup sebagaimana dimaksud dalam Pasal 36 ayat (4). - o/ - (2) Dalam hral l.'ormulir Kerangka Acuan spesifik helum terscdia da"lam sistem informasi dokr-rmen I.ingkurigan Flidup sebagaimana dimakstrd pada a1'at (1), pengrsian Formulir Kerangka Acuan rrrengacLr pada forrnat Forrnulir Kerangka Acuan sebagairnana dimaksud dalam pasal 3€, ayat ^(5). Pasal 38 (li Formulir Kerangka Acuan yang telah diisi dan diajul; an oieh penanggung jawab Usaha danlarau Kegratan sebagairnana dirnaksu.d dalam ^pasal 37 diperiksa oieh:
-a. Menteri melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di pusat;
-b. gubernur meialui Tim Uji Kelayakan Lingkurrgan Hidup yang berkedudukan di provinsi; atau
-c. bupati/wali kota melalui Tim Uji Kelayakan i,ingkungan Hiciup yang berkedudukan di kabupaten/kota.
-(2) Tim Uji Kelayakan Lingkungan llidup dalam melakukan penreriksaan Formulir Kerangka Acuan sebagairnarra dirnaksurj pada ayat (1) dapat meli.batkar: : a. ahli terkait dengan rencarla Usaha dar: /atau Kegiatan atau Dampak Lingkungan Hidup dari Usaha dan/atau Kegiatan; dan
-b. instansi terkait dengan rencana Usaha dan/atau Darnpak Lingkungan Hidup dari lJsaha dan/atau Kegiatan. (3) Pemeriksaan seba.gaimana ciimaksud pa.da aysr (1) dilakukan dalarrr jangka .,aktu paling lama 1o (sepuluh) hari kerja sejak Forrnuli: Kerangka Acuan .iiterim-a oari penanggung jaw-ab Usaha dan/atau Kegiatan secara lengkap. (41 I{asil pemeriksaan Formulir Kerangka Acuan disusun dalam bentuk berita acara kesepakatan Formurir Ke.angka Acuan yang ftremuar informasi paling sedikit:
-a. Dampak Penting hipotetik, h. batas wilayah studi dan batas ,*,aktu kajian;
-c. metode c. metode studi;
-d. penetaoan ka'.egori Amdal; dan
-e. rvaktu pen)rusunan dokumen Andal dan RKL-RPL. (5) Tata laksana pemeriksaan Forrnulir Kerangka Acuan tercantum dalam Lampiran II yang rnerupakan bagian tidal< terpisahkan dari Peraturan Pemerintah ini. Pasal 39 (1) Penanggung jawab Usaha dan/atau Kegiatan men5rusuri dokumen Andal berdasarkan Formulir Kerangka Acuan sebagaimana dimaksud dalam Pasal 38 a1,at (4). (2) Dokurnen Andal sebagaimana dirnaksud pada ayat (1) memuat:
-a. pendahuluan;
-b. deskripsi rencana Usaha dan/atau Kegiatan beserta alternatifnya;
-c. deskripsi rinci rona Lingkungan Hidup;
-d. hasil dan evaluasi pelibatan rrrasyarakat;
-e. penentuan Dampak Penting hipotetik yang dikaji, batas wilayah studi, dan batas waktu kajian;
-f. prakiraan Dampak Penting dan penentuan sifat penting dampak;
-g. e'raluasi secara holistik terhadap Darrrpak Lingkungan Hidup;
-h. daftar pustaka; dan
-i. lampiran. (3) Penyusunan dokumen Andal sebagaimana dimaksud pada ayat (21 dilakukan berdasarkan pedoman penJrusunan dokumen .Andal sebagaimana tercantum dalam Lampir'an II yang merupakan bagian tidak terpisahkau dari Peraturan Pemerintah ini. Fasal 40 . Pasal 40 (1) Penanggung jau,ab Usaha dan/atau Kegiatan men5rusun dokumen RKL-RPL berdasarkan dokumen Andal sebagaimana dimaksud dalam Pasal 39 ayat (21. (21 Dokumen RKL-RPL sebagaimana dimaksud nada ayat (1) memuat:
-a. pendahuiuan;
-b. matrik RKL;
-c. matrik RPL;
-d. persyaratan dan kewajiban terkait dengan aspek Perlindungan dan Pengelolaan Lingkungan Hidup yang relevan terdiri atas pengolahan dan pembuangan Air Limbah, pemanfaatan Air Limbah untuk aplikasi ke tanah, pembuangan Emisi, Pengelolaan Limbah 83, dan/atau pengelolaan dampak lalu lintas;
-e. pernyataan komitmen penanggung jawab Usaha dan/atau Kegiatan untuk melaksanakan ketentuan yang tercantum dalam RKL-RPL;
-f. daftar pustaka; dan ' g. lampiran. (3) Pen5rusunan dokurnen RKL-RPL sebagaimana dimaksud pada ayat (21 dilakukan berdasarkan pedoman pen5rusunan dokumen RKL-RPL yang tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini. Paseri 41 (1) Pen5rusurran dokumen Andal sebagaimarra dimaksud dalam Pasal 39 dan dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 40 dibagi berdasarkan kategori Usaha dan/atau Kegiatan. (21 Kategori sebagaimana dimaksud pada ayat (1) meliputi:
-a. kategori A;
-b. kategori B; atau
-c. kategori C.
-(3) Kategori sebagaimana dimaksud pada ayat (21ditentukan berdasarkan kriteria:
-a. kompleksitas rencana Usaha dan/atau Kegiatan;
-b. dampak rencarla Usaha dan/atau Kegiatan terhadap Lingkungan llidup;
-c. sensitifitas lokasi rencalla Usaha danlatau Kegiatan; dan/atau
-d. kondisi daya dukung dan daya tampung Lingktrngan Hidup di iolrasi rencana Usaha dan/atau Kegia.tan. (4) Penetapan kategori sebagairnana dimaksud pada ayat (1), ayat (21, dan ayat (3) tercantum daiam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini. Pasal 42 (1) Pen5rusunan dokurnen Andal dan dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 4l ayat ^(2) drlakukan dalam ^jangka waktu:
-a. kategori A paling lama 180 (seratus delapan pulutr) hari;
-b. kategori B paling lama 120 (seratus dua puluh) hari; dan
-c. kategori C paling lama 60 (enam puluh) hari. (2) Dalam hal penyusunan dokumen Andal dan dokumen RKL-RPL ber: sifat sangat kompleks, jangka waktu pen5rusunan dapat dilakukan lebih lama dari jangka waktu kategori A sebagaimana dimaksud pada ayat (1) huruf a. (3) Penambahan wakt-u pen5rusunan sebagaimana dimaksud pada ayat (21 dilakukan berdasarkan permohonan penanggung jarvab Usaha dan/atau Kegiatan. Pasal 43 (1) Penanggung jawab Usaha dan/atau Kegiatan mengajukan dokumen Andal sebagaimana dimaksud dalam Pasal 39 dan dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 40 melaiui sistem informasi dokumen Lingkungan Hidup kepada I\'[enteri, gubernur, atau bupati/wali kota sesuai dengan kev.renangannya. (21 Pengajuan dokumen Andal dan dokumen RKL-RPL sebagaimana dinrakstrd pada ayat (1) harus dilengkapi dengan Persetujuan Tekrris. (3) Persetujuan Teknis sebagaimana dimaksud pada ayat (21 terdiri atas:
-a. pemenuhan Baku Mutu Air Limbah;
-b. pemenuhan Baku Mutu Emisi;
-c. Pengelolaan Limbah 83; dan/atau
-d. analisis mengena.i dampak lalu lintas. Pasal 44 (1) Dokumen Andal dan.dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 43 diiakukan penilaian oleh:
-a. Menteri rnelalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di pusat;
-b. gubernur melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di provinsi; atau
-c. bupati/wali kota melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di kabupaten/kota. {21 ^Penilaian ^sebagaimana ^dimal<s,-rd ^pada ^ayat ^(1) ^dilakukan melalui tahapan:
-a. penilaian administrasi; dan
-b. penilaian substansi. (3) Penilaian administrasi sebagaimana dimaksud pada ayat (2) huruf a meliputi:
-a. kesesuaian iokasi rencana Usaha dan/atau Kegiatan dengan rencana tata ruang;
-b. persetujuan b. persetujuan awal terkait rencana Usaha dan/atau Kegiatan;
-c. Persetujuan Teknis;
-d. keabsahan tanda bukti registrasi lembaga penyedia jasa pen5rusunan Amdal, apabila pen5rusunan dokumen Andai dan dokumen RKL-RPL dilakukan oleh lembaga penyedia jasa penJrusunan Amdal;
-e. keabsahan tanda bukti sertifikasi kompetensi pen5rusun Amdal; dan
-f. kesesuaian sistema.tika dokumen Andal dan dokumen RKL-RPL dengan pedoman pen5rusunan dokumen Andal dan dokumen RKL-RPL. (4) Penilaian substansi sebagaimana dimaksud pada ayat (21 huruf b meliputi:
-a. uji tahap proyek;
-b. uji kualitas kajian dokumen Andal dan dokumen RKL-RPL; dan
-c. Persetujuan Teknis. (5) Dalam hal hasil penilaian substansi sebagaimana dimaksud pada ayat (21 huruf b terdapat Dampak Lingkungan Hidup yang tidak dapat dikelola dan harus dilakukan perubahan Persetujuan Teknis, harus mendapatkan persetujuan dari kementerian/lembaga pemerintah nonkementerian atau organisasi perangkat daerah yang berwenang. ' Pasal 45 (1) Penilaian substansr sebagaimana dimaksud dalam Pasal 44 ayat (4) dilakrkan melalui rapat Tim Uji Kelayakan Lingkungan Hidup secara tatap rnuka langsung dan/atau dalam ^jaringan. (2) Dalarn hal rencana Usaha dan/atau Kegiatan bersifat kompleks Can melibatkan ban5rak pihak, rapat sebagaimana dimaksud pada ayat (1) dapat dilaksanakan lebih dari 1 (satu) kali. (3) Dalam melakukan penilaian substansi sebagaimana dimaksud pada ayat (1), Tim Uji Kelayakan Lingkungan Hidup melibatkan pihak:
-a. masyarakatyang terkena dampak langsung terhadap rencana Usaha dan/atau Kegiatan;
-b. ahli terkait dengan rencana dan/atau dampak Usaha dan/atau Kegiatan;
-c. instansi sektor penerbit persetujuan awal ^' d"., Persetujuan Teknis;
-d. instansi pusat, provinsi, atau kabupatenlkota yang terkait dengan rencana dan/atau clampak Usaha dan/atau Kegiatan; dan/atau
-e. masyarakat pemerhati Lingkungan Hidup dan/atau masyarakat berkepentingan lainnya ^'yarg telah menyampaikan saran, pendapat, dan tanggapan yang relevan pada pelibatan masyarakat di tahap penyusunan Formulir Kerangka Acuan. (4) Dalam penilaian substansi, Tim Uji Kelayakan Lingkungan Hidup dapat meiibatkan rnasyarakat sebagaimana dimaksud pada ayat (3) huruf e dalam kondisi tidak diperoleh saran, pendapat, Can tanggapan. (5) Hasil perrilaian substansi Tim Uji Kelayakan Lingkungan Hidup disusun dalarn berita acara rapat yang memuat informasi:
-a. dokumen Andal dan dokumen RKL-RPL tidak memerlukan perbaikan; atau
-b. dokumen Andal dan dokumen RKL-RPL memerlukan perbaikan. (6) Terhadap dokumen Andal. dan dokumen RKL-RPL yang tidak memerlukan perbail<an sebagaimana dimaksud pada ayat (5) huruf a, Tim Uji Kelayakan Lingkungan Hidup melakukan uji kela5'akan. (7) Terhadap dokumen Andal dan dokumen RKL-RPL yang memerlukan perbaikan sebagaimana dimaksud pada ayat (5) huruf b, Tim Uji Kelayakan Lingkungan Hidup mengembalikan dokumen Andal dan dokumen RKL-RPL kepada penanggung jawab Usaha dan/atau Kegiatan untuk diperbaiki dalam jangka waktu paling lama 30 (tiga puluh) hari kerja.
+(1) Sebelum pelaksanaan konsultasi publik sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf b, penanggung jawab Usaha dan/atau Kegiatan:
+  a. berkoordinasi dengan instansi terkait dan tokoh masyarakat yang akan dilibatkan dalam proses konsultasi publik; dan
+  b. mengundang masyarakat yang akan dilibatkan dalam konsultasi publik.
+(2) Dalam undangan konsultasi publik sebagaimana dimaksud pada ayat (1) huruf b, penanggung jawab Usaha dan/atau Kegiatan menyampaikan informasi mengenai:
+  a. tujuan konsultasi publik;
+  b. waktu dan temoat pelnksanaan konsultasi publik;
+  c. bentuk, cara, dan metcde konsrrltasi publik yang akan dilakukan;
+  d. tempat dimana masyarakat dapat memperoleh informasi tambahan; dan
+  e. lingkup saran, perrdapat, dan tanggapan dari masyarakat.
+(3) Bentuk, c.ara, dan rnetode konsultasi publik sebagaimana dimaksud pada ayat (2) huruf c dilakukan secara dalam jaringan atau luar jaringan mencakup:
+  a. lokakarya;
+  b. serninar, 
+  c. focus group discussktn;
+  d. temu warga;
+  e. forum dengar pendapat-;
+  f. dialog interaktif; dan/atau
+  g. be'rtuk, cara, dan metode lain yang clapat digunakan untu.k berkomurrikasi secara 2 (dua) arah.
+(4) Penanggung jawab Usaha dan/atau Kegiatan dapat memilih salah satu atau kombinasi dari berbagai bentuk, cara, dan metode konsultasi publik sebagaimana dimaksud pada ayat (3) yang secara efektif dan efisien dapat menjaring saran, pendapat, dan tanggapan masyarakat secara optimal.
+
+Pasal 34
+(1) Dalam peiaksanaan konsultasi publik, penanggung jawab Usaha dan latau Kegiatan menyampaikan informasi paling sedikit terkait:
+  a. deskripsi rencana Usaha dan/atau Kegratan;
+  b. dampak potensial yang akan timbul dari identiiikasi awal penanggung jawab Usaha dan/atau Kegiatan meliputi penurunan kualitas air permukaan, penurunan kualitas Udara Ambien, Kerusakan Lingkungan, keresahan masyarakat, gangguan lalu Iintas, gangguan kesehatien- masyarakat, kesempatan kerja, dan peluang berusaha; dan
+  c. kompcnen lingkungan yang akan terkena dampak Cari rencana Usaha dan/atau Kegiatan.
+(2) Berdasarkan informasi yang disampaikan oleh penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1), masyarakat yang terkena dampak langsung berhak menyampaikan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan.
+(3) Penanggung jawab Usaha dan/atau Kegiatan wajib mendokumentasikan dan mengolah saran, pendapat, dan tanggapan masyarakat yang disampaikan sebagaimana dimaksud pada ayat (2).
+(4) Saran, pendapat, dan tanggapan masyarakat yang telah diolah sebagaimana dimaksud pada ayat (3) wajib digunakan oleh penanggung jawab Usaha dan/atau Kegiatan sebagai masukan dalam pengisian Formulir Kerangka Acuan.
+
+Pasal 35
+(1) Pengumuman rencana Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf a disampaikan juga oleh penanggung jawab Usaha dan/atau Kegiatan kepada Tim Uji Kelayakan Lingkungan Hidup.
+(2) Tim Uji Kelayakan Lingkungan Hidup melakukan pelibatan masyarakat dengan menempatkan pengumuman yang disampaikan penanggung jawab Usaha dan/atau Kegiatan kepada masyarakat pada sistem informasi dokumen Lingkungan Hidup bersamaan dengan pengumuman yang dilakukan penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf a.
+(3) Masyarakat sebagaimana dimaksud pada ayat (2) meliputi:
+  a. pemerhati Lingkungan Hidup; dan/atau
+  b. masyarakat berkepentingan lainnya.
+(4) Masyarakat sebagaimana dimaksud pada ayat (3) berhak mengajukan saran, pendapat, dan tanggapan terhadap rencana Usaha dan/atau Kegiatan dalam jangka waktu 10 (sepuluh) hari kerja sejak pengumuman dipublikasikan.
+(5) Saran, pendapat, dan tanggapan sebagaimana dimaksud pada ayat (4) disampaikan kepada Tim Uji Kelayakan Lingkungan Hidup.
+(6) Tim Uji Kelayakan Lingkungan Hidup menyaring saran, pendapat, dan tanggapan yang disampaikan sebagaimana dimaksud pada ayat (5) untuk memilah masukan yang relevan.
+(7) Tim Uji Kelayakan Lingkungan Hidup menyampaikan saran, pendapat, dan tanggapan yang relevan sebagaimana dimaksud pada ayat (6) kepada penanggung jawab Usaha dan/atau Kegiatan untuk digunakan dalam pengisian Formulir Kerangka Acuan.
+
+Pasal 36
+(1) Kementerian/lembaga pemerintah nonkementerian yang membidangi sektor bidang Usaha dan/atau Kegiatan wajib Amdal menyusun Formulir Kerangka Acuan spesifik sesuai dengan jenis Usaha dan/atau Kegiatan.
+(2) Formulir Kerangka Acuan spesifik sebagaimana dimaksud pada ayat (1) terdiri atas:
+  a. formulir pelingkupan; dan
+  b. formulir metode studi Andal.
+(3) Kementerian/lembaga pemerintah nonkementerian yang membidangi sektor bidang Usaha dan/atau Kegiatan wajib Amdal, dalam menyusun Formulir Kerangka Acuan spesifik sebagaimana dimaksud pada ayat (1) berkoordinasi dengan Menteri.
+(4) Menteri memasukkan Formulir Kerangka Acuan spesifik yang disusun oleh kementerian/lembaga pemerintah nonkementerian sebagaimana dimaksud pada ayat (3) ke dalam sistem informasi dokumen Lingkungan Hidup.
+(5) Formulir Kerangka Acuan spesifik sebagaimana dimaksud pada ayat (1) disusun dengan menggunakan format sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 37
+(1) Penanggung jawab Usaha dan/atau Kegiatan mengisi Formulir Kerangka Acuan spesifik yang tersedia dalam sistem informasi dokumen Lingkungan Hidup sebagaimana dimaksud dalam Pasal 36 ayat (4).
+(2) Dalam hal Formulir Kerangka Acuan spesifik belum tersedia dalam sistem informasi dokumen Lingkungan Hidup sebagaimana dimaksud pada ayat (1), pengisian Formulir Kerangka Acuan mengacu pada format Formulir Kerangka Acuan sebagaimana dimaksud dalam Pasal 36 ayat (5).
+
+Pasal 38
+(1) Formulir Kerangka Acuan yang telah diisi dan diajukan oleh penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 37 diperiksa oleh:
+  a. Menteri melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di pusat;
+  b. gubernur melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di provinsi; atau
+  c. bupati/wali kota melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di kabupaten/kota.
+(2) Tim Uji Kelayakan Lingkungan Hidup dalam melakukan penreriksaan Formulir Kerangka Acuan sebagaimana dimaksud pada ayat (1) dapat melibatkan:
+  a. ahli terkait dengan rencana Usaha dan/atau Kegiatan atau Dampak Lingkungan Hidup dari Usaha dan/atau Kegiatan; dan
+  b. instansi terkait dengan rencana Usaha dan/atau Darnpak Lingkungan Hidup dari lJsaha dan/atau Kegiatan.
+(3) Pemeriksaan sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 10 (sepuluh) hari kerja sejak Formulir Kerangka Acuan diterima dari penanggung jawab Usaha dan/atau Kegiatan secara lengkap.
+(4) Hasil pemeriksaan Formulir Kerangka Acuan disusun dalam bentuk berita acara kesepakatan Formulir Kerangka Acuan yang memuat informasi paling sedikit:
+  a. Dampak Penting hipotetik,
+  b. batas wilayah studi dan batas waktu kajian;
+  c. metode studi;
+  d. penetapan kategori Amdal; dan
+  e. waktu penyusunan dokumen Andal dan RKL-RPL.
+(5) Tata laksana pemeriksaan Forrnulir Kerangka Acuan tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 39
+(1) Penanggung jawab Usaha dan/atau Kegiatan menyusun dokumen Andal berdasarkan Formulir Kerangka Acuan sebagaimana dimaksud dalam Pasal 38 ayat (4).
+(2) Dokumen Andal sebagaimana dimaksud pada ayat (1) memuat:
+  a. pendahuluan;
+  b. deskripsi rencana Usaha dan/atau Kegiatan beserta alternatifnya;
+  c. deskripsi rinci rona Lingkungan Hidup;
+  d. hasil dan evaluasi pelibatan masyarakat;
+  e. penentuan Dampak Penting hipotetik yang dikaji, batas wilayah studi, dan batas waktu kajian;
+  f. prakiraan Dampak Penting dan penentuan sifat penting dampak;
+  g. evaluasi secara holistik terhadap Darrrpak Lingkungan Hidup;
+  h. daftar pustaka; dan
+  i. lampiran.
+(3) Penyusunan dokumen Andal sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan pedoman penyusunan dokumen Andal sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 40
+(1) Penanggung jawab Usaha dan/atau Kegiatan menyusun dokumen RKL-RPL berdasarkan dokumen Andal sebagaimana dimaksud dalam Pasal 39 ayat (2).
+(2) Dokumen RKL-RPL sebagaimana dimaksud pada ayat (1) memuat:
+  a. pendahuluan;
+  b. matrik RKL;
+  c. matrik RPL;
+  d. persyaratan dan kewajiban terkait dengan aspek Perlindungan dan Pengelolaan Lingkungan Hidup yang relevan terdiri atas pengolahan dan pembuangan Air Limbah, pemanfaatan Air Limbah untuk aplikasi ke tanah, pembuangan Emisi, Pengelolaan Limbah B3, dan/atau pengelolaan dampak lalu lintas;
+  e. pernyataan komitmen penanggung jawab Usaha dan/atau Kegiatan untuk melaksanakan ketentuan yang tercantum dalam RKL-RPL;
+  f. daftar pustaka; dan
+  g. lampiran.
+(3) Penyusunan dokumen RKL-RPL sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan pedoman penyusunan dokumen RKL-RPL yang tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 41
+(1) Penyusunan dokumen Andal sebagaimana dimaksud dalam Pasal 39 dan dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 40 dibagi berdasarkan kategori Usaha dan/atau Kegiatan.
+(2) Kategori sebagaimana dimaksud pada ayat (1) meliputi:
+  a. kategori A;
+  b. kategori B; atau
+  c. kategori C.
+(3) Kategori sebagaimana dimaksud pada ayat (2) ditentukan berdasarkan kriteria:
+  a. kompleksitas rencana Usaha dan/atau Kegiatan;
+  b. dampak rencarla Usaha dan/atau Kegiatan terhadap Lingkungan llidup;
+  c. sensitifitas lokasi rencana Usaha dan/atau Kegiatan; dan/atau
+  d. kondisi daya dukung dan daya tampung Lingktrngan Hidup di iolrasi rencana Usaha dan/atau Kegia.tan. (4) Penetapan kategori sebagairnana dimaksud pada ayat (1), ayat (2), dan ayat (3) tercantum daiam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 42
+(1) Penyusunan dokumen Andal dan dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 41 ayat (2) dilakukan dalam jangka waktu:
+  a. kategori A paling lama 180 (seratus delapan pulutr) hari;
+  b. kategori B paling lama 120 (seratus dua puluh) hari; dan
+  c. kategori C paling lama 60 (enam puluh) hari.
+(2) Dalam hal penyusunan dokumen Andal dan dokumen RKL-RPL bersifat sangat kompleks, jangka waktu penyusunan dapat dilakukan lebih lama dari jangka waktu kategori A sebagaimana dimaksud pada ayat (1) huruf a.
+(3) Penambahan waktu penyusunan sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan permohonan penanggung jawab Usaha dan/atau Kegiatan.
+
+Pasal 43
+(1) Penanggung jawab Usaha dan/atau Kegiatan mengajukan dokumen Andal sebagaimana dimaksud dalam Pasal 39 dan dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 40 melalui sistem informasi dokumen Lingkungan Hidup kepada Menteri, gubernur, atau bupati/wali kota sesuai dengan kev.renangannya.
+(2) Pengajuan dokumen Andal dan dokumen RKL-RPL sebagaimana dimaksud pada ayat (1) harus dilengkapi dengan Persetujuan Teknis.
+(3) Persetujuan Teknis sebagaimana dimaksud pada ayat (2) terdiri atas:
+  a. pemenuhan Baku Mutu Air Limbah;
+  b. pemenuhan Baku Mutu Emisi;
+  c. Pengelolaan Limbah B3; dan/atau
+  d. analisis mengenai dampak lalu lintas.
+
+Pasal 44
+(1) Dokumen Andal dan.dokumen RKL-RPL sebagaimana dimaksud dalam Pasal 43 dilakukan penilaian oleh:
+  a. Menteri melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di pusat;
+  b. gubernur melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di provinsi; atau
+  c. bupati/wali kota melalui Tim Uji Kelayakan Lingkungan Hidup yang berkedudukan di kabupaten/kota.
+(2) Penilaian sebagaimana dimaksud pada ayat (1) dilakukan melalui tahapan:
+  a. penilaian administrasi; dan
+  b. penilaian substansi.
+(3) Penilaian administrasi sebagaimana dimaksud pada ayat (2) huruf a meliputi:
+  a. kesesuaian lokasi rencana Usaha dan/atau Kegiatan dengan rencana tata ruang;
+  b. persetujuan awal terkait rencana Usaha dan/atau Kegiatan;
+  c. Persetujuan Teknis;
+  d. keabsahan tanda bukti registrasi lembaga penyedia jasa pen5rusunan Amdal, apabila pen5rusunan dokumen Andai dan dokumen RKL-RPL dilakukan oleh lembaga penyedia jasa penJrusunan Amdal;
+  e. keabsahan tanda bukti sertifikasi kompetensi pen5rusun Amdal; dan
+  f. kesesuaian sistema.tika dokumen Andal dan dokumen RKL-RPL dengan pedoman pen5rusunan dokumen Andal dan dokumen RKL-RPL.
+(4) Penilaian substansi sebagaimana dimaksud pada ayat (2) huruf b meliputi:
+  a. uji tahap proyek;
+  b. uji kualitas kajian dokumen Andal dan dokumen RKL-RPL; dan
+  c. Persetujuan Teknis.
+(5) Dalam hal hasil penilaian substansi sebagaimana dimaksud pada ayat (2) huruf b terdapat Dampak Lingkungan Hidup yang tidak dapat dikelola dan harus dilakukan perubahan Persetujuan Teknis, harus mendapatkan persetujuan dari kementerian/lembaga pemerintah nonkementerian atau organisasi perangkat daerah yang berwenang.
+
+Pasal 45
+(1) Penilaian substansr sebagaimana dimaksud dalam Pasal 44 ayat (4) dilakukan melalui rapat Tim Uji Kelayakan Lingkungan Hidup secara tatap muka langsung dan/atau dalam jaringan.
+(2) Dalam hal rencana Usaha dan/atau Kegiatan bersifat kompleks dan melibatkan banyak pihak, rapat sebagaimana dimaksud pada ayat (1) dapat dilaksanakan lebih dari 1 (satu) kali.
+(3) Dalam melakukan penilaian substansi sebagaimana dimaksud pada ayat (1), Tim Uji Kelayakan Lingkungan Hidup melibatkan pihak:
+  a. masyarakat yang terkena dampak langsung terhadap rencana Usaha dan/atau Kegiatan;
+  b. ahli terkait dengan rencana dan/atau dampak Usaha dan/atau Kegiatan;
+  c. instansi sektor penerbit persetujuan awal dan Persetujuan Teknis;
+  d. instansi pusat, provinsi, atau kabupaten/kota yang terkait dengan rencana dan/atau clampak Usaha dan/atau Kegiatan; dan/atau
+  e. masyarakat pemerhati Lingkungan Hidup dan/atau masyarakat berkepentingan lainnya yang telah menyampaikan saran, pendapat, dan tanggapan yang relevan pada pelibatan masyarakat di tahap penyusunan Formulir Kerangka Acuan.
+(4) Dalam penilaian substansi, Tim Uji Kelayakan Lingkungan Hidup dapat melibatkan masyarakat sebagaimana dimaksud pada ayat (3) huruf e dalam kondisi tidak diperoleh saran, pendapat, dan tanggapan.
+(5) Hasil perrilaian substansi Tim Uji Kelayakan Lingkungan Hidup disusun dalam berita acara rapat yang memuat informasi:
+  a. dokumen Andal dan dokumen RKL-RPL tidak memerlukan perbaikan; atau
+  b. dokumen Andal dan dokumen RKL-RPL memerlukan perbaikan.
+(6) Terhadap dokumen Andal dan dokumen RKL-RPL yang tidak memerlukan perbaikan sebagaimana dimaksud pada ayat (5) huruf a, Tim Uji Kelayakan Lingkungan Hidup melakukan uji kelayakan.
+(7) Terhadap dokumen Andal dan dokumen RKL-RPL yang memerlukan perbaikan sebagaimana dimaksud pada ayat (5) huruf b, Tim Uji Kelayakan Lingkungan Hidup mengembalikan dokumen Andal dan dokumen RKL-RPL kepada penanggung jawab Usaha dan/atau Kegiatan untuk diperbaiki dalam jangka waktu paling lama 30 (tiga puluh) hari kerja.
+
 Pasal 46
-Pasal 46 (1) Penanggung rawab Usaha dan/atau Kegiatan menyampaikan Cckumen Andal dan dokumen RKL-RPL yang telah diperbaiki sesuai dengan ketentuan sebagairnana dimaksud dalam Pasal 45 ayat (7). (21 Terhadap dokumen Andal dan dokurnen RKL-RPI, yang telah diperbaiki sebagaimana dimaksud pada ayat (1,p, Tim Uji Kelayakan Lingkungan Hidup melakukan evaluasi perbaikan. (3) Berdasarkan evaluasi sebagairr'.ana dimaksud par: ia ayat (2), Tim Uji Kelayakan Lingkungan Hidup melakukarr uji kelayakan. Pasal 47 (1) Uji kelayakan Lingkungan Hidup sebagaimana dimahstrd dalanr Pasal 45 ayat (6) dan Pasal 46 ayat (3) dilakukan berdasarkan kriteria kelayakan yang meliputi:
-a. kesesuaian lokasi rencana Usaha dan/atau Kegiatan dengan rencana tata ruang dan ke+,entuan peraturan perundang-undangan yang mengatur terkait dengan pemanfaatan ruang;
-b. kesesuaian rencana Usaha dan/atau Kegiatan dengan kebijakan di bidang Perlindungan dan Pengelc,'laan Lingkungan Hidup serta sumber daya alam yang diatur dalain peraturan perundang- undangan;
-c. rencana Usaha dan/atau Kegiatan tidak menganggu kepentingan pertaha nan keamanan;
-d. prakiraan secara cerrnat mengenai besaran dan sifat penting dampak dari aspek biogeofisik kimia. sosial, ekonomi, budaya. tata ruang, dan kesehatan masyarakat pada tahap pra konstruksi, konstruksi, operasr, dair. pasca operasi Usaha dan/atau Kegiatan;
-e. hrrsii evaluasi secara holistik terhadap seluruh Dampak Penting sebagai satu kesatuan )'ang saling terkait clan saling mempengaruhi sehingga diketahui perimbangan Dampak Pentirrg yang bersifat posrtif dengan i-ang bersifat negatif;
-f. kemampuan penanggrrng jawab Usaha. dan/atau Kegiatan dan/atau pihak terkait yang bertanggr-rng jawah clalarn menanggulangi Dampak Penting negatif yang akan ditirnbulkan dari Usaha dan/atau Kegiatan yang direncanakan dengan pendekatan teknologi, sosial, dan kelembagaan;
-g. rencana Usaha danf atau Kegiatan tidak mengganggu nilai-nilai sosial atau pandangan masyarak at (emic uieu) ;
-h. rencana Usaha dan/atau Kegiatan tjdak akan mempenganrhi dan/atarl mengganggu e-ntit_as ekologis yang merupakan:
-1. entitas dan/atau spesies kunci (keg speciesl;
-2. memiliki nilai penting secara ekologis (ecological irnpoftance);
-3. memiliki nilai penting secara ekonomi (economic importan c: e) ; dan/atau
-4. memiliki nilai penting secara ilmiah (scientific importance);
-i. rencana Usaha dan/atau Kegiatan tidak menimbulkan gangguan terhadap Usaha dan/atau Kegiatan yang telah berada di sekitar rencana ickasi Usaha dan/atau Kegiatan; clan/atau j. tidak dilampauinya daya dukung dan daya tampung Lingkungan Hidup dari lokasi rencana Usaha dan/atau Kegiatan, dalam hal terdapat pertritungan daya dukung dan daya tampung Lingkungan Hidup dimaksud. (21 Berdasarkan hasil uji kelayakan sebagaimana dimaksud pada ayat (1), Tim Uji Kelayakan Lingkungan Hidup menyampaikan rekomendasi kepada Menteri, gubernur, atau bupati/v,'ali kota sesuai dengan kewenangannya. (3) Rekomendasi sebagaimana dimaksud pada ayat (2) berupa:
+(1) Penanggung jawab Usaha dan/atau Kegiatan menyampaikan dokumen Andal dan dokumen RKL-RPL yang telah diperbaiki sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 45 ayat (7).
+(2) Terhadap dokumen Andal dan dokumen RKL-RPL yang telah diperbaiki sebagaimana dimaksud pada ayat (1), Tim Uji Kelayakan Lingkungan Hidup melakukan evaluasi perbaikan.
+(3) Berdasarkan evaluasi sebagaimana dimaksud pada ayat (2), Tim Uji Kelayakan Lingkungan Hidup melakukan uji kelayakan.
+
+Pasal 47
+(1) Uji kelayakan Lingkungan Hidup sebagaimana dimaksud dalam Pasal 45 ayat (6) dan Pasal 46 ayat (3) dilakukan berdasarkan kriteria kelayakan yang meliputi:
+  a. kesesuaian lokasi rencana Usaha dan/atau Kegiatan dengan rencana tata ruang dan ketentuan peraturan perundang-undangan yang mengatur terkait dengan pemanfaatan ruang;
+  b. kesesuaian rencana Usaha dan/atau Kegiatan dengan kebijakan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup serta sumber daya alam yang diatur dalam peraturan perundang-undangan;
+  c. rencana Usaha dan/atau Kegiatan tidak menganggu kepentingan pertahanan keamanan;
+  d. prakiraan secara cerrnat mengenai besaran dan sifat penting dampak dari aspek biogeofisik kimia. sosial, ekonomi, budaya. tata ruang, dan kesehatan masyarakat pada tahap pra konstruksi, konstruksi, operasr, dair. pasca operasi Usaha dan/atau Kegiatan;
+  e. hasil evaluasi secara holistik terhadap seluruh Dampak Penting sebagai satu kesatuan yang saling terkait dan saling mempengaruhi sehingga diketahui perimbangan Dampak Penting yang bersifat positif dengan yang bersifat negatif;
+  f. kemampuan penanggung jawab Usaha dan/atau Kegiatan dan/atau pihak terkait yang bertanggung jawab dalam menanggulangi Dampak Penting negatif yang akan ditimbulkan dari Usaha dan/atau Kegiatan yang direncanakan dengan pendekatan teknologi, sosial, dan kelembagaan;
+  g. rencana Usaha dan/atau Kegiatan tidak mengganggu nilai-nilai sosial atau pandangan masyarakat (emic uieu) ;
+  h. rencana Usaha dan/atau Kegiatan tjdak akan mempenganrhi dan/atau mengganggu entitas ekologis yang merupakan:
+    1. entitas dan/atau spesies kunci (key species);
+    2. memiliki nilai penting secara ekologis (ecological importance);
+    3. memiliki nilai penting secara ekonomi (economic importance); dan/atau
+    4. memiliki nilai penting secara ilmiah (scientific importance);
+  i. rencana Usaha dan/atau Kegiatan tidak menimbulkan gangguan terhadap Usaha dan/atau Kegiatan yang telah berada di sekitar rencana lokasi Usaha dan/atau Kegiatan; dan/atau 
+  j. tidak dilampauinya daya dukung dan daya tampung Lingkungan Hidup dari lokasi rencana Usaha dan/atau Kegiatan, dalam hal terdapat pertritungan daya dukung dan daya tampung Lingkungan Hidup dimaksud. 
+(2) Berdasarkan hasil uji kelayakan sebagaimana dimaksud pada ayat (1), Tim Uji Kelayakan Lingkungan Hidup menyampaikan rekomendasi kepada Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya. 
+(3) Rekomendasi sebagaimana dimaksud pada ayat (2) berupa:
 a. rekornendasi kelayakan Lingkungan Hidup; atau
 b. rekomendasi ketidaklayakan Lingkungan Hidup.
-(4) Rekomendasi (4) Rekomendasi kelayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (3) huruf a dapat berupa rekomendasi kelayakan ba.gi sebagian rencana Usaha dan/atau Kegiatan yang diusulkan oleh penanggung jawab Usaha dan/amu Kegiatan. Pasal 48 (1) Jangka waktrr penilaian substansi dokumen Andai dan dokumen RKL-RPL dan uji kelayakan Lingkunga.n Hidup sebagaimana dimaksud dalam Pasal 44 sampai derrgan Pasai 47, dilakukan paling larrra 50 (lima puluh) hari keria sejak dokumen Anclal dan dokumen RKL-RPL dinyatakan lengkap dalam penilaian aciministrasi. (21 Jangka waktu sebagaimana dimaksud pada ayat (1) termasuk .iangka waktu perbaikan dokumen Andal dan dokumen RKL-RPL dalam penilaian substansi oleh penanggung jawab Usaha danlatau Kegiatan. Pasal 49 (1) Rekomendasi hasil uji kelayakan sebagaimana dimaksud dalam Pasal 47 ayat (21 menjadi bahan pertimbarlgan Menteri, gubernur, atau bupati/wali kota sesuai dengarr kewenangannya dala m menetapkan:
-a. surat Keputusan Kelayakan Lingkungan Hidup, jika rencana Usaha dan/atau Kegiatan dinyatakan layak Lingkurngan Hidup; atau
-b. surat keputusan ketidaklayakan Lingkungan Hidup, jika rencana Usaha danlatau Kegiatan dinyatakan tidak layak Lingkungan Hidup. (2) Surat Keputusan Kelayakan Lingkungan Hidup atau surat keputusan ketidaklayakan Lingkungan Hidup sebagaimana dimaksud pada a),at (1) ditetapkan dalam jangka waktu paling lama 10 (sepuluh) hari kerja sejak rekomendasi hasil uji kelayakan diterima. (3) Surat Keputusan Kelayakan Lingkungan Hidup yang ditetapkan setragaimana dimaksud pada ayat (1) huruf a merupakan:
-a. bentuk Persetujuan Lingkungan; dan
-b. prasyarat r'{Tr' b. prasyarat penerbit-a.n Perizinan Berusahra atau Persetujuan Pemerin tah. (4) Persetujuan Pernerintah sebagaimana dimaksucl pada ayat (3) huruf b diterbitkan sesuai dengan keterrtuan peratu ran penrndang-undangan. (5) Perizinan Berusaha ataur Persetujuan Pcmerint-ah sebagairriana dima-ksud pada ayaL (41 merurpakan dasar pelaksanaarr Pengarvvasan Usaha dan/ata-u Kegiatarr. (6) Surat Keputusan Kelayakan Lingkungan Hidi.ip sebagaimana dimakstrd pada ayat (1) huruf a, praling sedikit tnenluat:
-a. dasar ditetapkannya, Kepur-usan Kelayakarr Lingkungan Hidup, berupa rekomenciasi hasil uji keiayakan dari Tim Uji l(elayakan Lingkungan Hidup;
-b. identitas penanggung jawab Usaha dan/atau Kegiatan sesuai dengan identitas yang tertulis dalam Perizinan Berusaha atau Persetujuan Peirrerintah. meliputi:
-1. nama tlsaha dani atau Kegiatan;
-2. jenis Usaha dan/atau Kegiatan;
-3. nama dan jabatan penanggung ja'*,ab Usaha danr/atau Kegia-tan. 4. alamat kantor: dan 5. lokasi Usaha dair/atau Kegiatan;
-c. lingkup rencana Usaha dan/atar: Kegiatan yang disetujui untuk dilakukan, baik kegiatan utama maupun kegiatan pendukung sesuai dengan Persetujuan Teknis yang diterbitkan oleh instansi yang berwenai: ',g rnenerbitkan Persetujuan Teknis;
-d. Persetu; uan Teknis paling sedikit rnemuat:
-1. standar teknis baku mutu Lingkunga.n tlidup, Pengelolaai: Lirnbah 83, dan/atau analisis tnengenai dampak lalu lintas;
-2. standar kompetensi sumber daya manusia terkait baku rnutu Lingkungan l{iCup, Pengelolaan l,imbah 83, dan analisis mengenai dampak lalu lintas; dan
-3. sistem rnanajemen lingkungan.
-e. pe!'syaratan e f. persyaratan penanggung .jawab [.]saha Can/atau Kegiatan untuk rnemenutrr komitmerr Persetujuan Teknis seLrelum operresi terkait dengan lingkr; p Persetu'iuan Teknis; ke'".r,ajiban penariggung jawab Usaha dan/ateru Kegiatan, yang terdiri ata.s:
-1. memenuhi ketentuan sesuai riengan dokumen RKL-RPI,;
-2. nrematuhi ketentuan peraturan perundr.ng- undangan di bidang Perlinclungan dan Pengelolaan Lingkungan Flidup;
-3. rnemenuhi kewajiban pada Persetujuan Teknis pasca veritlkasi pemenuhan baku rnutu Lingkungan Hidup, Pengelolaan Limbah 83, dan/atau anahsis mengenai dampak lalu lintas:
-4. rnenyiapkan dana penjaminan untuk pemulihan frurgsi Lingkungan Hidup sesuai dengan ketentuan peraturan perundang-undangan;
-5. meiakukan pengelolaan Limbah nonB3 sesuai rinciar pengeiolaan yang termrrat. daiam dokumen RIO-RPL;
-6. menyarnpaikarr laporan pelaksanaan persyaratan dan kewajiban Perizinan Berusaha atau Persetujuan Pemerintah terkait Persetujuan Lingkungan secara berkala setiap 6 (enam) bulan sekali;
-7. mengajukan permohonan perubaharr Persetujuan Lingkungan apabila direncanakan untuk melakukan perubahan Usaha dan/atau Kegiatan;
-8. melakukan audit lingkungan pada tahapan pasca operasi untuk memastikan kewajiban telah clilaksanakan dalam ranglia pengakhiran kewajiban pengelolaan dan pemantauan Lingkungan Hidup; dan/atau
-9. kewajiban lain yang ditetapkan oleh Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya berdasarkan kepentrngan Perlindungan clan Pengelolaan Lingkungan Hidup; hal-hal lain, yang meliputi: o b' 1. ketentuan .
-1. ketentuan bahvra penanggutlg jawab Usaha dar: iatau Kegiatan dapat dikr: nakan Sanksi Administratif apabila Citernukan pelanggaran administratif;
-2. ketentuan bahv"'a penanggung jawab Usaha dan/atau Kegiatan \.,.,ajib memberikan akses kepada Pejabat Pengawas Lingkungan Hiciup untuk melakukan pengawasan seslrai dengan kewenangan;
-3. ketentuan masa berlaku Surat Keputusan Keiayakan Lingkungan Hidup, yang menjelaskan bahu,a keputusan kelayakan Lingkungan Hidup ini berlaku s.-lama Usaha dan7'atar-l Kegiatan berlangsung sepanjang t.idak ada perubahan atas lJsaha danlatau Kegiatan dimaksud; dan
-4. tanggal penetapan Surat Keputusan Kelavakan Lingkungan Hidup. (/) Surat keputusan I<etidaklayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (1) huruf b, paling sedikit memuat:
-a. lingktrp rencana Usaha dan/atad Kegiatan;
-b. dasar pertimbangan ketidaklayakan Lingkungan FIidup;
-c. penetapan ketidaklayakan Lingkungan Hidup; dan d, tanggal penetapan keputusan ketidaklayakan Lingkungan Hidup. Pasal 50 (1) Surat Keputusan Kelayakan Lingkungan Hidup yang telah diterbitkan oleh Menteri, gubernrrr, atau bupati/wali l<ota sesuai dengan kewenangann_va diumumkan kepada masyarakar- melalui Sistem Inforrnasi Lingkungarr Hidrtp atau cirra lainnya yang Citetapkan oleh Pemerintah. (21 Cara lainnya yang rJitetapkan oleh pemerintah sebagairnana dimaksud pada ayat (1) terdiri atas: a" media rnassa: Can/atau b. pengumuman pada iokasi Usaha dan/atau Kegiatan.
-(3) Pengumuman .
-(3) Pengumuman sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 5 (lima) hari kerja sejak diterbitkannya surat Keputusan Kelayakan Lingkungan Hidup. Pasal 51 Tata laksana penilaian dokumen Andal dan dokumen RKL-RPL, penyampaian hasil uji kelayakan, dan penetapan surat Keputusan Kelayakan Lingkungan Hidup atau ketidaklayakan Lingkurrgan Hidup sebagaimana dimaksud dalam Pasal 44 sampai dengan Pasal 50 tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pernerintah ini.
-Bagian Ketiga Pen5rusunan dan Pemeriksaan Formulir UKL-UPL Pasal 52 (1) Formulir UKL-UPL diisi oleh penanggung jawab Usaha danlatau Kegiatan pada tahap perencanaan Usaha dan/atau Kegiatan. 12) ^Lokasi ^rencana ^Usaha ^danlatau ^Kegiatan ^sebagaimana dimaksud pada ayat (1) wajib sesuai dengan rencana tata ruang. (3) Kesesuaian lokasr rencana Usaha dan/atau Kegiatan dengan rencana tata ruang sebagaimana dimaksud pada ayat (2\ dibuktikari dengan konfirmasi kesesuaian kegiatan pemanfaatan ruang atau rekomendasi kesesuaian kegiatan pemanfaatan ruang sesuai dengan ketentuan peraturan perllrrdang-undangan. (41 Dalam hal lokasi rerrcana Usaha dan/atau Kegiatan tidak sesuai dengan rencana tata ruang sebagaimana dimaksud pada ayat (3), Formulir tll{L-UPL tidak dapat diperiksa dan dikenrbaiikan kepada penanggung jawab Usaha dan/atau Kegiatan. Pasai 53 (1) Penyusunan Forrnulir UKL-UPL ciinrulai dengan penyeCiaarr data dan informasi berupa:
-a. deskripsi rencana Usaha clan/atau Kegiatan; dan/atau
-b. Persetujuan Teknis. (21 Dalarri hal Usaha dan/atar.r Kegiatan yang ciirencanakarr lebih dari 1 (satu) {lsaha dan/atau Kegiatan yang perencanaan dan pengelolaannya saling terkait serta. berlokasi di dalam satu kesatuan hamparan ekosistem, dapat dirnuat dalam 1 (satu) F-ormulir UKL-UPL. (3) Pendekatan penyusunan Formulir UKL-UPL sebagaimana dimaksud pacla ayat {21yang dilakukan oleh lebih dari 1 (satu) penanggung jawab Usaha dan/atar.r Kegiatan terhadap Usaha dan/atau Kegiatan yang saling terintegrasi dapat disusun dalam 1 (satu) Forinulir UKL- UPL yang ciapat digunakan untuk penerbitan lebih dari 1 (satu) Perizinan Berusaha atau Persetujuan Pemerintah. Pasal 54 (1) Aparatur sipil negara yang bekerja pada instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota dilarang menjadi pen)rusun UKL-UPL. (21 Dalam hal instansi Lingkungan Hidup Pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten / kota bertindak sebagai penanggung jawab Usaha danlatau Kegiatan, aparatur sipil negara sebagaimana dimaksud pada ayat (1) dapat menjadi penvusun UKL-.UPL bagi insta.nsinya masing-masing. Pasal 55 (1) I.'ormulir UKL-LIPL disusun dalam bentuk standar pengelolaan dan pemantauan Lingkungan Flidup. (21 Kementerian/iernbaga pemerintah nonkementerian J,ang membidangi sektor bida.ng Usaha dan/atau Kegiatan wajib UKL-UPL rnenlus'url Formulir UKL-UPL standar spesifik sesuai dengan jenis Usaha dan/atau Kegiatan.
-(3) Kementerian (3) Kementerian/lembaga pemerintah nonkementerian yang membidangi sektor bidang Usaha dan,,atau Kegiatan wajib UKL-UPL, dalam menyusun Formulir UKL-UPL standar spesifik sebagairrrana dimaksud pada ayat (21 berkoorciinasi dengan Mcnteri. (4) Menterr memasukkan Formulir UKL-UPL standar spesifik yang disusun oleh kementerian/lembaga pemerintah nonkementerian sebagaimana dimaksud pada ayat (3) ke daiam sisterrr informasi dokumen Lingkungarl Hidup. (5) Formulir UKL-UPL standar spesif,rk sebagaimana dimaksud pada ayat. (21 disusun dengan menggunakan format sebagaimana tercantum dalam Larnpiran III yang merupakan bagian tidai< terpisahkan dari pera'-uran Pemerintah ini. Petsal 56 (I) Penanggung jawab Usaha dan/atau Kegiatan merrgisi Formulir UKL-UPL standar spesifik yang t-ersedia dalam sistem informasi dokumen Lingkungan Hidup sebagaimana dimaksud dalam Pasal 55 ayat (4). (21 Dalam hal Formulir UKL-UPL standar spesifik belum tersedia dalam sistern irrformasi dokumen Lingkungan Hidup sebagaimana dimaksud pada ayal (1), pengisian Formulir UKL-UPL standar mengacu pada format F'ormulir UKL-UPL standar sebagaimana dimaksud datam pasal 55 ayat (5). (3) Formulir UKI-.-IJPL standar spesifik atau Formulir UKL-UPL standar yang telah diisi sebagairrrana dimaksud pada ayat (1) dan ayat (2) disertai dengan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup. (41 Pernyataan Kesangguparr Pengelolaan Lingkungan l{idup sebagairrrana dirnaksud pada ayat (3) disusun dengan menggunakan format sebagainrana ter.cantum ,.lalam Lampiran III yang merupaiian bagian tidak terpisahkan dari Peraturan Pernerintah ini. Pasal 57 (1) Penanggung jawab Usaha dan/atau Kegiatarr mengajukan permoironan penreriksaan Formulir UKI.-UPL standar spesifik atau Formu-lir UKL-UPL standar yang telah diisi kepada:
-a. Menteri, untuk Usaha dan/atau Kegiatan yang:
-1. Perizinan Berusaha atau Persetu_iuan Pemerintah diterbitkan oleh Pemerintah;
-2. berlokasi di lintas provinsi: dan/atau 3. berlokasi di wilayah laut iebih dari 12 (dua Lrelas) mil lauL diukur dari garis pantai ke arah laut lepas;
-b. guhernur, untuk Usaha dan/atau Kegiatan yang:
-1. Perizinan Rerusaha atau Persetujuan Pemerintatr diterbitkan oleh Pemerintah Daeratr provinsi;
-2. berlokasi di lirrtas daerah kabupaten/kota yang berada dalam 1, (satu) provinsi: dan/atau 3. berlokasi di wilayah laut paling jauh 12 (dua belas) mil dari garis pantai ke ai'ah laut lepas cian/atau ke arah perairan kepulauan;
-c. bupati/waii kota. untuk Usaha dan/atau Kegiatan yang Perizinan Berusaha atau Persetujuan Pemerintah diterbitkan oleh Pemerintah [)aerah kabupatenlkoLa. (21 Pengajuan permohonan pemeriksaan Formulir UKL--UPL standar spesifik atau Formulir UKL-UPL standar yang t-elah diisi sebagaimana dimaksud pada ayat (1) dilakukan melaiui:
-a. sisterrr Perizinan Berusaha terintegrasi secara eiektronik, dalarrr hal penanggung jawab Usaha dan/atau Kegiatan menrpakan Pelaku Llsaha; atau
-b. sistern informasi dokumen Lingkungan Hidup, dalam hal penanggung jawab Usaha dan/atau Kegiatan merupakan Instansi Penrerintah. (3) Pengajuan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sehagaimana dimaksud pada ayat (1) ciilengkapi dengan Persetujuan Teknis.
-(4) Pcr setuj uan (41 Persetujuan Teknis sebagaimana dimaksud pada ayat (3) terdiri atas:
-a. pemenuhan Baku Mutu Air Limbah;
-b. pemenuhan Baku Mutu Emisi;
-c. Pengelolaan Limbah 83; dan/atau
-d. analisis mengenai dampak lalu lintas. (5) Terhadap Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang telah diisi sebagaimana dimaksud pada ayat (1) ciilakukan pengumuman melalui sistem informasi dokumen Lingkungan Hidup untuk:
-a. usaha yang terindentifikasi sebagai usaha dengan tingkat risiko menengah rendah;
-b. usaha yang terindentifikasi sebagai usaha dengan tingkat risiko menengah tinggi;
-c. usaha yang terindentihkasi sebagai usaha dengan tingkat risiko tinggi; dan
-d. kegiatan wajib UKL-UPL yang dilakukan oleh Instansi Pemerintah. (6) Masyarakat berhak menyampaikan saran, pendapat, dan tanggapan melalui sistem informasi dokumen Lingkungan Hidup. Pasal 58 (1) Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya melakukan pemeriksaan administrasi melalui sistem irrformasi dokumen Lingkungan Hidup terhadap Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar untuk: , a. usaha dengan tingkat risiko menengah rendah sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf a;
-b. usaha dengan tingkat risiko menengah tinggi sebagaima.na dimaksud dalam Pasal 57 ayat (5) huruf b;
-c. usaha dengan tingkat risiko tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf c; atau
-d. kegiatan d. kegiatan yang dilakukan oleh Instansi Pemerintah sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf d. (21 Pemeriksaan administrasi sebagaimana dimaksud pada ayat (1) dilakukan terhadap:
-a. konfirmasi kesesuaian kegiatan pemanfaatan ruang atau rekomendasi kesesuaian kegiatan pemanfaatan ruang;
-b. persetujuan awal terkait rencana Usaha clan/atau Kegiatan;
-c. Persetujuan Tekrris; dan
-d. kesesuaian isi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar dengan pedoman pengisian. (3) Dalam hal hasil pemeriksaan administrasi menyatakan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar:
-a. telah lengkap dan benar, dilakukan pemeriksaan substansi; atau
-b. belum lengkap dan benar, penanggung jawab Usaha dan/atau Kegiatan melengkapi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar. Pasal 59 (1) Menteri, gubernrir, atau bupati/wali kota sesuai dengan kewenangannya rrrelakukan pemeriksaan substansi Formulir UKL-UPL standar spesilik atau Formulir UKL-UPL standar. (21 Menteri dapat mendelegasikan pemeriksaan substansi Fornrulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang merupakan kewenangan Menteri sebagaimana ciimaksud pada ayat (1) kepada gubernur atau bupati/wali kota.
+(4) Rekomendasi kelayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (3) huruf a dapat berupa rekomendasi kelayakan bagi sebagian rencana Usaha dan/atau Kegiatan yang diusulkan oleh penanggung jawab Usaha dan/amu Kegiatan. 
+
+Pasal 48
+(1) Jangka waktrr penilaian substansi dokumen Andai dan dokumen RKL-RPL dan uji kelayakan Lingkunga.n Hidup sebagaimana dimaksud dalam Pasal 44 sampai derrgan Pasai 47, dilakukan paling lama 50 (lima puluh) hari keria sejak dokumen Anclal dan dokumen RKL-RPL dinyatakan lengkap dalam penilaian administrasi. 
+(2) Jangka waktu sebagaimana dimaksud pada ayat (1) termasuk jangka waktu perbaikan dokumen Andal dan dokumen RKL-RPL dalam penilaian substansi oleh penanggung jawab Usaha danlatau Kegiatan. 
+
+Pasal 49
+(1) Rekomendasi hasil uji kelayakan sebagaimana dimaksud dalam Pasal 47 ayat (2) menjadi bahan pertimbangan Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya dalam menetapkan:
+  a. surat Keputusan Kelayakan Lingkungan Hidup, jika rencana Usaha dan/atau Kegiatan dinyatakan layak Lingkurngan Hidup; atau
+  b. surat keputusan ketidaklayakan Lingkungan Hidup, jika rencana Usaha danlatau Kegiatan dinyatakan tidak layak Lingkungan Hidup. 
+(2) Surat Keputusan Kelayakan Lingkungan Hidup atau surat keputusan ketidaklayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (1) ditetapkan dalam jangka waktu paling lama 10 (sepuluh) hari kerja sejak rekomendasi hasil uji kelayakan diterima. 
+(3) Surat Keputusan Kelayakan Lingkungan Hidup yang ditetapkan setragaimana dimaksud pada ayat (1) huruf a merupakan:
+  a. bentuk Persetujuan Lingkungan; dan
+  b. prasyarat penerbitan Perizinan Berusaha atau Persetujuan Pemerintah. 
+(4) Persetujuan Pemerintah sebagaimana dimaksud pada ayat (3) huruf b diterbitkan sesuai dengan keterrtuan peratu ran penrndang-undangan. 
+(5) Perizinan Berusaha ataur Persetujuan Pemerintah sebagaimana dimaksud pada ayat (4) merupakan dasar pelaksanaan Pengawasan Usaha dan/atau Kegiatan. 
+(6) Surat Keputusan Kelayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (1) huruf a, paling sedikit memuat:
+  a. dasar ditetapkannya, Keputusan Kelayakan Lingkungan Hidup, berupa rekomendasi hasil uji kelayakan dari Tim Uji Kelayakan Lingkungan Hidup;
+  b. identitas penanggung jawab Usaha dan/atau Kegiatan sesuai dengan identitas yang tertulis dalam Perizinan Berusaha atau Persetujuan Pemerintah. meliputi:
+    1. nama usaha dan/atau Kegiatan;
+    2. jenis Usaha dan/atau Kegiatan;
+    3. nama dan jabatan penanggung jawab Usaha dan/atau Kegiatan.
+    4. alamat kantor: dan
+    5. lokasi Usaha dan/atau Kegiatan;
+  c. lingkup rencana Usaha dan/atau Kegiatan yang disetujui untuk dilakukan, baik kegiatan utama maupun kegiatan pendukung sesuai dengan Persetujuan Teknis yang diterbitkan oleh instansi yang berwenang menerbitkan Persetujuan Teknis;
+  d. Persetujuan Teknis paling sedikit memuat:
+    1. standar teknis baku mutu Lingkungan Hidup, Pengelolaan Limbah B3, dan/atau analisis mengenai dampak lalu lintas;
+    2. standar kompetensi sumber daya manusia terkait baku mutu Lingkungan Hidup, Pengelolaan Limbah B3, dan analisis mengenai dampak lalu lintas; dan
+    3. sistem manajemen lingkungan.
+  e. persyaratan penanggung jawab Usaha dan/atau Kegiatan untuk memenuhi komitmen Persetujuan Teknis sebelum operresi terkait dengan lingkup Persetujuan Teknis;
+  f. kewajiban penanggung jawab Usaha dan/atau Kegiatan, yang terdiri atas:
+    1. memenuhi ketentuan sesuai dengan dokumen RKL-RPL;
+    2. mematuhi ketentuan peraturan perundang-undangan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup;
+    3. memenuhi kewajiban pada Persetujuan Teknis pasca verifikasi pemenuhan baku mutu Lingkungan Hidup, Pengelolaan Limbah B3, dan/atau analisis mengenai dampak lalu lintas;
+    4. menyiapkan dana penjaminan untuk pemulihan fungsi Lingkungan Hidup sesuai dengan ketentuan peraturan perundang-undangan;
+    5. melakukan pengelolaan Limbah nonB3 sesuai rinciar pengeiolaan yang termuat dalam dokumen RIO-RPL;
+    6. menyarnpaikarr laporan pelaksanaan persyaratan dan kewajiban Perizinan Berusaha atau Persetujuan Pemerintah terkait Persetujuan Lingkungan secara berkala setiap 6 (enam) bulan sekali;
+    7. mengajukan permohonan perubaharr Persetujuan Lingkungan apabila direncanakan untuk melakukan perubahan Usaha dan/atau Kegiatan;
+    8. melakukan audit lingkungan pada tahapan pasca operasi untuk memastikan kewajiban telah clilaksanakan dalam ranglia pengakhiran kewajiban pengelolaan dan pemantauan Lingkungan Hidup; dan/atau
+    9. kewajiban lain yang ditetapkan oleh Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya berdasarkan kepentrngan Perlindungan clan Pengelolaan Lingkungan Hidup;
+  g. hal-hal lain, yang meliputi:
+    1. ketentuan bahwa penanggung jawab Usaha dan/atau Kegiatan dapat dikenakan Sanksi Administratif apabila ditemukan pelanggaran administratif;
+    2. ketentuan bahwa penanggung jawab Usaha dan/atau Kegiatan wajib memberikan akses kepada Pejabat Pengawas Lingkungan Hidup untuk melakukan pengawasan sesuai dengan kewenangan;
+    3. ketentuan masa berlaku Surat Keputusan Kelayakan Lingkungan Hidup, yang menjelaskan bahwa keputusan kelayakan Lingkungan Hidup ini berlaku selama Usaha dan/atau Kegiatan berlangsung sepanjang tidak ada perubahan atas Usaha dan/atau Kegiatan dimaksud; dan
+    4. tanggal penetapan Surat Keputusan Kelayakan Lingkungan Hidup.
+(7) Surat keputusan Ketidaklayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (1) huruf b, paling sedikit memuat:
+  a. lingktrp rencana Usaha dan/atad Kegiatan;
+  b. dasar pertimbangan ketidaklayakan Lingkungan FIidup;
+  c. penetapan ketidaklayakan Lingkungan Hidup; dan d, tanggal penetapan keputusan ketidaklayakan Lingkungan Hidup.
+
+Pasal 50
+(1) Surat Keputusan Kelayakan Lingkungan Hidup yang telah diterbitkan oleh Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya diumumkan kepada masyarakat melalui Sistem Informasi Lingkungan Hidup atau cara lainnya yang ditetapkan oleh Pemerintah.
+(2) Cara lainnya yang ditetapkan oleh pemerintah sebagaimana dimaksud pada ayat (1) terdiri atas:
+  a. media massa; dan/atau
+  b. pengumuman pada lokasi Usaha dan/atau Kegiatan.
+(3) Pengumuman sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 5 (lima) hari kerja sejak diterbitkannya surat Keputusan Kelayakan Lingkungan Hidup.
+
+Pasal 51
+Tata laksana penilaian dokumen Andal dan dokumen RKL-RPL, penyampaian hasil uji kelayakan, dan penetapan surat Keputusan Kelayakan Lingkungan Hidup atau ketidaklayakan Lingkungan Hidup sebagaimana dimaksud dalam Pasal 44 sampai dengan Pasal 50 tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Bagian Ketiga
+Penyusunan dan Pemeriksaan Formulir UKL-UPL
+
+Pasal 52
+(1) Formulir UKL-UPL diisi oleh penanggung jawab Usaha dan/atau Kegiatan pada tahap perencanaan Usaha dan/atau Kegiatan. 
+(2) Lokasi rencana Usaha dan/atau Kegiatan sebagaimana dimaksud pada ayat (1) wajib sesuai dengan rencana tata ruang.
+(3) Kesesuaian lokasi rencana Usaha dan/atau Kegiatan dengan rencana tata ruang sebagaimana dimaksud pada ayat (2) dibuktikan dengan konfirmasi kesesuaian kegiatan pemanfaatan ruang atau rekomendasi kesesuaian kegiatan pemanfaatan ruang sesuai dengan ketentuan peraturan perundang-undangan. 
+(4) Dalam hal lokasi rencana Usaha dan/atau Kegiatan tidak sesuai dengan rencana tata ruang sebagaimana dimaksud pada ayat (3), Formulir UKL-UPL tidak dapat diperiksa dan dikembalikan kepada penanggung jawab Usaha dan/atau Kegiatan.
+
+Pasal 53
+(1) Penyusunan Formulir UKL-UPL dimulai dengan penyediaan data dan informasi berupa:
+a. deskripsi rencana Usaha dan/atau Kegiatan; dan/atau
+b. Persetujuan Teknis.
+(2) Dalam hal Usaha dan/atau Kegiatan yang direncanakan lebih dari 1 (satu) Usaha dan/atau Kegiatan yang perencanaan dan pengelolaannya saling terkait serta berlokasi di dalam satu kesatuan hamparan ekosistem, dapat memuat dalam 1 (satu) Formulir UKL-UPL.
+(3) Pendekatan penyusunan Formulir UKL-UPL sebagaimana dimaksud pada ayat (2) yang dilakukan oleh lebih dari 1 (satu) penanggung jawab Usaha dan/atau Kegiatan terhadap Usaha dan/atau Kegiatan yang saling terintegrasi dapat disusun dalam 1 (satu) Formulir UKL-UPL yang dapat digunakan untuk penerbitan lebih dari 1 (satu) Perizinan Berusaha atau Persetujuan Pemerintah.
+
+Pasal 54
+(1) Aparatur sipil negara yang bekerja pada instansi Lingkungan Hidup pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota dilarang menjadi penyusun UKL-UPL.
+(2) Dalam hal instansi Lingkungan Hidup Pusat, organisasi perangkat daerah yang membidangi Lingkungan Hidup provinsi, atau organisasi perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota bertindak sebagai penanggung jawab Usaha dan/atau Kegiatan, aparatur sipil negara sebagaimana dimaksud pada ayat (1) dapat menjadi penyusun UKL-UPL bagi instansinya masing-masing.
+
+Pasal 55
+(1) Formulir UKL-UPL disusun dalam bentuk standar pengelolaan dan pemantauan Lingkungan Hidup.
+(2) Kementerian/lembaga pemerintah nonkementerian yang membidangi sektor bidang Usaha dan/atau Kegiatan wajib UKL-UPL menyusun Formulir UKL-UPL standar spesifik sesuai dengan jenis Usaha dan/atau Kegiatan.
+(3) Kementerian/lembaga pemerintah nonkementerian yang membidangi sektor bidang Usaha dan/atau Kegiatan wajib UKL-UPL, dalam menyusun Formulir UKL-UPL standar spesifik sebagaimana dimaksud pada ayat (2) berkoordinasi dengan Menteri.
+(4) Menteri memasukkan Formulir UKL-UPL standar spesifik yang disusun oleh kementerian/lembaga pemerintah nonkementerian sebagaimana dimaksud pada ayat (3) ke dalam sistem informasi dokumen Lingkungan Hidup.
+(5) Formulir UKL-UPL standar spesifik sebagaimana dimaksud pada ayat (2) disusun dengan menggunakan format sebagaimana tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 56
+(1) Penanggung jawab Usaha dan/atau Kegiatan mengisi Formulir UKL-UPL standar spesifik yang tersedia dalam sistem informasi dokumen Lingkungan Hidup sebagaimana dimaksud dalam Pasal 55 ayat (4).
+(2) Dalam hal Formulir UKL-UPL standar spesifik belum tersedia dalam sistem informasi dokumen Lingkungan Hidup sebagaimana dimaksud pada ayat (1), pengisian Formulir UKL-UPL standar mengacu pada format Formulir UKL-UPL standar sebagaimana dimaksud dalam Pasal 55 ayat (5).
+(3) Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang telah diisi sebagaimana dimaksud pada ayat (1) dan ayat (2) disertai dengan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup.
+(4) Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana dimaksud pada ayat (3) disusun dengan menggunakan format sebagaimana tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Pasal 57
+(1) Penanggung jawab Usaha dan/atau Kegiatan mengajukan permohonan pemeriksaan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang telah diisi kepada:
+  a. Menteri, untuk Usaha dan/atau Kegiatan yang:
+    1. Perizinan Berusaha atau Persetujuan Pemerintah diterbitkan oleh Pemerintah;
+    2. berlokasi di lintas provinsi: dan/atau
+    3. berlokasi di wilayah laut lebih dari 12 (dua belas) mil laut diukur dari garis pantai ke arah laut lepas;
+  b. gubernur, untuk Usaha dan/atau Kegiatan yang:
+    1. Perizinan Rerusaha atau Persetujuan Pemerintatr diterbitkan oleh Pemerintah Daerah provinsi;
+    2. berlokasi di lintas daerah kabupaten/kota yang berada dalam 1, (satu) provinsi: dan/atau
+    3. berlokasi di wilayah laut paling jauh 12 (dua belas) mil dari garis pantai ke arah laut lepas dan/atau ke arah perairan kepulauan;
+  c. bupati/waii kota. untuk Usaha dan/atau Kegiatan yang Perizinan Berusaha atau Persetujuan Pemerintah diterbitkan oleh Pemerintah Daerah kabupaten/kota.
+(2) Pengajuan permohonan pemeriksaan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang telah diisi sebagaimana dimaksud pada ayat (1) dilakukan melalui:
+  a. sistem Perizinan Berusaha terintegrasi secara elektronik, dalam hal penanggung jawab Usaha dan/atau Kegiatan merupakan Pelaku Usaha; atau
+  b. sistem informasi dokumen Lingkungan Hidup, dalam hal penanggung jawab Usaha dan/atau Kegiatan merupakan Instansi Pemerintah.
+(3) Pengajuan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (1) dilengkapi dengan Persetujuan Teknis.
+(4) Persetujuan Teknis sebagaimana dimaksud pada ayat (3) terdiri atas:
+  a. pemenuhan Baku Mutu Air Limbah;
+  b. pemenuhan Baku Mutu Emisi;
+  c. Pengelolaan Limbah B3; dan/atau
+  d. analisis mengenai dampak lalu lintas.
+(5) Terhadap Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang telah diisi sebagaimana dimaksud pada ayat (1) ciilakukan pengumuman melalui sistem informasi dokumen Lingkungan Hidup untuk:
+  a. usaha yang terindentifikasi sebagai usaha dengan tingkat risiko menengah rendah;
+  b. usaha yang terindentifikasi sebagai usaha dengan tingkat risiko menengah tinggi;
+  c. usaha yang terindentihkasi sebagai usaha dengan tingkat risiko tinggi; dan
+  d. kegiatan wajib UKL-UPL yang dilakukan oleh Instansi Pemerintah.
+(6) Masyarakat berhak menyampaikan saran, pendapat, dan tanggapan melalui sistem informasi dokumen Lingkungan Hidup.
+
+Pasal 58
+(1) Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya melakukan pemeriksaan administrasi melalui sistem informasi dokumen Lingkungan Hidup terhadap Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar untuk:
+  a. usaha dengan tingkat risiko menengah rendah sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf a;
+  b. usaha dengan tingkat risiko menengah tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf b;
+  c. usaha dengan tingkat risiko tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf c; atau
+  d. kegiatan d. kegiatan yang dilakukan oleh Instansi Pemerintah sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf d.
+(2) Pemeriksaan administrasi sebagaimana dimaksud pada ayat (1) dilakukan terhadap:
+  a. konfirmasi kesesuaian kegiatan pemanfaatan ruang atau rekomendasi kesesuaian kegiatan pemanfaatan ruang;
+  b. persetujuan awal terkait rencana Usaha dan/atau Kegiatan;
+  c. Persetujuan Teknis; dan
+  d. kesesuaian isi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar dengan pedoman pengisian.
+(3) Dalam hal hasil pemeriksaan administrasi menyatakan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar:
+  a. telah lengkap dan benar, dilakukan pemeriksaan substansi; atau
+  b. belum lengkap dan benar, penanggung jawab Usaha dan/atau Kegiatan melengkapi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar.
+
+Pasal 59
+(1) Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya melakukan pemeriksaan substansi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar.
+(2) Menteri dapat mendelegasikan pemeriksaan substansi Fornrulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang merupakan kewenangan Menteri sebagaimana dimaksud pada ayat (1) kepada gubernur atau bupati/wali kota.
+
 Pasal 60
-Pasal 60 (1) Pemeriksaan substansi Formulir UKL-UPL standar spesifik untuk usaha dengan tingkat risiko menengah rendah sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf a dilakukan secara otomatis meialui sistem Perizinan Berusaha terintegrasi secara elektronik untuk Formulir UKL-UPL standar spesifik yang diisi oleh Pelaku Usaha. (2) Berdasarkan pemeriksaan substansi sebagaimana dimaksud pacia ayat (1) diterbitkan:
-a. persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup; atau
-b. penolakan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup. (3) Persetujuan atau penolakan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana dimaksud pada ayat (2) diterbitkan secara otomatis melalui sistem Perizinan Berusaha terintegrasi secara elektronik untuk Formulir UKL-UPL standar spesifik yang diisi oleh Pelaku Usaha.
-(1) Pemeriksaan spesifik atau untuk:
+(1) Pemeriksaan substansi Formulir UKL-UPL standar spesifik untuk usaha dengan tingkat risiko menengah rendah sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf a dilakukan secara otomatis melalui sistem Perizinan Berusaha terintegrasi secara elektronik untuk Formulir UKL-UPL standar spesifik yang diisi oleh Pelaku Usaha.
+(2) Berdasarkan pemeriksaan substansi sebagaimana dimaksud pada ayat (1) diterbitkan:
+  a. persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup; atau
+  b. penolakan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup.
+(3) Persetujuan atau penolakan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana dimaksud pada ayat (2) diterbitkan secara otomatis melalui sistem Perizinan Berusaha terintegrasi secara elektronik untuk Formulir UKL-UPL standar spesifik yang diisi oleh Pelaku Usaha.
+
 Pasal 61
-substansi Formulir UKL-UPL standar standar dilakukan Formulir UKL-UPL a. usaha dengan tingkat risiko menengah tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf b;
-b. usaha dengan tingkat risiko tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf c; atau
-c. kegiatan yang dilakukan oleh Instansi Pemerintah sebagaimana dirrralcsud dalam Pasal 57 ayat (5) huruf d. (21 Pemeriksaan substansi sebagaimana dimaksud pada ayat (1) dilakukan oleh:
-a. Menteri dengan menugaskan pejabat yang membidangi Amcial, UKL-UPL, dan SPPL; atau
-b. gubernur b. gubernur atau bupati/wali kota dengan menugaskan kepala perangkat daerah yang membidangi Lingkungan Hidup. (3) Pemeriksaan substansi sebagaimana dimaksud pada ayat (21 dilakukan terhadap kesesuaian standar pengelolaan dan pemantauan Lingkungan Hidup dengan jenis rencana Usaha dan/atau Kegiatan dan jenis Dampak Lingkungan Hidup yang terjadi. (4) Pemeriksaan substansi Formulir UKL-UPL standar spesifik sebagaimana dimaksud pada ayat (1) dilakukan dalam ^jangka waktu paling lama 3 (tiga) hari kerja melalui sistem informasi dokumen Lingkungan Hidup. (5) Pemeriksaan substansi Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 5 (lima) hari kerja dengan melibatkan:
-a. instansi yang membidangi rencana Usaha dan/atau Kegiatan yang bersangkutan;
-b. instansi penerbit Persetujtran Teknis bagi pemenuhan baku mutu Lingkungan Hidup, Pengelolaan Limbah 83, dan/atau analisis mengenai dampak lalu lintas; rian/atau c. instansi yang menyelenggarakan urlrsan pemerintahan cir bidang penataan ruang. (6) Pemeriksaan substansi Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (5) dilaksanakan secara dalam jaringan dan/atau luar jaringan. Pasal 62 (1) Dalam hal hasil pemeriksaan substansi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dima.ksud dalar.r Pasal 61 ayat (4) dan ayat (5) tidak terdapat perba-ikan, Menteri, gubernui', atau bupati/wali kota sesuai dengan kewenangannya memberikan persetujrran Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup dalam jangka waktu paling lama 2 (dua) hari kerja melalui sistem informasi dokumen Lingkungan Hidup.
-(2) Dalam hal hasil pemeriksaan substansi Formulir UKL- UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dimaksud dalam Pasal 61 ayat (4) dan ayat (5) perlu dilakukan perbaikan, Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya menyampaikan arahan perbaikan kepada penanggung jawab Usaha dan/atau Kegiatan melalui sistem informasi dokumen Lingkungan Hidup. (3) Penanggung jawab Usaha dan/atau Kegiatan wajib melakukan perbaikan Formulir UI(L-UPL standar spesifik atau Formulir UKL-UPL standar dan menyampaikan kembali kepada Menten, gubernur, atau bupati/wali kota sesuai dengan kewenangannya melalui sistem informasi dokumen Lingkungan Hidup dalam jangka waktu paling lama 5 (lima) hari kerja sejak diterimanya arahan perbaikan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar. (4) Berdasarkan perbaikan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (3), Menteri, gubernur, atau bupati/wali kota sesuai clengan kewenangannya menerbitkan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup dalam jangka rnaktu paling lama 2 (dua) hari kerja sejak perbaikan Formulir UKL-UPL standar diterima melalui sistem informasi dokumen Lingkungan Hidup. (5) Dalam hal:
-a. perbaikan Formulir UKL-UPL standar spesifik atau Formuhr ^IJKL- UPL standar yang disampaikan oleh penanggung jawab Usaha dan/atau Kegiatan telah melebihi batas waktu yang ditetapkan; atau
-b. perbaikan ticiak sesuai dengan standar yang dipersyaratkan, permohonan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Flidup ditolak dan dikembalikan ke penanggung jawab Usaha dan/atau Kegiatan. (6) Pelaksanaan kewenangan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimarra dimaksud pada ayat (1) dan ayat (4) dilakukan oleh: a pejabat. ,v-ang mernbidangi Arndal, UKL-UPL, cian SPPL yang riitugaslcan oleh Menterr. Ltrrruk Usaha dan/atau Kegiatan wajib UKL-UPL, yang ri: ,: rupakan ke'*,enangan Menteri; kepala perangkat daera-h ),ang membidangi Lingkr-rngarn Hidup provinsi, untuk Usaha dan/atau Kegia'"r-rn v"'ajib UKL.-UPL yang merupakan kewerrangan gubernur: atau kepaia perangkat daerah yalrg mernbidangi Lingkungan Hidup kabupaten/kota, untuk Usaha dan/atau Kegiatan wajib UKL-UPL yang rnerupakan kewenangan bupati /r,vali kota. Pasal 63 Persetu.juan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana climaksud dalarn Pasal 62 ayat (1) dan ayat (4), paling seclikit inemuat:
-a. dasar ditetapkannya persetujuan Pernyataar-r Kesanggupan Pengelolaan Lingkungan Hidup, tierupa rekomendasi hasil pemeriksaan subst.ansi Forrnr.llir UKL- UPL standar spesifik atau l.'orrnulir UKL-UPL standar;
-b. identitas penanggung jawab Usaha dan/atau Kegiatan, meliputi:
-1.. naina. Usaha dan/atau Kegiatan;
-2. ^jenis Usaha clan/atau Kegiatan;
-3. rlama dan .labatan penanggung yawab lJsa.ha dan/atau Kegiatan;
-4. alamat kantor; dan
-5. lokasi Usaha danr/atau Kegiatan;
-c. deskripsi dan lok'asi rencana Usaha dan/atau Kegiatan .yang ^akan ^dilakukan, ^baik ^kegiatalr utarna ^maupun kegiatan pendukung sesuar dengan Pcrsetujuan Teknis yang diterbitkarr. oleh instansi yang berweni--ng menerbitkan Persr-tuiua.n Tekni s; b c d. Persetujr.ran d Persetujuan Teknis paling sedikit rnemuat:
-1. stanclar teknis pemenunan baku mLrtu Linglltirlgan Hidup, Perrgelolaan Limbah BlJ, danlata: s a; ialisis meilgcnai ,J.arnpak lalu iintas;
-2. standar kompetensi sumber daya raanusia tcrkait baku mutu Lingkungan Hidup, perrgelolaan Limbah []3, dan analisis rrengenai damFrak laiu lintas; darr 3. sisLern rnanajemen iingkungan; persyararan bagi penanggung jawab Usaha d.anlata.u Kegia.tar, untuk nlernenuhi ketentuan dalam pensetujtian Teknis sebelurn beroperasinya instalasi cian/atau fasilitas yang terkait dengan lingkup Persetujuan Teknis; kewajiban Denanggurrg javrab Usaha dan/at-au Kegiatan, anta.ra lain:
-1. memenuhi ketentuan pengelolaan dan pernantauan lingkungan dalam matrik IJKL.-UpL:
-2. memenuhi ketentuan Persetujuan Teknis setelah SLO diterbitkan:
-3. menyiilp|12r, dana pen; aminan untuk pemulihan fungsi Lingkurrgan Hidrrp sesuai dengan ketentuan peraturan perundang- unda.ngan ;
-4. menyampaikan laporarr pela_ksanaan persyaratan dan kewajiban Pcrizinan Berusaha ataul persetuluan Pemerintah terkait- Persetujuan Lingkungan secara berka.la setiap 6 (enam) bulan sekaii; 5 meiakukarl pengelolaan Limbah nonB3 sesuai rincian pengclolaan dan pemantauan lingkungan dalam matrik UKL-UPL;
-6. rnengajukan permohonan peruL,ahan persetujuan Lingkungan apabila direncanakan untuk melakukan per-,-rbahan Usaha dan/atau Kegiatannva; <ian 7. kewajiban Lain .!ar1g dite*"apkan oleh Menreri, gubernur, arat-'! bupatilu,ali kota sesuai Cengan kewenangann)'a berdasarkan keperrtingan Perlindrrrrgan datr i,er,gelolaan Li: : gkungan Hidup. e f
+(1) Pemeriksaan substansi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar dilakukan untuk:
+  a. usaha dengan tingkat risiko menengah tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf b;
+  b. usaha dengan tingkat risiko tinggi sebagaimana dimaksud dalam Pasal 57 ayat (5) huruf c; atau
+  c. kegiatan yang dilakukan oleh Instansi Pemerintah sebagaimana dirrralcsud dalam Pasal 57 ayat (5) huruf d.
+(2) Pemeriksaan substansi sebagaimana dimaksud pada ayat (1) dilakukan oleh:
+  a. Menteri dengan menugaskan pejabat yang membidangi Amcial, UKL-UPL, dan SPPL; atau
+  b. gubernur atau bupati/wali kota dengan menugaskan kepala perangkat daerah yang membidangi Lingkungan Hidup.
+(3) Pemeriksaan substansi sebagaimana dimaksud pada ayat (2) dilakukan terhadap kesesuaian standar pengelolaan dan pemantauan Lingkungan Hidup dengan jenis rencana Usaha dan/atau Kegiatan dan jenis Dampak Lingkungan Hidup yang terjadi.
+(4) Pemeriksaan substansi Formulir UKL-UPL standar spesifik sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 3 (tiga) hari kerja melalui sistem informasi dokumen Lingkungan Hidup.
+(5) Pemeriksaan substansi Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 5 (lima) hari kerja dengan melibatkan:
+  a. instansi yang membidangi rencana Usaha dan/atau Kegiatan yang bersangkutan;
+  b. instansi penerbit Persetujtran Teknis bagi pemenuhan baku mutu Lingkungan Hidup, Pengelolaan Limbah B3, dan/atau analisis mengenai dampak lalu lintas; dan/atau
+  c. instansi yang menyelenggarakan urusan pemerintahan di bidang penataan ruang.
+(6) Pemeriksaan substansi Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (5) dilaksanakan secara dalam jaringan dan/atau luar jaringan.
+
+Pasal 62
+(1) Dalam hal hasil pemeriksaan substansi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dimaksud dalam Pasal 61 ayat (4) dan ayat (5) tidak terdapat perbaikan, Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya memberikan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup dalam jangka waktu paling lama 2 (dua) hari kerja melalui sistem informasi dokumen Lingkungan Hidup.
+(2) Dalam hal hasil pemeriksaan substansi Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dimaksud dalam Pasal 61 ayat (4) dan ayat (5) perlu dilakukan perbaikan, Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya menyampaikan arahan perbaikan kepada penanggung jawab Usaha dan/atau Kegiatan melalui sistem informasi dokumen Lingkungan Hidup.
+(3) Penanggung jawab Usaha dan/atau Kegiatan wajib melakukan perbaikan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar dan menyampaikan kembali kepada Menten, gubernur, atau bupati/wali kota sesuai dengan kewenangannya melalui sistem informasi dokumen Lingkungan Hidup dalam jangka waktu paling lama 5 (lima) hari kerja sejak diterimanya arahan perbaikan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar.
+(4) Berdasarkan perbaikan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar sebagaimana dimaksud pada ayat (3), Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya menerbitkan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup dalam jangka waktu paling lama 2 (dua) hari kerja sejak perbaikan Formulir UKL-UPL standar diterima melalui sistem informasi dokumen Lingkungan Hidup.
+(5) Dalam hal:
+  a. perbaikan Formulir UKL-UPL standar spesifik atau Formulir UKL-UPL standar yang disampaikan oleh penanggung jawab Usaha dan/atau Kegiatan telah melebihi batas waktu yang ditetapkan; atau
+  b. perbaikan tidak sesuai dengan standar yang dipersyaratkan, permohonan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup ditolak dan dikembalikan ke penanggung jawab Usaha dan/atau Kegiatan.
+(6) Pelaksanaan kewenangan persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana dimaksud pada ayat (1) dan ayat (4) dilakukan oleh:
+  a. pejabat yang membidangi Amdal, UKL-UPL, dan SPPL yang ditugaskan oleh Menteri, untuk Usaha dan/atau Kegiatan wajib UKL-UPL yang merupakan kewenangan Menteri;
+  b. kepala perangkat daerah yang membidangi Lingkungan Hidup provinsi, untuk Usaha dan/atau Kegiatan wajib UKL-UPL yang merupakan kewenangan gubernur; atau
+  c. kepala perangkat daerah yang membidangi Lingkungan Hidup kabupaten/kota, untuk Usaha dan/atau Kegiatan wajib UKL-UPL yang merupakan kewenangan bupati/wali kota.
+
+Pasal 63
+Persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana dimaksud dalam Pasal 62 ayat (1) dan ayat (4), paling sedikit memuat:
+  a. dasar ditetapkannya persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup, tierupa rekomendasi hasil pemeriksaan subst.ansi Formulir UKL- UPL standar spesifik atau Formulir UKL-UPL standar;
+  b. identitas penanggung jawab Usaha dan/atau Kegiatan, meliputi:
+    1. nama Usaha dan/atau Kegiatan;
+    2. jenis Usaha dan/atau Kegiatan;
+    3. nama dan jabatan penanggung jawab Usaha dan/atau Kegiatan;
+    4. alamat kantor; dan
+    5. lokasi Usaha dan/atau Kegiatan;
+  c. deskripsi dan lokasi rencana Usaha dan/atau Kegiatan yang akan dilakukan, baik kegiatan utama maupun kegiatan pendukung sesuai dengan Persetujuan Teknis yang diterbitkan oleh instansi yang berwenang menerbitkan Persetujuan Teknis; dan
+  d. Persetujuan Teknis paling sedikit memuat:
+    1. standar teknis pemenuhan baku mutu Lingkungan Hidup, Pengelolaan Limbah B3, dan/atau analisis mengenai dampak lalu lintas;
+    2. standar kompetensi sumber daya manusia terkait baku mutu Lingkungan Hidup, pengelolaan Limbah B3, dan analisis mengenai dampak lalu lintas; dan
+    3. sistem manajemen lingkungan;
+  e. persyaratan bagi penanggung jawab Usaha dan/atau Kegiatan, untuk memenuhi ketentuan dalam persetujuan Teknis sebelum beroperasinya instalasi dan/atau fasilitas yang terkait dengan lingkup Persetujuan Teknis;
+  f. kewajiban penanggung jawab Usaha dan/atau Kegiatan, antara lain:
+    1. memenuhi ketentuan pengelolaan dan pemantauan lingkungan dalam matrik UKL-UPL;
+    2. memenuhi ketentuan Persetujuan Teknis setelah SLO diterbitkan;
+    3. menyiapkan dana penjaminan untuk pemulihan fungsi Lingkungan Hidup sesuai dengan ketentuan peraturan perundang-undangan;
+    4. menyampaikan laporan pelaksanaan persyaratan dan kewajiban Perizinan Berusaha atau persetujuan Pemerintah terkait- Persetujuan Lingkungan secara berkala setiap 6 (enam) bulan sekali;
+    5. melakukan pengelolaan Limbah nonB3 sesuai rincian pengelolaan dan pemantauan lingkungan dalam matrik UKL-UPL;
+    6. mengajukan permohonan perubahan persetujuan Lingkungan apabila direncanakan untuk melakukan perubahan Usaha dan/atau Kegiatan; dan
+    7. kewajiban lain yang ditetapkan oleh Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya berdasarkan kepentingan Perlindungan dan pengelolaan Lingkungan Hidup.
+
 Pasal 64
-Pasal 64 (1) Persetujuan Pernyataan Kesangg.rpan pengelolaan Lingkungarr l{idup sebagaimana dirnaksud dalam pasal 63 merupakan:
-a. bentrrk Perset'.guari Lingkunean; dan
-b. prasyarat penerbir-an Perizinan Berusal,a eT.au Persetu.iuan Pernerintah, l2l ^Penzinan ^Berusa ha atau Persetujuan Pemerintah sebagaimana dimaksurcl pada ayat (1) menjadi dasar pelaksanaa-n pengawasan Usaha dan/atau Kegiatan. (3) Persetujtian Pemerintah sebagaimana dimaksud pada ayat il) huruf b diterbitkan sesrra.i dengan ketenruar, peratura,n perundang-undangan .
-Bagian Keempat Pengisian SPPL Pasal 65 (1) SPPL bagi usaha yang dilakukan oieh Pelaku Usaha sebagaimana dimaksud dalam Pasal T ayat (2\ diintegrasikan ke clalam nomor induk berusaha. {2) ^SPPL ^sebagaimaua dimaksr-rd dalam Pasai 7 ayat {2) bagi kegiatan yang dilakukan oleh Instansi Pemerintah dilakukan melalui perrgisian formulir yang merr..iadi dasar penerbitan Persetujuan Pemerintah. t3i ^Tata cara ^pengisian ^formulrr sebagaimana dimaksuci pada ayat (2) tercanttrm dalam Lampiran III 5-arrg merupakan bagian tidak terpisahkan ciari Perart.uran ^pemerinrah ini, Pa.sal 66 (1) Pengintegrasian SPPL ke dalarn norrlor induk berusaha. sebagaimana dirr,aksud ciaiam Pasal b5 ayat (1) oilakukan melalui sisrem Perizina,r Berusaha terintegrasi secara elektronik.
+(1) Persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup sebagaimana dimaksud dalam pasal 63 merupakan:
+  a. bentuk Persetujuan Lingkungan; dan
+  b. prasyarat penerbitan Perizinan Berusaha atau Persetujuan Pemerintah.
+(2) Perizinan Berusaha atau Persetujuan Pemerintah sebagaimana dimaksud pada ayat (1) menjadi dasar pelaksanaan pengawasan Usaha dan/atau Kegiatan.
+(3) Persetujuan Pemerintah sebagaimana dimaksud pada ayat (1) huruf b diterbitkan sesuai dengan ketentuan peraturan perundang-undangan.
+
+Bagian Keempat
+Pengisian SPPL
+
+Pasal 65
+(1) SPPL bagi usaha yang dilakukan oieh Pelaku Usaha sebagaimana dimaksud dalam Pasal T ayat (2\ diintegrasikan ke clalam nomor induk berusaha. {2) ^SPPL ^sebagaimaua dimaksr-rd dalam Pasai 7 ayat {2) bagi kegiatan yang dilakukan oleh Instansi Pemerintah dilakukan melalui perrgisian formulir yang merr..iadi dasar penerbitan Persetujuan Pemerintah. t3i ^Tata cara ^pengisian ^formulrr sebagaimana dimaksuci pada ayat (2) tercanttrm dalam Lampiran III 5-arrg merupakan bagian tidak terpisahkan ciari Perart.uran ^pemerinrah ini, Pa.sal 66 (1) Pengintegrasian SPPL ke dalarn norrlor induk berusaha. sebagaimana dirr,aksud ciaiam Pasal b5 ayat (1) oilakukan melalui sisrem Perizina,r Berusaha terintegrasi secara elektronik.
 (2) Pengisian (21 Pengisian formulir SPPL sebagaimana dimaksud dalam Pasal 65 ayat (21 dilakukan melalui sistem inforrnasi dokumen Lingkungan Hidup. (3) Formulir SPPL sebagaimana dimaksud pada ayat (21 memuat:
 a. kesanggupan penanggung jawab Usaha dan/atau Kegiatan untuk mematuhi peraturan perundang-undangan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup;
 b. lokasi rencana Usaha dan/atau Kegiatan memiliki konfirmasi kesesuaian kegiatan pemanfaatatl ruang atau rekomendasi kesesuaian kegiatan pemanfaatan rLrang sestrai dengan ketentuan peraturan perundang-undangan ; dan
 c. kewajibran dasar pengelolaan Lingkungan Hidup. (4) Menteri, 6lrbernur, atau bupati/wali kota sesuai dengan kewenangannya menyetujui secara otomatis atas formulir SPPL sebagaimana. dimaksud pada ayat (3)yang telah diisi oleh Instansi Pemerintah melalui sistem inforniasi dokumen Lingkungan Hidup.
-Bagian Keiima Penyrrsun Amdal
+
+Bagian Kelima
+Penyusunan Amdal
+
 Pasal 57
 (1) Penyusunan Amdal dilaksanakan oleh tim penyusun Amdal yang ditetapkan oleh penanggung jawab Usaha dan/atau Kegiatan. (21 Tim penyusun Amdal sebagairnana dimaksud pada ayat (1) dapat berasal dari:
 a. perorangan; atau
@@ -384,7 +859,13 @@ c. lembaga penyedia jasa penyusunan Amdal tidak memenuhi registrasi sebagaimana 
 a. lembaga pelatihan kompetensi Amdal dilarang melaksanakan pelatihan kompetensi penyusunan Amdal;
 b. lembaga sertifikasi kompetensi Amdal dilarang melaksanakan sertifikasi kompetensi penyusunan Amdal; atau
 c. lembaga penyedia jasa. penyusunan Amdal dilarang melaksanakan penyusunarr Amdal. (5) Dalam hal lembaga dapat melaksanakan ketentuan peringatan tertulis sebagaimana dimaksuci pada ayat (1), I\{enteri mencabut pembekuan. (6) Dalam hal lembaga tidak dapat melaksanakan ketentuan peringatan tertulis sebagaimana dimaksud pada ayat (1) setelah berakhirnya jangka waktu pembekuan, Menteri mencabut akreditasi, penetap&o, atau registrasi lembaga.
-(7) Menteri (7j Mentr: ri lnenyampaikarr kepada publik mengerlal perrrbekrian sebagaimana diinaksud pada ayat (2) ctan pencabutan sebagaimana dimaksud pada ayat (r-) melal''-ri sistem infolmasi doki-lmcn Lingkungarr Hidup. Bagian Keenarn Pernbentukan Lernbaga Uji Keiavakan Lingkr.rngan Hidup dan Tim Uji Kelayakan Lingkungan Hiduii Pasal 76 (1) Menteri nrembentuk Lembaga Uji Keiayakan Lingkuirgan Hidup. (2) Lembaga Uji Kelayakarr Lingkungan Hidrip bertugas membantu Merrteri dalam:
+(7) Menteri (7j Mentr: ri lnenyampaikarr kepada publik mengerlal perrrbekrian sebagaimana diinaksud pada ayat (2) ctan pencabutan sebagaimana dimaksud pada ayat (r-) melal''-ri sistem infolmasi doki-lmcn Lingkungarr Hidup. 
+
+Bagian Keenam
+Pernbentukan Lembaga Uji Kelayakan Lingkungan Hidup dan Tim Uji Kelayakan Lingkungan Hidup
+
+Pasal 76
+(1) Menteri nrembentuk Lembaga Uji Keiayakan Lingkuirgan Hidup. (2) Lembaga Uji Kelayakarr Lingkungan Hidrip bertugas membantu Merrteri dalam:
 a. mem.bentuk Tirrr Uji Kelayakan Lingkungan llidup;
 b. melakukan sertifikasi ahli;
 c. menyLrsun daftar kumpular: ahli bersertifikat;
@@ -430,17 +911,30 @@ i. ahli i. ahli geologi;
 j. ahli hidrogeologi;
 k. ahli hidrologi;
 1. ahli kelautan; atau
-m. ahli lain sesuai dengan dampak rencana Usaha dan/atau Kegiatan. Pasal 82 (1) Lembaga Uji Kelayakan Lingkungan Hidup berdasarkan hasil telaahan dapat memberikan saran kepada Menteri untuk menambah atau mengganti anggota Tim' Uji Kelayakan Lingkungan Hidup yang berasal dari tenaga ahli bersertifikat yang diusulkan oleh pejabat yang membidangi Amdal, UKL-UPL, dan SPPL, gubernur atau bupati/',vali kota sebagaimana dimaksud dalam Pasal TT ayat (1). (2) Tambahan atau penggantian ahli bersertifikat diperoleh dari daftar kumpulan ahli bersertifikat sebagaimana dimaksud dalam Pasal 76 ayat (2) huruf c. Pasal 83 Lembaga Uji Kelayakan Lingkungan Hidup melakukan pembinaan terhadap Pemerintah Daerah untuk dapat rnemenuhi persyaratan pengusulan Tim Uji Kelayakan Lingkungan Hidup. Bagian Ketujuh Ahli Bersertifika.t Tim Uji Keiayakan Lingkungan Hidup Pasal 84 (1) Menteri menetapkan ahli bersertifikat sebagai anggota Tim Uji Kelayakan Lingkungan Hidup. (21 Penetapan sebagaimana dimaksud pada ayat (1) dilakukan melalui Lembaga Uji Kelayakan Lingkungan Hidup dengan mekanisme penilaian calon ahli bersertifikat. Pasai 85 (1) Mekanisme penilaian sebagaimana dimaksud dalam Pasal 84 ayat (21 dilakukan terhadap:
+m. ahli lain sesuai dengan dampak rencana Usaha dan/atau Kegiatan. Pasal 82 (1) Lembaga Uji Kelayakan Lingkungan Hidup berdasarkan hasil telaahan dapat memberikan saran kepada Menteri untuk menambah atau mengganti anggota Tim' Uji Kelayakan Lingkungan Hidup yang berasal dari tenaga ahli bersertifikat yang diusulkan oleh pejabat yang membidangi Amdal, UKL-UPL, dan SPPL, gubernur atau bupati/',vali kota sebagaimana dimaksud dalam Pasal TT ayat (1). (2) Tambahan atau penggantian ahli bersertifikat diperoleh dari daftar kumpulan ahli bersertifikat sebagaimana dimaksud dalam Pasal 76 ayat (2) huruf c. Pasal 83 Lembaga Uji Kelayakan Lingkungan Hidup melakukan pembinaan terhadap Pemerintah Daerah untuk dapat rnemenuhi persyaratan pengusulan Tim Uji Kelayakan Lingkungan Hidup.
+
+Bagian Ketujuh
+Ahli Bersertifikat Tim Uji Kelayakan Lingkungan Hidup
+
+Pasal 84
+(1) Menteri menetapkan ahli bersertifikat sebagai anggota Tim Uji Kelayakan Lingkungan Hidup. (21 Penetapan sebagaimana dimaksud pada ayat (1) dilakukan melalui Lembaga Uji Kelayakan Lingkungan Hidup dengan mekanisme penilaian calon ahli bersertifikat. Pasai 85 (1) Mekanisme penilaian sebagaimana dimaksud dalam Pasal 84 ayat (21 dilakukan terhadap:
 a. latar belakang pendidikan minimal sarjana;
 b. pengalaman sesuai keilmuannya paling sedikit 3 (tiga) tahun;
 c. sertifikat pelatihan yang terkait dengan kajian Dampak Lingkungan;
 d. rekam jejak penilaian Amdal yang telah dilakukan oleh ahli tersebut;
 e. tulisan ilmiah dari ahli tersebut yang telah diterbitkan di jurnal nasional atau internasional; dan/atau
-f. rekomendasi dari asosiasi keahlian. (2) Berdasarkan hasii penilaian sebagaimana dimaksud pada ayat (1), Menteri menerbitkan tanda ahli bersertifikat. (3) Ahli bersertifikat sebagaimana dimaksud pada ayat (2) harus menandatangani pakta integritas. Bagian Kedelapan Dokumen Evaluasi Lingkungan Hidup dan Dokumen Pengelolaan Lingkungan Hidup , Pasar.l 86 Penanggung jawab Usaha dan/atau Kegiatan yang telah melaksanakan Usaha dan/atau Kegiatan sebelum berlakunya Peraturan Pemerintah ini dan memenuhi kriteria:
+f. rekomendasi dari asosiasi keahlian. (2) Berdasarkan hasii penilaian sebagaimana dimaksud pada ayat (1), Menteri menerbitkan tanda ahli bersertifikat. (3) Ahli bersertifikat sebagaimana dimaksud pada ayat (2) harus menandatangani pakta integritas.
+
+Bagian Kedelapan
+Dokumen Evaluasi Lingkungan Hidup dan Dokumen Pengelolaan Lingkungan Hidup
+
+Pasal 86
+Penanggung jawab Usaha dan/atau Kegiatan yang telah melaksanakan Usaha dan/atau Kegiatan sebelum berlakunya Peraturan Pemerintah ini dan memenuhi kriteria:
 a. tidak memiliki dokumen Lingkungan Hidup atau dokumen Lingkungan Hidupnya tidak sesuai dengan ketentuan peraturan rrerundang-undangan; dan
 b. lokasi Usaha dan/atau Kegiatan sesuai dengan rencana tata ruang, wajib men5rusun DELH atau DPLH.
+
 Pasal 87
-Pasal 87 (1) Penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 86 mengajukan DELH atau DPLH yang telah disusun melalui sistem informasr dokumen Lingkungan Hidup kepada Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya. (21 DELH atau DPLH yang telah disusun sebagaimana dimaksud pada ayat (1) diumumkan kepada masyarakat melalui:
+(1) Penanggung jawab Usaha dan/atau Kegiatan sebagaimana dimaksud dalam Pasal 86 mengajukan DELH atau DPLH yang telah disusun melalui sistem informasr dokumen Lingkungan Hidup kepada Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya. (21 DELH atau DPLH yang telah disusun sebagaimana dimaksud pada ayat (1) diumumkan kepada masyarakat melalui:
 a. sistem informasi dokumen Lingkungan Hidup oleh Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya; dan
 b. pengumuman pada lokasi Usaha dan/atau Kegiatan oleh penanggung jawab Usaha dan/atau Kegiatan. (3) Pengumuman sebagaimana dimaksud pada ayat (21 memuat informasi:
 a. Usaha dan/atau Kegiatan beserta evaluasi Dampak Lingkungannya; dan
@@ -450,7 +944,12 @@ b. gubernur atau bupati/wali kota menugaskan kepala perangkat daerah yang membid
 (3) Hasil penilaian DELH atau pemeriksaan DPLH sebagaimana dimaksud pada ayat(2) disusun dalam berita acara yang memuat informasi:
 a. DELH atau DPLH diterima; atau
 b. DELI{ atau DPLH perlu dilakukan perbaikan. (4) Berdasarkan berita acara sebagaimana dimaksud pada ayat (3) huruf a, Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya menerbitkan persetujuan DELH atau DPLH. (5) Persetujuan DELH atau DPLH sebagaimana dimaksud pada ayat (4) dipersamakan dengan Persetujuan Lingkungan yang digunakan sebagai prasyarat dan termuat dalam Perizinan Berusaha atau Persetujuan Pemerintah. (6) Berdasarkan berita acara sebagaimana dimaksud pada ayat (3) huruf b, penanggung jawab Usaha dan/atau Kegiatan melakukan perbaikan. , (7) Tata cara pen5rusunan, penilaian DELH, atau pemeriksaan DPLH tercantum dalam Lampiran V yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
-Bagian Kesembilan Peru bahan Persetujuan Lingkungan Pasal 89 (1) Penanggung jawab Usaha dan/atau Kegiatan wajib melakukan perubahan Persetujuan Lingkungan apabila Usaha dan/atau Kegiatannya yang telah memperoleh surat Keputusan Kelayakan Lingkungan Hidup atau persetujuan Penyataan Kesanggupan Pengelolaan Lingkungan Hidup direncanakan untuk dilakukan perubahan. (2) Perubahan Usaha dan/atau Kegiatan sebagaimana dimaksuci pada ayat (1) meliputi:
+
+Bagian Kesembilan
+Peru bahan Persetujuan Lingkungan
+
+Pasal 89
+(1) Penanggung jawab Usaha dan/atau Kegiatan wajib melakukan perubahan Persetujuan Lingkungan apabila Usaha dan/atau Kegiatannya yang telah memperoleh surat Keputusan Kelayakan Lingkungan Hidup atau persetujuan Penyataan Kesanggupan Pengelolaan Lingkungan Hidup direncanakan untuk dilakukan perubahan. (2) Perubahan Usaha dan/atau Kegiatan sebagaimana dimaksuci pada ayat (1) meliputi:
 a. perubahan spesifika-si teknik, alat produksi, bahan baku, bahan penolong, dan/atau sarana Usaha dan/atau Kegiatan yarig berpengaruh terhadap Lirrgkungan l{idup;
 b. penarnbahan kapasitas prodr-rksi;
 .. perl.uasan laharr Usaha dan/atai-r Kr: giatan;
@@ -510,8 +1009,17 @@ c. perubahan kegiatan pada Usaha dan/atau Kegia-tan dalam kawasan yang telah ber
 d. perubahan pengelolaan dan pen: antauan Lingkungan Hidup. (3) Perubahan sebagairrrana dimaksud pada ayat (2J huruf a dilakukan rnelalui perubahan dokumen Lingkungan Hidup sebagaimana dimaksud dalam 90 ayat (1) huruf a. (4) Perubahan sebagaimana dirnaksud pada ayat (21huruf b sanrpai dengan huruf d, dilakukan melalui perubahan pengelolaan dan pemantauan Lingkungan Hidup sebagaimana dimaksud dalam Pasal 89 ayat (2) hurufj. (5) Perubahan sebagaimana dimal: sud pada ayat (4) dilakukarr bersamaan dengan pelaporan Perizrnan Berusaha terkait Persetujuan Lingkungan secara berka.la setiap 6 (enam) brrlan. Pasal 1O1 Tata cara:
 a. penyusunan adder"dum Andal dan RKL-RPL sebagaimana dimaksucl dalam Pasal 91 ayat (3);
 b. penilaian addendum Andal dan RKL-RPL sebaga-imana drmaksud dalam Pasal 97 dan Pasal 98; dan
-c. perneriksaarl perubahan Persetujuan Lingkungan tanpa disertai kervajiban rnentrusun dokumen Lingkungan Hidup baru sebagaimana ciimaksud dalam Pasal 99, sebagaimana tercantum rialam Lampiran V ,vang rnerupakan bagian tidak terpisahkan dari Pera[uran Pemeriritah ini. Bagian Kesepuiuh Bantuan Pemerintah Terhadap Usaha Mikro dan Kecil Pa.sat 1Ct2 (1) Pemerintah Pusat rlan Pemerintah Daerah membantu penyusunan Amdal bagi usaha mikro dan kecil yang memiliki Dampak Penting terhadap Lingkungan Hidup l2j ^Bantuan ^penyusulran ^Amdal ^sebagainlana ^dirnaksud pada ayat (1) berupa fasilitasi. bia),a, dan/atau pen)rusunan Amdal. (: l) Pen5n: surran Amdal bagi usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) dibantu oleh kementerian/lembaga pemerintah nonkementerian aralr perangkat daerah yang membidangi Usaha danlatau Kegiatan. {4) ^Dalam hal usaha mikro dan kecil sebagaimana dirnaksud pada. ayat (1) berada di bawah pembinaan atau pengawasan lebih dari 1 (satu) kementerian/lembaga pemerintah nonkerrrenterian atau perangkat daerah, penyusunan Amdal bagi usaha mikro dan kecil yang direncanakan, dilakukan oleh kementerian/lembaga pemerintah nonkementerian atau perangkat daerah yang membidangi usaha yang dominan. (5) Penentuan mengenai usaha rnikro dan kecil sebagaimana dimaksud pada ayat (1) dilaksarrakan sesuai dengan ketentuan peraturan perundang-undangan.
-Bagian Kesebelas Pendanaan Persetujuan Lingkungan
+c. perneriksaarl perubahan Persetujuan Lingkungan tanpa disertai kervajiban rnentrusun dokumen Lingkungan Hidup baru sebagaimana ciimaksud dalam Pasal 99, sebagaimana tercantum rialam Lampiran V ,vang rnerupakan bagian tidak terpisahkan dari Pera[uran Pemeriritah ini.
+
+Bagian Kesepuluh
+Bantuan Pemerintah Terhadap Usaha Mikro dan Kecil
+
+Pasal 102
+(1) Pemerintah Pusat rlan Pemerintah Daerah membantu penyusunan Amdal bagi usaha mikro dan kecil yang memiliki Dampak Penting terhadap Lingkungan Hidup l2j ^Bantuan ^penyusulran ^Amdal ^sebagainlana ^dirnaksud pada ayat (1) berupa fasilitasi. bia),a, dan/atau pen)rusunan Amdal. (: l) Pen5n: surran Amdal bagi usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) dibantu oleh kementerian/lembaga pemerintah nonkementerian aralr perangkat daerah yang membidangi Usaha danlatau Kegiatan. {4) ^Dalam hal usaha mikro dan kecil sebagaimana dirnaksud pada. ayat (1) berada di bawah pembinaan atau pengawasan lebih dari 1 (satu) kementerian/lembaga pemerintah nonkerrrenterian atau perangkat daerah, penyusunan Amdal bagi usaha mikro dan kecil yang direncanakan, dilakukan oleh kementerian/lembaga pemerintah nonkementerian atau perangkat daerah yang membidangi usaha yang dominan. (5) Penentuan mengenai usaha rnikro dan kecil sebagaimana dimaksud pada ayat (1) dilaksarrakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+Bagian Kesebelas
+Pendanaan Persetujuan Lingkungan
+
 Pasal 103
 Penanggung jawab Usaha dan/atau Kegiatan bertanggung jawab atas pendanar.,rr penyLlsunan Anadal atarr F'ormulir UKL-UPL standar spcsitik atau F'ormulir IJKL-UPL standar.
 Pasal 104
@@ -519,8 +1027,16 @@ Pasal 104 (1) Pendanaan operasional kegiatan Lembaga Uji Kelayakan Lingkungan Hi
 a. daftar Usaha Can/a: au Kegiat-an '*vajic A.rtrdal, UKL- UPL, dan SPPI,;
 b. tata cara sistem sertifikasi kompetensi Amdai, pelatihan kompetensi Amdal. dan lembaga penyedia jasa penyusunan Amdal;
 c. pemberrtukan Lembaga Uji Kelayakan Lingkungan Hidirp dan Tinr Uji Kelayakan Lingkungari Hidrrp; dan
-d. tata cara penilaian calorr ahli bersertifikat. diatur dengan Peraluran Merrteri. BAR III PERLINDUNGAN DAN PENGELOLAAN MUTU AIR
-Bagian Kesatu Ketentuan Umum Pasal 1O7 {1) ^Perlindungan dan ^Pengelolaan Mutu Air sebagaimana dimaksud dalam Pasal 2 huruf b dilakukan terha-dap air yang berada di dalam Badan Air. (21 Badan Air sebagaimana dimaksud pada ayat (1) meliputi:
+d. tata cara penilaian calorr ahli bersertifikat. diatur dengan Peraluran Merrteri.
+
+BAB III
+PERLINDUNGAN DAN PENGELOLAAN MUTU AIR
+
+Bagian Kesatu
+Ketentuan Umum
+
+Pasal 107
+(1) Perlindungan dan Pengelolaan Mutu Air sebagaimana dimaksud dalam Pasal 2 huruf b dilakukan terha-dap air yang berada di dalam Badan Air. (21 Badan Air sebagaimana dimaksud pada ayat (1) meliputi:
 a. Badan Air permukaan meliputi:
 1. sungai, anak sungai, dan sejenisnya;
 2. danau dan sejenisnya;
@@ -607,7 +1123,15 @@ a. lralku Mtrtlr A.ir sebagaimarra dirnaksud da-lam ^pasal i 1l'i ayat (1);
 b. tata ruang: dan/aLaur .. ketrrjnkan iainnya yarrg ^'nerimplikasi pada Perlindur^gan dan Fengclolaan DIr: l_ur Air.
 .Bagian Ket:
 ga. Pemanlhatan Pasal 125 (U Pemanfaatan air pada Bacian Air dilakukaa berdasarkan rencana Perlindungan dan Pengelolaan IVIrrtu Air sebagairrrana dirrraksud dalam Pasal 117. (21 Pemanfaatan air sebagaimana dimaksud pada. e+,at (1) dapat dilakukan pada seluruh Badan Air sesuar dengan Baku Mutu Air atau L4utu Air sasaran. Pasal 126 Badan Air dapat dimanfaatkan sebagai penerima Air Limbah bagi Usaha danf atau Kegiatan dengan tidak melampaui Baku Mutu Air sebagaimana dimaksud claiam Pasal 113 ayat (1) huruf b atau Mutu Air sasaran sebagairnana ciimaksud dalam Pasal I23 ayat (3) huruf a. Bagian
-Bagian Keempat Pengendalian Paragraf 1 Umurn Pasal !27 (i) Pengendalian Pencemaran Air dilaksanakan sesuai dengan i'encana Perlindungan dan Pengei<,,laan Mutu Air sebagaimana dimaksud dalam Pasal 117. ('21 Pengendalian Pencernaran Air sebagaimana din: a-ksud pada ayat (1) meliputi:
+
+Bagian Keempat
+Pengendalian
+
+Paragraf 1
+Umum
+
+Pasal 127
+(i) Pengendalian Pencemaran Air dilaksanakan sesuai dengan i'encana Perlindungan dan Pengei<,,laan Mutu Air sebagaimana dimaksud dalam Pasal 117. ('21 Pengendalian Pencernaran Air sebagaimana din: a-ksud pada ayat (1) meliputi:
 a. pencegahan Pencemaran Air;
 b. penanggularrgarr Pencemaran Air; dan
 c. pemulihan Mut-u Air. Paragraf 2 Pencegahan Pencemaran Air Pasal 128 (1) Pencegahan Pencemaran Air sebagaimana dirnaksud dalam Pasal 127 ayat (2) hunuf a dilakukan pada sumber pencemar:
@@ -702,13 +1226,21 @@ a. pemantauan mutu Air Limbah;
 b. penaatan Baku Mutu Air Limbah _v-ang ditetapkan bagi tJsa}:
 .a danlatau Kegiatan;
 c. pemantauan Mutu Air permukaan dan/atau air tanah secara berkala; dan
-d. pelaporan seluruh kervajiban pengendalian Pencemaran Air. Pasal 139 Penilaian substansi sampai dengan penerbitan Persetujuan Teknis sebagaimana dimaksud dalam Pasal 136 sampai dengan Pasal 138 dilakukan dalam jangka waktu paling lama 30 (tiga pul,: h) hari kerja.
+d. pelaporan seluruh kervajiban pengendalian Pencemaran Air.
+
+Pasal 139
+Penilaian substansi sampai dengan penerbitan Persetujuan Teknis sebagaimana dimaksud dalam Pasal 136 sampai dengan Pasal 138 dilakukan dalam jangka waktu paling lama 30 (tiga pul,: h) hari kerja.
+
 Pasal 140
 Penanggung jawab Usaha dan/atau Kegiatan yang wajib dilengkapi SPPL, wajib melakukan pengolatran Air Limbah sebelum dibuang dan/atau dimanfaatkan.
+
 Pasal 141
 Dalam pemenuhan Baku Mutu Air Limbah, penanggung jawab Usaha dan/atau Kegiatan clapat melakukan kerja sama dengan:
 a. badan usaha; atau
-b. Pemerintah clan/atau Pemerintah Daerah sesuai dengan ketentua n peraturan perundang-undangan. Pasal 142 (li Menteri, gubernur. atau bupati/wali kota sesuai dengan ke'*'enangannya melaki''.kan verifikasi terhadap Persetujuan Teknis. (2) Verifikasi sebagainiana dirriaksud pada ayat (1) dilakukan untuk: - rt2 a. melihat kesesuaian antara standar teknis pemenuhan Baku Mut-u Air Limbah dengan pembangunan sarana dan prasarana yang dilakukan; dan
+b. Pemerintah clan/atau Pemerintah Daerah sesuai dengan ketentua n peraturan perundang-undangan.
+
+Pasal 142
+(li Menteri, gubernur. atau bupati/wali kota sesuai dengan ke'*'enangannya melaki''.kan verifikasi terhadap Persetujuan Teknis. (2) Verifikasi sebagainiana dirriaksud pada ayat (1) dilakukan untuk: - rt2 a. melihat kesesuaian antara standar teknis pemenuhan Baku Mut-u Air Limbah dengan pembangunan sarana dan prasarana yang dilakukan; dan
 b. memastikan berfr.rrrgsinya sarana dan prasara.na serta terpenuhinya Bakr-r Mutu Air Limbah. (3) Hasii verifikasi terhadap sararra dan prasarana pengendalian Pencemaran Air sebagaimana dimaksr: d pada ayat (2) memerruhi atau tidak memenuhi Persetujuan Teknis. (4) Dalam hal hasil verifikasi sebagaimana dimaksud pada ayat (3):
 a. memenuhi Persetujuan Teknis, Menteri, gubernur, atau bupati/u,ali kota sesuai dengan ke-wenangannya menerbitkan SLO; atau h,. tidak memenuhi Persetujuan Teknis, Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya rnernerintahkan untuk melakukan perbaikan sarana dan prasarana clan/atau perubahan Persetujuan Lingkungan yang clituangkan dalarn berita acara. (5) SLO sebagaimana dimaksud pada ayat (4) huruf a sebagai dasar Menteri, gubernur, ata.u bupati/',riali kota sesuai dengan kewenangannya dalam melakukan pengawasan. (6) Penanggung jawab Usaha dan/atau Kegiatan melakukan perbaikarr sarana dan prasarana sesuai dengan berita acara sebzrgaimana dirnaksud pada ayat (4) huruf b sampai dengan Baku Mutu Air Limbah terpenuhi. (7) Dalam hal penanggrtng jawab Usaha danf at.au Kegiatarr tidak melakukan perbaikan sarana dan prasarafia scsuai dengan berita acara sebagaimana dimaksud pada ayat (4) huruf b, Pejabat Pengawas Lingkungan Hidup nrelakukan pengawasan. Pasai 143 (1) Standar kompetensi sumber daya rnanusia sebagaimana dimaksud dalarn Pasal 138 a-',rat (3) meliputi kemampuan:
 a. melakukan ^identi{ikasi surnber pencernar air;
@@ -765,13 +1297,18 @@ a. iokasi;
 b. wakLu;
 c. penyebab;
 d. dugaan dampak ter h.tCap lingkrrnga-n; darr e. i.rpaya yang telah rlilakukan.
+
 Pasal 152
-Pasal 152 (1) Dalam hal penanggung jawab Usaha dan/atau Kegiatan tidak melakukan penangguiangan pencemaran Air sebagaimana dimaksud dalam pasal 151 ayat (1) dalam jangka waktu paling lama 24 (dua puluh empat)jam sejak diketahuinya pencemaran, Menteri, gubernur, aiau bupati/wali kota sesuai dengan kewenangannya menetapkan pihak ketiga untuk rnelakukan penanggulangan Pencemaran Air. (21 rerhadap kegiatan penanggulangan pencemaran Air sebagaimana dimaksud pada ayat (1) dibebankan biaya kepada Denanggung jawab Usaha dan/atarr Kegiat-an. PRES lDEN REPUBLIK INDONESIA Paragraf 4 Pemulihan Mutu Air Pasal 153 (I) Penanggung jawab Usaha menyebabkan Pencemaran pemulihan Mutu Air. (21 Pemulihan Mutu Air sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:
+(1) Dalam hal penanggung jawab Usaha dan/atau Kegiatan tidak melakukan penangguiangan pencemaran Air sebagaimana dimaksud dalam pasal 151 ayat (1) dalam jangka waktu paling lama 24 (dua puluh empat)jam sejak diketahuinya pencemaran, Menteri, gubernur, aiau bupati/wali kota sesuai dengan kewenangannya menetapkan pihak ketiga untuk rnelakukan penanggulangan Pencemaran Air. (21 rerhadap kegiatan penanggulangan pencemaran Air sebagaimana dimaksud pada ayat (1) dibebankan biaya kepada Denanggung jawab Usaha dan/atarr Kegiat-an. PRES lDEN REPUBLIK INDONESIA Paragraf 4 Pemulihan Mutu Air 
+
+Pasal 153
+(I) Penanggung jawab Usaha menyebabkan Pencemaran pemulihan Mutu Air. (21 Pemulihan Mutu Air sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:
 a. pembersihan unsur lrencemar air;
 b. remediasi;
 c. rehabilitasi;
 d. restorasi; dan/atau
 e. lainnya sesuai dengan perkembangan ilmu pengetahuan dan teknologi. Pasal 154 (1) Dalam hal penanggung jawab Usaha danf atau Kegiatan tidak melakukan pemulihan Mutu Air sebagaimana dimaksud dalam Pasal 153 ayat (1) dalam jangka waktu paling lama 30 (tiga puluh) hari sejak diketahuinya Pencemaran Air, Menteri, gubernur, atau bupati/r; r,,ali kota sesuai dengan kewenangannya menetapkan pihak ketiga untuk melakukan pemulihan Mutu Air. dan/atau Kegiatan yang Air wajib melakukan (2) Terhadap .- t20 - (21 Terhadap kegiatan pemulihan Mutu Air sebagaimana dimaksud pada ayat (1) menggunakan dana penjaminan untuk pemulihan fungsi Lingkungan HiCup.
+
 Pasal 155
 Perrrulihan Mutu Air sebagainrana dimaksuci dalam Pasal i54 dilakukan oleh Pemerintah dan/atau Pernerintah Daerah sesuai dengar. kewenangannJ'a ^jika:
 a. lokasi Pencemaran Air tidak diketahui sumber penccrnarrtya; darr / atau b. uidak dikefahui prhai< yang melakukarr Pencema: i'an Air'. Ragian Kelima Pemeliharaan Pasal 1.56 (1) Pernelih: : .raan Mutu Air diselenggara.kan berdasarkan rencana Perlindungan dan Pengelolaan Mutu Air. (2) Pemeiiharaan Mutu Air clilakukan pada:
@@ -781,7 +1318,11 @@ d. air ranah; dan/atau e . danau terttrtrrp. (13) Menteri, g: rtrernur, ataLr il
 a. konservasi BaCan Ait cian ekosistemnya;
 b. peircadarrlq; tr Bade: i, A'.r' cian eicosisterrnya; Can/atau c. perrqer'.ciali.lrr ncrubahar, ikiirn. (4i Konserv-asi (4) Konservasi Badan Air dan ekosistemnya sebagairnana dimaksud pada ayat (3) huruf a, meliputi kegiatan:
 a. perlindungan Badan Air dengan Baku Mutu Air kelas satu; dan/atau
-b. perlindungan ekcsistem di sekitar Badan Air dengan Baku Mutu Air kelas saru. (5) Pencadangan Baclan Air dan ekosistemnya sebagaimana dimaksud pada ayat (3) huruf b merupakan Radan Air yang tidak dapat dimanfaatkan dalam jangka rvaktu tertentu. (6) Pengendalian perubahan iklirrr sebagaimana dimaksud pada aya-t (3) huruf c dilakukan melalui pengelolaan Air Limbah untuk memitigasi pelepasan Emisi g€rs rumah kaca. (7) Pengendalian perubahan iklim sebagairnana dimaksud pad-a ayat (6) dilakukan sesuai dengan ketentuan pera luran perundang-undangan. Bagian Keenam Hak, Ke'uvajiban, dan Larangan
+b. perlindungan ekcsistem di sekitar Badan Air dengan Baku Mutu Air kelas saru. (5) Pencadangan Baclan Air dan ekosistemnya sebagaimana dimaksud pada ayat (3) huruf b merupakan Radan Air yang tidak dapat dimanfaatkan dalam jangka rvaktu tertentu. (6) Pengendalian perubahan iklirrr sebagaimana dimaksud pada aya-t (3) huruf c dilakukan melalui pengelolaan Air Limbah untuk memitigasi pelepasan Emisi g€rs rumah kaca. (7) Pengendalian perubahan iklim sebagairnana dimaksud pad-a ayat (6) dilakukan sesuai dengan ketentuan pera luran perundang-undangan.
+
+Bagian Keenam
+Hak, Kewajiban, dan Larangan
+
 Pasal 157
 Setiap Orang berhak:
 a. mendapatkan informasi tentang rencana Perlindungan dan Pengelolaan Mutu Air yang ditetapkan oleh Menteri, gubernur, atau bupati/rvali kota;
@@ -802,17 +1343,40 @@ c. merusak kondisi fisik dan fungsi Badan Air;
 d. melakukan perbuatan yang menimbulkan Pencemaran Air;
 e. melepaskan jenis asing invasif, produk rekayasa genetik ke Badan Air yang bertentangan dengan ketentuan peraturan perundang-undangan; dan/atau
 f. memberikan informasi palsu, menyesatkan, menghilangkan informasi, merusak informasi, atau memberikan keterangan yang tidak benar.
-Bagian Ketujuh Peran Serta Masyarakat Pasal 160 Masyarakat berperan aktif dalam Perlindungan dan Pengelolaan Mutu Air berupa: a b memantau Badan Air secara mandiri di lingkungan masing-masing; melakukan upaya pengurangan bahan pencenrar air di lingkungan masing-masing ; menyampaikan informasi hasil pemantauan yang benar dan akurat; menyebariuaskan gerakan pengurangan pencemar air; melakukan kemitraan dengan para pihak dalam rangka pengurangan pencemar air; dan latau melakukan program ekoriparian untuk pemulihan ekosisterrr Badan Air. Pasal 161 (1) Pemerintah dan Pemerintah Daerah sesuai dengan kewenangannya dapat memfasilitasi terbentuknya kemitraan antara masyarakat dengan badan uszrha, dalam melakukan pengurangan pencemar air. (2) Kemitraan sebagaimana dimaksud pada ayat (1) dituangkan dalam bentuk perjanjian antara masyarakat dengan badan usaha yang bersangkutan.
+
+Bagian Ketujuh
+Peran Serta Masyarakat
+
+Pasal 160
+Masyarakat berperan aktif dalam Perlindungan dan Pengelolaan Mutu Air berupa: a b memantau Badan Air secara mandiri di lingkungan masing-masing; melakukan upaya pengurangan bahan pencenrar air di lingkungan masing-masing ; menyampaikan informasi hasil pemantauan yang benar dan akurat; menyebariuaskan gerakan pengurangan pencemar air; melakukan kemitraan dengan para pihak dalam rangka pengurangan pencemar air; dan latau melakukan program ekoriparian untuk pemulihan ekosisterrr Badan Air.
+
+Pasal 161
+(1) Pemerintah dan Pemerintah Daerah sesuai dengan kewenangannya dapat memfasilitasi terbentuknya kemitraan antara masyarakat dengan badan uszrha, dalam melakukan pengurangan pencemar air. (2) Kemitraan sebagaimana dimaksud pada ayat (1) dituangkan dalam bentuk perjanjian antara masyarakat dengan badan usaha yang bersangkutan.
+
 Pasal 162
 Ketentuan lebih lanjut mengenai a. tata cara inventarisasi, penyusunan dan penetapan Baku Mutu Air, perhitungan dan penetapan alokasi beban pencemar air, tata cara pemantauan Mutu Air, perhitungan status Mutu Air, penetapan Mutu Air sasaran, dan pen5rusunan, penetapan, dan perubahan rencana Perlindungan dan Pengelolaan Mutu Air' c d e f. PFTESIDEN REPUBLIK INDONESIA b. penyediaan sarana dan prasarana, ta.ta. cara pembuangan Can pemanfaatan air limbah. Baku Muttr Air Limbah, penetapan standar teknologi, tata cara penyrrsunan dan penetapan Persetujuan'leknls pcmenuhan Ba.ku Mutu Air Limbah dan SLO, persyaratarr pemenuhan Baku Mutu Air Limbah Usaha clan/atau Kegiatan wajib SPPL, starrdar kompetensi pengendalian Pencemaran Air, pemantauan mutu Air Limbah, tata cara pelaporan, sistem inforinasi dan tata cara perdagangan alokasi beban pencemar air; c" tata cara penangguiangan Pencemaran Air;
 d. t.at.a cara pernr.rlihan Mutu Air: dan e. tata cara pelaksanaan kemitraan, sebagaimana dimaksud dalam Pasal 108 sampai dengan Pasal 1 61 diatur dalam Peraturan Menteri.
-BAB IV PERLINDUNGAN DAN PENGELOLAAN MUTU UDARI.
-Bagian Kesatu IJmurn
+
+BAB IV
+PERLINDUNGAN DAN PENGELOLAAN MUTU UDARA.
+
+Bagian Kesatu
+Umum
+
 Pasal 163
 Pen-velenggaraan Perliridungan dan Pengelolaan Mutu LIdara meliputi:
 a. perencanaan;
 b. pemanfaatan; dan
-c. perrgendalian. Bagian i3a-gian Kedua Pei'encanaan Paragraf 1 Umum Pasal 164 Pei'encanaan Perlindtrngan dan Pengelolaan Mutu I )dara clilakukan melalui:
+c. perrgendalian.
+
+Bagian Kedua
+Perencanaan
+
+Paragraf 1
+Umum
+
+Pasal 164
+Pei'encanaan Perlindtrngan dan Pengelolaan Mutu I )dara clilakukan melalui:
 a. inventarisasi trdara;
 b. peny-rsunan dan penetapan Baku Mutu Udara A.mbien;
 c. penyr.rsunan dan penetapan Wi)PMU; dan
@@ -896,7 +1460,12 @@ a. faktor ekonomi: dan b. perkembangan teknologi pengendali Emisi. (5) Dalam hal
 a. Bakrr Mutu Udara Ambien;
 b. kelas WPPMU; dan/atau
 c. tata ruang.
-Bagian Ketiga Pemanfaatan Pasal 186 (1) Pemanfaa[an WPPMU dilaksanakan berdasarkan RPPIVIU nasional. RPPMU provinsi, dan RPPMU kabupaten/kota sebagaimana dimaksud dalam Pasal 177. (.2i Pemanfaatan WPPMU sebagaimana dimaksud pada ayat (1) dapat clilakukan pada:
+
+Bagian Ketiga
+Pemanfaatan
+
+Pasal 186
+(1) Pemanfaa[an WPPMU dilaksanakan berdasarkan RPPIVIU nasional. RPPMU provinsi, dan RPPMU kabupaten/kota sebagaimana dimaksud dalam Pasal 177. (.2i Pemanfaatan WPPMU sebagaimana dimaksud pada ayat (1) dapat clilakukan pada:
 a. WPPMU kclas l;
 b. WPPkIU kelas II; darr c. WPPMIJ kelas IIi.
 Pasal 187
@@ -905,7 +1474,15 @@ Pasal 187
 a. penelitian dan ilmu pengetahuan;
 b. jasa lingkungan; dan
 c. kegiatan lainnva yang tidak mengubah fungsi WppMU cian/atau sesuai dengan ketentuan peraturan perundang-undangan. (2) Pemanfaatan wPPMU kelas II dan kelas III sebagairnana dimaksud dalam Pasal 186 ayat (2) huruf b dan huruf c dapat dimanfaatkan untuk kegiatan sesuai RppMU.
-Bagian Keempat Pengendalian Paragraf 1 Umum Pasai 188 (1) Pengendalian Pencema.ran Udara dilaksanakan sesrrai dengan RPPMU sebagairnana dimaksud dalam pasal lTT. (21 Pengendalian Pencemaran Udara sebagaimana dimaksud pada ayat (1) meliputi:
+
+Bagian Keempat
+Pengendalian
+
+Paragraf 1
+Umum
+
+Pasal 188
+(1) Pengendalian Pencema.ran Udara dilaksanakan sesrrai dengan RPPMU sebagairnana dimaksud dalam pasal lTT. (21 Pengendalian Pencemaran Udara sebagaimana dimaksud pada ayat (1) meliputi:
 a. pencegahan;
 b. penanggulangan; dan
 c. pemulihan dampak Pencemaran Udara. Paragraf 2 Pencegahan
@@ -1068,7 +1645,15 @@ f. baku mutu gangguan;
 g. tata cara penetapa.n kuota Emisi;
 h. sistem perdagangan kuota Emisi;
 i. penanggulangan Pencerna.ran Udara; cian j. pernulihan dampak Pencemaran Udara, sebagaimana dimaksud CaLain Pasal 163 sampai dengan Pasal 218 diatur dalam Peraturan Menteri.
-BAB V PERLINDUNGAN }AN PENGEI.OLAAN MUTU LAUT Bagiarr Kesatu Uinum Pasal 22L, Penyelenggaraan Periindurrgan dan Perrgelolaan Mutu Laut bertujuan:
+
+BAB V
+PERLINDUNGAN DAN PENGELOLAAN MUTU LAUT
+
+Bagian Kesatu
+Umum
+
+Pasal 22L,
+Penyelenggaraan Periindurrgan dan Perrgelolaan Mutu Laut bertujuan:
 a. melindungi wilayah Negara Kesatuan Republik Indonesia dari Pencemaran dan/atau Kenisakan Laut;
 b. menjarnin kelangsungan kehidupan makhluk hidup dan kelestarian Mutrr Lar rt;
 c. menjamin pemerruhan dar perlindungan hak atas Mutu Laut sebagai bagian dari rrak asasi manusia; dan
@@ -1079,7 +1664,15 @@ a. perencanaan;
 b. pemanfaatan;
 c. pengendalian; dan
 d. pemeliharaan.
-Bagian Kedua Perencanaan Paragraf 1 Umum Pasal 223 (1) Perencanaan sebagaimana dimaksud dalam pasal 222 huruf a dilaksanakan terhadap:
+
+Bagian Kedua
+Perencanaan
+
+Paragraf 1
+Umum
+
+Pasal 223
+(1) Perencanaan sebagaimana dimaksud dalam pasal 222 huruf a dilaksanakan terhadap:
 a. Air Laut; dan
 b. ekosistem [,aut. i2l ^Ekosistem ^Laut ^sebagaimana dimaksucl pada ayat (l) huruf b terdiri atas:
 a. ekosistem IVlangrove;
@@ -1172,13 +1765,26 @@ Pasal 239
 Rencana Per'lindungan dan Pengelolaan Mutu Laut yang telah ditetapkan sebagaimana dimaksud dalam Pasal 237 ^,dapat dievaluasi dan/atau diubah dalam hal terdapat:
 a. perubahan rencana zonasi dan/atau rencana tata ruang; dan/atau
 b. perubahan kebijakan lainnya yang berimplikasi pada Perliridungan dan Pengelolaan Mutu Laut.
-Bagian Ketiga Pemanfaatan Pasal 24O il) Pemanfaatan sebagaimana dimaksud dalarn Pasal 222 huruf b dilaksanakan dengan memperhatikan:
+
+Bagian Ketiga
+Pemanfaatan
+
+Pasal 240
+(1) Pemanfaatan sebagaimana dimaksud dalarn Pasal 222 huruf b dilaksanakan dengan memperhatikan:
 a. keberlanjutan proses dan fungsi Laut;
 b. keberlanjutan produktrvit-as Laut; dan
 c. keselama.tan, rnutu hidup, dan kesejahteraarr masyarakat. (2J Pemanfaatan sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan. a rencana zcnasi dan/atarl rencana tata ruang;
 b. peruntukan; dan
 c. rencana Perlindungan dan Pengelolaan Mutu Laut sebagainrana dimaksud dalam Pasal 237. (3) Pemanfaatan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
-Bagian Keempat Pengendalian Paragraf 1 Umum Pasal 241 (1) Pengendalian Pencemaran dan/atau Kerusakan Laut sebagaimana dimaksud dalam Pasal 222 huruf c dilaksanakan sesuai dengan rencana Perlindungan dan Pengelolaan Mutu Laut sebagaimana dimaksud dalam Pasal 237. (2) Pengendalian Pencemaran dan/atau Kerusakan Laut sebagaimana ciimaksud pada ayat (1) meliputi:
+
+Bagian Keempat
+Pengendalian
+
+Paragraf 1
+Umum
+
+Pasal 241
+(1) Pengendalian Pencemaran dan/atau Kerusakan Laut sebagaimana dimaksud dalam Pasal 222 huruf c dilaksanakan sesuai dengan rencana Perlindungan dan Pengelolaan Mutu Laut sebagaimana dimaksud dalam Pasal 237. (2) Pengendalian Pencemaran dan/atau Kerusakan Laut sebagaimana ciimaksud pada ayat (1) meliputi:
 a. pencegahan;
 b. penanggulangan; dan
 c. pemulihan. (3) Pengendalian Pencemaran dan/atau Kerusakan Laut sebagaimana dimaksud pada ayat (1) dilakukan oleh Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenarrgannya. Paragraf Paragraf 2 Pencegahan Pasal 242 (1) Menteri, gubernur, atau bupati/wali kota melakukan pencegahan Pencemaran dan/atau Kerusakan Laut sebagaimana dimaksud dalam Pasal 241 ayat (2) huruf a. l.2l Pencegahan sebagaimana dimaksud pada ayat (1) dilakukan terhadap Pencemaran dan/atau Kerusakan Laut yang berasal clari darat danf atau Laut. (3) Pencegahan sebagaimana dimaksud pada ayat (21 dilakukan meialui:
@@ -1342,7 +1948,13 @@ Ketentuan lebih lanjut rnengenai:
 a. inventarisasi Mt.tu Laut, b. pemant-auan Mutu Larrt;
 c. tata e. penetapan St-atus; Ilutr-r Laut;
 f. peilyrlsunan, penetapan, cian perubahan rencana Perlinciungan dan Pengelolaan Mutu Laut, g. +,ata cara pellyusunan dan Pcnetapan Persetujuan Teknis pemenuhan Baku I\,iutr.r Air Limbah yang dibuang ke Laut dan SLC);
-h. pemantauan samp.ah Lai: t' i. peilangg'llangari peilcernaran dan/atau Kerusaka.n Laut; j pernulihan Mutu Laut: dan k. pemeliharaan Mutu Larrl-, sebagairnatira dimaksrid dalanr Pasal 224 sampai dengan Pasal 2.7O diatur dalam Peraturarr Menteri. BAB Vi PENGE}IDALIAN KERUSAKAN LINGKUNGAN HIDUP Pasai 272. (1) Untuk inenentukan terjadin5,a Kerusakan Lingkungan Hidup, ditetapkan kriteria bak,r Keru-sakan Lingkungan Hidup. (2) Kriteria ba.k,-i Kerusakan Lingkun6{an Hidup sebagaimana dirnaksuC pada ayat (1) meliputi kriteria baku kerusakan:
+h. pemantauan samp.ah Lai: t' i. peilangg'llangari peilcernaran dan/atau Kerusaka.n Laut; j pernulihan Mutu Laut: dan k. pemeliharaan Mutu Larrl-, sebagairnatira dimaksrid dalanr Pasal 224 sampai dengan Pasal 2.7O diatur dalam Peraturarr Menteri. 
+
+BAB VI
+PENGENDALIAN KERUSAKAN LINGKUNGAN HIDUP
+
+Pasal 272.
+(1) Untuk inenentukan terjadin5,a Kerusakan Lingkungan Hidup, ditetapkan kriteria bak,r Keru-sakan Lingkungan Hidup. (2) Kriteria ba.k,-i Kerusakan Lingkun6{an Hidup sebagaimana dirnaksuC pada ayat (1) meliputi kriteria baku kerusakan:
 a. Terurnbur Karang;
 b. Mangrove;
 c. Padang l,arr-.-rn;
@@ -1352,10 +1964,25 @@ f. kar: : t;
 g. lingkunglri lv?ng berkaitan dengan kebakaran trutan dan/atar,. iahan; lahan akibat Usaha pertambangan; dan dan/atau Kegiatan i. kriteria baku Kerusakan Lingkungan Hidup lainnya sesuai dengan perkembangan ilmu pengetahuan dan teknologi. (3) Kriteria baku Kerusakan Lingkungan Hidup sebagaimana dimaksud pada ayat (2) huruf a, huruf b, dan huruf c diatur sesuai dengan ketentuan dalam Pasal 23I dan Pasal 232. (4) Kriteria baku Kerusakan Lingkungan Hidup sebagaimana dimaksud pada ayat (2) huruf d dan huruf e dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. (5) Kriteria baku Kerusakan Lingkungan Hidup sebagaimana dimaksud pada ayat (21 huruf f sampai dengan huruf i ditetapkan dalam Peraturan Menteri. (6) Dalam hai kriteria baku Kerusakan Lingkungan Hidup sebagaimana dimaksud pada ayat (5) belum ditetapkan, penentuan kriteria baku Kerusakan Lingkungan Hidup dilakukan berdasarkan hasil kajian atau pendapat ahli. Pasal 273 (1) Ketentuan mengenai kriteria baku Kerusakan Lingkungan Hidup sebagaimana dimaksud dalam Pasal 272 ayat (2) huruf g, dikecuaiikan terhadap kegiatan pembukaan lahan dengan cara pembakaran yang dilakukan masyarakat di lahan miliknya sendiri. (21 Pelaksanaan pembukaan lahan dengan cara pembakaran dilakukan berdasarkan kearifan lokal yang meliputi:
 a. Iuas lahan maksimal 2 (dua) hektare per kepala keluarga;
 b. dikelilingi oleh sekat bakar sebagai pencegah penjalaran api ke wilayah sekelilingnya; dan
-c. ditanami tanaman jenis varietas lokal. (3) Pemerintah dan/atau Pernerintah Daerah memberikan rekomendasi, fasilitasi, pembinaan, dan pendampingan bagi masyarakat sebagaimana dimaksud pada ayat (1). h (4) Ketentuan (4) Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembukaan lahan dengan cara membakar berdasarkan kearifan lokal sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Menteri. BAB VII PENGELOLAAN LIMBAH BAHAN BERBAHAYA DAN BERACUN DAN PENGELOLAAN LIMBAH NON BAHAN BERBAHAYA DAN BERACUN Ragian Kesatu Umum Pasal 274 (1) Setiap Orang yang menghasilkan Limbah wajib melakukan pengelolaan Limbah yang dihasilkannya. (21 Pengelolaan sebagaimana dimaksud pada ayat (1) meliputr:
+c. ditanami tanaman jenis varietas lokal. (3) Pemerintah dan/atau Pernerintah Daerah memberikan rekomendasi, fasilitasi, pembinaan, dan pendampingan bagi masyarakat sebagaimana dimaksud pada ayat (1). h (4) Ketentuan (4) Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembukaan lahan dengan cara membakar berdasarkan kearifan lokal sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Menteri. 
+
+BAB VII
+PENGELOLAAN LIMBAH BAHAN BERBAHAYA DAN BERACUN DAN PENGELOLAAN LIMBAH NON BAHAN BERBAHAYA DAN BERACUN
+
+Bagian Kesatu
+Umum
+
+Pasal 274
+(1) Setiap Orang yang menghasilkan Limbah wajib melakukan pengelolaan Limbah yang dihasilkannya. (21 Pengelolaan sebagaimana dimaksud pada ayat (1) meliputr:
 a. Pengelolaan Limbah 83; dan
 b. Pengelolaan Limbah nonB3.
-Bagian Kedua Pengelolaan Limbah Bahan Berbahaya dan Beracun Paragraf 1 Umum
+
+Bagian Kedua
+Pengelolaan Limbah Bahan Berbahaya dan Beracun
+
+Paragraf 1
+Umum
+
 Pasal 275
 Penyelenggaraan Pengelolaan Limbah 83 meliputi a. penetapan Limbah 83;
 b. Pengurangan Limbah 83;
@@ -2511,7 +3138,12 @@ g. iangka rvaktu yanfl dibutuhkan untuk penanggulangan Pencerrraran Lrngkungarr 
 h. perencanaan dan surpervisi penanggulangan Pencemaran l,irrgkungan Hidup dan/atau Kerusakan Lingkungan Hidup dan/atau pemulihan fungsi Lingkungan Hidup; dan/atau
 i. kriteria lainnya scsuai dengan karakteristik lokasi dan jenis Usaha dan/atar_r Kegiatan. (2) Penghitungan besaran dana penjaminan untuk pemulihan fungsi l,ingkungan Hidup sehagaimana dimaksud pada ayat (1) dilakukan pada saat perencanaan Usaha danlatau Kegiatan. (3) Ketentuan lebih lanjut merrgenai mekanisme, tata cara perhitungan, dan penetapan besaran dana penjaminan untuk pemulihan fungsi Lingkungan Hidup sebagaimana dimaksud pada ayat (1) diatur oleh menteri ,v-ang membidangi masing-masing Usaha dan/atau Kegiatan sestrai dengan kewenangan pemberian Perizinan Bemsaha setelah berkoordinasi dengan Menteri. Pasal 477 (i) Dana penjaminan untuk pemulihan fungsi Lingkungan Hidup sebcgaimana dimaksud dalam pasal 4Z 2 hanya dapat ciigunakan oleh Peiaku Usaha berclasarkan keputusan dari Pemerintah atau Pemerintah Daerah sesuai dengan kewenangannya. {2\ Penggunaan dana penjaminan untuk pernulihan fungsi Lingkungan Hidup dapat dilakukan oleh pihak ketiga yang ditunjuk oleh Pernerintah atau Pemerirrtah Daerah sesuai dengan kewenanp{annya. (3) Penunjukan pihak ketiga sebagaimana dimaksud pada ayat i2) dilaksanakan sesuai dengan ket.entuan peraturan perunciang-undangan.
 f. (41 33E - Pelaku usaha \r'ajib memenul: i kekurangan pernbiayaan apabiia dana penjanLinar: untuk pemulihan fungsi Lingkungan Hidr-rp sebagaimana dimrrksr: d pacla ayat (1) tidak mencukupi. (5) Dalam hal 'Jana penjarnina.rr untuk pemr-rlihan fungsi Lingkungan Hidup sebagaimaner dimaksud pada ayat (1) sudah digunakan untuk kegia+-an penanggulangan Pencemaran Lingkungan Hidup dan/atau Kenisakan Lingkungan lliciup dan/atau pemulihan fungsi Lingkungan Hrclrtp, Pelaku Usaha wajib menvediakan kembali kecukupan dana penjaminan *ntuk pemulihan fungsi Lingkungan Hirfup. Pa.sal 478 Penyediaan dana penjaminan untuk pemulihan fungsi Lingkungan Hidup sebagairnana dimaksud dalam pasar 417 tidak membebaskan kewajiban pelaku usaha untuk melakukan pengendalian Pencemaran Lingkungan Hiciup dan/atau Kerusakan Lingkungan Hidup akibat Usaha dan/atau Kegiatan. Pasai 479 Penerapan ke'wajiban penyediaan rlana penjaminan untuk pemulihan fur: gsi Lirrgkungan Hidup seba-gaimana climaksud dalam Pasa1471 sampai dengan Pasal 478 dilaksanakair sesuai dengan ketentrran peraturan perundang-undarrgan.
-BAB IX SISTEM INFORMASI LINGKUNGAN FIIDUP Pasal 48O (1'l vlenteri, gubernur, arau bupai.iiwali kota sesuai dengan kewerranga-nnya menyediakan inform.asi melaluri Sistem Informa si l-ingkur: ga n Hi,1r-rp. (2) Sistem Inforrrasi Lingkungan Hidup sebagaimana dimaksud pada a.yat ii) ,ilkembangkan terintegrasi sccarra elektronik yang terdiri atas: sistem informasi: a" dokunlen . /-\ /)r, dokurnen l,ingkrlngan Hidup; pelaporirn Persetujuan Lingkungan; st-atus l-ingkrnrgan HiCun; Pengelolaan Lirnbah 83; peta rawan hngkungan; pengavrasan dan perrerapan dan Sanksi Administr atif;
+
+BAB IX
+SISTEM INFORMASI LINGKUNGAN HIDUP
+
+Pasal 480
+(1) vlenteri, gubernur, arau bupai.iiwali kota sesuai dengan kewerranga-nnya menyediakan inform.asi melaluri Sistem Informa si l-ingkur: ga n Hi,1r-rp. (2) Sistem Inforrrasi Lingkungan Hidup sebagaimana dimaksud pada a.yat ii) ,ilkembangkan terintegrasi sccarra elektronik yang terdiri atas: sistem informasi: a" dokunlen . /-\ /)r, dokurnen l,ingkrlngan Hidup; pelaporirn Persetujuan Lingkungan; st-atus l-ingkrnrgan HiCun; Pengelolaan Lirnbah 83; peta rawan hngkungan; pengavrasan dan perrerapan dan Sanksi Administr atif;
 g. informasi Lingkungan Hidup iainnya. Pasal ^.18 i (1) Sistem inforrrrasi dokurrrcn Lingkrrngan Hitrup sebagainlana climaksr-rd daiam Pasal 480 ayat (2) huruf a bertujuan:
 a. mernperrruCah proscs pelayanan dokunten T-rngkungan f{idup bagi Setiao Orang;
 b. mempermudah penlusunan dokumen Lingkungan Hidup;
@@ -2590,8 +3222,15 @@ a. sistem informasi status Lingkungan Hidup;
 b. indeks kualitas Lrngkungan Hiciup;
 c. sistem informasi peta rawan lingkungan; dan
 d. sistem informasi Pengeiolaan Limbah 83, diatur daiam Peraturan Menteri.
-BAB X PEMBINAAN DAN PENGAWASAN
-Bagian Kesatu Pemhinaan Pasal 490 (1) Menteri melakrrkan penroinaan kepada:
+
+BAB X
+PEMBINAAN DAN PENGAWASAN
+
+Bagian Kesatu
+Pembinaan
+
+Pasal 490
+(1) Menteri melakrrkan penroinaan kepada:
 a. gubernur';
 b. Tim Uji Kela;
 .akan Lingkungan Hidup;
@@ -2648,14 +3287,26 @@ d.
 e.
 f. o b' h.
 i. j.
-k. Bagiaur Kedua Pengawasan Pasal 492 fu[enteri, gr-rbernur. atau bupati/r.vali kota wajib melakukan pengawasan terttadap ketaatan penanggung ja'.vao Usaha dan/atau Kegiatan atas ketentuan yang ditetapkan dalarn Perizinan Benrsaha atau persetuJuan Pemerintah telkait Pe: setujuan Lingkungan dan peraturar-r perun(larg-unci; '.ngan di bidang pertindungan da rr Pengelolaar, I-irrg,lru n garn i{ictup.
+k. 
+
+Bagian Kedua
+Pengawasan
+
+Pasal 492
+fu[enteri, gr-rbernur. atau bupati/r.vali kota wajib melakukan pengawasan terttadap ketaatan penanggung ja'.vao Usaha dan/atau Kegiatan atas ketentuan yang ditetapkan dalarn Perizinan Benrsaha atau persetuJuan Pemerintah telkait Pe: setujuan Lingkungan dan peraturar-r perun(larg-unci; '.ngan di bidang pertindungan da rr Pengelolaar, I-irrg,lru n garn i{ictup.
 (1) (1)) Penga-rr/asan . FT (21 Pengav asan sebagaimana rlimaksud pacla ayat (r) dilakukan berdasarkarr norma.r standar, prosedur, dan kriteria yang ciitetapkan oleh I\{enteri Pasal 493 (1) Menteri berwenang melakukan pengawasarr terharlap keta.atan penariggung .iarvrtb tisaha rlan/atau Kegiatan yang rneiiputi:
 a. Perizinan Berusaha terkalt persetuirran LingkLrngam yar)g diterbitkan oleh pcmerintah; atau
 b. Persetujuan Pemerintah. terkait persetujua. Lingkungan yang diterbitkan oleh pemerintah. (2\ Gubernur ber.r'-,enang melakukan pengawasan terhaciap ketaatan pelianggung jar,,'ab Usaha danlatau Kcgiatan yang meliouti' a. Perizi,an Berusaha terkait persetujuair i-ingkungan yang diterbrtkan oleh Pemerintah l)aerah pro'rinsi; atau
 b. Persetujuan Pemeri.taLr terka-ir persetujuair Lingkungan yang diterbitkan oletr pemerintah Daerah provinsr. (3) Bupati/wali i<ota berwenang melakukan pengawasan terhadap }: etaatan penanggung jawab Usaha clan/atau Kegiatan yang rrieliputi:
 a. Perizinan Berusaha t.erkair- persetujuari Lingkungan yang direrbitkan oleh pemerintah Laaerah kabupaten/ koter; at: ,ru b' Persetujuan Pemerintah terkait persetujuan l,ing!.ungan va,g diterbitkan oleh pe; nerintah Daerah ka-bupatenlkota.. |41 ^Penga..lrasarr ^sebagaimana dimaksud pacla ayat (1), .ryat (2), dan ayat (3) dikecualikan terhadap arialisrs mengenai dampak laju lintas. (5) Pengawasan tert: acap analisis mengenai dampak lalrr lintas sebaga.irnana dirnaksucl pacia ayat A) ditakukan oleh merrteri yang men5'elenggaral<an uiiusan pernerintahan di bidang perhubu.rtg_an, quberntrr, atau bupati/urali kota sesuai dengan keli,'enangannya. PRES ]DEN REPUBLIK INDONESIA - ri50 ^_ (6) Dalarr hal Perizinan Be: 'ur-saha atau persetujuan Pemerintah terkait perst--tujuan Lingkungan mensyaratkan tlLO clan helrrm dipenuhi, Menteri, gubernur, atau bupati/wali kota sesuai dengan kewenangannya meia.krikan pengawasarl terhadap-r kewajiban lairrr.l,a Ca-lanr pe:
 .setujuan Lingkungaa. Pasal 494 (1) Menteri, grrbernr_rr, ataLl bupati/wali kota dapat mendelegasrkan kernrerrangan pengalvasan t<epad.a pejaba"/instansi teknis yarig bertanggung jarvab ci bida.ng Perli.ndungan dan Pengelolaarr Lingkungan HiCup. (2t Dalam melakser,rakan pcngarr-/asan, Menteri, gubernur., atau buperti/wali kota menetapkati peiabat pengo*as Lingkunga, Hid'rp yang merupakan pejabat, fungsion,l.
-(3) Peneta.pan Fejabal Perrgawas Lingkungan Hidup sebagairrrana dimaksud pacia ayat (2) <lilaksanakan sesuai dengari keterrtuan peraturan perunrlarrg-unclangan yarLg rnengatur jabatan fungsional pengawas tr ingkungan l{idup. Bagian Ketiga. Wewenang Pejabat Pengawas Lingkungan Hiciup Pasal 495 (1) Pejabat Pengawas L,ingkungan tlidup berwenarrg:
+(3) Peneta.pan Fejabal Perrgawas Lingkungan Hidup sebagairrrana dimaksud pacia ayat (2) <lilaksanakan sesuai dengari keterrtuan peraturan perunrlarrg-unclangan yarLg rnengatur jabatan fungsional pengawas tr ingkungan l{idup. 
+
+Bagian Ketiga
+Wewenang Pejabat Pengawas Lingkungan Hidup
+
+Pasal 495
+(1) Pejabat Pengawas L,ingkungan tlidup berwenarrg:
 a. rrrelakukao pemantauan;
 b. menrrnta keterangan;
 c. rnernbuat salinan dari dokumen dan/arau membuat catatan yang diperlukan;
@@ -2664,7 +3315,13 @@ e. memotret:
 f. membuat rekaman audio visual; g mengambil samp'rel;
 h. merneriksaperalatan;
 i. memeriksa (2) (si I memeriksa rnstalasi Can/atau dan f atau alat trar-rsporlasi;
-j. menghentikan pelanggarantertentu. Dalam melaksarrakein wev./cnang sebagaimana dimaksurl pada ayal (1). Pcjabar Pengarvas Lingkungan Hidup dapat melakukan koordinasi dengan penyidik pega*ai ncgeri sipil. Penanggrrng jawab Usaha dan/atau Kegiatan dilarang menghaiarigi pelaksanaan tugas pejabat psngsl*.,2s Lingkungan Hidup. Bagian Keerrrpat Pel: iksanaan Pen gaw asan Pasal 496 (1) Pengawasan dilakukan oleh peiarbat pengawas Lingkungan Hidr rp. (21 Pengawasan dapat_ dilakuka,r Cengan cara:
+j. menghentikan pelanggarantertentu. Dalam melaksarrakein wev./cnang sebagaimana dimaksurl pada ayal (1). Pcjabar Pengarvas Lingkungan Hidup dapat melakukan koordinasi dengan penyidik pega*ai ncgeri sipil. Penanggrrng jawab Usaha dan/atau Kegiatan dilarang menghaiarigi pelaksanaan tugas pejabat psngsl*.,2s Lingkungan Hidup. 
+
+Bagian Keempat
+Pelaksanaan Pengawasan
+
+Pasal 496
+(1) Pengawasan dilakukan oleh peiarbat pengawas Lingkungan Hidr rp. (21 Pengawasan dapat_ dilakuka,r Cengan cara:
 a. pengawasan langsung; dan /aLau b. pei)gawasan tidak langsung. (3) Pengau,asai'l langsung sebagairnana dimaksucr pada ayat (2) hurui'a. diiakukan cengan mendatangi lokasi I-rsaha dan/atau Kegiatan secara:
 a. r'eguler; atau
 b. insidental. (4j Pengawasan tidak langsung sebagairnana dineaksud pada ayat (21 huruf b dilakukan melalui penelaahan data laporan pena.ggu,g jawab Usaha dan/atau Kegiatan dan/arau clata dari Sistem Informasi Lingkungan l{irlup. (5) Dalam hal hasil pengawasarr tidak 1angsung sebagaimana dinraksud pada ayat (4) rnenunjukkan pelanggar.an yang ber,-rlang atau rnengirrdikasikan timbulnya ancaman serius terhadap Lirrgkurrgan Fiidup, pejabat pengawas Lingkungan llidup segera nrelakukan pengawasan langsurrg. Pasal 497 (1) Pengawasan reguler sebagaimana dimaksud daiarn pasal 496 ayat (3) huruf a dilaksanakan sesuai dengan perencanaan setiap tahun berdasarkan perizinarr Berusaha atau persetujuan pernerintah terkait Perse tuj u.n Lingkunga.a dan/atau infclrmasi lainr-1ra. {'2) ^Perrgawasan reg,ler sebagairnana dimaksud pacla ayar (l) dilakukan ciengan tahapan:
@@ -2695,7 +3352,13 @@ a. menggl-rnakan B3;
 b. me.ngh.rsilkan Lirnbatr 83 dan/atau rnengeiola l,imbah 83; dan /atar.r c. rnenimbulkan ancamar uerlus terhadap Lingllungarr I Iidup. (4) Tergugat dalrat pembukt-ian. mengajukan pemhelaan derrgan : {55 356 a. tid: ek rnenggunakan 83, merrghasrlkan Limbah 83, atarr rneirimbullra-n ancanlan yang serius; dan/atau
 b. Pencemaran Lirrgkungan llidup cran/ataur Kerusakan Lingkungan Hidup bukan drsebabkan oleh axtivitas Usaha cian/atau l(egiatannya ter-api disebabkan oleh pihak lain atarr kea.daarr kahar (farce majeui. (5) Tergugat dapat drbebaskan dari ranggung jawab mutlak, sebagaimana riimaksr-rd pa.da. ayat (l) jika clapat membuktikan ba: hw-a Pencemaran Lingkr: ngan Iiidup danf r-ttau Kerusaka* L,inglcungan Hicup disebibkan oleh salah sat: : alasar: : a. adanya bencana alam atau peperangan;
 b. acianya keaCaan mernaksa di luar. kem.ampuan rTranLlsia; atau
-c. akibat pert)ual-an piha< lain yang menyeba_bkan terjadinya Pencerrraran L,ingkungan Hidi-rp dan/a-tau Ken-isakan Lingkungan Hidup. (6) Dalarn hal Pe.ncernaran l,ingkungan Hidu.p darr/atau Kerusakan Lingkungan l{idup akibat perbuatan pihak lain sebagairnana dirnal<sud pada ayat (15) huruf c, pihak lain bert: rnggung jarvab atas ken_lgian vang djtimbulkan. Bagian Kelima. Pengarvasan Lapis Kcdtia Pasal 5C2 (1) Menteri dapat meli-lkukan pengawasan terhadap ketaatan penanggrrng jaw'ab Usaha ctan/atau Kegiatan yang Perizinan Berusaha atau Persetujuan peme,: intah terkait Persetujuan Lingkungan diterbitkarr oleh pem.erirrtah Daerah jikl:
+c. akibat pert)ual-an piha< lain yang menyeba_bkan terjadinya Pencerrraran L,ingkungan Hidi-rp dan/a-tau Ken-isakan Lingkungan Hidup. (6) Dalarn hal Pe.ncernaran l,ingkungan Hidu.p darr/atau Kerusakan Lingkungan l{idup akibat perbuatan pihak lain sebagairnana dirnal<sud pada ayat (15) huruf c, pihak lain bert: rnggung jarvab atas ken_lgian vang djtimbulkan. 
+
+Bagian Kelima
+Pengawasan Lapis Ketiga
+
+Pasal 502
+(1) Menteri dapat meli-lkukan pengawasan terhadap ketaatan penanggrrng jaw'ab Usaha ctan/atau Kegiatan yang Perizinan Berusaha atau Persetujuan peme,: intah terkait Persetujuan Lingkungan diterbitkarr oleh pem.erirrtah Daerah jikl:
 a. Menteri menganggap terja.di pelanggaran yang serius di bidang Periindungan cian ^perrgelola.an Lingkungan l{idup berdasarkan norma, standar., prosedur, dan kriteria yang clitetapkar:
 . oieh Menteri: dar;
 b. gubernur d,anf atau bupati/vvali kota tidak melakukan pengarvvasan.
@@ -2713,13 +3376,32 @@ b. pemasangan plang pe,gherriian pela.ggaran rertentu dan/ata.u garis Pejabett p
 c. penghitungan kerugian akihat pencemaran Lingkungan Hidup dan/atau Kerusakan I.ingkungan t{idup;
 d. pedoman pengawasan Lingkrrngan Hirlup;
 e. kode etik F'ejabat pengawas Lingkungan Hidup; dan
-f. pedoman Dengawasan Lingkungan Hidup, diatur dalam Peraturan Menteri. BAB XI TATA CARA PENERAPAN SANKSI AI)MINISTR,.T'|IF PERIZINAN BER.USAHA ATAU PERSETIJJUAN PEMERINTAH
-Bagian Kesatu Wew-enang Penerapan S)anksi Adrninistratif (1) Petsal 505 Menteri, gubernur, atau bupati/,*,ali kota wajib menerapkan Sanksi Adrninistratif terhadap penangg(ing jawab Usaha dan/atarr Kegiatan jika dalam pe.,gawasan ditemuka"n pelanggaran terhnclap ketentuan:
-a. Perizinan Bertrsaha; atart h. PersetujtranPemerintah, terkait Persetujuan Lingkungan perundang-undr.,-ngan di bidang Pengelolaarr Lingkul'r gan Hidup. (2) Penerapan Sanl<si Administratif sebagairnana dimaksucl pada ayat (li cilakukan sesuai dengan norma, standar, prosechrr, dan kriteria.vang ditetapkan oleh Menteri. dan peraturan Perlinoungan cian Pasrtl 5O6 (1) Menteri ber.,venang inenerapkan kepada. penanggunp, ia-rvab Usaha te rhad ap ltelanggaran: Sanl,,si,\drninistratif dan/atar-r Kcgiatan a. Pcrizinan Berusaha terkait persetuiuan Lingkungan yang r-literbitkarr oleh pemerrntah; atau
+f. pedoman Dengawasan Lingkungan Hidup, diatur dalam Peraturan Menteri.
+
+BAB XI
+TATA CARA PENERAPAN SANKSI ADMINISTRATIF PERIZINAN BERUSAHA ATAU PERSETIJJUAN PEMERINTAH
+
+Bagian Kesatu
+Wewenang Penerapan Sanksi Administratif
+
+Pasal 505
+(1) Menteri, gubernur, atau bupati/wali kota wajib menerapkan Sanksi Administratif terhadap penanggung jawab Usaha dan/atau Kegiatan jika dalam pengawasan ditemukan pelanggaran terhadap ketentuan:
+a. Perizinan Berusaha; atau
+b. Persetujuan Pemerintah, terkait Persetujuan Lingkungan perundang-undangan di bidang Pengelolaan Lingkungan Hidup.
+(2) Penerapan Sanksi Administratif sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Menteri, dan peraturan Perlinoungan cian Pasrtl 5O6 (1) Menteri ber.,venang inenerapkan kepada. penanggunp, ia-rvab Usaha te rhad ap ltelanggaran: Sanl,,si,\drninistratif dan/atar-r Kcgiatan a. Pcrizinan Berusaha terkait persetuiuan Lingkungan yang r-literbitkarr oleh pemerrntah; atau
 b. Pcrsetujuan pemerintall terkart persetujuan Lingkun6gan yang ctiterbitkan oleh pemerintah. (21 Gubernur berwenang mcnerapkan sanksi Administratjf kepacler F,enanggung ja'.,,,'ab lJsaha danla.tau Kegiata, terhaclap pelanggaraa:
 a. Ptri,inam Berusaha terkait pcrsei-ujuan Lingkungan yang dit-erbitkan oleh per: nerintah f)aerah provinsi; atau
 b. Persetujuan Penrerintah terkaiL persetuiuan Lingkungan yang diterhitkan oleh pemerintah f)ar: rah prrr uirrsi. (3) Bupati/wali kota berwenang rnenerapkan sanksi Administratif kepada penanggung ja,,rzab Usaha clan/atau Kegiatan terhadap pelanggaran:
-a. Perizinan Rerusa.ha icrliait persetujuan Lingkungan yang diterbitkern oleh pemerintah Daer-ah ka.bupate rt f kt: ta; at_alr b. Persetrrjurin Pernenntah terkait persetu.luan Lingkungan yang rllterbitkan oleh perneriirtah Daerah kabupaten/kota. Pasai 5O7 Menteri, gubernur atau bupaLi/ wali kota cralam penerapan Sanksi Acirrrinistratif dapat inerrdelegasikan ker,venangan.rya kepada pejabat yang membidangi penegakan hukum atir-r perangi,,at daerah yang membiciangi Lingkungan Hidup. Bagian Liagiar,Kedua Pei-r r: r apar: S.rnksi Adrnirri stratif Pai'agraf 1 Uinrrm Pasni 508 (1) Sanksi Admirristratif berupa:
+a. Perizinan Rerusa.ha icrliait persetujuan Lingkungan yang diterbitkern oleh pemerintah Daer-ah ka.bupate rt f kt: ta; at_alr b. Persetrrjurin Pernenntah terkait persetu.luan Lingkungan yang rllterbitkan oleh perneriirtah Daerah kabupaten/kota. Pasai 5O7 Menteri, gubernur atau bupaLi/ wali kota cralam penerapan Sanksi Acirrrinistratif dapat inerrdelegasikan ker,venangan.rya kepada pejabat yang membidangi penegakan hukum atir-r perangi,,at daerah yang membiciangi Lingkungan Hidup. 
+
+Bagian Kedua
+Pei-r r: r apar: Sanksi Administratif 
+
+Paragraf 1
+Umum 
+
+Pasal 508
+(1) Sanksi Admirristratif berupa:
 a. tcguran tertuirs;
 lt. pal<scan pemerintah:
 c. rlenda adrninistratif;
@@ -2777,10 +3459,19 @@ b. menimbulkankeresahanmasyarakat. Paragraf 9 Pencabutan Keputusan Sanksi Admini
 a. perhitungan unit beban pencemar;
 b. perhitungan denda administratif; dan
 c. tata cara pengenaan Sanksi Administratif dia.tur dalan:
-. Peraturan Menteri. RAB XII KETENTUAN PERALIHAN
+. Peraturan Menteri.
+
+BAB XII
+KETENTUAN PERALIHAN
+
 Pasal 527
 Pada saat Peraturan Pemerintah ini mulai berlaku izin lingkungan, izin Perlindungan dan pengelolaan Lingkungan Hidup, Surat Keputusan Kelayakan Lingkungan Hidup, rekomendasi UKL-UPL, atau dokumen Lingkungan Hidup yang telah mendapat persetujuan sebelurn berlakunya Peraturan Pemerintah ini, dinyatakan tetap beriaku dan menjadi prasyarat serta termuat'dalam Perizinan Berusaha atau Persetujuan Penrerintah; a b. penilaian b c d e f. penilaian Amdal, atau pemeriksaan Formulir UKL-UPL dan pengajuan izin Perlindungan dan pengelolaan Lingkungan HiduLp yang sedang dalam proses, dilanjutkan sampai dengan terbitnya Persetujuan Lingkungan; Iisensi yang telah dimiliki komisi penilai Amdal tetap berlaku dan dapat diperpanjang sampai terbentuknl,a Tim Uji Kelayakan Lingkungan Hidup; komisi penilai Amdal tetap melaksanakan tugas melakukan Uji Kelayakan Amdal sampai dengan terbentuknya Tim Uji Kelayakan Lingkungan Hidup; sertifikasi profesi dari lembaga sertifikasi profesi yang dimiliki oleh penjrusun Amclal tetap berlaku sampai dengan berakhirnya masa berlaku sertifikasi dan dapat diperpanjang sampai terbentuknya iembaga sertifikasi kompetensi; dan dalarn hal Pemerintah atau pemerintah Daerah belum menetapkan Baku Mutu Air pada badan air permukaan, menggunakan Baku Mutu Air kelas 2 sebagaimana tercantum dalam Lampiran VI yang merupakan bagian tidak terpisahkan dari Peraturan pemerintah ini.
-BAB XIII KETENTUAN PENUTUP Pasal 528 Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari:
+
+BAB XIII
+KETENTUAN PENUTUP
+
+Pasal 528
+Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari:
 a. Peraturan Pemerintah Nomor lg rahun rggg tentang Pengendalian Pencemaran dan/atau perusakan Laui (Lembaran Negara Republik Indonesia Tahun lggg Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3816);
 b. Peraturan Pemerintah Nomor 41 Tahun lggg tentang Pengendalian Pencemaran Udara (Lembaran Negara Republik Indonesia Tahun 1999 Nomor g6, Tambahan Lembaran Negara Republik Indonesia Nomor 3g53);
 c. Peraturan c. Peraturan Pernerintah Nomor 82 Tahrrn 200 I teritang Pengelolaan Kualitas Air: derrr Pcng; endalian Penr: etnararr Air (Lemba.retn Negarer ttepnrblik Indonesit-r Tahun 2001 Nomor iSii, I'ambatr: rn Lemba,rren Negara Republik Indonesia Irlomor' 416l);
