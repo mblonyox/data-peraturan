@@ -1,88 +1,45 @@
-SALINAN
-PRESIDEN
-REPUBUK INDONESIA
 UNDANG-UNDANG REPUBLIK INDONESIA
 NOMOR 19 TAHUN 2025
 TENTANG
 PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN FEDERASI
-RUSIA TENTANG EKSTRADISI (IREAryBETWEEN THE REPUBLIC OF
-INDONESTA AM rHE RUSSTAN FEDERATION ON E,CTRADTTIONI
-DENGAN RAHMATTUHAN YANG MAHA ESA
-PRESIDEN REPUBLIK INDONESIA,
-Menimbang a bahwa untuk melindungi segenap bangsa Indonesia, dan
-seluruh tumpah darah Indonesia dan untuk memajukan
-kesejahteraan umum, mencerdaskan kehidupan bangsa,
-dan ikut melaksanakan ketertiban dr.rnia yang
-berdasarkan kemerdekaan, perdamaian abadi, dan
-keadilan sosial sebagaimana tercantum di dalam
-pembukaan Undang-Undang Dasar Negara Republik
-Indonesia Tahun 1945 maka Pemerintah Republik
-Indonesia sebagai bagian dari masyarakat internasional
-perlu melakukan hubungan dan kerja sama internasional
-yang diwujudkan dalam pe{anjian internasional;
-bahwa untuk meningkatkan kerja sama di bidang
-penegakan hukum, Pemerintah Republik Indonesia dan
-Pemerintah Federasi Rusia telah menandatangani
-Perjanjian antara Republik Indonesia dan Federasi Rusia
-tentang Ekstradisi (freatg beh,reen tle Republic of
-Indonesia and the Russian Federation on Extraditionl paCa
-tanggal 31 Maret 2023 di Bali, Indonesia, sehingga perlu
-ditindaklanjuti dengan melakukan pengesahan atas
-Perjanjian Ekstradisi tersebut sesuai dengan UndangUndang Nomor 24 Tahun 2000 tentang Perjanjian
-lnternasional;
-bahwa berdasarkan pertimbangan sebagaimana
-dimaksud dalarn huruf a dan huruf b, perlu membentuk
-Undang-Undang tentang Pengesahan Perjanjian antara
-Republik Indonesia cl.an Federasi Rusia tentang Ekstradisi
-(T?eaty betuteee the Republic of Indonesia and tle Russian
-Fe der ation on Exl r adr iio nl ;
-b
-c
-SK No 238303 A
-Mengingat . . .
+RUSIA TENTANG EKSTRADISI (_TREATY BETWEEN THE REPUBLIC OF
+INDONESIA AND THE RUSSIAN FEDERATION ON EXTRADITION_)
 
-PRESIDEN
-REPUEUK INDONESIA
--2-
-Mengingat
-Menetapkan
-1. Pasal 5 ayat (1), Pasal 11, dan Pasal 2O Undang-Undang
-Dasar Negara Republik Indonesia Tahun 1945;
-2. Undang-Undang Nomor 24 Tahun 2OOO tentang Perjanjian
-Internasional (Lembaran Negara Republik Indonesia Tahun
-2000 Nomor 185, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4012);
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang:
+a. bahwa untuk melindungi segenap bangsa Indonesia, dan seluruh tumpah darah Indonesia dan untuk memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial sebagaimana tercantum di dalam pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 maka Pemerintah Republik Indonesia sebagai bagian dari masyarakat internasional perlu melakukan hubungan dan kerja sama internasional yang diwujudkan dalam perjanjian internasional;
+b. bahwa untuk meningkatkan kerja sama di bidang penegakan hukum, Pemerintah Republik Indonesia dan Pemerintah Federasi Rusia telah menandatangani Perjanjian antara Republik Indonesia dan Federasi Rusia tentang Ekstradisi (_Treaty between the Republic of Indonesia and the Russian Federation on Extradition_) pada tanggal 31 Maret 2023 di Bali, Indonesia, sehingga perlu ditindaklanjuti dengan melakukan pengesahan atas Perjanjian Ekstradisi tersebut sesuai dengan Undang-Undang Nomor 24 Tahun 2000 tentang Perjanjian Internasional;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalarn huruf a dan huruf b, perlu membentuk Undang-Undang tentang Pengesahan Perjanjian antara Republik Indonesia dan Federasi Rusia tentang Ekstradisi (_Treaty between the Republic of Indonesia and the Russian Federation on Extradition_);
+
+Mengingat:
+1. Pasal 5 ayat (1), Pasal 11, dan Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+2. Undang-Undang Nomor 24 Tahun 2000 tentang Perjanjian Internasional (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 185, Tambahan Lembaran Negara Republik Indonesia Nomor 4012);
+
 Dengan Persetujuan Bersama
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 dan
 PRESIDEN REPUBLIK INDONESIA
+
 MEMUTUSKAN:
+Menetapkan:
 UNDANG-UNDANG TENTANG PENGESAHAN PERJANJIAN
 ANTARA REPUBLIK INDONESIA DAN FEDERASI RUSIA
-TENTANG EKSTRADISI (TREATY BETWEEN THE REPUBLIC OF
+TENTANG EKSTRADISI (_TREATY BETWEEN THE REPUBLIC OF
 INDONESIA AND THE RUSSIAIV FEDERATION ON
-H<TRADrTION!.
+EXTRADITION_).
+
 Pasal 1
-Mengesahkan Perjanjian antara Republik Indonesia da-ri
-Federasi Rusia tentang Ekstradisi (Treatg behaeen tle Republic
-of Indonesia and the Russian Federation on Ex-tradition) yang
-telah ditandatangani pada tanggal 31 Maret 2023 di Bali,
-Indonesia, yang salinan naskah aslinya dalam bahasa
-Indonesia, bahasa Rusia, dan bahasa Inggris sebagaimana
-terlampir dan merupakan bagian yang tidak terpisahkan dari
-Undang-Undang ini.
+Mengesahkan Perjanjian antara Republik Indonesia dan Federasi Rusia tentang Ekstradisi (_Treaty between the Republic of Indonesia and the Russian Federation on Extradition_) yang telah ditandatangani pada tanggal 31 Maret 2023 di Bali, Indonesia, yang salinan naskah aslinya dalam bahasa Indonesia, bahasa Rusia, dan bahasa Inggris sebagaimana terlampir dan merupakan bagian yang tidak terpisahkan dari Undang-Undang ini.
+
 Pasal 2
 Undang-Undang ini mulai berlaku pada tanggal dirrndangkan.
-SK No 238755 A
-Agar
 
-PRESIDEN
-REFUBLIK INDONESIA
--3-
-Agar setiap
-pengundangan
-penempatannya
-Indonesia.
+
+<!--
+Agar setiap pengundangan penempatannya Indonesia.
 orang mengetahuinya, memerintahkan
 Undang-Undang ini dengan dalam kmbaran Negara Repubtik
 Disahkan di Jakarta

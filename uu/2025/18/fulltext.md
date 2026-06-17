@@ -1,436 +1,195 @@
-SALINAN
-PRESIDEN
-F,EPIJBUK INDONESIA
 UNDANG-UNDANG REPUBLIK INDONESIA
 NOMOR 18 TAHUN 2025
 TENTANG
-PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR IO TAHUN 2OO9
+PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 10 TAHUN 2009
 TENTANG KEPARIWISATAAN
-DENGAN RAHMAT TUHAN YANG MAHA ESA
-PRESIDEN REPUBLIK INDONESIA,
-Menimbang a bahwa negara menjamin kebebasan berwisata sebagai
-hak asasi dan bagian dari perilaku sosial melalui
-perwujudan pariwisata sebagai instrumen untuk
-membangun peradaban bangsa serta memperkuat
-perekonomian demi terwujudnya tujuan negara
-sebagaimana diamanatkan dalam Pembukaan UndangUndang Dasar Negara Republik Indonesia Tahun 1945;
-bahwa negara berkewajiban menyelenggarakan
-kepariwisataan guna menguatkan identitas bangsa,
-meningkatkan perekonomian dan kesejahteraan
-masyarakat, serta menjaga pertahanan dan keamanan
-bangsa dengan tetap menjaga nilai-nilai di masyarakat,
-adat istiadat, kekayaan alam, dan warisan budaya
-sebagai peradaban bangsa;
-bahwa penyelenggaraan kepariwisataan selama ini
-belum sepenuhnya menerapkan pariwisata
-berkelanjutan dan menjadikan budaya sebagai modal
-utama sehingga diperlukan langkah strategis berupa
-pembangunan dan pengembangan kepariwisataan yang
-berkualitas, inklusif, adaptif, inovatit sistematis,
-terencana, terpadu, berkelanjutan, dan keterbaruan
-dengan memperhatikan keseimbangan aspek
-pemberdayaan masyarakat, kelestarian lingkungan
-hidup, aspek peningkatan ekonomi, dan keterpaduan
-antarpemangku kepentingan kepariwisataan;
-b
-c
-SK No271079A
-d. bahwa
 
-d
-PR,ESIDEN
-ELIK INDONESIA
--2-
-bahwa beberapa ketentuan di dalam Undang-Undang
-Nomor 10 Tahun 2OO9 tentang Kepariwisataan
-sebagaimana telah beberapa kali diubah terakhir
-dengan Undang-Undang Nomor 6 Tahun 2023 tentang
-Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2022 tentang Cipta Kerja
-menjadi Undang-Undang sudah tidak sesuai lagi
-dengan perkembangan, tuntutan, dan kebutuhan
-hukum dalam masyarakat saat ini, sehingga perlu
-diubah;
-bahwa berdasarkan pertimbangan sebagaimana
-dimaksud dalam huruf a, huruf b, huruf c, dan huruf d
-perlu membentuk Undang-Undang tentang Perubahan
-Ketiga atas Undang-Undang Nomor 10 Tahun 2009
-tentang Kepariwisataan;
-Pasal 20, Pasal 21, Pasal 28C ayat (1), dan Pasal 32
-ayat (1) Undang-Undang Dasar Negara Republik
-Indonesia Tahun 1945;
-Undang-Undang Nomor 10 Tahun 2OO9 tentang
-Kepariwisataan (Lembaran Negara Republik Indonesia
-Tahun 2009 Nomor 11, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4966) sebagaimana telah
-beberapa kali diubah terakhir dengan Undang-Undang
-Nomor 6 Tahun 2023 lentang Penetapan Peraturan
-Pemerintah Pengganti Undang-Undang Nomor 2
-Tahun 2022 tentang Cipta Kerja menjadi
-Undang-Undang (kmbaran Negara Republik Indonesia
-Tahun 2023 Nomor 41, Tambahan lrmbaran Negara
-Republik Indonesia Nomor 6856);
-e
-Mengingat
-Menetapkan
-1
-2
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang:
+a. bahwa negara menjamin kebebasan berwisata sebagai hak asasi dan bagian dari perilaku sosial melalui perwujudan pariwisata sebagai instrumen untuk membangun peradaban bangsa serta memperkuat perekonomian demi terwujudnya tujuan negara sebagaimana diamanatkan dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+b. bahwa negara berkewajiban menyelenggarakan kepariwisataan guna menguatkan identitas bangsa, meningkatkan perekonomian dan kesejahteraan masyarakat, serta menjaga pertahanan dan keamanan bangsa dengan tetap menjaga nilai-nilai di masyarakat, adat istiadat, kekayaan alam, dan warisan budaya sebagai peradaban bangsa;
+c. bahwa penyelenggaraan kepariwisataan selama ini belum sepenuhnya menerapkan pariwisata berkelanjutan dan menjadikan budaya sebagai modal utama sehingga diperlukan langkah strategis berupa pembangunan dan pengembangan kepariwisataan yang berkualitas, inklusif, adaptif, inovatit sistematis, terencana, terpadu, berkelanjutan, dan keterbaruan dengan memperhatikan keseimbangan aspek pemberdayaan masyarakat, kelestarian lingkungan hidup, aspek peningkatan ekonomi, dan keterpaduan antarpemangku kepentingan kepariwisataan;
+d. bahwa beberapa ketentuan di dalam Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang sudah tidak sesuai lagi dengan perkembangan, tuntutan, dan kebutuhan hukum dalam masyarakat saat ini, sehingga perlu diubah;
+e. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu membentuk Undang-Undang tentang Perubahan Ketiga atas Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan;
+
+Mengingat:
+1. Pasal 20, Pasal 21, Pasal 28C ayat (1), dan Pasal 32 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+2. Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 4966) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);
+
 Dengan Persetujuan Bersama
-DEWAN PERWAKII.AN RAKYAT REPUBLIK INDONESIA
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 dan
 PRESIDEN REPUBLIK INDONESIA
-MEMUTUSKAN:
-UNDANG-UNDANG TENTANG PERUBAHAN KETIGA ATAS
-UNDANG-UNDANG NOMOR 10 TAHUN 2OO9 TENTANG
-KEPARIWISATAAN.
-Pasall...
-SK No271080A
 
-E{lEIIitrN
-]IEFUBLIK INDONESIA
--3-
+MEMUTUSKAN:
+Menetapkan:
+UNDANG-UNDANG TENTANG PERUBAHAN KETIGA ATAS
+UNDANG-UNDANG NOMOR 10 TAHUN 2009 TENTANG
+KEPARIWISATAAN.
+
 Pasal I
-Undang-Undang Nomor l0 Tahun 2OO9 tentang
-Kepariwisataan (kmbaran Negara Republik Indonesia
-Tahun 2009 Nomor 11, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4966) yang telah beberapa kali diubah
-dengan Undang-Undang:
-a. Nomor 11 Tahun 2O2O tentang Cipta Kerja (lembaran
-Negara Republik Indonesia Tahun 2020 Nomor 245,
-Tambahan kmbaran Negara Republik Indonesia
-Nomor 6573); dan
-b. Nomor 6 Tahun 2023 tentang Penetapan Peraturan
-Pemerintah Pengganti Undang-Undang Nomor 2
-Tahun 2022 ter,tang Cipta Kerja menjadi Undang-Undang
-([rmbaran Negara Republik Indonesia Tahun 2023
-Nomor 41, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6856),
+Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 4966) yang telah beberapa kali diubah dengan Undang-Undang:
+  a. Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573); dan
+  b. Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856),
 diubah sebagai berikut:
-1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
-berikut:
+  1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
+:::
 Pasal 1
 Dalam Undang-Undang ini yang dimaksud dengan:
-1. Wisata adalah kegiatan perjalanan yang dilakukan
-oleh seseorang atau sekelompok orang ke tempat
-tertentu di luar lingkungan asalnya dalam jangka
-waktu sementara untuk meningkatkan kualitas hidup.
-2. Pariwisata adalah berbagai macam kegiatan Wisata
-yang didukung sarana, prasarana, fasilitas, dan
-layanan dengan memperhatikan kebutuhan
-wisatawan.
-3. Kepariwisataan adalah seluruh kegiatan terkait
-Pariwisata yang bersifat multidimensi dan
-multidisiplin yang membentuk interaksi
-antarpemangku kepentingan.
-4. Wisatawan adalah orang yang melakukan Wisata.
-5. Ekosistem Kepariwisataan adalah keterhubungan
-sistem yang mendukung orkestrasi penyelenggaraan
-Kepariwisataan nasional untuk memastikan kualitas
-aktivitas, fasilitas, pelayanan dalam rangka
-menciptakan pengalaman dan nilai manfaat
-Kepariwisataan.
-6. Daerah . . .
-SK No27l08l A
+  1. Wisata adalah kegiatan perjalanan yang dilakukan oleh seseorang atau sekelompok orang ke tempat tertentu di luar lingkungan asalnya dalam jangka waktu sementara untuk meningkatkan kualitas hidup.
+  2. Pariwisata adalah berbagai macam kegiatan Wisata yang didukung sarana, prasarana, fasilitas, dan layanan dengan memperhatikan kebutuhan wisatawan.
+  3. Kepariwisataan adalah seluruh kegiatan terkait Pariwisata yang bersifat multidimensi dan multidisiplin yang membentuk interaksi antarpemangku kepentingan.
+  4. Wisatawan adalah orang yang melakukan Wisata.
+  5. Ekosistem Kepariwisataan adalah keterhubungan sistem yang mendukung orkestrasi penyelenggaraan Kepariwisataan nasional untuk memastikan kualitas aktivitas, fasilitas, pelayanan dalam rangka menciptakan pengalaman dan nilai manfaat Kepariwisataan.
+  6. Daerah Tujuan Pariwisata yang selanjutnya disebut Destinasi Pariwisata adalah kawasan geografis yang berada dalam satu atau lebih wilayah administratif yang di dalamnya terdapat daya tarik Wisata, fasilitas umum, fasilitas Pariwisata, aksesibilitas, serta masyarakat yang saling terkait dan melengkapi terwujudnya Kepariwisataan.
+  7. Daya Tarik Wisata adalah segala sesuatu yang memiliki keunikan, keindahan, dan nilai yang berupa keanekaragaman kekayaan alam, budaya, dan hasil buatan manusia yang menjadi sasaran atau tujuan kunjungan Wisatawan.
+  8. Warisan Budaya adalah peninggalan dan/atau praktik, representasi, ekspresi, pengetahuan, objek artefak, dan ruang-ruang budaya yang bersifat kebendaan dan/ atau yang bersifat takbenda yang merepresentasikan sistem nilai, pengetahuan, kepercayaan, tradisi, ekspresi budaya, masa gaya, dan jejak suatu kebudayaan yang diwariskan dan/ atau ditransmisikan dari satu generasi ke generasi berikutnya atau diwariskan dari masa lalu, hingga masa sekarang, dan perlu dilestarikan karena memiliki nilai penting bagi ilmu pengetahuan, pendidikan, sejarah, agartta, dan/ atau kebudayaan.
+  9. Usaha Pariwisata adalah usaha yang menyediakan barang dan/atau jasa bagi pemenuhan kebutuhan Wisatawan dan penyelenggaraan Pariwisata.
+  10. Industri Pariwisata adalah kumpulan Usaha Pariwisata yang saling terkait dalam rangka menghasilkan barang dan/ atau jasa bagi pemenuhan kebutuhan Wisatawan dalam penyelenggaraan Pariwisata.
+  11. Kawasan Strategis Pariwisata adalah kawasan yang memiliki fungsi utama Pariwisata atau memiliki potensi untuk pengembangan Pariwisata yang mempunyai pengaruh penting dalam satu atau lebih aspek, seperti pertumbuhan ekonomi, sosial dan budaya, pemberdayaan sumber daya alam, daya dukung lingkungan hidup, serta pertahanan dan keamanan.
+  12. Kawasan Ekonomi Khusus adalah kawasan dengan batas tertentu dalam wilayah hukum Negara Kesatuan Republik Indonesia yang ditetapkan untuk fungsi perekonomian dan
+  memperoleh fasilitas tertentu
+  13. Pelaku Usaha Pariwisata adalah orang perseorangan atau badan usaha yang melakukan usaha dan/ atau kegiatan pada bidang Pariwisata.
+  14. Pengusaha Pariwisata adalah orang atau sekelompok orang yang melakukan Usaha Pariwisata.
+  15. Pengelola Destinasi Pariwisata adalah pemerintah, pemerintah daerah, badan usaha dan/atau orang perseorangan yang memiliki dan/ atau mengelola suatu Destinasi Pariwisata.
+  16. Sumber Daya Manusia Pariwisata adalah orang perseorangan yang pekerjaannya terkait dengan kegiatan Kepariwisataan.
+  17. Penyandang Disabilitas adalah setiap orang yang mengalami keterbatasan fisik, intelektual, mental, dan/ atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dapat mengalami hambatan dan kesulitan untuk berpartisipasi secara penuh dan efektif dengan warga negara lainnya berdasarkan kesamaan hak.
+  18. Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan Negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+  19. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+  20. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Pariwisata.
+:::
+  2. Judul BAB II diubah sehingga berbunyi sebagai berikut:
+  :::
+  BAB II
+  DASAR, ASAS, DAN TUJUAN
+  :::
+  3. Di antara Pasal 1 dan Pasal 2 disisipkan I (satu) pasal, yakni Pasal lA sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 1A
+  Kepariwisataan diselenggarakan berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+  :::
+  4. Ketentuan Pasa1 2 diubah sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 2
+  Kepariwisataan berasaskan :
+    a. manfaat;
+    b. kelokalan;
+    c. kebinekaan;
+    d. adil dan merata;
+    e. keseimbangan;
+    f. kemandirian;
+    g. kelestarian;
+    h. partisipatif;
+    i. berkelanjutan;
+    j. keterbaruan;
+    k. keterpaduan;
+    l. kesatuan;
+    m. keamanan dan keselamatan; dan
+    n. keandalan.
+  :::
+  5. Pasal 3 dihapus.
+<!--
+  6. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 4
+  Penyelenggaraan Kepariwisataan bertujuan:
+    a. meningkatkan pertumbuhan ekonomi dan kesejahteraan rakyat;
+    b. memperkuat identitas negara melalui upaya menanamkan nilai-nilai Pancasila, budaya, dan kemaritiman;
+    c. mengembangkan Warisan Budaya dan mengangkat kearifan lokal;
+    d. membangun dan mengembangkan Destinasi Pariwisata yang berkualitas serta berkelanjutan;
+    e. menjadikan Pariwisata lebih berkualitas dengan mengembangkan inovasi dan menggunakan transformasi digital di bidang Pariwisata;
+    f. meningkatkan daya saing Pariwisata;
+    g. menciptakanlapanganpekerjaan;
+    h. memupuk rasa cinta tanah air dengan meningkatkan
+    i. memanfaatkan potensi unik Pariwisata untuk melindungi Warisan Budaya dan alam dan untuk mendukung masyarakat baik secara ekonomi maupu sosial; dan
+    j. mempererat persahabatan antarbangsa.
+  :::
+  7. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
+  berikut:
+  :::
+  Pasal 5
+  Penyelenggaraan Kepariwisataan dilaksanakan dengan
+  prinsip:
+    a. menjunjung tinggi nonna agama dan nilai budaya sebagai pengejawantahan dari konsep hidup dalam keseimbangan hubungan antara manusia dan T\:han Yang Maha Esa, hubungan antara manusia dan sesama manusia, dan hubungan antara manusia dan lingkungan;
+    b. menjunjung tinggi hak asasi manusia dan keragaman budaya;
+    c. memberi manfaat untuk kesejahteraan rakyat, keadilan, kesetaraan, dan proporsionalitas;
+    d. memelihara kelestarian alam dan lingkungan hidup;
+    e. memberdayakan masyarakat setempat;
+    f. menjamin keterpaduan antarsektor, antardaerah, antara pusat dan daerah yang merupakan satu kesatuan sistemik dalam kerangka otonomi daerah, serta keterpaduan antarpemangku kepentingan;
+    g. mematuhi kode etik Kepariwisataan dunia dan kesepakatan internasional dalam bidang Pariwisata; dan
+    h. memperkukuh keutuhan Negara Kesatuan Republik Indonesia.
+  :::
+  8. Judul BAB IV diubah sehingga berbunyi sebagai berikut:
+  :::
+  BAB IV
+  PENYELENGGARAAN KEPARIWI SATAAN
+  :::
+  9. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 6
+  (1) Penyelenggaraan Kepariwisataan merupakan kegiatan yang terencana, terkoordinasi, dan berkelanjutan sebagai upaya memenuhi kebutuhan jasmani, rohani, dan intelektual setiap Wisatawan melalui kegiatan Wisata.
+  (2)Penyelenggaraan Kepariwisataan dilakukan oleh Pemerintah, Pemerintah Daerah, Pelaku Usaha Pariwisata, Pengusaha Pariwisata, Pengelola Destinasi Pariwisata, komunitas, akademisi, dan pemangku kepentingan lainnya yang terkait.
+  (3) Dalam penyelenggaraan Kepariwisataan sebagaimana dimaksud pada ayat (2) harus:
+    a. melestarikan, mengembangkan, dan membina potensi seni budaya lokal; dan
+    b. menjadikan budaya sebagai instrumen membangun kesadaran kolektif beridentitas nusantara.
+  (4) Dalam penyelenggaraan Kepariwisataan sebagaimana dimaksud pada ayat (3) dapat dilakukan kerja sama dengan negara lain.
+  :::
+  10. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 7
+  (1) Dalam penyelenggaraan Kepariwisataan sebagaimana dimaksud dalam Pasal 6 dilakukan pembangunan dan pengembangan Pariwisata berkualitas.
+  (2) Pariwisata berkualitas sebagaimana dimaksud pada ayat (1) memenuhi kriteria:
+    a. prinsip pembangunan berkelanjutan;
+    b. kualitas hidup masyarakat lokal;
+    c. indeks kepuasan Wisatawan;
+    d. dampak ekonomi;
+    e. penguatan nasionalisme; dan
+    f. pengembangan ilmu pengetahuan.
+  (3) Pembangunan dan pengembangan Pariwisata berkualitas sebagaimana dimaksud pada ayat (1) merupakan Pariwisata yang mengutamakan produk dan layanan Wisata yang berdaya saing, berkelanjutan, memberikan pengalaman unik, dan memberikan nilai tambah tinggi.
+  :::
+  11. Ketentuan Pasal 8 diubah sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 8
+  (1) Pembangunan dan pengembangan Pariwisata berkualitas sebagaimana dimaksud dalam Pasal 7 dilakukan berdasarkan Ekosistem Kepariwisataan secara terpadu dan berkesinambungan.
+  (2) Ekosistem Kepariwisataan sebagaimana dimaksud pada ayat (1) dilaksanakan paling sedikit melalui:
+    a. perencanaan pembangunan Kepariwisataan;
+    b. peningkatan kualitas Sumber Daya Manusia Pariwisata dan pendidikan Pariwisata;
+    c. pengelolaan Destinasi Pariwisata;
+    d. penguatan Industri Pariwisata;
+    e. pengembangan Daya Tarik Wisata;
+    f. penyediaan sarana dan prasarana;
+    g. pengembangan pemasaran Pariwisata;
+    h. penggunaan teknologi informasi dan komunikasi;
+    i. pemberdayaan masyarakat lokal;
+    j. pelibatan asosiasi Kepariwisataan;
+    k. penguatan promosi Pariwisata berbasis budaya; dan/atau
+    l. penyelenggaraurn kreasi kegiatan.
+  (3) Pelaksanaan Ekosistem Kepariwisataan sebagaimana dimaksud pada ayat (2) didukung dengan kajian, analisis data, atau analisis kebijakan.
+  :::
+  12. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 9
+  (1) Hasil kajian, analisis data, atau analisis kebijakan sebagaimana dimaksud dalam Pasal 8 ayat (3) menjadi pendukung dalam penyusunan kebijakan dan pengalokasian anggaran penyelenggaraan Kepariwisataan.
+  (2) Hasil kajian, analisis data, atau analisis kebijakan paling sedikit berisi tentang potensi ekonomi, pemanfaatan budaya, dan pelestarian alam.
+  (3) Penyusunan kebijakan penyelenggaraan Kepariwisataan sebagaimana dimaksud pada ayat (1) dituangkan dalam:
+    a. rencana pembangunan jangka panjang nasional dan rencana pembangunan jangka menengah nasional;
+    b. rencana pembangunan jangka panjang daerah dan rencana pembangunan jangka menengah daerah;
+    c. rencana induk pembangunan Kepariwisataan nasional; dan
+    d. rencana induk pembangunan Kepariwisataan provinsi dan kabupaten/ kota.
+  :::
+  13. Di antara Pasal 9 dan Pasal 10 disisipkan 2 (dua) pasal, yakni Pasal 9A dan Pasal 9B sehingga berbunyi sebagai berikut:
+  :::
+  Pasal 9A
+  (1) Kajian, analisis data, atau analisis kebijakan dapat dilaksanakan oleh Pemerintah, Pemerintah Daerah, lembaga negara di bidang riset dan inovasi, dan/ atau perguruan tinggi.
+  (2) Kajian, analisis data, atau analisis kebijakan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
-EIIFFIIiTN
-LIK INDONESIA
--4-
-6. Daerah Tujuan Pariwisata yang selanjutnya disebut
-Destinasi Pariwisata adalah kawasan geografis yang
-berada dalam satu atau lebih wilayah administratif
-yang di dalamnya terdapat daya tarik Wisata, fasilitas
-umum, fasilitas Pariwisata, aksesibilitas, serta
-masyarakat yang saling terkait dan melengkapi
-terwujudnya Kepariwisataan.
-7. Daya Tarik Wisata adalah segala sesuatu yang
-memiliki keunikan, keindahan, dan nilai yang berupa
-keanekaragaman kekayaan alam, budaya, dan hasil
-buatan manusia yang menjadi sasaran atau tujuan
-kunjungan Wisatawan.
-8. Warisan Budaya adalah peninggalan dan/atau
-praktik, representasi, ekspresi, pengetahuan, objek
-artefak, dan ruang-ruang budaya yang bersifat
-kebendaan dan/ atau yang bersifat takbenda yang
-merepresentasikan sistem nilai, pengetahuan,
-kepercayaan, tradisi, ekspresi budaya, masa gaya, dan
-jejak suatu kebudayaan yang diwariskan dan/ atau
-ditransmisikan dari satu generasi ke generasi
-berikutnya atau diwariskan dari masa lalu, hingga
-masa sekarang, dan perlu dilestarikan karena memiliki
-nilai penting bagi ilmu pengetahuan, pendidikan,
-sejarah, agartta, dan/ atau kebudayaan.
-9. Usaha Pariwisata adalah usaha yang menyediakan
-barang dartlatau jasa bagi pemenuhan kebutuhan
-Wisatawan dan penyelenggaraan Pariwisata.
-10. Industri Pariwisata adalah kumpulan Usaha
-Pariwisata yang saling terkait dalam rangka
-menghasilkan barang dan/ atau jasa bagi pemenuhan
-kebutuhan Wisatawan dalam penyelenggaraan
-Pariwisata.
-1 1. Kawasan Strategis Pariwisata adalah kawasan yang
-memiliki fungsi utama Pariwisata atau memiliki
-potensi untuk pengembangan Pariwisata yang
-mempunyai pengaruh penting dalam satu atau lebih
-aspek, seperti pertumbuhan ekonomi, sosial dan
-budaya, pemberdayaan sumber daya alam, daya
-dukung lingkungan hidup, serta pertahanan dan
-keamanan.
-12. Kawasan Ekonomi Khusus adalah kawasan dengan
-batas tertentu dalam wilayah hukum Negara Kesatuan
-Republik Indonesia yang ditetapkan untuk
-fungsi perekonomian dan
-SK No271082A
-memperoleh fasilitas tertentu.
-13. Pelaku . . .
-
-K INDONESIA
--5-
-13. Pelaku Usaha Pariwisata adalah orang perseorangan
-atau badan usaha yang melakukan usaha dan/ atau
-kegiatan pada bidang Pariwisata.
-14. Pengusaha Pariwisata adalah orang atau sekelompok
-orang yang melakukan Usaha Pariwisata.
-15. Pengelola Destinasi Pariwisata adalah pemerintah,
-pemerintah daerah, badan usaha dan/atau orang
-perseorangan yang memiliki dan/ atau mengelola
-suatu Destinasi Pariwisata.
-16. Sumber Daya Manusia Pariwisata adalah orang
-perseorangan yang pekerjaannya terkait dengan
-kegiatan Kepariwisataan.
-17. Penyandang Disabilitas adalah setiap orang yang
-mengalami keterbatasan fisik, intelektual, mental,
-dan/ atau sensorik dalam jangka waktu lama yang
-dalam berinteraksi dengan lingkungan dapat
-mengalami hambatan dan kesulitan untuk
-berpartisipasi secara penuh dan efektif dengan warga
-negara lainnya berdasarkan kesamaan hak.
-18. Pemerintah Pusat yang selanjutnya disebut
-Pemerintah adalah Presiden Republik Indonesia yang
-memegang kekuasaan pemerintahan Negara Republik
-Indonesia yang dibantu oleh Wakil Presiden dan
-menteri sebagaimana dimaksud dalam
-Undang-Undang Dasar Negara Republik Indonesia
-Tahun 1945.
-19. Pemerintah Daerah adalah kepala daerah sebagai
-unsur penyelenggara pemerintahan daerah yang
-memimpin pelaksanaan urusan pemerintahan yang
-menjadi kewenangan daerah otonom.
-20. Menteri adalah menteri yang menyelenggarakan
-urusan pemerintahan di bidang Pariwisata.
-2. Judul BAB II diubah sehingga berbunyi sebagai berikut:
-BAB II
-DASAR, ASAS, DAN TUJUAN
-3. Di antara Pasal 1 dan Pasal 2 disisipkan I (satu) pasal,
-yakni Pasal lA sehingga berbunyi sebagai berikut:
-Pasal 1A
-Kepariwisataan diselenggarakan berdasarkan Pancasila
-dan Undang-Undang Dasar Negara Republik Indonesia
-Tahun 1945.
-4. Ketentuan . . .
-SK No271083A
-
-BLIK INDONESIA
-4. Ketentuan Pasa1 2 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 2
-Kepariwisataan berasaskan :
-a. manfaat;
-b. kelokalan;
-c. kebinekaan;
-d. adil dan merata;
-e. keseimbangan;
-f. kemandirian;
-g. kelestarian;
-h. partisipatif;
-i. berkelanjutan;
-j. keterbaruan;
-k. keterpaduan;
-1. kesatuan;
-m. keamanan dan keselamatan; dan
-n. keandalan.
--6-
-5. Pasal 3 dihapus.
-6. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 4
-Penyelenggaraan Kepariwisataan bertujuan:
-a. meningkatkan pertumbuhan ekonomi dan
-kesejahteraan rakyat;
-b. memperkuat identitas negara melalui upaya
-menanamkan nilai-nilai Pancasila, budaya, dan
-kemaritiman;
-c. mengembangkan Warisan Budaya dan mengangkat
-kearifan lokal;
-d. membangun dan mengembangkan Destinasi
-Pariwisata yang berkualitas serta berkelanjutan;
-e. menjadikan Pariwisata lebih berkualitas dengan
-mengembangkan inovasi dan menggunakan
-transformasi digital di bidang Pariwisata;
-f. meningkatkan daya saing Pariwisata;
-g. menciptakanlapanganpekerjaan;
-h. memupuk rasa cinta tanah air dengan meningkatkan
-citra bangsa;
-SK No271084A
-i. memanfaatkan . . .
-
-FRESIDEN
-REPUELIK INDONESIA
--7-
-i. memanfaatkan potensi unik Pariwisata untuk
-melindungi Warisan Budaya dan alam dan untuk
-mendukung masyarakat baik secara ekonomi maupun
-sosial; dan j. mempererat persahabatan antarbangsa.
-7. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 5
-Penyelenggaraan Kepariwisataan dilaksanakan dengan
-prinsip:
-a. menjunjung tinggi nonna agama dan nilai budaya
-sebagai pengejawantahan dari konsep hidup dalam
-keseimbangan hubungan antara manusia dan T\:han
-Yang Maha Esa, hubungan antara manusia dan
-sesama manusia, dan hubungan antara manusia dan
-lingkungan;
-b. menjunjung tinggi hak asasi manusia dan keragaman
-budaya;
-c. memberi manfaat untuk kesejahteraan rakyat,
-keadilan, kesetaraan, dan proporsionalitas;
-d. memelihara kelestarian alam dan lingkungan hidup;
-e. memberdayakan masyarakat setempat;
-f. menjamin keterpaduan antarsektor, antardaerah,
-antara pusat dan daerah yang merupakan satu
-kesatuan sistemik dalam kerangka otonomi daerah,
-serta keterpaduan antarpemangku kepentingan;
-g. mematuhi kode etik Kepariwisataan dunia dan
-kesepakatan internasional dalam bidang Pariwisata;
-dan
-h. memperkukuh keutuhan Negara Kesatuan Republik
-Indonesia.
-8. Judul BAB IV
-berikut:
-diubah sehingga berbunyi sebagai
-BAB IV
-PENYELENGGARAAN KEPARIWI SATAAN
-9. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 6
-(1) Penyelenggaraan Kepariwisataan merupakan kegiatan
-yang terencana, terkoordinasi, dan berkelanjutan
-sebagai upaya memenuhi kebutuhan jasmani, rohani,
-dan intelektual setiap Wisatawan melalui kegiatan
-Wisata.
-SK No 271085 A
-(2) Penyelenggaraan . . .
-
-INDONESIA
--8-
-(2)Penyelenggaraan Kepariwisataan dilakukan oleh
-Pemerintah, Pemerintah Daerah, Pelaku Usaha
-Pariwisata, Pengusaha Pariwisata, Pengelola Destinasi
-Pariwisata, komunitas, akademisi, dan pemangku
-kepentingan lainnya yang terkait.
-(3) Dalam penyelenggaraan Kepariwisataan sebagaimana
-dimalsud pada ayat (2) harus:
-a. melestarikan, mengembangkan, dan membina
-potensi seni budaya lokal; dan
-b. menjadikan budaya sebagai instrumen
-membangun kesadaran kolektif beridentitas
-nusantara.
-(4) Dalam penyelenggaraan Kepariwisataan sebagaimana
-dimalsud pada ayat (3) dapat dilakukan kerja sama
-dengan negara lain.
-10. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 7
-(1) Dalam penyelenggaraan Kepariwisataan sebagaimana
-dimaksud dalam Pasal 6 dilakukan pembangunan dan
-pengembangan Pariwisata berkualitas.
-(2) Pariwisata berkualitas sebagaimana dimaksud pada
-ayat (1) memenuhi kriteria:
-a. prinsip pembangunan berkelanjutan;
-b. kualitas hidup masyarakat lokal;
-c. indeks kepuasan Wisatawan;
-d. dampak ekonomi;
-e. penguatan nasionalisme; dan
-f. pengembangan ilmu pengetahuan.
-(3) Pembangunan dan pengembangan Pariwisata
-berkualitas sebagaimana dimaksud pada ayat (1)
-merupakan Pariwisata yang mengutamakan produk
-dan layanan Wisata yang berdaya saing,
-berkelanjutan, memberikan pengalaman unik, dan
-memberikan nilai tambah tinggi.
-11. Ketentuan Pasal 8 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 8
-(1) Pembangunan dan pengembangan Pariwisata
-berkualitas sebagaimana dimaksud dalam Pasal 7
-dilakukan berdasarkan Ekosistem Kepariwisataan
-secara terpadu dan berkesinambungan.
-SK No271086A
-(2) Ekosistem . . .
-
-REPUBLIK INDONESIA
--9-
-(2) Ekosistem Kepariwisataan sebagaimana dimaksud
-pada ayat (1) dilaksanakan paling sedikit melalui:
-a. perencanaan pembangunan Kepariwisataan;
-b. peningkatan kualitas Sumber Daya Manusia
-Pariwisata dan pendidikan Pariwisata;
-c. pengelolaan Destinasi Pariwisata;
-d. penguatan Industri Pariwisata;
-e. pengembangan Daya Tarik Wisata;
-f. penyediaan sarana dan prasarana;
-g. pengembangan pemasaran Pariwisata;
-h. penggunaan teknologi informasi dan komunikasi;
-i. pemberdayaan masyarakat lokal; j. pelibatan asosiasi Kepariwisataan;
-k. penguatan promosi Pariwisata berbasis budaya;
-dan/atau
-l. penyelenggaraurn kreasi kegiatan.
-(3) Pelaksanaan Ekosistem Kepariwisataan sebagaimana
-dimaksud pada ayat (2) didukung dengan kajian,
-analisis data, atau analisis kebijakan.
-12. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 9
-(f ) Hasil kajian, analisis data, atau analisis kebijakan
-sebagaimana dimaksud dalam Pasal 8 ayat (3) menjadi
-pendukung dalam penJrusunan kebijakan dan pengalokasian anggaran penyelenggaraan
-Kepariwisataan.
-(2) Hasil kajian, analisis data, atau analisis kebijakan
-paling sedikit berisi tentang potensi ekonomi,
-pemanfaatan budaya, dan pelestarian alam.
-(3) Penyusunan kebijakan penyelenggaraan
-Kepariwisataan sebagaimana dimaksud pada ayat (1)
-dituangkan dalam:
-a. rencana pembangunan jangka panjang nasional
-dan rencana pembangunan jangka menengah
-nasional;
-b. rencana pembangunan jangka panjang daerah dan
-rencana pembangunan jangka menengah daerah;
-c. rencana induk pembangunan Kepariwisataan
-nasional; dan
-d. rencana induk pembangunan Kepariwisataan
-provinsi dan kabupaten/ kota.
-13. Di antara. . .
-SK No271087A
-
-REPUBUK INOONESIA
--10-
-13. Di antara Pasal 9 dan Pasal 10 disisipkan 2 (dua) pasal,
-yalni Pasal 9A dan Pasal 98 sehingga berbunyi sebagai
-berikut:
-Pasal 9A
-(1) Kajian, analisis data, atau analisis kebijakan dapat
-dilaksanakan oleh Pemerintah, Pemerintah Daerah,
-lembaga negara di bidang riset dan inovasi, dan/ atau
-perguruan tinggi.
-(2) Kajian, analisis data, atau analisis kebijakan
-sebagaimana dimaksud pada ayat (1) dilaksanakan
-sesuai dengan ketentuan peraturan perundangundangan.
-Pasal 98
-Dalam menjaga keberlangsungan
-Kepariwisataan harus mengutamakan
-lingkungan alam dan budaya secara terpadu.
-BAB IVA
+  Pasal 9B
+  Dalam menjaga keberlangsungan Kepariwisataan harus mengutamakan lingkungan alam dan budaya secara terpadu.
+  :::
+  BAB IVA
 PERENCANAAN PEMBANGUNAN KEPARIWISATAAN
 14. Pasal 11 dihapus.
 15. Di antara BAB IV dan BAB V disisipkan 3 (tiga) bab, yakni
@@ -1401,119 +1160,93 @@ Sumber Daya Manusia Pariwisata dan pendidikan
 Pariwisata sebagaimana dimaksud dalam Pasal 52 sampai
 dengan Pasal 53A diatur dalam Peraturan Pemerintah.
 47. Judul Bagian Ketiga BAB XII dihapus.
-48. Di antara BAB XII dan BAB XIII disisipkan 1 (satu) bab,
-yakni BAB XIIA dan di antara Pasal 55 dan Pasal 56
-disisipkan 1 (satu) pasal, yakni Pasal 55A sehingga
-berbunyi sebagai berikut:
-BAB XIIA
-PARTISIPASI MASYARAKAT
-Pasal 55A
-(l) Masyarakat memiliki hak dan kesempatan yang sama
-untuk berpartisipasi secara aktif dalam
-penyelenggaraan Kepariwisataan.
-(2) Partisipasi masyarakat sebagaimana dimaksud pada
-ayat (1) dapat berupa:
-a. menjaga keberlanjutan Ekosistem Pariwisata;
-b. menjaga dan melindungi kelestarian lingkungan
-Destinasi Pariwisata;
-c. mengedepankan sikap sadar Wisata yang
-mendukung kenyamanan di Destinasi Pariwisata;
-d. memberi informasi Destinasi Pariwisata;
-e. menyampaikan saran, keberatan, pengaduan,
-dan/atau rekomendasi penyelenggaraan
-Kepariwisataan;
-f. melakukan kemitraan dengan Pelaku Usaha
-Pariwisata; dan/ atau
-g. membentuk atau bergabung dengan kelompok atau
-organisasi yang terkait dengan Pariwisata.
-49. Ketentuan Pasal 57 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 57
-(1) Pendanaan Pariwisata menjadi tanggung jawab
-bersama antara Pemerintah, Pemerintah Daerah,
-pengusaha, dan masyarakat.
-SK No271l11A
-(2) Pendanaan . . .
+  48. Di antara BAB XII dan BAB XIII disisipkan 1 (satu) bab, yakni BAB XIIA dan di antara Pasal 55 dan Pasal 56 disisipkan 1 (satu) pasal, yakni Pasal 55A sehingga berbunyi sebagai berikut:
+  :::
+  BAB XIIA
+  PARTISIPASI MASYARAKAT
+  
+  Pasal 55A
+  (1) Masyarakat memiliki hak dan kesempatan yang sama untuk berpartisipasi secara aktif dalam penyelenggaraan Kepariwisataan.
+  (2) Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) dapat berupa:
+    a. menjaga keberlanjutan Ekosistem Pariwisata;
+    b. menjaga dan melindungi kelestarian lingkungan Destinasi Pariwisata;
+    c. mengedepankan sikap sadar Wisata yang mendukung kenyamanan di Destinasi Pariwisata;
+    d. memberi informasi Destinasi Pariwisata;
+    e. menyampaikan saran, keberatan, pengaduan, dan/atau rekomendasi penyelenggaraan Kepariwisataan;
+    f. melakukan kemitraan dengan Pelaku Usaha Pariwisata; dan/ atau
+    g. membentuk atau bergabung dengan kelompok atau organisasi yang terkait dengan Pariwisata.
+  :::
+  49. Ketentuan Pasal 57 diubah sehingga berbunyi sebagai
+  berikut:
+  ::: Pasal 57
+  (1) Pendanaan Pariwisata menjadi tanggung jawab bersama antara Pemerintah, Pemerintah Daerah, pengusaha, dan masyarakat.
+  (2) Pendanaan penyelenggaraan Kepariwisataan sebagaimana dimaksud pada ayat (1) bersumber dari:
+  a. anggaran pendapatan dan belanja negara;
+  b. anggaran pendapatan dan belanja daerah; dan/ atau
+  c. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
+  :::
+  50. Di antara Pasal 57 dan Pasal 58 disisipkan I (satu) pasal, yakni Pasal 57A sehingga berbunyi sebagai berikut:
+  ::: Pasal 57A
+  (1) Pemerintah dapat menarik pungutan dari Wisatawan mancanegara.
+  (2) Pungutan sebagaimana dimaksud pada ayat (1) dikelola dan digunalan untuk kegiatan pengembangan Kepariwisataan.
+  (3) Ketentuan lebih lanjut mengenai tata cara penarikan pungutan sebagaimana dimaksud pada ayat (1) serta pengelolaan dan penggunaan sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
+  :::
+  51. Ketentuan Pasal 58 diubah sehingga berbunyi sebagai
+  berikut:
+  ::: Pasal 58
+  Pendanaan dan pengelolaan dana Kepariwisataan dilakukan berdasarkan prinsip keadilan, efisiensi, efektivitas, prioritas, transparansi, dan akuntabilitas.
+  :::
+  52. Ketentuan Pasal 59 diubah sehingga berbunyi sebagai
+  berikut:
+  ::: Pasal 59 Pemerintah Daerah mengalokasikan sebagian
+  pendapatan yang diperoleh dari bidang Pariwisata untuk
+  kepentingan pelestarian alam dan budaya.
+  :::
+  53. Pasal 60 dihapus.
+  54. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai
+  berikut:
+  :::
+  Pasal 6l
+  (1) Pemerintah dan Pemerintah Daerah memberikan
+  peluang pendanaan bagi usaha mikro, kecil, dan
+  menengah, dan koperasi di bidang Pariwisata.
+  (2) Pendanaan sebagaimana dimaksud pada ayat (1)
+  dapat digunakan sebagian untuk pengembangan,
+  promosi, dan digitalisasi Usaha Pariwisata.
+  :::
+  55. BAB XIV dihapus.
+  56. Judul BAB XV dihapus.
+  57. Pasal 66 dihapus.
+  58. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai
+  berikut:
+  :::
+  Pasal 69
+  Pada saat Undang-Undang ini mulai berlaku, semua
+  ketentuan peraturan perundang-undangan yang
+  merupakan peraturan pelaksanaan dari Undang-Undang
+  Nomor 10 Tahun 2009 tentang Kepariwisataan (Lembaran
+  Negara Republik Indonesia Tahun 2009 Nomor 11,
+  Tambahan kmbaran Negara Republik Indonesia
+  Nomor 4966) sebagaimana telah beberapa kali diubah
+  terakhir dengan Undang-Undang Nomor 6 Tahun 2023
+  tentang Penetapan Peraturan Pemerintah Pengganti
+  Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja
+  menjadi Undang-Undang (Lembaran Negara Republik
+  Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran
+  Negara Republik Indonesia Nomor 6856), dinyatakan
+  masih tetap berlaku sepanjang tidak bertentangan dengan
+  ketentuan dalam Undang-Undang ini.
+  :::
 
-PRESIDEN
-R,EPUEUK INDONESIA
--33-
-(2) Pendanaan penyelenggaraan Kepariwisataan
-sebagaimana dimaksud pada ayat (1) bersumber dari:
-a. anggaran pendapatan dan belanja negara;
-b. anggaran pendapatan dan belanja daerah; dan/ atau
-c. sumber lain yang sah sesuai dengan ketentuan
-peraturan perundang-undangan.
-50. Di antara Pasal 57 dan Pasal 58 disisipkan I (satu) pasal,
-yakni Pasal 57A sehingga berbunyi sebagai berikut:
-Pasal 57A
-(1) Pemerintah dapat menarik pungutan dari Wisatawan
-mancanegara.
-(2) Pungutan sebagaimana dimaksud pada ayat (1)
-dikelola dan digunalan untuk kegiatan pengembangan
-Kepariwisataan.
-(3) Ketentuan lebih lanjut mengenai tata cara penarikan
-pungutan sebagaimana dimaksud pada ayat (1) serta
-pengelolaan dan penggunaan sebagaimana dimaksud
-pada ayat (2) diatur dengan Peraturan Pemerintah.
-51. Ketentuan Pasal 58 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 58
-Pendanaan dan pengelolaan dana Kepariwisataan
-dilakukan berdasarkan prinsip keadilan, efisiensi,
-efektivitas, prioritas, transparansi, dan akuntabilitas.
-52. Pasal 59 diubah sehingga berbunyi sebagai berikut:
-Pasal 59
-Pemerintah Daerah mengalokasikan sebagian pendapatan
-yang diperoleh dari bidang Pariwisata untuk kepentingan
-pelestarian alam dan budaya.
-53. Pasal 60 dihapus.
-54. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 6l
-(1) Pemerintah dan Pemerintah Daerah memberikan
-peluang pendanaan bagi usaha mikro, kecil, dan
-menengah, dan koperasi di bidang Pariwisata.
-SK No27ll12A
-(2) Pendanaan . . .
-
-REPUELIK INDONESIA
--34-
-(2) Pendanaan sebagaimana dimaksud pada ayat (1) dapat
-digunakan sebagian untuk pengembangan, promosi,
-dan digitalisasi Usaha Pariwisata.
-55. BAB XIV dihapus.
-56. Judul BAB XV dihapus.
-57. Pasal 66 dihapus.
-58. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 69
-Pada saat Undang-Undang ini mulai berlaku, semua
-ketentuan peraturan perundang-undangan yang
-mempakan peraturan pelaksanaan dari Undang-Undang
-Nomor 10 Tahun 2009 tentang Kepariwisataan (Lembaran
-Negara Republik Indonesia Tahun 2009 Nomor 11,
-Tambahan kmbaran Negara Republik Indonesia
-Nomor 4966) sebagaimana telah beberapa kali diubah
-terakhir dengan Undang-Undang Nomor 6 Tahun 2023
-tentang Penetapan Peraturan Pemerintah Pengganti
-Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja
-menjadi Undang-Undang (Lembaran Negara Republik
-Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran
-Negara Republik Indonesia Nomor 6856), dinyatakan
-masih tetap berlaku sepanjang tidak bertentangan dengan
-ketentuan dalam Undang-Undang ini.
 Pasal II
 1. Peraturan pelaksanaan Undang-Undang ini harus
 ditetapkan paling lama 2 (dua) tahun terhitung sejak
 Undang-Undang ini diundangkan.
 2. Undang-Undang ini mulai berlaku pada tanggal
 diundangkan.
-SK No271l13A
-Agar
 
-REPUELIK INDONESIA
--35-
+
+<!--
 Agar setiap orang mengetahuinya,
 penempatannya
 Indonesia.

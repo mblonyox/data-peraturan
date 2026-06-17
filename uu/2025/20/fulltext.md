@@ -2796,7 +2796,7 @@ Pasal 369
 Undang-Undang ini mulai berlaku pada tanggal 2 Januari, 2026.
 
 
-
+<!--
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Undang-Undang ini dengan
 penempatannya dalam Lembaran Negara Republik
