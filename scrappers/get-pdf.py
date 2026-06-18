@@ -11,7 +11,7 @@ app = typer.Typer()
 def main():
     tahun = typer.prompt("Masukkan tahun")
     jns = [JenisProduk.UU, JenisProduk.PP, JenisProduk.PERPRES]
-    ph = produkhukum(thn=[tahun], jns=jns)
+    ph = produkhukum(thn=[tahun], jns=jns, length=100)
     with typer.progressbar(
         ph,
         item_show_func=lambda x: (
