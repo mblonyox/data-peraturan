@@ -1,16 +1,33 @@
-from os import path
+#!/usr/bin/env python3
 
-from lib import setneg
-from tqdm import tqdm
+import os
+import typer
 
-ph = setneg.produk_hukum(idjenis=[setneg.IdJenis.UU], tahun=[2024])
+from lib.setneg_v2 import JenisProduk, produkhukum, pdf
 
-for p in tqdm(ph):
-    detail = setneg.view_produk_hukum(p["p_id"])
-    basename = detail["datafile"][0]["basename"]
-    f_path = f"../{p['jenis']}/{p['tahun']}/{p['nomor']}/{basename}"
-    if path.exists(f_path):
-        continue
-    pdf = setneg.download_produk_hukum(p["p_id"], basename)
-    with open(f_path, "wb") as f:
-        f.write(pdf)
+app = typer.Typer()
+
+@app.command()
+def main():
+    tahun = typer.prompt("Masukkan tahun")
+    jns = [JenisProduk.UU, JenisProduk.PP, JenisProduk.PERPRES]
+    ph = produkhukum(thn=[tahun], jns=jns)
+    with typer.progressbar(
+        ph,
+        item_show_func=lambda x: (
+            f"{x['jns']} Nomor {x['no_peraturan']} Tahun {x['tahun']} " if x else None
+        ),
+    ) as pb:
+        for p in pb:
+            f_path = f"../_tmp/{p['jns'].lower()}/{p['tahun']}/{p['no_peraturan']}/fulltext.pdf"
+            if os.path.exists(f_path):
+                pb.label = f"Already exists {f_path}"
+                continue
+            content = pdf(f=p['files'], fl=p['idperaturan'])
+            os.makedirs(os.path.dirname(f_path), exist_ok=True)
+            with open(f_path, "wb") as f:
+                f.write(content)
+
+
+if __name__ == "__main__":
+    app()
