@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Peraturan Perundang-undangan Republik Indonesia",
+  "description": "Skema untuk memvalidasi struktur data peraturan perundang-undangan Republik Indonesia",
+  "type": "object",
+  "properties": {
+    "jenis": {
+      "type": "string",
+      "enum": [
+        "uu",
+        "perpu",
+        "perpres",
+        "pp"
+      ],
+      "description": "Jenis peraturan perundang-undangan"
+    },
+    "tahun": {
+      "type": "integer",
+      "description": "Tahun peraturan perundang-undangan"
+    },
+    "nomor": {
+      "type": "integer",
+      "description": "Nomor peraturan perundang-undangan"
+    },
+    "judul": {
+      "type": "string",
+      "description": "Judul peraturan perundang-undangan"
+    },
+    "tanggal_penetapan": {
+      "type": "string",
+      "description": "Tanggal penetapan peraturan perundang-undangan"
+    },
+    "tanggal_pengundangan": {
+      "type": "string",
+      "description": "Tanggal pengundangan peraturan perundang-undangan"
+    },
+    "tanggal_berlaku": {
+      "type": "string",
+      "description": "Tanggal mulai berlaku peraturan perundang-undangan"
+    }
+  },
+  "required": [
+    "jenis",
+    "tahun",
+    "nomor",
+    "judul",
+    "tanggal_penetapan"
+  ]
+}
