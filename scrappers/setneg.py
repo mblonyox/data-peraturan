@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
-import os
 import click
+import csv
 import json
 import pathlib
 
-from lib import setneg_v2, image, kreuzberg
+from lib import setneg_v2, image, kreuzberg, titlecase
 
 tmp_path = pathlib.Path("_tmp")
 root_path = pathlib.Path("..")
@@ -45,7 +45,6 @@ def convert_to_thumbnail(p: pathlib.Path):
     f.parent.mkdir(parents=True, exist_ok=True)
     f.write_bytes(content)
 
-
 @click.command()
 @click.option("--tahun", "tahun", prompt="Masukkan tahun", help="Tahun peraturan perundang-undangan")
 def main(tahun: str):
@@ -75,6 +74,34 @@ def main(tahun: str):
         for pdf_path in pb:
             convert_to_md(pdf_path)
             convert_to_thumbnail(pdf_path)
+    print("Write csv files...")
+    f = root_path / f"peraturan_{tahun}.csv"
+    with f.open("w", encoding="utf-8", newline="") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=["jenis", "tahun", "nomor", "judul", "tanggal_penetapan", "tanggal_diundangkan"], quoting=csv.QUOTE_NONNUMERIC)
+        writer.writeheader()
+        files = tmp_path.rglob("*.setneg.json")
+        with click.progressbar(
+            files,
+            item_show_func=lambda x: (
+                f" {x.relative_to(tmp_path)} " if x else None
+            ),
+        ) as pb:
+            for file in pb:
+                try:
+                    text = file.read_text()
+                    data = json.loads(text)["row"][0]
+                except json.JSONDecodeError:
+                    print(f"Error reading {file}")
+                    continue
+                row = {
+                    "jenis": data['jns'].lower(),
+                    "tahun": int(data['tahun']),
+                    "nomor": int(data['no_peraturan']),
+                    "judul": titlecase.titlecase(data['tentang']),
+                    "tanggal_penetapan": data['tgl_di'][:10],
+                    "tanggal_diundangkan": data['diundangkan'][:10]
+                }
+                writer.writerow(row)
 
 if __name__ == "__main__":
     main()
