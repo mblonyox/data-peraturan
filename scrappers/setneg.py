@@ -64,7 +64,7 @@ def main(tahun: str):
             get_pdf(p)
             get_detaildata(p)
     print("Processing PDF...")
-    pdf_paths = tmp_path.rglob("*/fulltext.pdf")
+    pdf_paths = tmp_path.rglob(f"*/{tahun}/*/fulltext.pdf")
     with click.progressbar(
         pdf_paths,
         item_show_func=lambda x: (
@@ -72,14 +72,17 @@ def main(tahun: str):
         ),
     ) as pb:
         for pdf_path in pb:
-            convert_to_md(pdf_path)
-            convert_to_thumbnail(pdf_path)
+            try:
+                convert_to_md(pdf_path)
+                convert_to_thumbnail(pdf_path)
+            except Exception:
+                print(f"Error converting {pdf_path}")
     print("Write csv files...")
     f = root_path / f"peraturan_{tahun}.csv"
     with f.open("w", encoding="utf-8", newline="") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["jenis", "tahun", "nomor", "judul", "tanggal_penetapan", "tanggal_diundangkan"], quoting=csv.QUOTE_NONNUMERIC)
         writer.writeheader()
-        files = tmp_path.rglob("*.setneg.json")
+        files = tmp_path.rglob(f"*/{tahun}/*/detaildata.setneg.json")
         with click.progressbar(
             files,
             item_show_func=lambda x: (
@@ -98,8 +101,8 @@ def main(tahun: str):
                     "tahun": int(data['tahun']),
                     "nomor": int(data['no_peraturan']),
                     "judul": titlecase.titlecase(data['tentang']),
-                    "tanggal_penetapan": data['tgl_di'][:10],
-                    "tanggal_diundangkan": data['diundangkan'][:10]
+                    "tanggal_penetapan": (data['tgl_di'] or "")[:10],
+                    "tanggal_diundangkan": (data['diundangkan'] or "")[:10]
                 }
                 writer.writerow(row)
 
