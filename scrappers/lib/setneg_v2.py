@@ -38,13 +38,13 @@ def produkhukum(tentang: str = "", status: StatusProduk = StatusProduk.Semua, te
   """
   while True:
     json = {
-      "jns": [jenis.value for jenis in jns] if jns else [],
+      "jns": jns or [],
       "thn": thn or [],
       "start": start,
       "length": length,
       "p_lihan": "semua",
-      "terx": terx.value,
-      "status": status.value,
+      "terx": terx,
+      "status": status,
       "tentang": tentang
     }
     response = session.post("https://jdih.setneg.go.id/api/hukumproduk/produkhukum", json=json)
@@ -57,7 +57,7 @@ def produkhukum(tentang: str = "", status: StatusProduk = StatusProduk.Semua, te
 
 def detaildata(jns: JenisProduk, no: str, thn: str):
   json = {
-    "jns": jns.value,
+    "jns": jns,
     "no": no,
     "thn": thn,
     "k": ""
