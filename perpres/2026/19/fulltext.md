@@ -1,60 +1,58 @@
-ffi
-PRESIDEN
-REPUBLIK INDONESIA
 PERATURAN PRESIDEN REPUBLIK INDONESIA
 NOMOR 19 TAHUN 2026
 TENTANG
 TUNJANGAN JABATAN FUNGSIONAL
 ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA
-Menimbang
-Mengingat
+
 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
 PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang :
 bahwa untuk meningkatkan mutu, prestasi, pengabdian,
 dan produktivitas kinerja Anggota Kepolisian Negara
 Republik Indonesia yang diangkat dan ditugaskan secara
 penuh dalam Jabatan Fungsional Anggota Kepolisian Negara
 Republik Indonesia serta untuk melaksanakan ketentuan
-Pasal 22 ayat (2) Peraturan Presiden Nomor 42 Tahun 2OLT
+Pasal 22 ayat (2) Peraturan Presiden Nomor 42 Tahun 2017
 tentang Jabatan Fungsional Anggota Kepolisian Negara
 Republik Indonesia, perlu menetapkan Peraturan Presiden
-tentang T\rnjangan Jabatan Fungsional Anggota Kepolisian
+tentang Tunjangan Jabatan Fungsional Anggota Kepolisian
 Negara Republik Indonesia;
-1. Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik
-Indonesia Tahun 1945;
-2. Undang-Undang Nomor 2 Tahun 2OO2 tentang Kepolisian
-Negara Republik Indonesia (L,embaran Negara Republik
-Indonesia.Tahun 2OO2 Nomor 2, Tambahan kmbaran
-Negara Republik Indonesia Nomor a168);
-3. Peraturan Pemerintah Nomor 29 Tahun 2OO1 tentang
+
+Mengingat :
+1. Pasal 4 ayat (1) Undang-Undang Dasar Negara
+Republik Indonesia Tahun 1945;
+2. Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian
+Negara Republik Indonesia (Lembaran Negara Republik
+Indonesia Tahun 2002 Nomor 2, Tambahan
+Lembaran Negara Republik Indonesia Nomor 4168);
+3. Peraturan Pemerintah Nomor 29 Tahun 2001 tentang
 Peraturan Gaji Anggota Kepolisian Republik Indonesia
-(Lembaran Negara Republik Indonesia Tahun 2OOl
-Nomor 52, Tambahan l,embaran Negara Republik
-Indonesia Nomor 4094l.sebagaimana telah beberapa kali
+(Lembaran Negara Republik Indonesia Tahun 2001
+Nomor 52, Tambahan Lembaran Negara Republik
+Indonesia Nomor 4094), sebagaimana telah beberapa kali
 diubah, terakhir dengan Peraturan Pemerintah Nomor 7
 Tahun 2024 tentang Perubahan Ketiga Belas atas
-Peraturan Pemerintah Nomor 29 Tahun 2OOl tentang
+Peraturan Pemerintah Nomor 29 Tahun 2001 tentang
 Peraturan Gaji Anggota Kepolisian Negara Republik
 Indonesia (Lembaran Negara Republik Indonesia
 Tahun 2024 Nomor 17);
-SK No 270782 A
-4.Peraturan...
-
-Menetapkan
-PRESIDEN
-REPUBLIK INDONESIA
--2-
-4. Peraturan Presiden Nomor 42 Tahun 2Ol7 tentang
+4. Peraturan Presiden Nomor 42 Tahun 2017 tentang
 Jabatan Fungsional Anggota Kepolisian Negara Republik
 Indonesia (Lembaran Negara Republik Indonesia
-Tahun 2Ol7 Nomor 75);
-MEMUTUSKAN:
+Tahun 2017 Nomor 75);
+
+
+Memutuskan:
+Menetapkan :
 PERATURAN PRESIDEN TENTANG TUNJANGAN JABATAN
 FUNGSIONAL ANGGOTA KEPOLISIAN NEGARA REPUBLIK
 INDONESIA.
+
 Pasal 1
 Dalam Peraturan Presiden ini yang dimaksud dengan:
-1. T\rnjangan Jabatan Fungsional Anggota Kepolisian
+1. Tunjangan Jabatan Fungsional Anggota Kepolisian
 Negara Republik Indonesia adalah tunjangan yang
 diberikan kepada Anggota Kepolisian Negara Republik
 Indonesia yang diangkat dan ditugaskan secara penuh
@@ -74,104 +72,95 @@ memelihara keamanan dan ketertiban masyarakat,
 menegakkan hukum, serta memberikan perlindungan,
 pengayoman, dan pelayanan kepada masyarakat dalam
 rangka terpeliharanya keamanan dalam negeri.
+
 Pasal 2
 (1) Anggota Polri yang diangkat dan ditugaskan secara
 penuh dalam Jabatan Fungsional Anggota Polri diberikan
-T\rnjangan Jabatan Fungsional Anggota Polri setiap
+Tunjangan Jabatan Fungsional Anggota Polri setiap
 bulan.
-(2) Jabatan...
-SK No 270783 A
-
-P]IESIDEN
-REPUBLIK INDONESIA
--3-
 (2) Jabatan Fungsional Anggota Polri yang diberikan
 tunjangan sebagaimana dimaksud pada ayat (1) terdiri
 atas:
-a. Akreditor Profesi dan Pengamanan Kepolisian;
-b. Pemeriksa Profesi dan Pengamanan Kepolisian;
-c. Penyelidik Pengam€rnan Internal;
-d. Tenaga Pendidik Kepolisian;
-e. Peneliti Ilmu Kepolisian;
-f. Analis Keuangan;
-g. Pengelola Pengadaan Barang dan Jasa Polri;
-h. Perencana Umum Kepolisian;
-i. Perencana Anggaran Kepolisian;
-j. Penyuluh Hukum;
-k. Verifikator Keuangan Kepolisian;
-1. Penjamin Mutu Pendidikan;
-m. Asesor Sumber Daya Manusia Kepolisian;
-n. Psikolog Kepolisian;
-o. Agen tntelijen Kepolisian;
-p. Analis Intelijen;
-q. Penyidik Tindak Pidana;
-r. Pengawas Penyidikan Kepolisian;
-s. Pemeriksa Inafis Kepolisian;
-t. Pemeriksa Laboratorium Forensik Kepolisian;
-u. Perancang Peraturan Kepolisian;
-v. Analis dan Advokasi Hukum Kepolisian;
-w. Widyaiswara Kepolisian;
-x. Penerjemah Polri;
-y. Penata Kehumasan Polri;
-z. Pengembang Teknologi Informasi Kepolisian;
-aa. Auditor Sistem Pengamanan Obyek Vital Nasional;
-bb. Penata Kebijakan Kapolri;
-cc. Pilot Polri;
-dd. Auditor Kepolisian;
-ee. Tenaga Kedokteran dan Kesehatan Investigasi
-Kepolisian;
-ff. Dosen Kepolisian;
-gg.Teknisi...
-SK No 270784 A
-
-PRESIDEN
-REPTJBLIK INDONESIA
--4-
-gg. Teknisi Penjinakan Bom;
-hh. Teknisi Kimia, Biologi, dan Radioaktif;
-ii. Mekanik Kepolisian Udara; dan
-jj. Navigator Laut.
-(3) Besaran T\rnjangan Jabatan Fungsional Anggota Polri
+  a. Akreditor Profesi dan Pengamanan Kepolisian;
+  b. Pemeriksa Profesi dan Pengamanan Kepolisian;
+  c. Penyelidik Pengam€rnan Internal;
+  d. Tenaga Pendidik Kepolisian;
+  e. Peneliti Ilmu Kepolisian;
+  f. Analis Keuangan;
+  g. Pengelola Pengadaan Barang dan Jasa Polri;
+  h. Perencana Umum Kepolisian;
+  i. Perencana Anggaran Kepolisian;
+  j. Penyuluh Hukum;
+  k. Verifikator Keuangan Kepolisian;
+  l. Penjamin Mutu Pendidikan;
+  m. Asesor Sumber Daya Manusia Kepolisian;
+  n. Psikolog Kepolisian;
+  o. Agen Intelijen Kepolisian;
+  p. Analis Intelijen;
+  q. Penyidik Tindak Pidana;
+  r. Pengawas Penyidikan Kepolisian;
+  s. Pemeriksa Inafis Kepolisian;
+  t. Pemeriksa Laboratorium Forensik Kepolisian;
+  u. Perancang Peraturan Kepolisian;
+  v. Analis dan Advokasi Hukum Kepolisian;
+  w. Widyaiswara Kepolisian;
+  x. Penerjemah Polri;
+  y. Penata Kehumasan Polri;
+  z. Pengembang Teknologi Informasi Kepolisian;
+  aa. Auditor Sistem Pengamanan Obyek Vital Nasional;
+  bb. Penata Kebijakan Kapolri;
+  cc. Pilot Polri;
+  dd. Auditor Kepolisian;
+  ee. Tenaga Kedokteran dan Kesehatan Investigasi
+  Kepolisian;
+  ff. Dosen Kepolisian;
+  gg. Teknisi Penjinakan Bom;
+  hh. Teknisi Kimia, Biologi, dan Radioaktif;
+  ii. Mekanik Kepolisian Udara; dan
+  jj. Navigator Laut.
+(3) Besaran Tunjangan Jabatan Fungsional Anggota Polri
 sebagaimana dimaksud pada ayat (1) tercantum dalam
 Lampiran yang merupakan bagian tidak terpisahkan dari
 Peraturan Presiden ini.
+
 Pasal 3
-Pemberian T\,rnjangan Jabatan Fungsional Anggota Polri
+Pemberian Tunjangan Jabatan Fungsional Anggota Polri
 sebagaimana dimaksud dalam Pasal 2 bersumber dari
 Anggaran Pendapatan dan Belanja Negara.
+
 Pasal 4
-Pemberian T\rnjangan Jabatan Fungsional Anggota Polri
+Pemberian Tunjangan Jabatan Fungsional Anggota Polri
 sebagaimana dimaksud dalam Pasal 2 dihentikan apabila
 anggota Polri:
 a. diangkat dalam jabatan struktural;
 b. diangkat dalam jabatan fungsional lain; atau
 c. karena hal lain yang mengakibatkan pemberian
-T\rnjangan Jabatan Fungsional Anggota Polri dihentikan
+Tunjangan Jabatan Fungsional Anggota Polri dihentikan
 sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 5
 Tata cara pembayaran dan penghentian pembayaran
-T\rnjangan Jabatan Fungsional Anggota Polri dilaksanakan
-sesuai dengan ketentuan peraturan perundang-und€rngan.
+Tunjangan Jabatan Fungsional Anggota Polri dilaksanakan
+sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 6
 Peraturan Presiden ini mulai berlaku pada tanggal
 diundangkan.
-SK No 270785 A
-Agar
 
-PRESIDEN
-REPUBLIK INDONESIA
-Agar setiap
-pengundangan
-penempatannya
+
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Presiden ini dengan
+penempatannya dalam Lembaran Negara Republik
 Indonesia.
--5-
-orang mengetahuinya, memerintahkan
-Peraturan Presiden ini dengan dalam Lembaran Negara Republik
+
+
 Ditetapkan di Jakarta
 pada tanggal 27 Maret 2026
 PRESIDEN REPUBLIK INDONESIA,
 ttd.
 PRABOWO SUBIANTO
+
+
 Diundangkan di Jakarta
 pada tanggal 27 Maret 2026
 MENTERI SEKRETARIS NEGARA
@@ -179,123 +168,3 @@ REPUBLIK INDONESIA,
 ttd.
 PRASETYO HADI
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR 32
-Salinan sesuai dengan aslinya
-KEMENTERIAN SEKRETARIAT NEGARA
-REPUBLIK INDONESIA
-Perundang-undangan
-Administrasi Hukum,
-SK No 270768 A
-Djaman
-
-PRESIDEN
-RET'UtsLIK TNDONESIA
-TUNJANGAN JABATAN FUNGSIONAL ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA
-LAMPIRAN
-PERATURAN PRESIDEN REPUBLIK INDONESIA
-NOMOR 19 TAHUN 2026
-TENTANG
-TUNJANGAN JABATAN FUNGSIONAL
-ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA
-A. Keahlian
-NO
-JABATAN FUNGSIONAL BESARAN TUNJANGAN JABATAN FUNGSIONAL
-Jenjang Jabatan Fungsional Keahlian AHLI UTAMA AHLI MADYA AHLI MUDA AHLI PERTAMA
-1
-Akreditor Profesi dan Pengamanan
-Kepolisian
-Rp1.752.000,00 Rp1.194.000,00 Rp952.000,00 Rp505.O00,OO 2
-Pemeriksa Profesi dan Pengamanan
-Kepolisian
-3 Penyelidik Pengamanan Internal
-4 Tenaga Pendidik Kepolisian
-SK No 102760C
-Peneliti
-
-REtrUBLIK INDONESIA
--2-
-NO
-JABATAN FUNGSIONAL BESARAN TUNJANGAN JABATAN FUNGSIONAL
-Jenjang Jabatan Fungsional Keahlian AHLI UTAMA AHLI MADYA AHLI MUDA AHLI PERTAMA
-5. Peneliti Ilmu Kepolisian
-Rp1.752.O0O,00 Rp1.194.000,00 Rp952.O00,00 Rp5O5.O00,O0
-6. Analis Keuangan
-7
-Pengelola Pengadaan Barang dan Jasa
-Polri
-8. Perencana Umum Kepolisian
-9 Perencana Anggaran Kepolisian
-10. Penyuluh Hukum
-11. Verifikator Keuangan Kepolisian
-t2. Penjamin Mutu Pendidikan
-13. Asesor Sumber Daya Manusia Kepolisian
-Rp 1 .894.000,00 Rp 1 .29 1.000,00 Rp1.029.000,00 Rp540.O0O,00
-t4. Psikolog Kepolisian
-15. Agen Intelijen Kepolisian
-16. Analis Intelijen
-SK No 102761 C
-Penyidik
-
-PRESIDEN
-REPUBLIK INDONESIA
--3-
-NO
-JABATAN FUNGSIONAL BESARAN TUNJANGAN JABATAN FUNGSIONAL
-Jenjang Jabatan Fungsional Keahlian AHLI UTAMA AHLI MADYA AHLI MUDA AHLI PERTAMA
-t7. Penyidik Tindak Pidana
-Rp1.894.000,00 Rp1.291.OOO,00 Rp1.029.000,00 Rp540.O0O,O0
-18. Pengawas Penyidikan Kepolisian
-19. Pemeriksa Inafi s Kepolisian
-20. Pemeriksa Laboratorium Forensik
-Kepolisian
-21. Perancang Peraturan Kepolisian
-22 Analis dan Advokasi Hukum Kepolisian
-23. Widyaiswara Kepolisian
-24 Penerjemah Polri
-25. Penata Kehumasan Polri
-26. Pengembang
-Kepolisian
-Teknologi Informasi
-SK No 102762 C
-Auditor
-
-PRE3IDEN
-REPUBLIK INDONESIA
--4-
-NO
-JABATAN FUNGSIONAL BESARAN TUNJANGAN JABATAN FUNGSIONAL
-Jenjang Jabatan Fungsional Keahlian AHLI UTAMA AHLT MADYA AHLI MUDA AHLI PERTAMA
-27. Auditor Sistem Pengamanan Obyek Vita1
-Nasional
-Rp1.894.000,00 Rp1.291.000,00 Rp1.029.O00,O0 Rp540.00O,00
-28. Penata Kebijakan Kapolri
-29 Pilot Polri
-30. Auditor Kepolisian
-31. Tenaga Kedokteran dan Kesehatan
-Investigasi Kepolisian
-32. Dosen Kepolisian
-33 Teknisi Penjinakan Bom
-34 Teknisi Kimia, Biologi, dan Radioaktif
-35. Mekanik Kepolisian Udara
-36 Navigator Laut
-SK No 102763 C
-B.Keterampilan...
-
-l:l^1FFrf-I5N
-INDONESIA
-5-
-B. Keterampilan
-PRESIDEN REPUBLIK INDONESIA,
-ttd.
-Salinan sesuai PRABOWO SUBIANTO dengan aslinya
-SEKRETARIAT NEGARA
-INDONESIA
-NO.
-JABATAN FUNGSIONAL BESARAN TUNJANGAN JABATAN FUNGSIONAL
-Jenjang Jabatan Fungsional Keterampilan PENYELIA MAHIR TERAMPIL PEMULA
-I Teknisi Penjinakan Bom
-Rp844.OO0,00 Rp487.000,00 Rp360.0O0,0O Rp30O.0OO,OO
-2 Teknisi Kimia, Biologi, dan Radioaktif
-3 Mekanik Kepolisian Udara
-4 Navigator Laut
-SK No 102759 C
-vanna Djaman
