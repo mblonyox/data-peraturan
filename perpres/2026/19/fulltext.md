@@ -43,8 +43,7 @@ Jabatan Fungsional Anggota Kepolisian Negara Republik
 Indonesia (Lembaran Negara Republik Indonesia
 Tahun 2017 Nomor 75);
 
-
-Memutuskan:
+MEMUTUSKAN:
 Menetapkan :
 PERATURAN PRESIDEN TENTANG TUNJANGAN JABATAN
 FUNGSIONAL ANGGOTA KEPOLISIAN NEGARA REPUBLIK
