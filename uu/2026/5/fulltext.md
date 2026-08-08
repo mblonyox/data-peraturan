@@ -1,16 +1,18 @@
-SALINAN
-PRESIDEN
-REPUBUK TNOONESI,A
 UNDANG-UNDANG REPUBLIK INDONESIA
 NOMOR 5 TAHUN 2026
 TENTANG
-PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 2 TAHUN 2OO2
-TENTANG KEPOLISI.AN NEGARA REPUBLIK INDONESIA
+PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 2 TAHUN 2002
+TENTANG KEPOLISIAN NEGARA REPUBLIK INDONESIA
+
 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
 PRESIDEN REPUBLIK INDONESIA,
-Menimbang a. bahwa keamanan dan ketertiban masyarakat
+
+Menimbang :
+a. bahwa keamanan dan ketertiban masyarakat
 melindungi, mengayomi, dan melayani masyarakat,
-serta penegakan hukum yang adil merupakan salah satu prasyarat terselenggaranya pembangunan
+serta penegakan hukum yang adil merupakan salah
+satu prasyarat terselenggaranya pembangunan
 nasional untuk mewujudkan masyarakat madani yang
 adil, makmur, dan beradab sebagaimana dimaksud
 dalam Pasal 30 Undang-Undang Dasar Negara
@@ -23,11 +25,13 @@ tugas, dan wewenang Kepolisian Negara Republik
 Indonesia;
 c. bahwa Kepolisian Negara Republik Indonesia menurut
 Undang-Undang Dasar Negara Republik Indonesia
-Tahun 1945 merupakan alat negara yang berperan dalam memelihara keamanan dan ketertiban
+Tahun 1945 merupakan alat negara yang berperan
+dalam memelihara keamanan dan ketertiban
 masyarakat, memerlukan penyesuaian pengaturan
 dalam Undang-Undang Nomor 2 Tahun 2002 tentang
 Kepolisian Negara Republik Indonesia sebagaimana
-telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang penetapan
+telah beberapa kali diubah, terakhir dengan 
+Undang-Undang Nomor 6 Tahun 2023 tentang penetapan
 Peraturan Pemerintah Pengganti Undang-Undang
 Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi
 Undang-Undang, agar sejalan dengan pemenuhan
@@ -35,32 +39,27 @@ kebutuhan hukum masyarakat, dan perkembangan
 paradigma penegakan hukum, serta perkembangan
 peraturan perundang-undangan terkini, sehingga
 perlu diubah;
-SK No2933E2A
-d. bahwa. . .
-
-PRESIDETTI
-REPUBLIK INDONESI.A
--2-
-Mengingat
 d. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, huruf b, dan huruf c, perlu
 membentuk Undang-Undang tentang Perubahan
-Ketiga atas Undang-Undang Nomor 2 Tahun 2OO2
+Ketiga atas Undang-Undang Nomor 2 Tahun 2002
 tentang Kepolisian Negara Republik Indonesia;
-1. Pasal 2O, Pasal 21, Pasal 30 ayat (21, ayat (4), dan
+
+Mengingat :
+1. Pasal 20, Pasal 21, Pasal 30 ayat (2), ayat (4), dan
 ayat (5) Undang-Undang Dasar Negara Republik
 Indonesia Tahun 1945;
 2. Ketetapan Majelis Permusyawaratan Rakyat
-Nomor VI/MPR/2OOO tentang Pemisahan Tentara
+Nomor VI/MPR/2000 tentang Pemisahan Tentara
 Nasional Indonesia dan Kepolisian Negara Republik
 Indonesia;
 3. Ketetapan Majelis Permusyawaratan Rakyat
-Nomor VII/MPR/2OO0 tentang Peran Tentara Nasional
+Nomor VII/MPR/2000 tentang Peran Tentara Nasional
 Indonesia dan Peran Kepolisian Negara Republik
 Indonesia;
-4. Undang-Undang Nomor 2 Tahun 2OO2 tentang
+4. Undang-Undang Nomor 2 Tahun 2002 tentang
 Kepolisian Negara Republik Indonesia (Lembaran
-Negara Republik Indonesia Tahun 2OO2 Nomor 2,
+Negara Republik Indonesia Tahun 2002 Nomor 2,
 Tambahan Lembaran Negara Republik Indonesia
 Nomor 4168) sebagaimana telah beberapa kali diubah,
 terakhir dengan Undang-Undang Nomor 6 Tahun 2023
@@ -69,46 +68,44 @@ Undang-Undang Nomor 2 Tahun 2022 tentang Cipta
 Kerja menjadi Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6856);
-5. Undang-Undang Nomor 2O Tahun 2023 tentang
+5. Undang-Undang Nomor 20 Tahun 2023 tentang
 Aparatur Sipil Negara (Lembaran Negara Republik
-Indonesia Tahun 2023 Nomor l4l, Tambahan
-kmbaran Negara Republik Indonesia Nomor 6897);
-Dengan Persetqjuan Bersama
-DEWAN PERWAKII.,AN RAKYAT REPUBLIK INDONESIA
+Indonesia Tahun 2023 Nomor 141, Tambahan
+Lembaran Negara Republik Indonesia Nomor 6897);
+
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 dan
 PRESIDEN REPUBLIK INDONESIA
-SK No293385A
-MEMUTUSKAN: ...
 
-Menetapkan
-PRESIDEN
-REPUBLIK INDONESI,A
--3-
 MEMUTUSKAN:
+Menetapkan :
 UNDANG-UNDANG TENTANG PERUBAHAN KETIGA ATAS
-UNDANG-UNDANG NOMOR 2 TAHUN 2OO2 TENTANG
+UNDANG-UNDANG NOMOR 2 TAHUN 2002 TENTANG
 KEPOLISIAN NEGARA REPUBLIK INDONESIA.
+
 Pasal I
-Undang-Undang Nomor 2 Tahun 2OO2 tentang Kepolisian
+Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian
 Negara Republik Indonesia (Lembaran Negara Republik
 Indonesia Tahun 2002 Nomor 2, Tambahan Lembaran
 Negara Republik Indonesia Nomor 4168) yang telah
 beberapa kali diubah dengan Undang-Undang:
-a. Nomor 11 Tahun 2O2O tentarry Cipta Kerja (Lembaran
-Negara Republik Indonesia Tahun 202O Nomor 245,
-Tambahan kmbaran Negara Republik Indonesia
-Nomor 6573); dan
-b. Nomor 6 Tahun 2O23 tentang Penetapan Peraturan
-Pemerintah Pengganti Undang-Undang Nomor 2
-Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia
-Tahun 2023 Nomor 41, Tambahan kmbaran Negara
-Republik Indonesia Nomor 6856),
+  a. Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran
+  Negara Republik Indonesia Tahun 2020 Nomor 245,
+  Tambahan Lembaran Negara Republik Indonesia
+  Nomor 6573); dan
+  b. Nomor 6 Tahun 2023 tentang Penetapan Peraturan
+  Pemerintah Pengganti Undang-Undang Nomor 2
+  Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia
+  Tahun 2023 Nomor 41, Tambahan Lembaran Negara
+  Republik Indonesia Nomor 6856),
 diubah sebagai berikut:
-1. Ketentuan ayal (21 Pasal 9 diubah serta penjelasan
+1. Ketentuan ayat (2) Pasal 9 diubah serta penjelasan
 ayat (1) Pasal 9 diubah sehingga Pasal 9 berbunyi
 sebagai berikut:
+:::
 Pasal 9
-(1) Ihpolri menetapkan, menyelenggarakan, dan
+(1) Kapolri menetapkan, menyelenggarakan, dan
 mengendalikan kebijakan teknis kepolisian.
 (2) Kapolri memimpin Kepolisian Negara Republik
 Indonesia dalam melaksanakan tugas dan
@@ -121,89 +118,81 @@ Republik Indonesia; dan
 c. perencanaan, pengadaan, pemeliharaan, dan
 perbaikan alat material khusus di lingkungan
 Kepolisian Negara Republik Indonesia.
-SK No293368A
-2. Ketentuan . . .
-
-PRESIDEN
-REPUELIK INDONESIA
--4-
+:::
 2. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 14
-(l) Dalam melaksanakan tugas pokok sebagaimana
+(1) Dalam melaksanakan tugas pokok sebagaimana
 dimaksud dalam Pasal 13, Kepolisian Negara
 Republik Indonesia bertugas:
-a. melaksanakan pengaturan, penjagaan,
-pengawalan, dan patroli terhadap kegiatan
-masyarakat dan pemerintah sesuai kebutuhan;
-b. menyelenggarakan segala kegiatan dalam
-menjamin keamanan, ketertiban, dan
-kelancaran lalu lintas di jalan;
-c. membina masyarakat untuk meningkatkan
-partisipasi masyarakat, kesadaran hukum
-masyarakat, serta ketaatan warga masyarakat
-terhadap hukum dan peraturan perundang-undangan;
-d. turut serta dalam pembinaan hukum nasional;
-e. memelihara ketertiban dan menjamin
-keamanan umum termasuk melaksanakan
-kegiatan intelijen keamanan;
-f. melakukan koordinasi, pengawasan, dan
-pembinaan teknis terhadap Kepolisian khusus,
-penyidik pegawai negeri sipil, dan penyidik
-tertentu sebagaimana diatur dalam Kitab
-Undang-Undang Hukum Acara Pidana, serta
-bentuk pengamanan swakarsa;
-g. melakukan Penyelidikan dan Penyidikan
-terhadap semua tindak pidana sesuai dengan
-hukum acara pidana dan peraturan
-perundang-undangan;
-h. melakukan penanggulangan tindak pidana
-siber serta berkoordinasi dengan kementerian
-atau lembaga terkait;
-i. menyelenggarakan identifikasi Kepolisian,
-kedokteran Kepolisian, laboratorium forensik,
-psikologi Kepolisian, dan bantuan teknis
-lainnya untuk kepentingan tugas Kepolisian;
-j. melindungi keselamatan jiwa ra:ga, harta
-benda, masyarakat, dan lingkungan hidup dari
-gangguan ketertiban dan/ atau bencana dengan
-menjunjung tinggi hak asasi manusia;
-SK No293359A
-k. melayani . . .
-
-PRESIDEN
-REPUBLIK INDONEST,A
--5-
-k. melayani kepentingan warga masyarakat untuk
-sementara sebelum ditangani oleh instansi
-dan/ atau pihak yang berwenang;
-l. memberikan pelayanan kepada masyarakat
-sesuai dengan kepentingannya dalam lingkup
-tugas Kepolisian;
-m. memberikan bantuan dan pertolongan serta
-kegiatan lainnya demi kepentingan strategis
-nasional berdasarkan kebijakan Presiden;
-n. melaksanakan koordinasi dan kerja sama
-dengan kementerian dan lembaga yang
-berhubungan dalam memelihara keamanan
-dan ketertiban masyarakat, pelindungan,
-pengayoman, dan pelayanan masyarakat, dan
-penegakan hukum;
-o. melindung dan mengamankan objek vital
-nasional, yang meliputi instalasi penting,
-sumber daya alam strategis, serta kegiatan
-yang memiliki pengaruh signifikan terhadap
-stabilitas nasional; dan
-p. melaksanakan tugas lain sesuai dengan
-ketentuan peraturan perundang-undangan.
+  a. melaksanakan pengaturan, penjagaan,
+  pengawalan, dan patroli terhadap kegiatan
+  masyarakat dan pemerintah sesuai kebutuhan;
+  b. menyelenggarakan segala kegiatan dalam
+  menjamin keamanan, ketertiban, dan
+  kelancaran lalu lintas di jalan;
+  c. membina masyarakat untuk meningkatkan
+  partisipasi masyarakat, kesadaran hukum
+  masyarakat, serta ketaatan warga masyarakat
+  terhadap hukum dan peraturan perundang-undangan;
+  d. turut serta dalam pembinaan hukum nasional;
+  e. memelihara ketertiban dan menjamin
+  keamanan umum termasuk melaksanakan
+  kegiatan intelijen keamanan;
+  f. melakukan koordinasi, pengawasan, dan
+  pembinaan teknis terhadap Kepolisian khusus,
+  penyidik pegawai negeri sipil, dan penyidik
+  tertentu sebagaimana diatur dalam Kitab
+  Undang-Undang Hukum Acara Pidana, serta
+  bentuk pengamanan swakarsa;
+  g. melakukan Penyelidikan dan Penyidikan
+  terhadap semua tindak pidana sesuai dengan
+  hukum acara pidana dan peraturan
+  perundang-undangan;
+  h. melakukan penanggulangan tindak pidana
+  siber serta berkoordinasi dengan kementerian
+  atau lembaga terkait;
+  i. menyelenggarakan identifikasi Kepolisian,
+  kedokteran Kepolisian, laboratorium forensik,
+  psikologi Kepolisian, dan bantuan teknis
+  lainnya untuk kepentingan tugas Kepolisian;
+  j. melindungi keselamatan jiwa ra:ga, harta
+  benda, masyarakat, dan lingkungan hidup dari
+  gangguan ketertiban dan/ atau bencana dengan
+  menjunjung tinggi hak asasi manusia;
+  k. melayani kepentingan warga masyarakat untuk
+  sementara sebelum ditangani oleh instansi
+  dan/ atau pihak yang berwenang;
+  l. memberikan pelayanan kepada masyarakat
+  sesuai dengan kepentingannya dalam lingkup
+  tugas Kepolisian;
+  m. memberikan bantuan dan pertolongan serta
+  kegiatan lainnya demi kepentingan strategis
+  nasional berdasarkan kebijakan Presiden;
+  n. melaksanakan koordinasi dan kerja sama
+  dengan kementerian dan lembaga yang
+  berhubungan dalam memelihara keamanan
+  dan ketertiban masyarakat, pelindungan,
+  pengayoman, dan pelayanan masyarakat, dan
+  penegakan hukum;
+  o. melindung dan mengamankan objek vital
+  nasional, yang meliputi instalasi penting,
+  sumber daya alam strategis, serta kegiatan
+  yang memiliki pengaruh signifikan terhadap
+  stabilitas nasional; dan
+  p. melaksanakan tugas lain sesuai dengan
+  ketentuan peraturan perundang-undangan.
 (2) Ketentuan lebih lanjut mengenai koordinasi,
 pengawasan, dan pembinaan teknis terhadap
 Kepolisian khusus, penyidik pegawai negeri sipil,
 dan penyidik tertentu, serta bentuk pengamanan
 swakarsa sebagaimana dimaksud pada ayat (1)
 huruf f diatur dengan Peraturan Pemerintah.
+:::
 3. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 19
 (1) Dalam melaksanakan tugas dan wewenangnya,
 Anggota Kepolisian Negara Republik Indonesia
@@ -211,12 +200,6 @@ senantiasa bertindak berdasarkan norma hukum
 dan mengindahkan norna agama, kesopanan,
 kesusilaan, serta menjunjung tinggi hak asasi
 manusia.
-SK No293370A
-(2) Dalam . . .
-
-PRESIDEN
-REPUBUK INDONESI,A
--6-
 (2) Dalam keadaan mendesak yang mengancam
 keselamatan diri, nyawa, dan/ atau kepentingan
 umum pada saat melaksanakan tugas dan
@@ -226,9 +209,11 @@ diperlukan sebanding dengan datangnya ancaman
 dan secara terukur dengan melakukan tindakan
 yang seminim mungkin menimbulkan kerugian
 bagi pihak lain.
+:::
 4. Di antara Pasal 19 dan Pasal 20 disisipkan I (satu)
 pasal, yakni Pasal 19A sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 19A
 (1) Anggota Kepolisian Negara Republik Indonesia
 dalam melaksanakan tugas dan wewenangnya
@@ -244,36 +229,32 @@ pengamanan.
 dapat dilakukan dengan memanfaatkan teknologi
 dan ilmu pengetahuan di bidang kepolisian.
 (4) Ketentuan lebih lanjut mengenai sistem
-pengawasErn dan sarana penggunaan teknologi
+pengawasan dan sarana penggunaan teknologi
 kepolisian diatur dengan Peraturan Pemerintah.
+:::
 5. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 21
-(l) Untuk diangkat menjadi Anggota Kepolisian Negara
+(1) Untuk diangkat menjadi Anggota Kepolisian Negara
 Republik Indonesia seorang calon harus memenuhi
 persyaratan paling sedikit:
-a. warga negara Indonesia;
-b. beriman dan bertakwa kepada Ttrhan Yang
-Maha Esa;
-SK No293371A
-c. setia . . .
-
-PRESIDEN
-REPUBLIK INDONEST,A
--7 -
-c. setia kepada Negara Kesatuan Republik
-Indonesia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia
-Tahun 1945;
-d. berpendidikan paling rendah sekolah menengah
-atas atau yang sederajat;
-e. berusia paling rendah 18 (delapan belas) tahun;
-f. sehat jasmani dan rohani;
-g. tidak pernah dipidana penjara;
-h. jujur, adil, dan berkelakuan baik; dan
-i. lulus pendidikan dan pelatihan pembentukan
-Anggota Kepolisian Negara Republik Indonesia
-yang diselenggarakan oleh Kepolisian Negara
-Republik Indonesia.
+  a. warga negara Indonesia;
+  b. beriman dan bertakwa kepada Tuhan Yang
+  Maha Esa;
+  c. setia kepada Negara Kesatuan Republik
+  Indonesia berdasarkan Pancasila dan Undang-Undang Dasar
+  Negara Republik Indonesia Tahun 1945;
+  d. berpendidikan paling rendah sekolah menengah
+  atas atau yang sederajat;
+  e. berusia paling rendah 18 (delapan belas) tahun;
+  f. sehat jasmani dan rohani;
+  g. tidak pernah dipidana penjara;
+  h. jujur, adil, dan berkelakuan baik; dan
+  i. lulus pendidikan dan pelatihan pembentukan
+  Anggota Kepolisian Negara Republik Indonesia
+  yang diselenggarakan oleh Kepolisian Negara
+  Republik Indonesia.
 (2) Warga negara Indonesia penyandang disabilitas
 dapat diangkat menjadi Anggota Kepolisian Negara
 Republik Indonesia sepanjang memiliki kompetensi
@@ -282,11 +263,13 @@ Indonesia.
 (3) Ketentuan lebih lanjut mengenai persyaratan
 pengangkatan dan pembinaan Anggota Kepolisian
 Negara Republik Indonesia sebagaimana dimaksud
-pada ayat (1) dan ayat (21 diatur dengan Peraturan
+pada ayat (1) dan ayat (2) diatur dengan Peraturan
 Kepolisian Negara Republik Indonesia.
+:::
 6. Ketentuan ayat (1) dan ayat (2) Pasal 26 diubah serta
 ditambahkan I (satu) ayat, yakni ayat (3) sehingga
 Pasal 26 berbunyi sebagai berikut:
+:::
 Pasal 26
 (1) Setiap Anggota Kepolisian Negara Republik
 Indonesia berhak memperoleh gaji, jaminan sosial,
@@ -294,24 +277,20 @@ dan hak lainnya yang adil dan layak.
 (2) Jaminan sosial sebagaimana dirnaksud pada
 ayat (1) diberikan dalam kerangka jaminan sosial
 nasional yang berupa:
-a. jaminan kesehatan;
-b. jaminan kecelakaan kerja;
-c. jaminan kematian;
-d. jaminan hari tua; dan
-e. jaminan pensiun.
-SK No293372A
-(3) Ketentuan . . .
-
-PRESIDEN
-REPUBLIK INDONESIA
--8-
+  a. jaminan kesehatan;
+  b. jaminan kecelakaan kerja;
+  c. jaminan kematian;
+  d. jaminan hari tua; dan
+  e. jaminan pensiun.
 (3) Ketentuan mengenai gaji, jaminan sosial, dan hak
 lainnya sebagaimana dimaksud pada ayat (1) dan
-ayat (21 dilaksanakan sesuai dengan ketentuan
+ayat (2) dilaksanakan sesuai dengan ketentuan
 peraturan perundang-undangan.
+:::
 7. Ketentuan ayat (1) Pasal 28 diubah dan Pasal 28
 ayat (3) dihapus sehingga Pasal 28 berbunyi sebagai
 berikut:
+:::
 Pasal 28
 (1) Kepolisian Negara Republik Indonesia bersikap
 netral dan tidak melibatkan diri pada kegiatan
@@ -319,9 +298,11 @@ politik praktis.
 (2) Anggota Kepolisian Negara Republik Indonesia
 tidak menggunakan hak memilih dan dipilih.
 (3) Dihapus.
+:::
 8. Di antara Pasal 28 dan Pasal 29 disisipkan 1 (satu)
 pasal, yakni Pasal 28A sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 28A
 (1) Anggota Kepolisian Negara Republik Indonesia
 dapat mengisi jabatan di luar organisasi Kepolisian
@@ -334,17 +315,11 @@ pada ayat (1) merupakan jabatan manajerial atau
 nonmanajerial pada kementerian atau lembaga
 yang menyelenggarakan urusan atau tugas
 pemerintahan di bidang:
-a. pemeliharaan keamanan dan ketertiban
-masyarakat;
-b. pelindungan, pengayoman, dan pelayanan
-kepada masyarakat; dan
-c. penegakan hukum.
-SK No293373A
-(3) Selain...
-
-PRESIDEN
-REPUBLIK INDONESIA
--9-
+  a. pemeliharaan keamanan dan ketertiban
+  masyarakat;
+  b. pelindungan, pengayoman, dan pelayanan
+  kepada masyarakat; dan
+  c. penegakan hukum.
 (3) Selain pada kementerian atau lembaga
 sebagaimana dimaksud pada ayat (2), Anggota
 Kepolisian Negara Republik Indonesia dapat
@@ -354,7 +329,7 @@ permintaan dari kementerian atau lembaga yang
 membutuhkan keahlian yang dimiliki Anggota
 Kepolisian Negara Republik Indonesia.
 (4) Selain pada jabatan sebagaimana dimaksud pada
-ayat l2l dan ayat (3), Anggota Kepolisian Negara
+ayat (2) dan ayat (3), Anggota Kepolisian Negara
 Republik Indonesia dapat mengisi jabatan di luar
 organisasi Kepolisian Negara Republik Indonesia
 dalam hal terdapat penugasan dari Presiden dan
@@ -365,61 +340,58 @@ diundangkan.
 pengisian jabatan aparatur sipil negara oleh
 Anggota Kepolisian Negara Republik Indonesia
 sebagaimana dimaksud pada ayat (1) sampai
-dengan ayat (41 diatur dalam Peraturan
+dengan ayat (4) diatur dalam Peraturan
 Pemerintah.
-9. Ketentuan Pasal 3O diubah sehingga berbunyi sebagai
+:::
+9. Ketentuan Pasal 30 diubah sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 30
 (1) Anggota Kepolisian Negara Republik Indonesia
 dapat diberhentikan:
-a. dengan hormat; atau
-b. tidak dengan hormat.
+  a. dengan hormat; atau
+  b. tidak dengan hormat.
 (2) Anggota Kepolisian Negara Republik Indonesia
 diberhentikan dengan hormat sebagaimana
 dimaksud pada ayat (1) huruf a dari jabatannya
 karena:
-a. meninggal dunia;
-b. mencapai batas usia pensiun; atau
-c. atas permintaan sendiri.
-SK No2933744
-(3) Anggota. . .
-
-PRESIDEN
-REPUBUK INDONESTA
-_10_
+  a. meninggal dunia;
+  b. mencapai batas usia pensiun; atau
+  c. atas permintaan sendiri.
 (3) Anggota Kepolisian Negara Republik Indonesia
 dapat diberhentikan tidak dengan hormat
 sebagaimana dimaksud pada ayat (1) huruf b dari
 jabatannya karena:
-a. dipidana berdasarkan putusan pengadilan yang
-telah memperoleh kekuatan hukum tetap;
-b. melanggar sumpah dan janji jabatan; atau
-c. melalaikan kewajiban dalam menjalankan
-tugas selama 1 (satu) bulan atau lebih secara
-terus-menerus.
+  a. dipidana berdasarkan putusan pengadilan yang
+  telah memperoleh kekuatan hukum tetap;
+  b. melanggar sumpah dan janji jabatan; atau
+  c. melalaikan kewajiban dalam menjalankan
+  tugas selama 1 (satu) bulan atau lebih secara
+  terus-menerus.
 (4) Pemberhentian Anggota Kepolisian Negara
 Republik Indonesia sebagaimana dimaksud pada
-ayat (21 dan ayat (3) dilaksanakan sesuai dengan
+ayat (2) dan ayat (3) dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
 (5) Pemberhentian Anggota Kepolisian Negara
 Republik Indonesia karena batas usia pensiun
-sglagaiman4 dimaksud pada ayat (21huruf b diatur
+sebagaimana dimaksud pada ayat (2) huruf b diatur
 dengan ketentuan sebagai berikut:
-a. tamtama dan bintara usia pensiun paling tinggi
-59 (lima puluh sembilan) tahun;
-b. perwira pertama, perwira menengah, dan
-penrrira tinggi usia pensiun paling tinggi 6O
-(enam puluh) tahun; dan
-c. khusus untuk perwira tinggi bintang 4 (empat)
-usia pensiun paling tinggi 60 (enam puluh)
-tahun dan dapat diperpanjang maksimal
-1 (satu) tahun sesuai dengan kebutuhan yang
-ditetapkan berdasarkan Keputusan Presiden.
+  a. tamtama dan bintara usia pensiun paling tinggi
+  59 (lima puluh sembilan) tahun;
+  b. perwira pertama, perwira menengah, dan
+  perwira tinggi usia pensiun paling tinggi 60
+  (enam puluh) tahun; dan
+  c. khusus untuk perwira tinggi bintang 4 (empat)
+  usia pensiun paling tinggi 60 (enam puluh)
+  tahun dan dapat diperpanjang maksimal
+  1 (satu) tahun sesuai dengan kebutuhan yang
+  ditetapkan berdasarkan Keputusan Presiden.
 (6) Batas usia pensiun sebagaimana dimaksud pada
 ayat (5) dikecualikan bagi Anggota Kepolisian
 Negara Republik Indonesia yang menduduki
 jabatan fungsional yang batas usia pensiunnya
-sesuai dengan ketentuan peraturan perundang-undangan bagi pejabat fungsional.
+sesuai dengan ketentuan peraturan perundang-undangan
+bagi pejabat fungsional.
 (7) Anggota Kepolisian Negara Republik Indonesia yang
 memiliki keahlian khusus dan/atau sangat
 dibutuhkan dalam tugas kepolisian dapat
@@ -428,19 +400,15 @@ diperpanjang batas usia pensiunnya maksimal
 kebutuhan yang ditetapkan dengan Keputusan
 Presiden sesuai dengan ketentuan peraturan
 perundang-undangan.
-SK No293375A
-(8) Ketentuan . . .
-
-PRESIDEN
-REPUBL|K INDONESIA
-- 11-
 (8) Ketentuan lebih lanjut mengenai pemberhentian
 Anggota Kepolisian Negara Republik Indonesia
 sebagaimana dimaksud pada ayat (1) diatur dalam
 Peraturan Pemerintah.
+:::
 10. Di antara Pasal 32 dan Pasal 33 disisipkan 1 (satu)
 pasal, yakni Pasal 32A sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 32A
 (1) Dalam penyelenggaraan dan pembinaan
 pendidikan profesi, Kepolisian Negara Republik
@@ -453,114 +421,102 @@ laporan terkait pelaksanaan pengelolaan
 pendidikan, peningkatan integritas, dan budaya
 organisasi kepada Presiden dan Dewan Perwakilan
 Rakyat Republik Indonesia.
-11. Ketentuan Pasal 37 ayat(21dihapus sehingga Pasal 37
+:::
+11. Ketentuan Pasal 37 ayat(2) dihapus sehingga Pasal 37
 berbunyi sebagai berikut:
+:::
 Pasal 37
-(1) kmbaga kepolisian nasional yang disebut dengan
+(1) Lembaga kepolisian nasional yang disebut dengan
 Komisi Kepolisian Nasional berkedudukan di
 bawah dan bertanggung jawab kepada Presiden.
 (2) Dihapus.
+:::
 12. Ketentuan huruf a ayat (1) Pasal 38, setelah huruf b
-ayat (l) Pasal 38 ditambahkan 2 (dua) huruf, yalni
-huruf c dan huruf d, dan ayat (21 Pasal 38 diubah,
+ayat (1) Pasal 38 ditambahkan 2 (dua) huruf, yakni
+huruf c dan huruf d, dan ayat (2) Pasal 38 diubah,
 sehingga Pasal 38 berbunyi sebagai berikut:
+:::
 Pasal 38
 (1) Komisi Kepolisian Nasional bertugas:
-a. membantu Presiden dalam menetapkan arah
-kebijakan Kepolisian Negara Republik
-Indonesia;
-SK No293376A
-b. memberikan . . .
-
-PRESIDEN
-REPUBLIK INDOiIESI,A
--t2-
-b. memberikan pertimbangan kepada Presiden
-dalam pengangkatan dan pemberhentian
-Kapolri;
-memberikan masukan kepada Presiden terkait
-dengan pembangunan budaya integritas dan
-profesionalitas Kepolisian Negara Republik
-Indonesia; dan
-d. memberikan masukan kepada Presiden terkait
-dengan pelaksanaan pembangunan budaya
-organisasi dan kinerja Kepolisian Negara
-Republik Indonesia.
+  a. membantu Presiden dalam menetapkan arah
+  kebijakan Kepolisian Negara Republik
+  Indonesia;
+  b. memberikan pertimbangan kepada Presiden
+  dalam pengangkatan dan pemberhentian
+  Kapolri;
+  c. memberikan masukan kepada Presiden terkait
+  dengan pembangunan budaya integritas dan
+  profesionalitas Kepolisian Negara Republik
+  Indonesia; dan
+  d. memberikan masukan kepada Presiden terkait
+  dengan pelaksanaan pembangunan budaya
+  organisasi dan kinerja Kepolisian Negara
+  Republik Indonesia.
 (2) Dalam melaksanakan tugas sebagaimana
 dimaksud pada ayat (1), Komisi Kepolisian Nasional
 melakukan fungsi:
-a. pengumpulan dan pelaksanaan analisis data
-sebagai bahan pemberian saran kepada
-Presiden yang berkaitan dengan anggaran
-Kepolisian Negara Republik Indonesia,
-pengembangan sumber daya manusia
-Kepolisian Negara Republik Indonesia, dan
-pengembangan sarana dan prasarana
-Kepolisian Negara Republik Indonesia;
-b. pemberian saran dan pertimbangan kepada
-Presiden dalam upaya mewujudkan Kepolisian
-Negara Republik Indonesia yang modern,
-humanis, profesional, berintegritas, dan
-mandiri;
-pemberian saran dan pertimbangan kepada
-Fresiden terkait pengembangan Kepolisian
-Negara Republik Indonesia secara
-berkelanjutan yang berkaitan dengan budaya
-dan struktur organisasi Kepolisian Negara
-Republik Indonesia;
-d. pelaksanaan penerimaan saran dan keluhan
-dari masyarakat mengenai kineda Kepolisian
-Negara Republik Indonesia dan
-menyampaikannya kepada Presiden dan
-Kapolri;
-e. pemberian . . .
-c
-c
-SK No293405A
-
-PRESIDEN
-REPUBLIK INDONESIA
--13-
-e. pemberian saran dan pertimbangan terkait
-dengan kurikulum pendidikan dan pembinaan
-Kepolisian Negara Republik Indonesia; dan
-f. pemberian saran dan pertimbangan terkait
-dengan pembentukan Kode Etik Profesi
-Kepolisian Negara Republik Indonesia serta
-pembangunan integritas dan profesionalitas
-Kepolisian Negara Republik Indonesia.
+  a. pengumpulan dan pelaksanaan analisis data
+  sebagai bahan pemberian saran kepada
+  Presiden yang berkaitan dengan anggaran
+  Kepolisian Negara Republik Indonesia,
+  pengembangan sumber daya manusia
+  Kepolisian Negara Republik Indonesia, dan
+  pengembangan sarana dan prasarana
+  Kepolisian Negara Republik Indonesia;
+  b. pemberian saran dan pertimbangan kepada
+  Presiden dalam upaya mewujudkan Kepolisian
+  Negara Republik Indonesia yang modern,
+  humanis, profesional, berintegritas, dan
+  mandiri;
+  c. pemberian saran dan pertimbangan kepada
+  Fresiden terkait pengembangan Kepolisian
+  Negara Republik Indonesia secara
+  berkelanjutan yang berkaitan dengan budaya
+  dan struktur organisasi Kepolisian Negara
+  Republik Indonesia;
+  d. pelaksanaan penerimaan saran dan keluhan
+  dari masyarakat mengenai kineda Kepolisian
+  Negara Republik Indonesia dan
+  menyampaikannya kepada Presiden dan
+  Kapolri;
+  e. pemberian saran dan pertimbangan terkait
+  dengan kurikulum pendidikan dan pembinaan
+  Kepolisian Negara Republik Indonesia; dan
+  f. pemberian saran dan pertimbangan terkait
+  dengan pembentukan Kode Etik Profesi
+  Kepolisian Negara Republik Indonesia serta
+  pembangunan integritas dan profesionalitas
+  Kepolisian Negara Republik Indonesia.
+:::
 13. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai
 berikut:
+:::
 Pasal 39
-(1) Keanggotaan Komisi Kepotsian Nasional terdiri
+(1) Keanggotaan Komisi Kepolisian Nasional terdiri
 atas:
-a. ketua merangkap anggota;
-b. wakil ketua merangkap anggota;
-c. sekretaris merangkap anggota; dan
-d. 6 (enam) orang anggota.
+  a. ketua merangkap anggota;
+  b. wakil ketua merangkap anggota;
+  c. sekretaris merangkap anggota; dan
+  d. 6 (enam) orang anggota.
 (2) Keanggotaan sebagaimana dimaksud pada ayat (1)
 berasal dari unsur pemerintah, akademisi, pakar
 kepolisian, dan tokoh masyarakat.
 (3) Ketentuan mengenai susunan organisasi dan tata
 kerja Komisi Kepolisian Nasional diatur dengan
 Peraturan Presiden.
+:::
 14. Di antara Pasal 39 dan Pasal 40 disisipkan 4 (empat)
 pasal, yakni Pasal 39A, Pasal 39B, Pasal 39C, dan
 Pasal 39D, sehingga berbunyi sebagai berikut:
+:::
 Pasal 39A
 Untuk dapat diangkat sebagai anggota Komisi
 Kepolisian Nasional, seseorang harus memenuhi
 persyaratan sebagai berikut:
 a. warga negara Indonesia;
-b. bertakwa kepada T\rhan Yang Maha Esa;
+b. bertakwa kepada Tuhan Yang Maha Esa;
 c. sehat jasmani dan rohani;
-SK No293405A
-d. memiliki . . .
-
-PRESIDEN
-REPUBLIK INDONESI,A
--L4-
-d. memiLiki keahlian dan pengalaman paling singkat
+d. memiliki keahlian dan pengalaman paling singkat
 20 (dua puluh) tahun dalam bidang hukum,
 keamanan, dan/ atau kepolisian;
 e. berusia paling rendah 50 (lima puluh) tahun dan
@@ -572,6 +528,7 @@ pengadilan yang telah memperoleh kekuatan
 hukum tetap; dan
 h. cakap, jujur, memiliki integritas moral yang tinggi,
 dan memiliki reputasi yang baik.
+
 Pasal 39B
 (1) Keanggotaan Komisi Kepolisian Nasional diangkat
 dan diberhentikan oleh Presiden.
@@ -579,90 +536,89 @@ dan diberhentikan oleh Presiden.
 dipilih dan ditetapkan oleh Presiden.
 (3) Komisi Kepolisian Nasional menyampaikan laporan
 kepada Presiden.
+
 Pasal 39C
 (1) Keanggotaan Komisi Kepolisian Nasional berhenti
 atau diberhentikan karena:
-a. meninggal dunia;
-b. berakhir masa jabatannya;
-c. menjadi terdakwa karena melakukan tindak
-pidana;
-d. berhalangan tetap atau secara terus-menerus
-selama lebih dari 3 (tiga) bulan tidak dapat
-melaksanakan tugasnya; atau
-e. mengundurkan diri.
+  a. meninggal dunia;
+  b. berakhir masa jabatannya;
+  c. menjadi terdakwa karena melakukan tindak
+  pidana;
+  d. berhalangan tetap atau secara terus-menerus
+  selama lebih dari 3 (tiga) bulan tidak dapat
+  melaksanakan tugasnya; atau
+  e. mengundurkan diri.
 (2) Pemberhentian sebagaimana dimaksud pada
 ayat (1) ditetapkan oleh Presiden.
+
 Pasal 39D
 Anggota Komisi Kepolisian Nasional memegang jabatan
 selama 4 (empat) tahun dan dapat dipilih kembali hanya
 untuk sekali masa jabatan.
-SK No293379A
-Pasal II ...
+:::
 
-PRESIDEtiI
-REPUBLIK INDONESI,A
--15-
 Pasal II
 1. Pada saat Undang-Undang ini mulai berlaku,
 ketentuan tentang batas usia pensiun sebagai berikut:
-a. batas usia pensiun bagi Anggota Kepolisian Negara
-Republik Indonesia sebagaimana dimaksud dalam
-Pasal 30 ayat (5) berlaku bagi Anggota Kepolisian
-Negara Republik Indonesia yang berusia
-56 (lima puluh enam) tahun pada saat
-Undang-Undang ini mulai berlaku;
-b. Anggota Kepolisian Negara Republik Indonesia yang
-berusia 57 (lima puluh tujuh) tahun pada saat
-Undang-Undang ini mulai berlaku, batas usia
-pensiun diperpanjang sampai dengan anggota
-tersebut berusia 59 (lima puluh sembilan) tahun;
-dan
-c. Anggota Kepolisian Negara Republik Indonesia yang
-akan berusia 58 (lima puluh delapan) tahun pada
-tahun ini, dapat diperpanjang sampai dengan
-anggota tersebut berusia 59 (lima puluh sembilan)
-tahun sebagaimana dimaksud dalam Pasal 30
-ayat (71 mulai berlaku pada tanggal
-Undang-Undang ini diundangkan.
+  a. batas usia pensiun bagi Anggota Kepolisian Negara
+  Republik Indonesia sebagaimana dimaksud dalam
+  Pasal 30 ayat (5) berlaku bagi Anggota Kepolisian
+  Negara Republik Indonesia yang berusia
+  56 (lima puluh enam) tahun pada saat
+  Undang-Undang ini mulai berlaku;
+  b. Anggota Kepolisian Negara Republik Indonesia yang
+  berusia 57 (lima puluh tujuh) tahun pada saat
+  Undang-Undang ini mulai berlaku, batas usia
+  pensiun diperpanjang sampai dengan anggota
+  tersebut berusia 59 (lima puluh sembilan) tahun;
+  dan
+  c. Anggota Kepolisian Negara Republik Indonesia yang
+  akan berusia 58 (lima puluh delapan) tahun pada
+  tahun ini, dapat diperpanjang sampai dengan
+  anggota tersebut berusia 59 (lima puluh sembilan)
+  tahun sebagaimana dimaksud dalam Pasal 30
+  ayat (7) mulai berlaku pada tanggal
+  Undang-Undang ini diundangkan.
 2. Pada saat Undang-Undang ini mulai berlaku, semua
 peraturan perundang-undangan yang merupakan
 peraturan pelaksanaan dari Undang-Undang Nomor 2
 Tahun 2002 tentang Kepolisian Negara Republik
-Indonesia (kmbaran Negara Republik Indonesia
-Tahun 20O2 Nomor 2, Tambahan Lembaran Negara
+Indonesia (Lembaran Negara Republik Indonesia
+Tahun 2002 Nomor 2, Tambahan Lembaran Negara
 Republik Indonesia Nomor 4168) sebagaimana telah
-beberapa kali diubah, terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan
+beberapa kali diubah, terakhir dengan Undang-Undang
+Nomor 6 Tahun 2023 tentang Penetapan
 Peraturan Pemerintah Pengganti Undang-Undang
-Nomor 2 Tahun 2022 tentarry Cipta Kerja menjadi
+Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi
 Undang-Undang (Lembaran Negara Republik Indonesia
-Tahun 2O23 Nomor 41, Tambahan Lembaran Negara
+Tahun 2023 Nomor 41, Tambahan Lembaran Negara
 Republik Indonesia Nomor 6856), dinyatakan masih
 tetap berlaku sepanjang tidak bertentangan dengan
 ketentuan dalam Undang-Undang ini.
 3. Undang-Undang ini mulai berlaku pada tanggal
 diundangkan.
-SK No293383A
-Agar
 
-PRES!DEiI
-REPUBUK IT{DONESIA
--16-
+
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Undang-Undang ini dengan
 penempatannya dalam Lembaran Negara Republik
 Indonesia.
+
 Disahkan di Jakarta
-pada tanggal 17 Jtni2O26
+pada tanggal 17 Juni 2026
 PRESIDEN REPUBLIK INDONESIA,
 ttd
 PRABOWO SUBIANTO
+
 Diundangkan di Jakarta
-pada tanggal L7 Jlur:i2O26
+pada tanggal 17 Juni 2026
 MENTERI SEKRETARIS NEGARA
 REPUBLIK INDONESIA,
 PRASETYO HADI
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR 63
-Salinan sesuai dengan aslinya
+
+
+<!--Salinan sesuai dengan aslinya
 KEM ENTERIAN SEKRETARIAT NEGARA
 LIK INDONESIA
 Perundang-undangan
