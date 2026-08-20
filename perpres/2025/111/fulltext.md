@@ -1,50 +1,48 @@
-ETi:E?IIIilNEEIItrEM
 PERATURAN PRESIDEN REPUBLIK INDONESIA
-NOMOR 11I TAHUN 2025
+NOMOR 111 TAHUN 2025
 TENTANG
 KEBIJAKAN UMUM PERTAHANAN NEGARA TAHUN 2025-2029
+
 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
 PRESIDEN REPUBLIK INDONESIA,
-Menimbang
-Mengingat
-Menetapkan
-I
-2
-bahwa untuk melaksanakan ketentuan Pasal 13 ayat (21
-Undang-Undang Nomor 3 Tahun 2OO2 tentang
+
+Menimbang :
+bahwa untuk melaksanakan ketentuan Pasal 13 ayat (2)
+Undang-Undang Nomor 3 Tahun 2002 tentang
 Pertahanan Negara, perlu menetapkan Peraturan
 Presiden tentang Kebijakan Umum Pertahanan Negara
 Tahun 2025-2029;
-Pasal 4 ayat (1) Undang-Undang Dasar Negara
+
+Mengingat :
+1. Pasal 4 ayat (1) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
-Undang-Undang Nomor 3 Tahun 2002 tentang
-Pertahanan Negara (l.embaran Negara Republik
-Indonesia Tahun 2OO2 Nomor 3, Tambahan
-lembaran Negara Republik Indonesia Nomor 4169);
-MEMUTUSI(AN:
+2. Undang-Undang Nomor 3 Tahun 2002 tentang
+Pertahanan Negara (Lembaran Negara Republik
+Indonesia Tahun 2002 Nomor 3, Tambahan
+Lembaran Negara Republik Indonesia Nomor 4169);
+
+MEMUTUSKAN:
+Menetapkan :
 PERATURAN PRESIDEN TENTANG KEBIJAKAN UMUM
 PERTAHANAN NEGARA TAHUN 2025-2029.
-Pasal I
+
+Pasal 1
 Dalam Peraturan Presiden ini yang dimaksud dengan:
 1. Pertahanan Negara adalah segala usaha untuk
 mempertahankan kedaulatan negara, keutuhan
 wilayah Negara Kesatuan Republik Indonesia, dan
 keselamatan segenap bangsa dari ancaman dan
 gangguan terhadap keutuhan bangsa dan negara.
-SK No249377A
-2. Sistem
-
-PRESIDEN
-REPUBIJK INDONESIA
--2
 2. Sistem Pertahanan Negara adalah sistem pertahanan
-yang bersifat semesta yang melibatkan selumh warga
+yang bersifat semesta yang melibatkan seluruh warga
 negara, wilayah, dan sumber daya nasional lainnya,
 serta dipersiapkan secara dini oleh pemerintah dan
-diselenggarakan seca.ra total, terpadu, terarah, dan
+diselenggarakan secara total, terpadu, terarah, dan
 berlanjut untuk menegakkan kedaulatan negara,
 keutuhan wilayah, dan keselamatan segenap bangsa
 dari segala ancaman.
+
 Pasal 2
 (1) Kebijakan Umum Pertahanan Negara Tahun
 2025-2029 merupakan pedoman untuk pengelolaan
@@ -53,75 +51,71 @@ Sistem Pertahanan Negara.
 2025-2029 sebagaimana dimaksud pada ayat (1)
 menjadi acuan bagi perencanaan, penyelenggaraan,
 dan pengawasan Sistem Pertahanan Negara.
+
 Pasal 3
 (1) Kebijakan Umum Pertahanan Negara Tahun
 2025-2029 sebagaimana dimaksud dalam Pasal 2
 memuat:
-a, umum;
-b. faktor yang mempengaruhi kebijakan umum
-pertahanan negara;
-c. pokok kebijakan umum pertahanan negara;
-d. solusi kebijakan dan pernyataan risiko; dan
-e. penutup.
+  a. umum;
+  b. faktor yang mempengaruhi kebijakan umum
+  pertahanan negara;
+  c. pokok kebijakan umum pertahanan negara;
+  d. solusi kebijakan dan pernyataan risiko; dan
+  e. penutup.
 (2) Pokok kebijakan umum pertahanan negara
 sebagaimana dimaksud pada ayat (1) huruf c
 meliputi:
-a. kebijakanpembangunan;
-b. kebijakan pembinaan kemampuan;
-c. kebijakan pengerahan dan penggunaan
-kekuatan;
-d. kebijalan regulasi;
-e. kebijakan anggaran; dan
-f. kebijakanpengawasan.
-(3) Kebijakan . . .
-SK No249048A
-
-PRESIDEN
-REPUEUK INDONESIA
--3-
+  a. kebijakan pembangunan;
+  b. kebijakan pembinaan kemampuan;
+  c. kebijakan pengerahan dan penggunaan
+  kekuatan;
+  d. kebijalan regulasi;
+  e. kebijakan anggaran; dan
+  f. kebijakanpengawasan.
 (3) Kebijakan Umum Pertahanan Negara Tahun
-2025-2029 sebagaimana dimaksud pada ayat (l)
+2025-2029 sebagaimana dimaksud pada ayat (1)
 tercantum dalam Lampiran yang merupakan bagian
 tidak terpisahkan dari Peraturan Presiden ini.
+
 Pasal 4
 Kebijakan Umum Pertahanan Negara Tahun 2025-2029
 sebagaimana dimaksud dalam Pasal 3 menjadi pedoman
 bagi:
-a menteri yang menyelenggarakan urusan
-pemerintahan di bidang pertahanan dalam
-menetapkan kebijakan mengenai penyelenggaraan
-Pertahanan Negara; dan
-b. menteri, pimpinan lembaga, dan kepala daerah dalam
-menetapkan kebijakan sesuai dengan tugas, fungsi,
-dan wewenang masing-masing untuk melindungi
-kepentingan nasional dan mendukung kebijakan
-nasional di bidang pertahanan sesuai dengan
-ketentuan peraturan perundang-undangan.
-Pasal 5
-Peraturan Presiden ini
-diundangkan.
-mulai berlaku pada tanggal
-SK No249049A
-Agar . . .
+  a. menteri yang menyelenggarakan urusan
+  pemerintahan di bidang pertahanan dalam
+  menetapkan kebijakan mengenai penyelenggaraan
+  Pertahanan Negara; dan
+  b. menteri, pimpinan lembaga, dan kepala daerah dalam
+  menetapkan kebijakan sesuai dengan tugas, fungsi,
+  dan wewenang masing-masing untuk melindungi
+  kepentingan nasional dan mendukung kebijakan
+  nasional di bidang pertahanan sesuai dengan
+  ketentuan peraturan perundang-undangan.
 
-T
-PRESIDEN
-REPUEUK INDONESIA
--4-
+Pasal 5
+Peraturan Presiden ini mulai berlaku pada tanggal
+diundangkan.
+
+
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Presiden ini dengan
 penempatannya dalam Lembaran Negara Republik
 Indonesia.
+
 Ditetapkan di Jakarta
 pada tanggal 24 Oktober 2025
 PRESIDEN REPUBLIK INDONESIA,
 PRABOWO SUBIANTO
+
 Diundangkan di Jakarta
 pada tanggal 24 Oktober 2025
 MENTERI SEKRETARIS NEGARA
 REPUBLIK INDONESIA,
 PRASETYO HADI
+
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR 173
+
+<!--
 Salinan sesuai dengan aslinya
 KEMENTERIAN SEKRETARI,AT NEGARA
 REPUBLIK INDONESIA
