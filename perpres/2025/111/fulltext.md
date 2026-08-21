@@ -102,16 +102,24 @@ pengundangan Peraturan Presiden ini dengan
 penempatannya dalam Lembaran Negara Republik
 Indonesia.
 
-Ditetapkan di Jakarta
-pada tanggal 24 Oktober 2025
-PRESIDEN REPUBLIK INDONESIA,
-PRABOWO SUBIANTO
+<br/>
 
-Diundangkan di Jakarta
-pada tanggal 24 Oktober 2025
-MENTERI SEKRETARIS NEGARA
-REPUBLIK INDONESIA,
+&nbsp;&nbsp;&nbsp;&nbsp;Ditetapkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 24 Oktober 2025  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;PRABOWO SUBIANTO
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 24 Oktober 2025  
+MENTERI SEKRETARIS NEGARA  
+REPUBLIK INDONESIA  
+ttd.  
 PRASETYO HADI
+
+<br/>
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR 173
 
