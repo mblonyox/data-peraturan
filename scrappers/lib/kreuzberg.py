@@ -3,13 +3,15 @@ import kreuzberg
 
 config = kreuzberg.ExtractionConfig(
     ocr=kreuzberg.OcrConfig(
-        backend="easyocr",
-        language="id"
-    )
+        language="eng+ind",
+        backend="paddleocr",
+        paddle_ocr_config=kreuzberg.PaddleOcrConfig(
+            model_tier="server"
+        ),
+    ),
 )
 
 
 def convert(p: pathlib.Path) -> str:
-    data = p.read_bytes()
-    result = kreuzberg.extract_bytes_sync(data, mime_type="application/pdf", config=config)
+    result = kreuzberg.extract_file_sync(p, mime_type="application/pdf", config=config)
     return result.content
