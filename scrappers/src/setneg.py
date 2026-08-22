@@ -78,7 +78,7 @@ def main(tahun: str):
             except Exception:
                 print(f"Error converting {pdf_path}")
     print("Write csv files...")
-    f = root_path / f"peraturan_{tahun}.csv"
+    f = tmp_path / f"peraturan_{tahun}.csv"
     with f.open("w", encoding="utf-8", newline="") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["jenis", "tahun", "nomor", "judul", "tanggal_penetapan", "tanggal_diundangkan"], quoting=csv.QUOTE_NONNUMERIC)
         writer.writeheader()
