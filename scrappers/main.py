@@ -30,8 +30,7 @@ def convert_to_md(p: pathlib.Path):
     f = root_path / p.parent.relative_to(tmp_path) / "fulltext.md"
     if f.exists():
         return
-    data = p.read_bytes()
-    content = kreuzberg.convert(data)
+    content = kreuzberg.convert(p)
     f.parent.mkdir(parents=True, exist_ok=True)
     f.write_text(content)
 
