@@ -1,17 +1,33 @@
- UNDANG-UNDANG REPUBLIK INDONESIA UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 8 TAHUN 2010 TENTANG PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG
-DENGAN RAHMAT TUHAN YANG MAHA ESA
-Menimbang :
+UNDANG-UNDANG REPUBLIK INDONESIA
+NOMOR 8 TAHUN 2010
+TENTANG
+PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG
 
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang :
 a. bahwa tindak pidana Pencucian Uang tidak hanya mengancam stabilitas perekonomian dan integritas sistem keuangan, tetapi juga dapat membahayakan sendi-sendi kehidupan bermasyarakat, berbangsa, dan bernegara berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 b. bahwa pencegahan dan pemberantasan tindak pidana Pencucian Uang memerlukan landasan hukum yang kuat untuk menjamin kepastian hukum, efektivitas penegakan hukum, serta penelusuran dan pengembalian Harta Kekayaan hasil tindak pidana;
 c. bahwa Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 perlu disesuaikan dengan perkembangan kebutuhan penegakan hukum, praktik, dan standar internasional sehingga perlu diganti dengan undang-undang baru;
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang;
+
 Mengingat :
- Pasal 5 ayat (1) dan Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA
+Pasal 5 ayat (1) dan Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+dan
+PRESIDEN REPUBLIK INDONESIA
+
 MEMUTUSKAN:
-MEMUTUSKAN:
- Menetapkan : UNDANG-UNDANG TENTANG PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG.
-BAB I KETENTUAN UMUM
+Menetapkan :
+UNDANG-UNDANG TENTANG PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG.
+
+BAB I
+KETENTUAN UMUM
+
 Pasal 1
 Dalam Undang-Undang ini yang dimaksud dengan:
 1. Pencucian Uang adalah segala perbuatan yang memenuhi unsur-unsur tindak pidana sesuai dengan ketentuan dalam Undang-Undang ini.
@@ -19,10 +35,10 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 3. Transaksi adalah seluruh kegiatan yang menimbulkan hak dan/atau kewajiban atau menyebabkan timbulnya hubungan hukum antara dua pihak atau lebih.
 4. Transaksi Keuangan adalah Transaksi untuk melakukan atau menerima penempatan, penyetoran, penarikan, pemindahbukuan, pentransferan, pembayaran, hibah, sumbangan, penitipan, dan/atau penukaran atas sejumlah uang atau tindakan dan/atau kegiatan lain yang berhubungan dengan uang.
 5. Transaksi Keuangan Mencurigakan adalah:
-a. Transaksi Keuangan yang menyimpang dari profil, karakteristik, atau kebiasaan pola Transaksi dari Pengguna Jasa yang bersangkutan;
-b. Transaksi Keuangan oleh Pengguna Jasa yang patut diduga dilakukan dengan tujuan untuk menghindari pelaporan Transaksi yang bersangkutan yang wajib dilakukan oleh Pihak Pelapor sesuai dengan ketentuan Undang-Undang ini;
-c. Transaksi Keuangan yang dilakukan atau batal dilakukan dengan menggunakan Harta Kekayaan yang diduga berasal dari hasil tindak pidana; atau
-d. Transaksi Keuangan yang diminta oleh PPATK untuk dilaporkan oleh Pihak Pelapor karena melibatkan Harta Kekayaan yang diduga berasal dari hasil tindak pidana.
+  a. Transaksi Keuangan yang menyimpang dari profil, karakteristik, atau kebiasaan pola Transaksi dari Pengguna Jasa yang bersangkutan;
+  b. Transaksi Keuangan oleh Pengguna Jasa yang patut diduga dilakukan dengan tujuan untuk menghindari pelaporan Transaksi yang bersangkutan yang wajib dilakukan oleh Pihak Pelapor sesuai dengan ketentuan Undang-Undang ini;
+  c. Transaksi Keuangan yang dilakukan atau batal dilakukan dengan menggunakan Harta Kekayaan yang diduga berasal dari hasil tindak pidana; atau
+  d. Transaksi Keuangan yang diminta oleh PPATK untuk dilaporkan oleh Pihak Pelapor karena melibatkan Harta Kekayaan yang diduga berasal dari hasil tindak pidana.
 6. Transaksi Keuangan Tunai adalah Transaksi Keuangan yang dilakukan dengan menggunakan uang kertas dan/atau uang logam.
 7. Pemeriksaan adalah proses identifikasi masalah, analisis, dan evaluasi Transaksi Keuangan Mencurigakan yang dilakukan secara independen, objektif, dan profesional untuk menilai dugaan adanya tindak pidana.
 8. Hasil Pemeriksaan adalah penilaian akhir dari seluruh proses identifikasi masalah, analisis dan evaluasi Transaksi Keuangan Mencurigakan yang dilakukan secara independen, objektif, dan profesional yang disampaikan kepada penyidik _._ 9. Setiap Orang adalah orang perseorangan atau Korporasi.
@@ -33,442 +49,579 @@ d. Transaksi Keuangan yang diminta oleh PPATK untuk dilaporkan oleh Pihak Pelapo
 14. Personil Pengendali Korporasi adalah setiap orang yang memiliki kekuasaan atau wewenang sebagai penentu kebijakan Korporasi atau memiliki kewenangan untuk melakukan kebijakan Korporasi tersebut tanpa harus mendapat otorisasi dari atasannya.
 15. Permufakatan Jahat adalah perbuatan dua orang atau lebih yang bersepakat untuk melakukan tindak pidana Pencucian Uang.
 16. Dokumen adalah data, rekaman, atau informasi yang dapat dilihat, dibaca, dan/atau didengar, yang dapat dikeluarkan dengan atau tanpa bantuan suatu sarana, baik yang tertuang di atas kertas atau benda fisik apa pun selain kertas maupun yang terekam secara elektronik, termasuk tetapi tidak terbatas pada:
-a. tulisan, suara, atau gambar;
-b. peta, rancangan, foto, atau sejenisnya;
-c. huruf, tanda, angka, simbol, atau perforasi yang memiliki makna atau dapat dipahami oleh orang yang mampu membaca atau memahaminya.
+  a. tulisan, suara, atau gambar;
+  b. peta, rancangan, foto, atau sejenisnya;
+  c. huruf, tanda, angka, simbol, atau perforasi yang memiliki makna atau dapat dipahami oleh orang yang mampu membaca atau memahaminya.
 17. Lembaga Pengawas dan Pengatur adalah lembaga yang memiliki kewenangan pengawasan, pengaturan, dan/atau pengenaan sanksi terhadap Pihak Pelapor.
 18. Pengawasan Kepatuhan adalah serangkaian kegiatan Lembaga Pengawas dan Pengatur serta PPATK untuk memastikan kepatuhan Pihak Pelapor atas kewajiban pelaporan menurut Undang-Undang ini dengan mengeluarkan ketentuan atau pedoman pelaporan, melakukan audit kepatuhan, memantau kewajiban pelaporan, dan mengenakan sanksi.
+
 Pasal 2
 (1) Hasil tindak pidana adalah Harta Kekayaan yang diperoleh dari tindak pidana:
-a. korupsi;
-b. penyuapan;
-c. narkotika;
-d. psikotropika;
-e. penyelundupan tenaga kerja;
-f. penyelundupan migran;
-g. di bidang perbankan;
-h. di bidang pasar modal;
-i. di bidang perasuransian;
-j. kepabeanan;
-k. cukai;
-l. perdagangan orang;
-m. perdagangan senjata gelap;
-n. terorisme;
-o. penculikan;
-p. pencurian;
-q. penggelapan;
-r. penipuan;
-s. pemalsuan uang;
-t. perjudian;
-u. prostitusi;
-v. di bidang perpajakan;
-w. di bidang kehutanan;
-x. di bidang lingkungan hidup;
-y. di bidang kelautan dan perikanan; atau
-z. tindak pidana lain yang diancam dengan pidana penjara 4 (empat) tahun atau lebih, yang dilakukan di wilayah Negara Kesatuan Republik Indonesia atau di luar wilayah Negara Kesatuan Republik Indonesia dan tindak pidana tersebut juga merupakan tindak pidana menurut hukum Indonesia.
+  a. korupsi;
+  b. penyuapan;
+  c. narkotika;
+  d. psikotropika;
+  e. penyelundupan tenaga kerja;
+  f. penyelundupan migran;
+  g. di bidang perbankan;
+  h. di bidang pasar modal;
+  i. di bidang perasuransian;
+  j. kepabeanan;
+  k. cukai;
+  l. perdagangan orang;
+  m. perdagangan senjata gelap;
+  n. terorisme;
+  o. penculikan;
+  p. pencurian;
+  q. penggelapan;
+  r. penipuan;
+  s. pemalsuan uang;
+  t. perjudian;
+  u. prostitusi;
+  v. di bidang perpajakan;
+  w. di bidang kehutanan;
+  x. di bidang lingkungan hidup;
+  y. di bidang kelautan dan perikanan; atau
+  z. tindak pidana lain yang diancam dengan pidana penjara 4 (empat) tahun atau lebih, 
+yang dilakukan di wilayah Negara Kesatuan Republik Indonesia atau di luar wilayah Negara Kesatuan Republik Indonesia dan tindak pidana tersebut juga merupakan tindak pidana menurut hukum Indonesia.
 (2) Harta Kekayaan yang diketahui atau patut diduga akan digunakan dan/atau digunakan secara langsung atau tidak langsung untuk kegiatan terorisme, organisasi teroris, atau teroris perseorangan disamakan sebagai hasil tindak pidana sebagaimana dimaksud pada ayat (1) huruf n.
-BAB II TINDAK PIDANA PENCUCIAN UANG
+
+BAB II
+TINDAK PIDANA PENCUCIAN UANG
+
 Pasal 3
 Setiap Orang yang menempatkan, mentransfer, mengalihkan, membelanjakan, membayarkan, menghibahkan, menitipkan, membawa ke luar negeri, mengubah bentuk, menukarkan dengan mata uang atau surat berharga atau perbuatan lain atas Harta Kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1) dengan tujuan menyembunyikan atau menyamarkan asal usul Harta Kekayaan dipidana karena tindak pidana Pencucian Uang dengan pidana penjara paling lama 20 (dua puluh) tahun dan denda paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
+
 Pasal 4
 Setiap Orang yang menyembunyikan atau menyamarkan asal usul, sumber, lokasi, peruntukan, pengalihan hak-hak, atau kepemilikan yang sebenarnya atas Harta Kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1) dipidana karena tindak pidana Pencucian Uang dengan pidana penjara paling lama 20 (dua puluh) tahun dan denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
+
 Pasal 5
 (1) Setiap Orang yang menerima atau menguasai penempatan, pentransferan, pembayaran, hibah, sumbangan, penitipan, penukaran, atau menggunakan Harta Kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi Pihak Pelapor yang melaksanakan kewajiban pelaporan sebagaimana diatur dalam Undang- Undang ini.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi Pihak Pelapor yang melaksanakan kewajiban pelaporan sebagaimana diatur dalam Undang-Undang ini.
+
 Pasal 6
 (1) Dalam hal tindak pidana Pencucian Uang sebagaimana dimaksud dalam Pasal 3, Pasal 4, dan Pasal 5 dilakukan oleh Korporasi, pidana dijatuhkan terhadap Korporasi dan/atau Personil Pengendali Korporasi.
 (2) Pidana dijatuhkan terhadap Korporasi apabila tindak pidana Pencucian Uang:
-a. dilakukan atau diperintahkan oleh Personil Pengendali Korporasi;
-b. dilakukan dalam rangka pemenuhan maksud dan tujuan Korporasi;
-c. dilakukan sesuai dengan tugas dan fungsi pelaku atau pemberi perintah; dan
-d. dilakukan dengan maksud memberikan manfaat bagi Korporasi.
+  a. dilakukan atau diperintahkan oleh Personil Pengendali Korporasi;
+  b. dilakukan dalam rangka pemenuhan maksud dan tujuan Korporasi;
+  c. dilakukan sesuai dengan tugas dan fungsi pelaku atau pemberi perintah; dan
+  d. dilakukan dengan maksud memberikan manfaat bagi Korporasi.
+
 Pasal 7
 (1) Pidana pokok yang dijatuhkan terhadap Korporasi adalah pidana denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 (2) Selain pidana denda sebagaimana dimaksud pada ayat (1), terhadap Korporasi juga dapat dijatuhkan pidana tambahan berupa:
-a. pengumuman putusan hakim;
-b. pembekuan sebagian atau seluruh kegiatan usaha Korporasi;
-c. pencabutan izin usaha;
-d. pembubaran dan/atau pelarangan Korporasi;
-e. perampasan aset Korporasi untuk negara; dan/atau
-f. pengambilalihan Korporasi oleh negara.
+  a. pengumuman putusan hakim;
+  b. pembekuan sebagian atau seluruh kegiatan usaha Korporasi;
+  c. pencabutan izin usaha;
+  d. pembubaran dan/atau pelarangan Korporasi;
+  e. perampasan aset Korporasi untuk negara; dan/atau
+  f. pengambilalihan Korporasi oleh negara.
+
 Pasal 8
 Dalam hal harta terpidana tidak cukup untuk membayar pidana denda sebagaimana dimaksud dalam Pasal 3, Pasal 4, dan Pasal 5, pidana denda tersebut diganti dengan pidana kurungan paling lama 1 (satu) tahun 4 (empat) bulan.
+
 Pasal 9
 (1) Dalam hal Korporasi tidak mampu membayar pidana denda sebagaimana dimaksud dalam Pasal 7 ayat (1), pidana denda tersebut diganti dengan perampasan Harta Kekayaan milik Korporasi atau Personil Pengendali Korporasi yang nilainya sama dengan putusan pidana denda yang dijatuhkan.
 (2) Dalam hal penjualan Harta Kekayaan milik Korporasi yang dirampas sebagaimana dimaksud pada ayat (1) tidak mencukupi, pidana kurungan pengganti denda dijatuhkan terhadap Personil Pengendali Korporasi dengan memperhitungkan denda yang telah dibayar.
+
 Pasal 10
 Setiap Orang yang berada di dalam atau di luar wilayah Negara Kesatuan Republik Indonesia yang turut serta melakukan percobaan, pembantuan, atau Permufakatan Jahat untuk melakukan tindak pidana Pencucian Uang dipidana dengan pidana yang sama sebagaimana dimaksud dalam Pasal 3, Pasal 4, dan Pasal 5.
-BAB III TINDAK PIDANA LAIN YANG BERKAITAN DENGAN TINDAK PIDANA PENCUCIAN UANG
+
+BAB III
+TINDAK PIDANA LAIN YANG BERKAITAN
+DENGAN TINDAK PIDANA PENCUCIAN UANG
+
 Pasal 11
 (1) Pejabat atau pegawai PPATK, penyidik, penuntut umum, hakim, dan Setiap Orang yang memperoleh Dokumen atau keterangan dalam rangka pelaksanaan tugasnya menurut Undang-Undang ini wajib merahasiakan Dokumen atau keterangan tersebut, kecuali untuk memenuhi kewajiban menurut Undang-Undang ini.
 (2) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud pada ayat (1) dipidana dengan pidana penjara paling lama 4 (empat) tahun.
 (3) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi pejabat atau pegawai PPATK, penyidik, penuntut umum, dan hakim jika dilakukan dalam rangka memenuhi kewajiban sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 12
 (1) Direksi, komisaris, pengurus atau pegawai Pihak Pelapor dilarang memberitahukan kepada Pengguna Jasa atau pihak lain, baik secara langsung maupun tidak langsung, dengan cara apa pun mengenai laporan Transaksi Keuangan Mencurigakan yang sedang disusun atau telah disampaikan kepada PPATK.
 (2) Ketentuan mengenai larangan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk pemberian informasi kepada Lembaga Pengawas dan Pengatur.
 (3) Pejabat atau pegawai PPATK atau Lembaga Pengawas dan Pengatur dilarang memberitahukan laporan Transaksi Keuangan Mencurigakan yang akan atau telah dilaporkan kepada PPATK secara langsung atau tidak langsung dengan cara apa pun kepada Pengguna Jasa atau pihak lain.
 (4) Ketentuan mengenai larangan sebagaimana dimaksud pada ayat (3) tidak berlaku dalam rangka pemenuhan kewajiban menurut Undang-Undang ini.
 (5) Pelanggaran atas ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+
 Pasal 13
 Dalam hal terpidana tidak mampu membayar pidana denda sebagaimana dimaksud dalam Pasal 12 ayat (5), pidana denda tersebut diganti dengan pidana kurungan paling lama 1 (satu) tahun 4 (empat) bulan.
+
 Pasal 14
 Setiap Orang yang melakukan campur tangan terhadap pelaksanaan tugas dan kewenangan PPATK sebagaimana dimaksud dalam Pasal 37 ayat (3) dipidana dengan pidana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+
 Pasal 15
 Pejabat atau pegawai PPATK yang melanggar kewajiban sebagaimana dimaksud dalam Pasal 37 ayat (4) dipidana dengan pidana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+
 Pasal 16
 Dalam hal pejabat atau pegawai PPATK, penyidik, penuntut umum, atau hakim, yang menangani perkara tindak pidana Pencucian Uang yang sedang diperiksa, melanggar ketentuan sebagaimana dimaksud dalam Pasal 83 ayat (1) dan/atau Pasal 85 ayat (1) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun.
-BAB IV PELAPORAN DAN PENGAWASAN KEPATUHAN
-Bagian Kesatu Pihak Pelapor
+
+BAB IV
+PELAPORAN DAN PENGAWASAN KEPATUHAN
+
+Bagian Kesatu
+Pihak Pelapor
+
 Pasal 17
 (1) Pihak Pelapor meliputi:
-a. penyedia jasa keuangan:
-1. bank;
-2. perusahaan pembiayaan;
-3. perusahaan asuransi dan perusahaan pialang asuransi;
-4. dana pensiun lembaga keuangan;
-5. perusahaan efek;
-6. manajer investasi;
-7. kustodian;
-8. wali amanat;
-9. perposan sebagai penyedia jasa giro;
-10. pedagang valuta asing;
-11. penyelenggara alat pembayaran menggunakan kartu;
-12. penyelenggara _e-money_ dan/atau _e-wallet_ ;
-13. koperasi yang melakukan kegiatan simpan pinjam;
-14. pegadaian;
-15. perusahaan yang bergerak di bidang perdagangan berjangka komoditi; atau
-16. penyelenggara kegiatan usaha pengiriman uang.
-b. penyedia barang dan/atau jasa lain:
-1. perusahaan properti/agen properti;
-2. pedagang kendaraan bermotor;
-3. pedagang permata dan perhiasan/logam mulia;
-4. pedagang barang seni dan antik; atau
-5. balai lelang.
+  a. penyedia jasa keuangan:
+    1. bank;
+    2. perusahaan pembiayaan;
+    3. perusahaan asuransi dan perusahaan pialang asuransi;
+    4. dana pensiun lembaga keuangan;
+    5. perusahaan efek;
+    6. manajer investasi;
+    7. kustodian;
+    8. wali amanat;
+    9. perposan sebagai penyedia jasa giro;
+    10. pedagang valuta asing;
+    11. penyelenggara alat pembayaran menggunakan kartu;
+    12. penyelenggara _e-money_ dan/atau _e-wallet_ ;
+    13. koperasi yang melakukan kegiatan simpan pinjam;
+    14. pegadaian;
+    15. perusahaan yang bergerak di bidang perdagangan berjangka komoditi; atau
+    16. penyelenggara kegiatan usaha pengiriman uang.
+  b. penyedia barang dan/atau jasa lain:
+    1. perusahaan properti/agen properti;
+    2. pedagang kendaraan bermotor;
+    3. pedagang permata dan perhiasan/logam mulia;
+    4. pedagang barang seni dan antik; atau
+    5. balai lelang.
 (2) Ketentuan mengenai Pihak Pelapor selain sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
-Bagian Kedua Penerapan Prinsip Mengenali Pengguna Jasa
+
+Bagian Kedua
+Penerapan Prinsip Mengenali Pengguna Jasa
+
 Pasal 18
 (1) Lembaga Pengawas dan Pengatur menetapkan ketentuan prinsip mengenali Pengguna Jasa.
 (2) Pihak Pelapor wajib menerapkan prinsip mengenali Pengguna Jasa yang ditetapkan oleh setiap Lembaga Pengawas dan Pengatur sebagaimana dimaksud pada ayat (1).
 (3) Kewajiban menerapkan prinsip mengenali Pengguna Jasa sebagaimana dimaksud pada ayat (2) dilakukan pada saat:
-a. melakukan hubungan usaha dengan Pengguna Jasa;
-b. terdapat Transaksi Keuangan dengan mata uang rupiah dan/atau mata uang asing yang nilainya paling sedikit atau setara dengan Rp100.000.000,00 (seratus juta rupiah);
-c. terdapat Transaksi Keuangan Mencurigakan yang terkait tindak pidana Pencucian Uang dan tindak pidana pendanaan terorisme; atau
-d. Pihak Pelapor meragukan kebenaran informasi yang dilaporkan Pengguna Jasa.
+  a. melakukan hubungan usaha dengan Pengguna Jasa;
+  b. terdapat Transaksi Keuangan dengan mata uang rupiah dan/atau mata uang asing yang nilainya paling sedikit atau setara dengan Rp100.000.000,00 (seratus juta rupiah);
+  c. terdapat Transaksi Keuangan Mencurigakan yang terkait tindak pidana Pencucian Uang dan tindak pidana pendanaan terorisme; atau
+  d. Pihak Pelapor meragukan kebenaran informasi yang dilaporkan Pengguna Jasa.
 (4) Lembaga Pengawas dan Pengatur wajib melaksanakan pengawasan atas kepatuhan Pihak Pelapor dalam menerapkan prinsip mengenali Pengguna Jasa.
 (5) Prinsip mengenali Pengguna Jasa sekurang-kurangnya memuat:
-a. identifikasi Pengguna Jasa;
-b. verifikasi Pengguna Jasa; dan
-c. pemantauan Transaksi Pengguna Jasa.
+  a. identifikasi Pengguna Jasa;
+  b. verifikasi Pengguna Jasa; dan
+  c. pemantauan Transaksi Pengguna Jasa.
 (6) Dalam hal belum terdapat Lembaga Pengawas dan Pengatur, ketentuan mengenai prinsip mengenali Pengguna Jasa dan pengawasannya diatur dengan Peraturan Kepala PPATK.
+
 Pasal 19
 (1) Setiap Orang yang melakukan Transaksi dengan Pihak Pelapor wajib memberikan identitas dan informasi yang benar yang dibutuhkan oleh Pihak Pelapor dan sekurang-kurangnya memuat identitas diri, sumber dana, dan tujuan Transaksi dengan mengisi formulir yang disediakan oleh Pihak Pelapor dan melampirkan Dokumen pendukungnya.
 (2) Dalam hal Transaksi dilakukan untuk kepentingan pihak lain, Setiap Orang sebagaimana dimaksud pada ayat (1) wajib memberikan informasi mengenai identitas diri, sumber dana, dan tujuan Transaksi pihak lain tersebut.
+
 Pasal 20
 (1) Pihak Pelapor wajib mengetahui bahwa Pengguna Jasa yang melakukan Transaksi dengan Pihak Pelapor bertindak untuk diri sendiri atau untuk dan atas nama orang lain.
 (2) Dalam hal Transaksi dengan Pihak Pelapor dilakukan untuk diri sendiri atau untuk dan atas nama orang lain, Pihak Pelapor wajib meminta informasi mengenai identitas dan Dokumen pendukung dari Pengguna Jasa dan orang lain tersebut.
 (3) Dalam hal identitas dan/atau Dokumen pendukung yang diberikan sebagaimana dimaksud pada ayat (2) tidak lengkap, Pihak Pelapor wajib menolak Transaksi dengan orang tersebut.
+
 Pasal 21
 (1) Identitas dan Dokumen pendukung yang diminta oleh Pihak Pelapor harus sesuai dengan ketentuan peraturan perundang-undangan yang ditetapkan oleh setiap Lembaga Pengawas dan Pengatur.
 (2) Pihak Pelapor wajib menyimpan catatan dan Dokumen mengenai identitas pelaku Transaksi paling singkat 5 (lima) tahun sejak berakhirnya hubungan usaha dengan Pengguna Jasa tersebut.
 (3) Pihak Pelapor yang tidak melakukan kewajiban sebagaimana dimaksud pada ayat (2) dikenai sanksi sesuai dengan ketentuan peraturan perundang- undangan.
+
 Pasal 22
 (1) Penyedia jasa keuangan sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf a wajib memutuskan hubungan usaha dengan Pengguna Jasa jika:
-a. Pengguna Jasa menolak untuk mematuhi prinsip mengenali Pengguna Jasa; atau
-b. penyedia jasa keuangan meragukan kebenaran informasi yang disampaikan oleh Pengguna Jasa.
+  a. Pengguna Jasa menolak untuk mematuhi prinsip mengenali Pengguna Jasa; atau
+  b. penyedia jasa keuangan meragukan kebenaran informasi yang disampaikan oleh Pengguna Jasa.
 (2) Penyedia jasa keuangan sebagaimana dimaksud pada ayat (1) wajib melaporkannya kepada PPATK mengenai tindakan pemutusan hubungan usaha tersebut sebagai Transaksi Keuangan Mencurigakan.
-Bagian Ketiga Pelaporan Paragraf 1 Penyedia Jasa Keuangan
+
+Bagian Ketiga
+Pelaporan
+
+Paragraf 1
+Penyedia Jasa Keuangan
+
 Pasal 23
 (1) Penyedia jasa keuangan sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf a wajib menyampaikan laporan kepada PPATK yang meliputi:
-a. Transaksi Keuangan Mencurigakan;
-b. Transaksi Keuangan Tunai dalam jumlah paling sedikit Rp500.000.000,00 (lima ratus juta rupiah) atau dengan mata uang asing yang nilainya setara, yang dilakukan baik dalam satu kali Transaksi maupun beberapa kali Transaksi dalam 1 (satu) hari kerja; dan/atau
-c. Transaksi Keuangan transfer dana dari dan ke luar negeri.
+  a. Transaksi Keuangan Mencurigakan;
+  b. Transaksi Keuangan Tunai dalam jumlah paling sedikit Rp500.000.000,00 (lima ratus juta rupiah) atau dengan mata uang asing yang nilainya setara, yang dilakukan baik dalam satu kali Transaksi maupun beberapa kali Transaksi dalam 1 (satu) hari kerja; dan/atau
+  c. Transaksi Keuangan transfer dana dari dan ke luar negeri.
 (2) Perubahan besarnya jumlah Transaksi Keuangan Tunai sebagaimana dimaksud pada ayat (1) huruf b ditetapkan dengan Keputusan Kepala PPATK.
 (3) Besarnya jumlah Transaksi Keuangan transfer dana dari dan ke luar negeri yang wajib dilaporkan sebagaimana dimaksud pada ayat (1) huruf c diatur dengan Peraturan Kepala PPATK.
 (4) Kewajiban pelaporan atas Transaksi Keuangan Tunai sebagaimana dimaksud pada ayat (1) huruf b dikecualikan terhadap:
-a. Transaksi yang dilakukan oleh penyedia jasa keuangan dengan pemerintah dan bank sentral;
-b. Transaksi untuk pembayaran gaji atau pensiun; dan
-c. Transaksi lain yang ditetapkan oleh Kepala PPATK atau atas permintaan penyedia jasa keuangan yang disetujui oleh PPATK.
+  a. Transaksi yang dilakukan oleh penyedia jasa keuangan dengan pemerintah dan bank sentral;
+  b. Transaksi untuk pembayaran gaji atau pensiun; dan
+  c. Transaksi lain yang ditetapkan oleh Kepala PPATK atau atas permintaan penyedia jasa keuangan yang disetujui oleh PPATK.
 (5) Kewajiban pelaporan sebagaimana dimaksud pada ayat (1) huruf b tidak berlaku untuk Transaksi yang dikecualikan.
+
 Pasal 24
 (1) Penyedia jasa keuangan wajib membuat dan menyimpan daftar Transaksi yang dikecualikan sebagaimana dimaksud dalam Pasal 23 ayat (4).
 (2) Penyedia jasa keuangan yang tidak membuat dan menyimpan daftar Transaksi yang dikecualikan sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
+
 Pasal 25
 (1) Penyampaian laporan Transaksi Keuangan Mencurigakan sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf a dilakukan sesegera mungkin paling lama 3 (tiga) hari kerja setelah penyedia jasa keuangan mengetahui adanya unsur Transaksi Keuangan Mencurigakan.
 (2) Penyampaian laporan Transaksi Keuangan Tunai sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf b dilakukan paling lama 14 (empat belas) hari kerja terhitung sejak tanggal Transaksi dilakukan.
 (3) Penyampaian laporan Transaksi Keuangan transfer dana dari dan ke luar negeri sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf c dilakukan paling lama 14 (empat belas) hari kerja terhitung sejak tanggal Transaksi dilakukan.
 (4) Penyedia jasa keuangan yang tidak menyampaikan laporan kepada PPATK sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), dikenai sanksi administratif.
 (5) Ketentuan lebih lanjut mengenai bentuk, jenis, dan tata cara penyampaian laporan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan Kepala PPATK.
+
 Pasal 26
 (1) Penyedia jasa keuangan dapat melakukan penundaan Transaksi paling lama 5 (lima) hari kerja terhitung sejak penundaan Transaksi dilakukan.
 (2) Penundaan Transaksi sebagaimana dimaksud pada ayat (1) dilakukan dalam hal Pengguna Jasa:
-a. melakukan Transaksi yang patut diduga menggunakan Harta Kekayaan yang berasal dari hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1);
-b. memiliki rekening untuk menampung Harta Kekayaan yang berasal dari hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1); atau
-c. diketahui dan/atau patut diduga menggunakan Dokumen palsu.
+  a. melakukan Transaksi yang patut diduga menggunakan Harta Kekayaan yang berasal dari hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1);
+  b. memiliki rekening untuk menampung Harta Kekayaan yang berasal dari hasil tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1); atau
+  c. diketahui dan/atau patut diduga menggunakan Dokumen palsu.
 (3) Pelaksanaan penundaan Transaksi sebagaimana dimaksud pada ayat (1) dicatat dalam berita acara penundaan Transaksi.
 (4) Penyedia jasa keuangan memberikan salinan berita acara penundaan Transaksi kepada Pengguna Jasa.
 (5) Penyedia jasa keuangan wajib melaporkan penundaan Transaksi kepada PPATK dengan melampirkan berita acara penundaan Transaksi dalam waktu paling lama 24 (dua puluh empat) jam terhitung sejak waktu penundaan Transaksi dilakukan.
 (6) Setelah menerima laporan penundaan Transaksi sebagaimana dimaksud pada ayat (5) PPATK wajib memastikan pelaksanaan penundaan Transaksi dilakukan sesuai dengan Undang-Undang ini.
-(7) Dalam hal penundaan Transaksi telah dilakukan sampai dengan hari kerja kelima, penyedia jasa keuangan harus memutuskan akan melaksanakan Transaksi atau menolak Transaksi tersebut. Paragraf 2 Penyedia Barang dan/atau Jasa lain
+(7) Dalam hal penundaan Transaksi telah dilakukan sampai dengan hari kerja kelima, penyedia jasa keuangan harus memutuskan akan melaksanakan Transaksi atau menolak Transaksi tersebut.
+
+Paragraf 2
+Penyedia Barang dan/atau Jasa lain
+
 Pasal 27
 (1) Penyedia barang dan/atau jasa lain sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b wajib menyampaikan laporan Transaksi yang dilakukan oleh Pengguna Jasa dengan mata uang rupiah dan/atau mata uang asing yang nilainya paling sedikit atau setara dengan Rp500.000.000,00 (lima ratus juta rupiah) kepada PPATK.
 (2) Laporan Transaksi sebagaimana dimaksud pada ayat (1) disampaikan paling lama 14 (empat belas) hari kerja terhitung sejak tanggal Transaksi dilakukan.
-(3) Penyedia barang dan/atau jasa lain yang tidak menyampaikan laporan kepada PPATK sebagaimana dimaksud pada ayat (1) dan ayat (2) dikenai sanksi administratif. Paragraf 3 Pelaksanaan Kewajiban Pelaporan
+(3) Penyedia barang dan/atau jasa lain yang tidak menyampaikan laporan kepada PPATK sebagaimana dimaksud pada ayat (1) dan ayat (2) dikenai sanksi administratif.
+
+Paragraf 3
+Pelaksanaan Kewajiban Pelaporan
+
 Pasal 28
 Pelaksanaan kewajiban pelaporan oleh Pihak Pelapor dikecualikan dari ketentuan kerahasiaan yang berlaku bagi Pihak Pelapor yang bersangkutan.
+
 Pasal 29
 Kecuali terdapat unsur penyalahgunaan wewenang, Pihak Pelapor, pejabat, dan pegawainya tidak dapat dituntut, baik secara perdata maupun pidana, atas pelaksanaan kewajiban pelaporan menurut Undang-Undang ini.
+
 Pasal 30
 (1) Pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 25 ayat (4) dan Pasal 27 ayat (3) dilakukan oleh Lembaga Pengawas dan Pengatur sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Dalam hal Lembaga Pengawas dan Pengatur sebagaimana dimaksud pada ayat (1) belum dibentuk, pengenaan sanksi administratif terhadap Pihak Pelapor dilakukan oleh PPATK.
 (3) Sanksi administratif yang dikenakan oleh PPATK sebagaimana dimaksud pada ayat (2) dapat berupa:
-a. peringatan;
-b. teguran tertulis;
-c. pengumuman kepada publik mengenai tindakan atau sanksi; dan/atau
-d. denda administratif.
+  a. peringatan;
+  b. teguran tertulis;
+  c. pengumuman kepada publik mengenai tindakan atau sanksi; dan/atau
+  d. denda administratif.
 (4) Penerimaan hasil denda administratif sebagaimana dimaksud pada ayat (3) huruf d dinyatakan sebagai Penerimaan Negara Bukan Pajak sesuai dengan ketentuan peraturan perundang-undangan.
 (5) Ketentuan lebih lanjut mengenai tata cara pemberian sanksi administratif sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Kepala PPATK.
-Bagian Keempat Pengawasan Kepatuhan
+
+Bagian Keempat
+Pengawasan Kepatuhan
+
 Pasal 31
 (1) Pengawasan Kepatuhan atas kewajiban pelaporan bagi Pihak Pelapor sebagaimana dimaksud dalam Pasal 17 ayat (1) dilakukan oleh Lembaga Pengawas dan Pengatur dan/atau PPATK.
 (2) Dalam hal Pengawasan Kepatuhan atas kewajiban pelaporan sebagaimana dimaksud pada ayat (1) tidak dilakukan atau belum terdapat Lembaga Pengawas dan Pengatur, Pengawasan Kepatuhan atas kewajiban pelaporan dilakukan oleh PPATK.
 (3) Hasil pelaksanaan Pengawasan Kepatuhan yang dilakukan oleh Lembaga Pengawas dan Pengatur sebagaimana dimaksud pada ayat (1) disampaikan kepada PPATK.
 (4) Tata cara pelaksanaan Pengawasan Kepatuhan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur oleh Lembaga Pengawas dan Pengatur dan/atau PPATK sesuai dengan kewenangannya.
+
 Pasal 32
 Dalam hal Lembaga Pengawas dan Pengatur menemukan Transaksi Keuangan Mencurigakan yang tidak dilaporkan oleh Pihak Pelapor kepada PPATK, Lembaga Pengawas dan Pengatur segera menyampaikan temuan tersebut kepada PPATK.
+
 Pasal 33
 Lembaga Pengawas dan Pengatur wajib memberitahukan kepada PPATK setiap kegiatan atau Transaksi Pihak Pelapor yang diketahuinya atau patut diduganya dilakukan baik langsung maupun tidak langsung dengan tujuan melakukan tindak pidana Pencucian Uang sebagaimana dimaksud dalam Pasal 3, Pasal 4, dan Pasal 5.
-BAB V PEMBAWAAN UANG TUNAI DAN INSTRUMEN PEMBAYARAN LAIN KE DALAM ATAU KE LUAR DAERAH PABEAN INDONESIA
+
+BAB V
+PEMBAWAAN UANG TUNAI DAN INSTRUMEN PEMBAYARAN LAIN
+KE DALAM ATAU KE LUAR DAERAH PABEAN INDONESIA
+
 Pasal 34
 (1) Setiap orang yang membawa uang tunai dalam mata uang rupiah dan/atau mata uang asing, dan/atau instrumen pembayaran lain dalam bentuk cek, cek perjalanan, surat sanggup bayar, atau bilyet giro paling sedikit Rp100.000.000,00 (seratus juta rupiah) atau yang nilainya setara dengan itu ke dalam atau ke luar daerah pabean Indonesia wajib memberitahukannya kepada Direktorat Jenderal Bea dan Cukai.
 (2) Direktorat Jenderal Bea dan Cukai wajib membuat laporan mengenai pembawaan uang tunai dan/atau instrumen pembayaran lain sebagaimana dimaksud pada ayat (1) dan menyampaikannya kepada PPATK paling lama 5 (lima) hari kerja sejak diterimanya pemberitahuan.
 (3) PPATK dapat meminta informasi tambahan dari Direktorat Jenderal Bea dan Cukai mengenai pembawaan uang tunai dan/atau instrumen pembayaran lain sebagaimana dimaksud pada ayat (1).
+
 Pasal 35
 (1) Setiap orang yang tidak memberitahukan pembawaan uang tunai dan/atau instrumen pembayaran lain sebagaimana dimaksud dalam Pasal 34 ayat (1) dikenai sanksi administratif berupa denda sebesar 10% (sepuluh perseratus) dari seluruh jumlah uang tunai dan/atau instrumen pembayaran lain yang dibawa dengan jumlah paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 (2) Setiap orang yang telah memberitahukan pembawaan uang tunai dan/atau instrumen pembayaran lain sebagaimana dimaksud dalam Pasal 34 ayat (1), tetapi jumlah uang tunai dan/atau instrumen pembayaran lain yang dibawa lebih besar dari jumlah yang diberitahukan dikenai sanksi administratif berupa denda sebesar 10% (sepuluh perseratus) dari kelebihan jumlah uang tunai dan/atau instrumen pembayaran lain yang dibawa dengan jumlah paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 (3) Sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (2) yang berkaitan dengan pembawaan uang tunai diambil langsung dari uang tunai yang dibawa dan disetorkan ke kas negara oleh Direktorat Jenderal Bea dan Cukai.
 (4) Direktorat Jenderal Bea dan Cukai harus membuat laporan mengenai pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (2) dan menyampaikannya kepada PPATK paling lama 5 (lima) hari kerja sejak sanksi administratif ditetapkan.
+
 Pasal 36
 Ketentuan lebih lanjut mengenai tata cara pemberitahuan pembawaan uang tunai dan/atau instrumen pembayaran lain, pengenaan sanksi administratif, dan penyetoran ke kas negara sebagaimana dimaksud dalam Pasal 34 dan Pasal 35 diatur dengan Peraturan Pemerintah.
-BAB VI PUSAT PELAPORAN DAN ANALISIS TRANSAKSI KEUANGAN
-Bagian Kesatu Kedudukan
+
+BAB VI
+PUSAT PELAPORAN DAN ANALISIS TRANSAKSI KEUANGAN
+
+Bagian Kesatu
+Kedudukan
+
 Pasal 37
 (1) PPATK dalam melaksanakan tugas dan kewenangannya bersifat independen dan bebas dari campur tangan dan pengaruh kekuasaan mana pun.
 (2) PPATK bertanggung jawab kepada Presiden.
 (3) Setiap Orang dilarang melakukan segala bentuk campur tangan terhadap pelaksanaan tugas dan kewenangan PPATK.
 (4) PPATK wajib menolak dan/atau mengabaikan segala bentuk campur tangan dari pihak mana pun dalam rangka pelaksanaan tugas dan kewenangannya.
+
 Pasal 38
 (1) PPATK berkedudukan di Ibukota Negara Kesatuan Republik Indonesia.
 (2) Dalam hal diperlukan, perwakilan PPATK dapat dibuka di daerah.
-Bagian Kedua Tugas, Fungsi, dan Wewenang
+
+Bagian Kedua
+Tugas, Fungsi, dan Wewenang
+
 Pasal 39
 PPATK mempunyai tugas mencegah dan memberantas tindak pidana Pencucian Uang.
+
 Pasal 40
 Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 39, PPATK mempunyai fungsi sebagai berikut:
-a. pencegahan dan pemberantasan tindak pidana Pencucian Uang;
-b. pengelolaan data dan informasi yang diperoleh PPATK;
-c. pengawasan terhadap kepatuhan Pihak Pelapor; dan
-d. analisis atau pemeriksaan laporan dan informasi Transaksi Keuangan yang berindikasi tindak pidana Pencucian Uang dan/atau tindak pidana lain sebagaimana dimaksud dalam Pasal 2 ayat (1).
+  a. pencegahan dan pemberantasan tindak pidana Pencucian Uang;
+  b. pengelolaan data dan informasi yang diperoleh PPATK;
+  c. pengawasan terhadap kepatuhan Pihak Pelapor; dan
+  d. analisis atau pemeriksaan laporan dan informasi Transaksi Keuangan yang berindikasi tindak pidana Pencucian Uang dan/atau tindak pidana lain sebagaimana dimaksud dalam Pasal 2 ayat (1).
+
 Pasal 41
 (1) Dalam melaksanakan fungsi pencegahan dan pemberantasan tindak pidana Pencucian Uang sebagaimana dimaksud dalam Pasal 40 huruf a, PPATK berwenang:
-a. meminta dan mendapatkan data dan informasi dari instansi pemerintah dan/atau lembaga swasta yang memiliki kewenangan mengelola data dan informasi, termasuk dari instansi pemerintah dan/atau lembaga swasta yang menerima laporan dari profesi tertentu;
-b. menetapkan pedoman identifikasi Transaksi Keuangan Mencurigakan;
-c. mengoordinasikan upaya pencegahan tindak pidana Pencucian Uang dengan instansi terkait;
-d. memberikan rekomendasi kepada pemerintah mengenai upaya pencegahan tindak pidana Pencucian Uang;
-e. mewakili pemerintah Republik Indonesia dalam organisasi dan forum internasional yang berkaitan dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang;
-f. menyelenggarakan program pendidikan dan pelatihan antipencucian uang; dan
-g. menyelenggarakan sosialisasi pencegahan dan pemberantasan tindak pidana Pencucian Uang.
+  a. meminta dan mendapatkan data dan informasi dari instansi pemerintah dan/atau lembaga swasta yang memiliki kewenangan mengelola data dan informasi, termasuk dari instansi pemerintah dan/atau lembaga swasta yang menerima laporan dari profesi tertentu;
+  b. menetapkan pedoman identifikasi Transaksi Keuangan Mencurigakan;
+  c. mengoordinasikan upaya pencegahan tindak pidana Pencucian Uang dengan instansi terkait;
+  d. memberikan rekomendasi kepada pemerintah mengenai upaya pencegahan tindak pidana Pencucian Uang;
+  e. mewakili pemerintah Republik Indonesia dalam organisasi dan forum internasional yang berkaitan dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang;
+  f. menyelenggarakan program pendidikan dan pelatihan antipencucian uang; dan
+  g. menyelenggarakan sosialisasi pencegahan dan pemberantasan tindak pidana Pencucian Uang.
 (2) Penyampaian data dan informasi oleh instansi pemerintah dan/atau lembaga swasta kepada PPATK sebagaimana dimaksud pada ayat (1) huruf a dikecualikan dari ketentuan kerahasiaan.
 (3) Ketentuan lebih lanjut mengenai tata cara penyampaian data dan informasi oleh instansi pemerintah dan/atau lembaga swasta sebagaimana dimaksud pada ayat (1) huruf a diatur dengan Peraturan Pemerintah.
+
 Pasal 42
 Dalam melaksanakan fungsi pengelolaan data dan informasi sebagaimana dimaksud dalam Pasal 40 huruf b, PPATK berwenang menyelenggarakan sistem informasi.
+
 Pasal 43
 Dalam rangka melaksanakan fungsi pengawasan terhadap kepatuhan Pihak Pelapor sebagaimana dimaksud dalam Pasal 40 huruf c, PPATK berwenang:
-a. menetapkan ketentuan dan pedoman tata cara pelaporan bagi Pihak Pelapor;
-b. menetapkan kategori Pengguna Jasa yang berpotensi melakukan tindak pidana Pencucian Uang;
-c. melakukan audit kepatuhan atau audit khusus;
-d. menyampaikan informasi dari hasil audit kepada lembaga yang berwenang melakukan pengawasan terhadap Pihak Pelapor;
-e. memberikan peringatan kepada Pihak Pelapor yang melanggar kewajiban pelaporan;
-f. merekomendasikan kepada lembaga yang berwenang mencabut izin usaha Pihak Pelapor; dan
-g. menetapkan ketentuan pelaksanaan prinsip mengenali Pengguna Jasa bagi Pihak Pelapor yang tidak memiliki Lembaga Pengawas dan Pengatur.
+  a. menetapkan ketentuan dan pedoman tata cara pelaporan bagi Pihak Pelapor;
+  b. menetapkan kategori Pengguna Jasa yang berpotensi melakukan tindak pidana Pencucian Uang;
+  c. melakukan audit kepatuhan atau audit khusus;
+  d. menyampaikan informasi dari hasil audit kepada lembaga yang berwenang melakukan pengawasan terhadap Pihak Pelapor;
+  e. memberikan peringatan kepada Pihak Pelapor yang melanggar kewajiban pelaporan;
+  f. merekomendasikan kepada lembaga yang berwenang mencabut izin usaha Pihak Pelapor; dan
+  g. menetapkan ketentuan pelaksanaan prinsip mengenali Pengguna Jasa bagi Pihak Pelapor yang tidak memiliki Lembaga Pengawas dan Pengatur.
+
 Pasal 44
 (1) Dalam rangka melaksanakan fungsi analisis atau pemeriksaan laporan dan informasi sebagaimana dimaksud dalam Pasal 40 huruf d, PPATK dapat:
-a. meminta dan menerima laporan dan informasi dari Pihak Pelapor;
-b. meminta informasi kepada instansi atau pihak terkait;
-c. meminta informasi kepada Pihak Pelapor berdasarkan pengembangan hasil analisis PPATK;
-d. meminta informasi kepada Pihak Pelapor berdasarkan permintaan dari instansi penegak hukum atau mitra kerja di luar negeri;
-e. meneruskan informasi dan/atau hasil analisis kepada instansi peminta, baik di dalam maupun di luar negeri;
-f. menerima laporan dan/atau informasi dari masyarakat mengenai adanya dugaan tindak pidana Pencucian Uang;
-g. meminta keterangan kepada Pihak Pelapor dan pihak lain yang terkait dengan dugaan tindak pidana Pencucian Uang;
-h. merekomendasikan kepada instansi penegak hukum mengenai pentingnya melakukan intersepsi atau penyadapan atas informasi elektronik dan/atau dokumen elektronik sesuai dengan ketentuan peraturan perundang-undangan;
-i. meminta penyedia jasa keuangan untuk menghentikan sementara seluruh atau sebagian Transaksi yang diketahui atau dicurigai merupakan hasil tindak pidana;
-j. meminta informasi perkembangan penyelidikan dan penyidikan yang dilakukan oleh penyidik tindak pidana asal dan tindak pidana Pencucian Uang;
-k. mengadakan kegiatan administratif lain dalam lingkup tugas dan tanggung jawab sesuai dengan ketentuan Undang-Undang ini; dan
-l. meneruskan hasil analisis atau pemeriksaan kepada penyidik.
+  a. meminta dan menerima laporan dan informasi dari Pihak Pelapor;
+  b. meminta informasi kepada instansi atau pihak terkait;
+  c. meminta informasi kepada Pihak Pelapor berdasarkan pengembangan hasil analisis PPATK;
+  d. meminta informasi kepada Pihak Pelapor berdasarkan permintaan dari instansi penegak hukum atau mitra kerja di luar negeri;
+  e. meneruskan informasi dan/atau hasil analisis kepada instansi peminta, baik di dalam maupun di luar negeri;
+  f. menerima laporan dan/atau informasi dari masyarakat mengenai adanya dugaan tindak pidana Pencucian Uang;
+  g. meminta keterangan kepada Pihak Pelapor dan pihak lain yang terkait dengan dugaan tindak pidana Pencucian Uang;
+  h. merekomendasikan kepada instansi penegak hukum mengenai pentingnya melakukan intersepsi atau penyadapan atas informasi elektronik dan/atau dokumen elektronik sesuai dengan ketentuan peraturan perundang-undangan;
+  i. meminta penyedia jasa keuangan untuk menghentikan sementara seluruh atau sebagian Transaksi yang diketahui atau dicurigai merupakan hasil tindak pidana;
+  j. meminta informasi perkembangan penyelidikan dan penyidikan yang dilakukan oleh penyidik tindak pidana asal dan tindak pidana Pencucian Uang;
+  k. mengadakan kegiatan administratif lain dalam lingkup tugas dan tanggung jawab sesuai dengan ketentuan Undang-Undang ini; dan
+  l. meneruskan hasil analisis atau pemeriksaan kepada penyidik.
 (2) Penyedia jasa keuangan sebagaimana dimaksud pada ayat (1) huruf i harus segera menindaklanjuti setelah menerima permintaan dari PPATK.
+
 Pasal 45
 Dalam melaksanakan kewenangannya sebagaimana dimaksud dalam Undang-Undang ini, terhadap PPATK tidak berlaku ketentuan peraturan perundang-undangan dan kode etik yang mengatur kerahasiaan.
+
 Pasal 46
 Ketentuan lebih lanjut mengenai tata cara pelaksanaan kewenangan PPATK diatur dengan Peraturan Presiden.
-Bagian Ketiga Akuntabilitas
+
+Bagian Ketiga
+Akuntabilitas
+
 Pasal 47
 (1) PPATK membuat dan menyampaikan laporan pelaksanaan tugas, fungsi, dan wewenangnya secara berkala setiap 6 (enam) bulan.
 (2) Laporan sebagaimana dimaksud pada ayat (1) disampaikan kepada Presiden dan Dewan Perwakilan Rakyat.
-Bagian Keempat Susunan Organisasi
+
+Bagian Keempat
+Susunan Organisasi
+
 Pasal 48
 Susunan organisasi PPATK terdiri atas:
-a. kepala;
-b. wakil kepala;
-c. jabatan struktural lain; dan
-d. jabatan fungsional.
+  a. kepala;
+  b. wakil kepala;
+  c. jabatan struktural lain; dan
+  d. jabatan fungsional.
+
 Pasal 49
 (1) Kepala PPATK sebagaimana dimaksud dalam Pasal 48 huruf a mewakili PPATK di dalam dan di luar pengadilan.
 (2) Kepala PPATK dapat menyerahkan kewenangan mewakili sebagaimana dimaksud pada ayat (1) kepada Wakil Kepala PPATK, seorang atau beberapa orang pegawai PPATK, dan/atau pihak lain yang khusus ditunjuk untuk itu.
+
 Pasal 50
 Kepala PPATK adalah penanggung jawab yang memimpin dan mengendalikan pelaksanaan tugas, fungsi, dan wewenang PPATK.
+
 Pasal 51
 Untuk dapat diangkat sebagai Kepala atau Wakil Kepala PPATK, seorang calon harus memenuhi syarat sebagai berikut:
-a. warga negara Indonesia;
-b. berusia paling rendah 40 (empat puluh) tahun dan paling tinggi 60 (enam puluh) tahun pada saat pengangkatan;
-c. sehat jasmani dan rohani;
-d. takwa, jujur, adil, dan memiliki integritas pribadi yang baik;
-e. memiliki salah satu keahlian di bidang ekonomi, akuntansi, keuangan, atau hukum dan pengalaman kerja di bidang tersebut paling singkat 10 (sepuluh) tahun;
-f. bukan pemimpin partai politik;
-g. bersedia memberikan informasi mengenai daftar Harta Kekayaan;
-h. tidak merangkap jabatan atau pekerjaan lain; dan
-i. tidak pernah dijatuhi pidana penjara.
+  a. warga negara Indonesia;
+  b. berusia paling rendah 40 (empat puluh) tahun dan paling tinggi 60 (enam puluh) tahun pada saat pengangkatan;
+  c. sehat jasmani dan rohani;
+  d. takwa, jujur, adil, dan memiliki integritas pribadi yang baik;
+  e. memiliki salah satu keahlian di bidang ekonomi, akuntansi, keuangan, atau hukum dan pengalaman kerja di bidang tersebut paling singkat 10 (sepuluh) tahun;
+  f. bukan pemimpin partai politik;
+  g. bersedia memberikan informasi mengenai daftar Harta Kekayaan;
+  h. tidak merangkap jabatan atau pekerjaan lain; dan
+  i. tidak pernah dijatuhi pidana penjara.
+
 Pasal 52
 (1) Wakil Kepala PPATK bertugas membantu Kepala PPATK.
 (2) Wakil Kepala PPATK dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) bertanggung jawab kepada Kepala PPATK.
 (3) Dalam hal Kepala PPATK berhalangan, Wakil Kepala PPATK bertanggung jawab memimpin dan mengendalikan pelaksanaan tugas, fungsi, dan wewenang PPATK.
+
 Pasal 53
 Kepala dan Wakil Kepala PPATK sebagaimana dimaksud dalam Pasal 48 huruf a dan huruf b diangkat dan diberhentikan oleh Presiden.
+
 Pasal 54
 (1) Kepala dan Wakil Kepala PPATK sebelum memangku jabatannya wajib mengucapkan sumpah atau janji menurut agama dan kepercayaannya di hadapan Presiden.
-(2) Sumpah atau janji sebagaimana dimaksud pada ayat (1) berbunyi sebagai berikut: "Saya bersumpah/berjanji bahwa saya untuk menjadi Kepala/Wakil Kepala PPATK langsung atau tidak langsung dengan nama dan dalih apa pun tidak memberikan atau menjanjikan untuk memberikan sesuatu kepada siapa pun". "Saya bersumpah/berjanji bahwa saya dalam melakukan atau tidak melakukan sesuatu dalam jabatan ini tidak akan menerima langsung atau tidak langsung dari siapa pun juga sesuatu janji atau pemberian dalam bentuk apa pun". "Saya bersumpah/berjanji bahwa saya akan merahasiakan kepada siapa pun hal-hal yang menurut peraturan perundang-undangan wajib dirahasiakan". "Saya bersumpah/berjanji bahwa saya akan melaksanakan tugas dan kewenangan selaku Kepala/Wakil Kepala PPATK dengan sebaik-baiknya dan dengan penuh rasa tanggung jawab". "Saya bersumpah/berjanji bahwa saya akan setia terhadap negara, konstitusi, dan peraturan perundang- undangan yang berlaku".
+(2) Sumpah atau janji sebagaimana dimaksud pada ayat (1) berbunyi sebagai berikut:  
+"Saya bersumpah/berjanji bahwa saya untuk menjadi Kepala/Wakil Kepala PPATK langsung atau tidak langsung dengan nama dan dalih apa pun tidak memberikan atau menjanjikan untuk memberikan sesuatu kepada siapa pun".  
+"Saya bersumpah/berjanji bahwa saya dalam melakukan atau tidak melakukan sesuatu dalam jabatan ini tidak akan menerima langsung atau tidak langsung dari siapa pun juga sesuatu janji atau pemberian dalam bentuk apa pun".  
+"Saya bersumpah/berjanji bahwa saya akan merahasiakan kepada siapa pun hal-hal yang menurut peraturan perundang-undangan wajib dirahasiakan".  
+"Saya bersumpah/berjanji bahwa saya akan melaksanakan tugas dan kewenangan selaku Kepala/Wakil Kepala PPATK dengan sebaik-baiknya dan dengan penuh rasa tanggung jawab".  
+"Saya bersumpah/berjanji bahwa saya akan setia terhadap negara, konstitusi, dan peraturan perundang- undangan yang berlaku".
+
 Pasal 55
 Kepala dan Wakil Kepala PPATK memegang jabatan selama 5 (lima) tahun dan dapat diangkat kembali hanya untuk 1 (satu) kali masa jabatan berikutnya.
+
 Pasal 56
 Jabatan Kepala atau Wakil Kepala PPATK berhenti karena:
-a. meninggal dunia;
-b. mengundurkan diri;
-c. berakhir masa jabatannya; atau
-d. diberhentikan.
+  a. meninggal dunia;
+  b. mengundurkan diri;
+  c. berakhir masa jabatannya; atau
+  d. diberhentikan.
+
 Pasal 57
 (1) Pemberhentian Kepala atau Wakil Kepala PPATK sebagaimana dimaksud dalam Pasal 56 huruf d dilakukan karena:
-a. bertempat tinggal di luar wilayah Negara Kesatuan Republik Indonesia;
-b. kehilangan kewarganegaraannya sebagai warga negara Indonesia;
-c. menderita sakit terus-menerus yang penyembuhannya memerlukan waktu lebih dari 3 (tiga) bulan yang tidak memungkinkan melaksanakan tugasnya;
-d. dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap;
-e. merangkap jabatan;
-f. dinyatakan pailit oleh pengadilan; atau
-g. melanggar sumpah atau janji jabatan.
+  a. bertempat tinggal di luar wilayah Negara Kesatuan Republik Indonesia;
+  b. kehilangan kewarganegaraannya sebagai warga negara Indonesia;
+  c. menderita sakit terus-menerus yang penyembuhannya memerlukan waktu lebih dari 3 (tiga) bulan yang tidak memungkinkan melaksanakan tugasnya;
+  d. dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap;
+  e. merangkap jabatan;
+  f. dinyatakan pailit oleh pengadilan; atau
+  g. melanggar sumpah atau janji jabatan.
 (2) Dalam hal Kepala dan/atau Wakil Kepala PPATK menjadi terdakwa tindak pidana yang berkaitan dengan penyalahgunaan jabatannya, Kepala dan/atau Wakil Kepala PPATK diberhentikan sementara dari jabatannya.
 (3) Dalam hal tuntutan terhadap Kepala dan/atau Wakil Kepala PPATK menjadi terdakwa dinyatakan tidak terbukti berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap, jabatan yang bersangkutan dipulihkan kembali.
 (4) Pemberhentian sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan oleh Presiden.
+
 Pasal 58
 (1) Kepala dan Wakil Kepala PPATK berhak memperoleh penghasilan, hak-hak lain, penghargaan, dan fasilitas.
 (2) Ketentuan lebih lanjut mengenai penghasilan, hak-hak lain, penghargaan, dan fasilitas bagi Kepala dan Wakil Kepala PPATK diatur dengan Peraturan Pemerintah.
+
 Pasal 59
 Kepala PPATK dapat mengangkat tenaga ahli paling banyak 5 (lima) orang untuk memberikan pertimbangan mengenai masalah tertentu sesuai dengan bidang keahliannya.
+
 Pasal 60
 Ketentuan lebih lanjut mengenai susunan organisasi dan tata kerja PPATK diatur dengan Peraturan Presiden.
-Bagian Kelima Manajemen Sumber Daya Manusia
+
+Bagian Kelima
+Manajemen Sumber Daya Manusia
+
 Pasal 61
 Kepala PPATK adalah pejabat pembina kepegawaian di lingkungan PPATK.
+
 Pasal 62
 (1) Kepala PPATK selaku pejabat pembina kepegawaian menyelenggarakan manajemen sumber daya manusia PPATK yang meliputi perencanaan, pengangkatan, pemindahan, pengembangan, pemberhentian, dan pemberian remunerasi.
 (2) Penyelenggaraan manajemen sumber daya manusia PPATK sebagaimana dimaksud pada ayat (1) disusun dan dilaksanakan berdasarkan prinsip meritokrasi.
 (3) Ketentuan lebih lanjut mengenai manajemen sumber daya manusia PPATK sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
-Bagian Keenam Pembiayaan
+
+Bagian Keenam
+Pembiayaan
+
 Pasal 63
 Biaya untuk pelaksanaan tugas PPATK dibebankan kepada Anggaran Pendapatan dan Belanja Negara.
-BAB VII PEMERIKSAAN DAN PENGHENTIAN SEMENTARA TRANSAKSI
+
+BAB VII
+PEMERIKSAAN DAN PENGHENTIAN SEMENTARA TRANSAKSI
+
 Pasal 64
 (1) PPATK melakukan pemeriksaan terhadap Transaksi Keuangan Mencurigakan terkait dengan adanya indikasi tindak pidana Pencucian Uang atau tindak pidana lain.
 (2) Dalam hal ditemukan adanya indikasi tindak pidana Pencucian Uang atau tindak pidana lain, PPATK menyerahkan Hasil Pemeriksaan kepada penyidik untuk dilakukan penyidikan.
 (3) Dalam melaksanakan penyidikan sebagaimana dimaksud pada ayat (2), penyidik melakukan koordinasi dengan PPATK.
+
 Pasal 65
 (1) PPATK dapat meminta penyedia jasa keuangan untuk menghentikan sementara seluruh atau sebagian Transaksi sebagaimana dimaksud dalam Pasal 44 ayat (1) huruf i.
-(2) Dalam hal penyedia jasa keuangan memenuhi permintaan PPATK sebagaimana dimaksud pada ayat (1), pelaksanaan penghentian sementara dicatat dalam berita acara penghentian sementara Transaksi. __
+(2) Dalam hal penyedia jasa keuangan memenuhi permintaan PPATK sebagaimana dimaksud pada ayat (1), pelaksanaan penghentian sementara dicatat dalam berita acara penghentian sementara Transaksi.
+
 Pasal 66
 (1) Penghentian sementara Transaksi sebagaimana dimaksud dalam Pasal 65 ayat (1) dilaksanakan dalam waktu paling lama 5 (lima) hari kerja setelah menerima berita acara penghentian sementara Transaksi.
 (2) PPATK dapat memperpanjang penghentian sementara Transaksi sebagaimana dimaksud pada ayat (1) dalam waktu paling lama 15 (lima belas) hari kerja untuk melengkapi hasil analisis atau pemeriksaan yang akan disampaikan kepada penyidik.
+
 Pasal 67
 (1) Dalam hal tidak ada orang dan/atau pihak ketiga yang mengajukan keberatan dalam waktu 20 (dua puluh) hari sejak tanggal penghentian sementara Transaksi, PPATK menyerahkan penanganan Harta Kekayaan yang diketahui atau patut diduga merupakan hasil tindak pidana tersebut kepada penyidik untuk dilakukan penyidikan.
 (2) Dalam hal yang diduga sebagai pelaku tindak pidana tidak ditemukan dalam waktu 30 (tiga puluh) hari, penyidik dapat mengajukan permohonan kepada pengadilan negeri untuk memutuskan Harta Kekayaan tersebut sebagai aset negara atau dikembalikan kepada yang berhak.
 (3) Pengadilan sebagaimana dimaksud pada ayat (2) harus memutus dalam waktu paling lama 7 (tujuh) hari.
-BAB VIII PENYIDIKAN, PENUNTUTAN, DAN PEMERIKSAAN DI SIDANG PENGADILAN
-Bagian Kesatu Umum
+
+BAB VIII
+PENYIDIKAN, PENUNTUTAN, DAN PEMERIKSAAN DI SIDANG PENGADILAN
+
+Bagian Kesatu
+Umum
+
 Pasal 68
 Penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan serta pelaksanaan putusan yang telah memperoleh kekuatan hukum tetap terhadap tindak pidana sebagaimana dimaksud dalam Undang-Undang ini dilakukan sesuai dengan ketentuan peraturan perundang-undangan, kecuali ditentukan lain dalam Undang-Undang ini.
+
 Pasal 69
 Untuk dapat dilakukan penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan terhadap tindak pidana Pencucian Uang tidak wajib dibuktikan terlebih dahulu tindak pidana asalnya.
+
 Pasal 70
 (1) Penyidik, penuntut umum, atau hakim berwenang memerintahkan Pihak Pelapor untuk melakukan penundaan Transaksi terhadap Harta Kekayaan yang diketahui atau patut diduga merupakan hasil tindak pidana.
 (2) Perintah penyidik, penuntut umum, atau hakim sebagaimana dimaksud pada ayat (1) harus dilakukan secara tertulis dengan menyebutkan secara jelas mengenai:
-a. nama dan jabatan yang meminta penundaan Transaksi;
-b. identitas Setiap Orang yang Transaksinya akan dilakukan penundaan;
-c. alasan penundaan Transaksi; dan
-d. tempat Harta Kekayaan berada.
+  a. nama dan jabatan yang meminta penundaan Transaksi;
+  b. identitas Setiap Orang yang Transaksinya akan dilakukan penundaan;
+  c. alasan penundaan Transaksi; dan
+  d. tempat Harta Kekayaan berada.
 (3) Penundaan Transaksi sebagaimana dimaksud pada ayat (1) dilakukan paling lama 5 (lima) hari kerja.
 (4) Pihak Pelapor wajib melaksanakan penundaan Transaksi sesaat setelah surat perintah/permintaan penundaan Transaksi diterima dari penyidik, penuntut umum, atau hakim.
 (5) Pihak Pelapor wajib menyerahkan berita acara pelaksanaan penundaan Transaksi kepada penyidik, penuntut umum, atau hakim yang meminta penundaan Transaksi paling lama 1 (satu) hari kerja sejak tanggal pelaksanaan penundaan Transaksi.
+
 Pasal 71
 (1) Penyidik, penuntut umum, atau hakim berwenang memerintahkan Pihak Pelapor untuk melakukan pemblokiran Harta Kekayaan yang diketahui atau patut diduga merupakan hasil tindak pidana dari:
-a. Setiap Orang yang telah dilaporkan oleh PPATK kepada penyidik;
-b. tersangka; atau
-c. terdakwa.
+  a. Setiap Orang yang telah dilaporkan oleh PPATK kepada penyidik;
+  b. tersangka; atau
+  c. terdakwa.
 (2) Perintah penyidik, penuntut umum, atau hakim sebagaimana dimaksud pada ayat (1) harus dilakukan secara tertulis dengan menyebutkan secara jelas mengenai:
-a. nama dan jabatan penyidik, penuntut umum, atau hakim;
-b. identitas Setiap Orang yang telah dilaporkan oleh PPATK kepada penyidik _,_ tersangka, atau terdakwa;
-c. alasan pemblokiran;
-d. tindak pidana yang disangkakan atau didakwakan; dan
-e. tempat Harta Kekayaan berada.
+  a. nama dan jabatan penyidik, penuntut umum, atau hakim;
+  b. identitas Setiap Orang yang telah dilaporkan oleh PPATK kepada penyidik, tersangka, atau terdakwa;
+  c. alasan pemblokiran;
+  d. tindak pidana yang disangkakan atau didakwakan; dan
+  e. tempat Harta Kekayaan berada.
 (3) Pemblokiran sebagaimana dimaksud pada ayat (1) dilakukan paling lama 30 (tiga puluh) hari kerja.
 (4) Dalam hal jangka waktu pemblokiran sebagaimana dimaksud pada ayat (3) berakhir, Pihak Pelapor wajib mengakhiri pemblokiran demi hukum.
 (5) Pihak Pelapor wajib melaksanakan pemblokiran sesaat setelah surat perintah pemblokiran diterima dari penyidik, penuntut umum, atau hakim.
 (6) Pihak Pelapor wajib menyerahkan berita acara pelaksanaan pemblokiran kepada penyidik, penuntut umum, atau hakim yang memerintahkan pemblokiran paling lama 1 (satu) hari kerja sejak tanggal pelaksanaan pemblokiran.
 (7) Harta Kekayaan yang diblokir harus tetap berada pada Pihak Pelapor yang bersangkutan.
+
 Pasal 72
 (1) Untuk kepentingan pemeriksaan dalam perkara tindak pidana Pencucian Uang, penyidik, penuntut umum, atau hakim berwenang meminta Pihak Pelapor untuk memberikan keterangan secara tertulis mengenai Harta Kekayaan dari:
-a. orang yang telah dilaporkan oleh PPATK kepada penyidik;
-b. tersangka; atau
-c. terdakwa.
-(2) Dalam meminta keterangan sebagaimana dimaksud pada ayat (1), bagi penyidik, penuntut umum, atau hakim tidak berlaku ketentuan peraturan perundang- undangan yang mengatur rahasia bank dan kerahasiaan Transaksi Keuangan lain.
+  a. orang yang telah dilaporkan oleh PPATK kepada penyidik;
+  b. tersangka; atau
+  c. terdakwa.
+(2) Dalam meminta keterangan sebagaimana dimaksud pada ayat (1), bagi penyidik, penuntut umum, atau hakim tidak berlaku ketentuan peraturan perundang-undangan yang mengatur rahasia bank dan kerahasiaan Transaksi Keuangan lain.
 (3) Permintaan keterangan sebagaimana dimaksud pada ayat (1) harus diajukan dengan menyebutkan secara jelas mengenai:
-a. nama dan jabatan penyidik, penuntut umum, atau hakim;
-b. identitas orang yang terindikasi dari hasil analisis atau pemeriksaan PPATK, tersangka, atau terdakwa;
-c. uraian singkat tindak pidana yang disangkakan atau didakwakan; dan
-d. tempat Harta Kekayaan berada.
+  a. nama dan jabatan penyidik, penuntut umum, atau hakim;
+  b. identitas orang yang terindikasi dari hasil analisis atau pemeriksaan PPATK, tersangka, atau terdakwa;
+  c. uraian singkat tindak pidana yang disangkakan atau didakwakan; dan
+  d. tempat Harta Kekayaan berada.
 (4) Permintaan sebagaimana dimaksud pada ayat (3) harus disertai dengan:
-a. laporan polisi dan surat perintah penyidikan;
-b. surat penunjukan sebagai penuntut umum; atau
-c. surat penetapan majelis hakim.
+  a. laporan polisi dan surat perintah penyidikan;
+  b. surat penunjukan sebagai penuntut umum; atau
+  c. surat penetapan majelis hakim.
 (5) Surat permintaan untuk memperoleh keterangan sebagaimana dimaksud pada ayat (1) dan ayat (3) harus ditandatangani oleh:
-a. Kepala Kepolisian Negara Republik Indonesia atau kepala kepolisian daerah dalam hal permintaan diajukan oleh penyidik dari Kepolisian Negara Republik Indonesia;
-b. pimpinan instansi atau lembaga atau komisi dalam hal permintaan diajukan oleh penyidik selain penyidik Kepolisian Negara Republik Indonesia;
-c. Jaksa Agung atau kepala kejaksaan tinggi dalam hal permintaan diajukan oleh jaksa penyidik dan/atau penuntut umum; atau
-d. hakim ketua majelis yang memeriksa perkara yang bersangkutan.
+  a. Kepala Kepolisian Negara Republik Indonesia atau kepala kepolisian daerah dalam hal permintaan diajukan oleh penyidik dari Kepolisian Negara Republik Indonesia;
+  b. pimpinan instansi atau lembaga atau komisi dalam hal permintaan diajukan oleh penyidik selain penyidik Kepolisian Negara Republik Indonesia;
+  c. Jaksa Agung atau kepala kejaksaan tinggi dalam hal permintaan diajukan oleh jaksa penyidik dan/atau penuntut umum; atau
+  d. hakim ketua majelis yang memeriksa perkara yang bersangkutan.
 (6) Surat permintaan sebagaimana dimaksud pada ayat (5) ditembuskan kepada PPATK.
+
 Pasal 73
 Alat bukti yang sah dalam pembuktian tindak pidana Pencucian Uang ialah:
-a. alat bukti sebagaimana dimaksud dalam Hukum Acara Pidana; dan/atau
-b. alat bukti lain berupa informasi yang diucapkan, dikirimkan, diterima, atau disimpan secara elektronik dengan alat optik atau alat yang serupa optik dan Dokumen.
-Bagian Kedua Penyidikan
+  a. alat bukti sebagaimana dimaksud dalam Hukum Acara Pidana; dan/atau
+  b. alat bukti lain berupa informasi yang diucapkan, dikirimkan, diterima, atau disimpan secara elektronik dengan alat optik atau alat yang serupa optik dan Dokumen.
+
+Bagian Kedua
+Penyidikan
+
 Pasal 74
 Penyidikan tindak pidana Pencucian Uang dilakukan oleh penyidik tindak pidana asal sesuai dengan ketentuan hukum acara dan ketentuan peraturan perundang-undangan, kecuali ditentukan lain menurut Undang-Undang ini.
+
 Pasal 75
 Dalam hal penyidik menemukan bukti permulaan yang cukup terjadinya tindak pidana Pencucian Uang dan tindak pidana asal, penyidik menggabungkan penyidikan tindak pidana asal dengan penyidikan tindak pidana Pencucian Uang dan memberitahukannya kepada PPATK.
-Bagian Ketiga Penuntutan
+
+Bagian Ketiga
+Penuntutan
+
 Pasal 76
 (1) Penuntut umum wajib menyerahkan berkas perkara tindak pidana Pencucian Uang kepada pengadilan negeri paling lama 30 (tiga puluh) hari kerja terhitung sejak tanggal diterimanya berkas perkara yang telah dinyatakan lengkap.
 (2) Dalam hal penuntut umum telah menyerahkan berkas perkara kepada pengadilan negeri sebagaimana dimaksud pada ayat (1), ketua pengadilan negeri wajib membentuk majelis hakim perkara tersebut paling lama 3 (tiga) hari kerja sejak diterimanya berkas perkara tersebut.
-Bagian Keempat Pemeriksaan di Sidang Pengadilan
+
+Bagian Keempat
+Pemeriksaan di Sidang Pengadilan
+
 Pasal 77
 Untuk kepentingan pemeriksaan di sidang pengadilan, terdakwa wajib membuktikan bahwa Harta Kekayaannya bukan merupakan hasil tindak pidana.
+
 Pasal 78
 (1) Dalam pemeriksaan di sidang pengadilan sebagaimana dimaksud dalam Pasal 77, hakim memerintahkan terdakwa agar membuktikan bahwa Harta Kekayaan yang terkait dengan perkara bukan berasal atau terkait dengan tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1).
-(2) Terdakwa membuktikan bahwa Harta Kekayaan yang terkait dengan perkara bukan berasal atau terkait dengan tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1) dengan cara mengajukan __ alat bukti yang cukup _._
+(2) Terdakwa membuktikan bahwa Harta Kekayaan yang terkait dengan perkara bukan berasal atau terkait dengan tindak pidana sebagaimana dimaksud dalam Pasal 2 ayat (1) dengan cara mengajukan alat bukti yang cukup.
+
 Pasal 79
 (1) Dalam hal terdakwa telah dipanggil secara sah dan patut tidak hadir di sidang pengadilan tanpa alasan yang sah, perkara dapat diperiksa dan diputus tanpa hadirnya terdakwa.
 (2) Dalam hal terdakwa hadir pada sidang berikutnya sebelum putusan dijatuhkan, terdakwa wajib diperiksa dan segala keterangan saksi dan surat yang dibacakan dalam sidang sebelumnya dianggap sebagai diucapkan dalam sidang yang sekarang.
@@ -476,84 +629,142 @@ Pasal 79
 (4) Dalam hal terdakwa meninggal dunia sebelum putusan dijatuhkan dan terdapat bukti yang cukup kuat bahwa yang bersangkutan telah melakukan tindak pidana Pencucian Uang, hakim atas tuntutan penuntut umum memutuskan perampasan Harta Kekayaan yang telah disita.
 (5) Penetapan perampasan sebagaimana dimaksud pada ayat (4) tidak dapat dimohonkan upaya hukum.
 (6) Setiap Orang yang berkepentingan dapat mengajukan keberatan kepada pengadilan yang telah menjatuhkan penetapan sebagaimana dimaksud pada ayat (5) dalam waktu 30 (tiga puluh) hari sejak tanggal pengumuman sebagaimana dimaksud pada ayat (3).
+
 Pasal 80
 (1) Dalam hal hakim memutus sebagaimana dimaksud dalam Pasal 79 ayat (3), terdakwa dapat mengajukan banding.
-(2) Pengajuan banding sebagaimana dimaksud pada ayat (1) harus dilakukan langsung oleh terdakwa __ paling lama 7 (tujuh) hari setelah putusan diucapkan. __
+(2) Pengajuan banding sebagaimana dimaksud pada ayat (1) harus dilakukan langsung oleh terdakwa paling lama 7 (tujuh) hari setelah putusan diucapkan.
+
 Pasal 81
 Dalam hal diperoleh bukti yang cukup bahwa masih ada Harta Kekayaan yang belum disita, hakim memerintahkan jaksa penuntut umum untuk melakukan penyitaan Harta Kekayaan tersebut.
+
 Pasal 82
 Dalam hal tindak pidana dilakukan oleh Korporasi, panggilan disampaikan kepada pengurus di tempat tinggal pengurus atau di tempat pengurus berkantor.
-BAB IX PELINDUNGAN BAGI PELAPOR DAN SAKSI
+
+BAB IX
+PELINDUNGAN BAGI PELAPOR DAN SAKSI
+
 Pasal 83
 (1) Pejabat dan pegawai PPATK, penyidik, penuntut umum, atau hakim wajib merahasiakan Pihak Pelapor dan pelapor.
 (2) Pelanggaran terhadap ketentuan sebagaimana dimaksud pada ayat (1) memberikan hak kepada pelapor atau ahli warisnya untuk menuntut ganti kerugian melalui pengadilan.
+
 Pasal 84
 (1) Setiap Orang yang melaporkan terjadinya dugaan tindak pidana Pencucian Uang wajib diberi pelindungan khusus oleh negara dari kemungkinan ancaman yang membahayakan diri, jiwa, dan/atau hartanya, termasuk keluarganya.
 (2) Ketentuan mengenai tata cara pemberian pelindungan khusus sebagaimana dimaksud pada ayat (1) diatur dalam peraturan perundang-undangan.
+
 Pasal 85
 (1) Di sidang pengadilan, saksi, penuntut umum, hakim, dan orang lain yang terkait dengan tindak pidana Pencucian Uang yang sedang dalam pemeriksaan dilarang menyebutkan nama atau alamat pelapor atau hal lain yang memungkinkan dapat terungkapnya identitas pelapor.
 (2) Dalam setiap persidangan sebelum sidang pemeriksaan dimulai, hakim wajib mengingatkan saksi, penuntut umum, dan orang lain yang terkait dengan pemeriksaan perkara tersebut mengenai larangan sebagaimana dimaksud pada ayat (1).
+
 Pasal 86
 (1) Setiap Orang yang memberikan kesaksian dalam pemeriksaan tindak pidana Pencucian Uang wajib diberi pelindungan khusus oleh negara dari kemungkinan ancaman yang membahayakan diri, jiwa, dan/atau hartanya, termasuk keluarganya.
 (2) Ketentuan mengenai tata cara pemberian pelindungan khusus sebagaimana dimaksud pada ayat (1) diatur dalam peraturan perundang-undangan.
+
 Pasal 87
 (1) Pelapor dan/atau saksi tidak dapat dituntut, baik secara perdata maupun pidana, atas laporan dan/atau kesaksian yang diberikan oleh yang bersangkutan.
 (2) Saksi yang memberikan keterangan palsu di atas sumpah dipidana sesuai dengan ketentuan dalam Kitab Undang-Undang Hukum Pidana.
-BAB X KERJA SAMA DALAM PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG
+
+BAB X
+KERJA SAMA DALAM PENCEGAHAN DAN
+PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG
+
 Pasal 88
 (1) Kerja sama nasional yang dilakukan PPATK dengan pihak yang terkait dituangkan dengan atau tanpa bentuk kerja sama formal.
 (2) Pihak yang terkait sebagaimana dimaksud pada ayat (1) adalah pihak yang mempunyai keterkaitan langsung atau tidak langsung dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang di Indonesia.
+
 Pasal 89
 (1) Kerja sama internasional dilakukan oleh PPATK dengan lembaga sejenis yang ada di negara lain dan lembaga internasional yang terkait dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang.
 (2) Kerja sama internasional yang dilakukan PPATK dapat dilaksanakan dalam bentuk kerja sama formal atau berdasarkan bantuan timbal balik atau prinsip resiprositas.
+
 Pasal 90
 (1) Dalam melakukan pencegahan dan pemberantasan tindak pidana Pencucian Uang, PPATK dapat melakukan kerja sama pertukaran informasi berupa permintaan, pemberian, dan penerimaan informasi dengan pihak, baik dalam lingkup nasional maupun internasional, yang meliputi:
-a. instansi penegak hukum;
-b. lembaga yang berwenang melakukan pengawasan terhadap penyedia jasa keuangan;
-c. lembaga yang bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara;
-d. lembaga lain yang terkait dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang atau tindak pidana lain terkait dengan tindak pidana Pencucian Uang; dan
-e. _financial intelligence unit_ negara lain.
+  a. instansi penegak hukum;
+  b. lembaga yang berwenang melakukan pengawasan terhadap penyedia jasa keuangan;
+  c. lembaga yang bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara;
+  d. lembaga lain yang terkait dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang atau tindak pidana lain terkait dengan tindak pidana Pencucian Uang; dan
+  e. _financial intelligence unit_ negara lain.
 (2) Permintaan, pemberian, dan penerimaan informasi dalam pertukaran informasi sebagaimana dimaksud pada ayat (1) dapat dilakukan atas inisiatif sendiri atau atas permintaan pihak yang dapat meminta informasi kepada PPATK.
 (3) Permintaan informasi sebagaimana dimaksud pada ayat (1) kepada PPATK diajukan secara tertulis dan ditandatangani oleh:
-a. hakim ketua majelis;
-b. Kepala Kepolisian Negara Republik Indonesia atau kepala kepolisian daerah;
-c. Jaksa Agung atau kepala kejaksaan tinggi;
-d. pimpinan instansi atau lembaga atau komisi dalam hal permintaan diajukan oleh penyidik, selain penyidik Kepolisian Negara Republik Indonesia;
-e. pemimpin, direktur atau pejabat yang setingkat, atau pemimpin satuan kerja atau kantor di lembaga yang berwenang melakukan pengawasan terhadap penyedia jasa keuangan;
-f. pimpinan lembaga yang bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara;
-g. pimpinan dari lembaga lain yang terkait dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang atau tindak pidana lain terkait dengan tindak pidana Pencucian Uang; atau
-h. pimpinan _financial intelligence unit_ negara lain.
+  a. hakim ketua majelis;
+  b. Kepala Kepolisian Negara Republik Indonesia atau kepala kepolisian daerah;
+  c. Jaksa Agung atau kepala kejaksaan tinggi;
+  d. pimpinan instansi atau lembaga atau komisi dalam hal permintaan diajukan oleh penyidik, selain penyidik Kepolisian Negara Republik Indonesia;
+  e. pemimpin, direktur atau pejabat yang setingkat, atau pemimpin satuan kerja atau kantor di lembaga yang berwenang melakukan pengawasan terhadap penyedia jasa keuangan;
+  f. pimpinan lembaga yang bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara;
+  g. pimpinan dari lembaga lain yang terkait dengan pencegahan dan pemberantasan tindak pidana Pencucian Uang atau tindak pidana lain terkait dengan tindak pidana Pencucian Uang; atau
+  h. pimpinan _financial intelligence unit_ negara lain.
+
 Pasal 91
-(1) Dalam rangka mencegah dan memberantas tindak pidana Pencucian Uang, dapat dilakukan kerja sama bantuan timbal balik dalam masalah pidana dengan negara lain melalui forum bilateral atau multilateral sesuai dengan ketentuan peraturan perundang- undangan.
+(1) Dalam rangka mencegah dan memberantas tindak pidana Pencucian Uang, dapat dilakukan kerja sama bantuan timbal balik dalam masalah pidana dengan negara lain melalui forum bilateral atau multilateral sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Kerja sama bantuan timbal balik sebagaimana dimaksud pada ayat (1) dapat dilaksanakan jika negara dimaksud telah mengadakan perjanjian kerja sama bantuan timbal balik dengan Negara Kesatuan Republik Indonesia atau berdasarkan prinsip resiprositas.
+
 Pasal 92
 (1) Untuk meningkatkan koordinasi antarlembaga terkait dalam pencegahan dan pemberantasan tindak pidana Pencucian Uang, dibentuk Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang.
 (2) Pembentukan Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang diatur dengan Peraturan Presiden.
-BAB XI KETENTUAN LAIN-LAIN
+
+BAB XI
+KETENTUAN LAIN-LAIN
+
 Pasal 93
 Dalam hal ada perkembangan konvensi internasional atau rekomendasi internasional di bidang pencegahan dan pemberantasan tindak pidana Pencucian Uang dan pendanaan terorisme, PPATK dan instansi terkait dapat melaksanakan ketentuan tersebut sesuai dengan ketentuan peraturan perundang-undangan.
-BAB XII KETENTUAN PERALIHAN
+
+BAB XII
+KETENTUAN PERALIHAN
+
 Pasal 94
 Pada saat Undang-Undang ini mulai berlaku:
-a. PPATK yang dibentuk berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang, ditetapkan sebagai PPATK berdasarkan Undang-Undang ini.
-b. PPATK yang dibentuk berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang tetap menjalankan tugas, fungsi, dan wewenangnya berdasarkan Undang-Undang ini.
-c. Susunan organisasi PPATK yang dibentuk berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang tetap berlaku sampai terbentuknya susunan organisasi PPATK yang baru berdasarkan Undang-Undang ini.
-d. Kepala dan Wakil Kepala PPATK yang diangkat berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang tetap menjalankan tugas, fungsi, dan wewenangnya sampai dengan diangkatnya Kepala dan Wakil Kepala PPATK yang baru paling lambat 1 (satu) tahun sejak berlakunya Undang-Undang ini.
-e. Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang yang dibentuk berdasarkan Keputusan Presiden Nomor 1 Tahun 2004 tetap menjalankan tugas, fungsi, dan wewenangnya sampai dibentuk Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang berdasarkan Undang-Undang ini.
+  a. PPATK yang dibentuk berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang, ditetapkan sebagai PPATK berdasarkan Undang-Undang ini.
+  b. PPATK yang dibentuk berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang tetap menjalankan tugas, fungsi, dan wewenangnya berdasarkan Undang-Undang ini.
+  c. Susunan organisasi PPATK yang dibentuk berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang tetap berlaku sampai terbentuknya susunan organisasi PPATK yang baru berdasarkan Undang-Undang ini.
+  d. Kepala dan Wakil Kepala PPATK yang diangkat berdasarkan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang tetap menjalankan tugas, fungsi, dan wewenangnya sampai dengan diangkatnya Kepala dan Wakil Kepala PPATK yang baru paling lambat 1 (satu) tahun sejak berlakunya Undang-Undang ini.
+  e. Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang yang dibentuk berdasarkan Keputusan Presiden Nomor 1 Tahun 2004 tetap menjalankan tugas, fungsi, dan wewenangnya sampai dibentuk Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang berdasarkan Undang-Undang ini.
+
 Pasal 95
 Tindak Pidana Pencucian Uang yang dilakukan sebelum berlakunya Undang-Undang ini, diperiksa dan diputus dengan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang.
-BAB XIII KETENTUAN PENUTUP
+
+BAB XIII
+KETENTUAN PENUTUP
+
 Pasal 96
 Pelaksanaan kewajiban pelaporan oleh penyedia barang dan/atau jasa lain sebagaimana dimaksud dalam Pasal 27 ayat (1) dilaksanakan paling lambat 2 (dua) tahun setelah Undang-Undang ini diundangkan.
+
 Pasal 97
 Pelaksanaan kewajiban pelaporan Transaksi Keuangan transfer dana dari dan ke luar negeri sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf c dilaksanakan paling lambat 5 (lima) tahun setelah Undang-Undang ini diundangkan.
+
 Pasal 98
 Semua peraturan pelaksanaan Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang, dinyatakan tetap berlaku sepanjang tidak bertentangan atau belum diganti berdasarkan Undang-Undang ini.
+
 Pasal 99
 Pada saat Undang-Undang ini mulai berlaku, Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 4191) sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 108, Tambahan Lembaran Negara Republik Indonesia Nomor 4324) dicabut dan dinyatakan tidak berlaku.
+
 Pasal 100
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 22 Oktober 2010 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd PATRIALIS AKBAR LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 122 PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 8 TAHUN 2010 TENTANG PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG I. UMUM Pada umumnya pelaku tindak pidana berusaha menyembunyikan atau menyamarkan asal usul Harta Kekayaan yang merupakan hasil dari tindak pidana dengan berbagai cara agar Harta Kekayaan hasil tindak pidananya susah ditelusuri oleh aparat penegak hukum sehingga dengan leluasa memanfaatkan Harta Kekayaan tersebut baik untuk kegiatan yang sah maupun tidak sah. Karena itu, tindak pidana Pencucian Uang tidak hanya mengancam stabilitas dan integritas sistem perekonomian dan sistem keuangan, tetapi juga dapat membahayakan sendi-sendi kehidupan bermasyarakat, berbangsa, dan bernegara berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Dalam konsep antipencucian uang, pelaku dan hasil tindak pidana dapat diketahui melalui penelusuran untuk selanjutnya hasil tindak pidana tersebut dirampas untuk negara atau dikembalikan kepada yang berhak. Apabila Harta Kekayaan hasil tindak pidana yang dikuasai oleh pelaku atau organisasi kejahatan dapat disita atau dirampas, dengan sendirinya dapat menurunkan tingkat kriminalitas. Untuk itu upaya pencegahan dan pemberantasan tindak pidana Pencucian Uang memerlukan landasan hukum yang kuat untuk menjamin kepastian hukum, efektivitas penegakan hukum serta penelusuran dan pengembalian Harta Kekayaan hasil tindak pidana. Penelusuran Harta Kekayaan hasil tindak pidana pada umumnya dilakukan oleh lembaga keuangan melalui mekanisme yang diatur dalam peraturan perundang-undangan. Lembaga keuangan memiliki peranan penting khususnya dalam menerapkan prinsip mengenali Pengguna Jasa dan melaporkan Transaksi tertentu kepada otoritas ( _financial intelligence unit_ ) sebagai bahan analisis dan untuk selanjutnya disampaikan kepada penyidik. Lembaga keuangan tidak hanya berperan dalam membantu penegakan hukum, tetapi juga menjaga dirinya dari berbagai risiko, yaitu risiko operasional, hukum, terkonsentrasinya Transaksi, dan reputasi karena tidak lagi digunakan sebagai sarana dan sasaran oleh pelaku tindak pidana untuk mencuci uang hasil tindak pidana. Dengan pengelolaan risiko yang baik, lembaga keuangan akan mampu melaksanakan fungsinya secara optimal sehingga pada gilirannya sistem keuangan menjadi lebih stabil dan terpercaya. Dalam perkembangannya, tindak pidana Pencucian Uang semakin kompleks, melintasi batas-batas yurisdiksi, dan menggunakan modus yang semakin variatif , memanfaatkan lembaga di luar sistem keuangan, bahkan telah merambah ke berbagai sektor. Untuk mengantisipasi hal itu, _Financial_ _Action Task Force (FATF)_ _on Money Laundering_ telah mengeluarkan standar internasional yang menjadi ukuran bagi setiap negara dalam pencegahan dan pemberantasan tindak pidana Pencucian Uang dan tindak pidana pendanaan terorisme yang dikenal dengan _Revised_ 40 _Recommendations_ dan 9 S _pecial Recommendations_ (Revised 40+9) FATF, antara lain mengenai perluasan Pihak Pelapor ( _reporting parties_ ) yang mencakup pedagang permata dan perhiasan/logam mulia dan pedagang kendaraan bermotor. Dalam mencegah dan memberantas tindak pidana Pencucian Uang perlu dilakukan kerja sama regional dan internasional melalui forum bilateral atau multilateral agar intensitas tindak pidana yang menghasilkan atau melibatkan Harta Kekayaan yang jumlahnya besar dapat diminimalisasi. Penanganan tindak pidana Pencucian Uang di Indonesia yang dimulai sejak disahkannya Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang, telah menunjukkan arah yang positif. Hal itu, tercermin dari meningkatnya kesadaran dari pelaksana Undang-Undang tentang Tindak Pidana Pencucian Uang, seperti penyedia jasa keuangan dalam melaksanakan kewajiban pelaporan, Lembaga Pengawas dan Pengatur dalam pembuatan peraturan, Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) dalam kegiatan analisis, dan penegak hukum dalam menindaklanjuti hasil analisis hingga penjatuhan sanksi pidana dan/atau sanksi administratif . Upaya yang dilakukan tersebut dirasakan belum optimal, antara lain karena peraturan perundang-undangan yang ada ternyata masih memberikan ruang timbulnya penafsiran yang berbeda-beda, adanya celah hukum, kurang tepatnya pemberian sanksi, belum dimanfaatkannya pergeseran beban pembuktian, keterbatasan akses informasi, sempitnya cakupan pelapor dan jenis laporannya, serta kurang jelasnya tugas dan kewenangan dari para pelaksana Undang-Undang ini. Untuk memenuhi kepentingan nasional dan menyesuaikan standar internasional, perlu disusun Undang-Undang tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang sebagai pengganti Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang. Materi muatan yang terdapat dalam Undang-Undang ini, antara lain:
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Disahkan di Jakarta.  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 22 Oktober 2010.  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;DR. H. SUSILO BAMBANG YUDHOYONO
+
+<br/>
+
+Diundangkan di Jakarta.  
+pada tanggal 22 Oktober 2010  
+MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,  
+ttd  
+PATRIALIS AKBAR  
+
+<br/>
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 122
+
+
+<!--
+PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 8 TAHUN 2010 TENTANG PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG I. UMUM Pada umumnya pelaku tindak pidana berusaha menyembunyikan atau menyamarkan asal usul Harta Kekayaan yang merupakan hasil dari tindak pidana dengan berbagai cara agar Harta Kekayaan hasil tindak pidananya susah ditelusuri oleh aparat penegak hukum sehingga dengan leluasa memanfaatkan Harta Kekayaan tersebut baik untuk kegiatan yang sah maupun tidak sah. Karena itu, tindak pidana Pencucian Uang tidak hanya mengancam stabilitas dan integritas sistem perekonomian dan sistem keuangan, tetapi juga dapat membahayakan sendi-sendi kehidupan bermasyarakat, berbangsa, dan bernegara berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Dalam konsep antipencucian uang, pelaku dan hasil tindak pidana dapat diketahui melalui penelusuran untuk selanjutnya hasil tindak pidana tersebut dirampas untuk negara atau dikembalikan kepada yang berhak. Apabila Harta Kekayaan hasil tindak pidana yang dikuasai oleh pelaku atau organisasi kejahatan dapat disita atau dirampas, dengan sendirinya dapat menurunkan tingkat kriminalitas. Untuk itu upaya pencegahan dan pemberantasan tindak pidana Pencucian Uang memerlukan landasan hukum yang kuat untuk menjamin kepastian hukum, efektivitas penegakan hukum serta penelusuran dan pengembalian Harta Kekayaan hasil tindak pidana. Penelusuran Harta Kekayaan hasil tindak pidana pada umumnya dilakukan oleh lembaga keuangan melalui mekanisme yang diatur dalam peraturan perundang-undangan. Lembaga keuangan memiliki peranan penting khususnya dalam menerapkan prinsip mengenali Pengguna Jasa dan melaporkan Transaksi tertentu kepada otoritas ( _financial intelligence unit_ ) sebagai bahan analisis dan untuk selanjutnya disampaikan kepada penyidik. Lembaga keuangan tidak hanya berperan dalam membantu penegakan hukum, tetapi juga menjaga dirinya dari berbagai risiko, yaitu risiko operasional, hukum, terkonsentrasinya Transaksi, dan reputasi karena tidak lagi digunakan sebagai sarana dan sasaran oleh pelaku tindak pidana untuk mencuci uang hasil tindak pidana. Dengan pengelolaan risiko yang baik, lembaga keuangan akan mampu melaksanakan fungsinya secara optimal sehingga pada gilirannya sistem keuangan menjadi lebih stabil dan terpercaya. Dalam perkembangannya, tindak pidana Pencucian Uang semakin kompleks, melintasi batas-batas yurisdiksi, dan menggunakan modus yang semakin variatif , memanfaatkan lembaga di luar sistem keuangan, bahkan telah merambah ke berbagai sektor. Untuk mengantisipasi hal itu, _Financial_ _Action Task Force (FATF)_ _on Money Laundering_ telah mengeluarkan standar internasional yang menjadi ukuran bagi setiap negara dalam pencegahan dan pemberantasan tindak pidana Pencucian Uang dan tindak pidana pendanaan terorisme yang dikenal dengan _Revised_ 40 _Recommendations_ dan 9 S _pecial Recommendations_ (Revised 40+9) FATF, antara lain mengenai perluasan Pihak Pelapor ( _reporting parties_ ) yang mencakup pedagang permata dan perhiasan/logam mulia dan pedagang kendaraan bermotor. Dalam mencegah dan memberantas tindak pidana Pencucian Uang perlu dilakukan kerja sama regional dan internasional melalui forum bilateral atau multilateral agar intensitas tindak pidana yang menghasilkan atau melibatkan Harta Kekayaan yang jumlahnya besar dapat diminimalisasi. Penanganan tindak pidana Pencucian Uang di Indonesia yang dimulai sejak disahkannya Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang, telah menunjukkan arah yang positif. Hal itu, tercermin dari meningkatnya kesadaran dari pelaksana Undang-Undang tentang Tindak Pidana Pencucian Uang, seperti penyedia jasa keuangan dalam melaksanakan kewajiban pelaporan, Lembaga Pengawas dan Pengatur dalam pembuatan peraturan, Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) dalam kegiatan analisis, dan penegak hukum dalam menindaklanjuti hasil analisis hingga penjatuhan sanksi pidana dan/atau sanksi administratif . Upaya yang dilakukan tersebut dirasakan belum optimal, antara lain karena peraturan perundang-undangan yang ada ternyata masih memberikan ruang timbulnya penafsiran yang berbeda-beda, adanya celah hukum, kurang tepatnya pemberian sanksi, belum dimanfaatkannya pergeseran beban pembuktian, keterbatasan akses informasi, sempitnya cakupan pelapor dan jenis laporannya, serta kurang jelasnya tugas dan kewenangan dari para pelaksana Undang-Undang ini. Untuk memenuhi kepentingan nasional dan menyesuaikan standar internasional, perlu disusun Undang-Undang tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang sebagai pengganti Undang- Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang sebagaimana telah diubah dengan Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang. Materi muatan yang terdapat dalam Undang-Undang ini, antara lain:
 1. redefinisi pengertian hal yang terkait dengan tindak pidana Pencucian Uang;
 2. penyempurnaan kriminalisasi tindak pidana Pencucian Uang;
 3. pengaturan mengenai penjatuhan sanksi pidana dan sanksi administratif;
