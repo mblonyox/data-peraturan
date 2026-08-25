@@ -5,6 +5,8 @@ PENYELENGGARAAN PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
+PRESIDEN REPUBLIK INDONESIA,
+
 Menimbang :
 bahwa untuk melaksanakan ketentuan Pasal 22 dan pasal 185 huruf b Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan Peraturan Pemerintah tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup;
 

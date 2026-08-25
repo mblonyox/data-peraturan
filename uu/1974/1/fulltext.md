@@ -16,7 +16,7 @@ Mengingat :
 
 Dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
 
-MEMUTUSKAN :
+MEMUTUSKAN:
 Menetapkan :
 UNDANG-UNDANG TENTANG PERKAWINAN.
 
