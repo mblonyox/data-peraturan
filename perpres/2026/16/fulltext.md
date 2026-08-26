@@ -1,68 +1,61 @@
-ffi
-PR.ESIDEN
-REPUBLIK INDONESIA
 PERATURAN PRESIDEN REPUBLIK INDONESIA
 NOMOR 16 TAHUN 2026
 TENTANG
 PERUBAHAN ATAS PERATURAN PRESIDEN NOMOR 173 TAHUN 2024
 TENTANG KEMENTERIAN PERHUBUNGAN
+
 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
 PRESIDEN REPUBLIK INDONESIA,
-Menimbang
-Mengingat
-a.
-b.
-1.
-2.
-3.
-4.
-bahwa untuk mengoptimalkan penyelenggaraa,n
+
+Menimbang :
+a. bahwa untuk mengoptimalkan penyelenggaraa,n
 transportasi sungai, danau, dan penyeberangan sebagai
 satu kesatuan fungsi di bidang pelayaran, perlu
 melakukan penyesuaian fungsi Direktorat Jenderal
 Perhubungan Darat;
-bahwa berdasarkan pertimbangan sebagaimana dimaksud
+b. bahwa berdasarkan pertimbangan sebagaimana dimaksud
 dalam huruf a, perlu menetapkan Peraturan Presiden
 tentang Perubahan atas Peraturan Presiden Nomor 173
 Tahun 2024 tentang Kementerian Perhubungan;
-Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar
+
+Mengingat :
+1. Pasal 4 ayat (1) dan Pasal 17 Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945;
-Undang-Undang Nomor 39 Tahun 2OO8 tentang
+2. Undang-Undang Nomor 39 Tahun 2008 tentang
 Kementerian Negara (Lembaran Negara Republik
-Indonesia Tahun 2008 Nomor 166, Tambahan lrmbaran
-Negara Republik Indonesia Nomor 49161 sebagaimana
+Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+Negara Republik Indonesia Nomor 4916) sebagaimana
 telah diubah dengan Undang-Undang Nomor 61
 Tahun 2024 tentang Perubahan atas Undang-Undang
 Nomor 39 Tahun 2008 tentang Kementerian Negara
-(lrmbaran Negara Republik Indonesia Tahun 2024
+(Lembaran Negara Republik Indonesia Tahun 2024
 Nomor 225, Tambahan Lembaran Negara Republik
-Indonesia Nomor 699a1;
-Peraturan Presiden Nomor 140 Tahun 2024 tentang
+Indonesia Nomor 699);
+3. Peraturan Presiden Nomor 140 Tahun 2024 tentang
 Organisasi Kementerian Negara (Lembaran Negara
 Republik Indonesia Tahun 2024 Nomor 250) sebagaimana
 telah beberapa kali diubah, terakhir dengan Peraturan
 Presiden Nomor 103 Tahun 2025 tentang Perubahan
 Kedua atas Peraturan Presiden Nomor 140 Tahun 2024
 tentang Organisasi Kementerian Negara (Lembaran Negara
-Republik lndonesia Tahun 2025 Nomor 165);
-Peraturan Presiden Nomor 173 Tahun 2024 tentang
+Republik Indonesia Tahun 2025 Nomor 165);
+4. Peraturan Presiden Nomor 173 Tahun 2024 tentang
 Kementerian Perhubungan (Lembaran Negara Republik
-lndonesia Tahun 2024 Nomor 369);
-SK No270754A
-MEMUTUSKAN
+Indonesia Tahun 2024 Nomor 369);
 
-REPUBUK INDONESIA
--2-
-Menetapkan
-MEMUTUSI(AN:
+MEMUTUSKAN:
+Menetapkan :
 PERATURAN PRESIDEN TENTANG PERUBAHAN ATAS
 PERATURAN PRESIDEN NOMOR 173 TAHUN 2024 TENTANG
 KEMENTERIAN PERHUBUNGAN.
+
 Pasal I
 Ketentuan Pasal 13 dalam Peraturan Presiden Nomor 173
 Tahun 2024 tentang Kementerian Perhubungan (Lembaran
 Negara Republik lndonesia Tahun 2024 Nomor 369) diubah
 sebagai berikut:
+:::
 Pasal 13
 Dalam melaksanakan tugas sebagaimana dimaksud dalam
 Pasal 12, Direktorat Jenderal Perhubungan Darat
@@ -89,36 +82,33 @@ angkutan, sarana, prasarana, sistem lalu lintas dan
 angkutan jalan, serta keselamatan transportasi darat;
 f. pelaksanaan administrasi Direktorat Jenderal; dan
 g. pelaksanaan fungsi lain yang diberikan oleh Menteri.
-Pasal II
-Peraturan Presiden ini mulai berlaku pada tanggal
-diundangkan.
-SK No 249345 A
-Agar
+:::
 
-PTTESIDEN
-REPUBLIK INDONESIA
--3-
-Agar setiap
-pengundang€rn
-penempatannya
-Indonesia.
-orang mengetahuinya, memerintahkan
-Peraturan Presiden ini dengan dalam Lembaran Negara Republik
-Ditetapkan di Jakarta
-pada tanggal 27 Maret 2026
-PRESIDEN REPUBLIK INDONESIA,
-ttd.
-PRABOWO SUBIANTO
-Diundangkan di Jakarta
-pada tanggal 27 Maret 2026
-MENTERI SEKRETARIS NEGARA
-REPUBLIK INDONESIA,
-ttd.
+Pasal II
+Peraturan Presiden ini mulai berlaku pada tanggal diundangkan.
+
+
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Presiden ini dengan penempatannya
+dalam Lembaran Negara Republik Indonesia.
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ditetapkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 27 Maret 2026  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;PRABOWO SUBIANTO
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 27 Maret 2026  
+MENTERI SEKRETARIS NEGARA  
+REPUBLIK INDONESIA,  
+ttd.  
 PRASETYO HADI
+
+<br/>
+
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR 29
-Salinan sesuai dengan aslinya
-KEMENTEzuAN SEKRETARIAT NEGARA
-REPUBLIK INDONESIA
-Perundang-undangan
-SK No 270753 A
-Djaman
