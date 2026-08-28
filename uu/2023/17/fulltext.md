@@ -5016,6 +5016,7 @@ dengan Peraturan Pemerintah.
 
 BAB IX
 KETAHANAN KEFARMASIAN DAN ALAT KESEHATAN
+
 Pasal 322
 (1) Sumber Sediaan Farmasi yang berasal dari alam semesta
 dan sudah terbukti berkhasiat, memenuhi ketentuan
@@ -5026,7 +5027,8 @@ pemeliharaan Kesehatan tetap harus dijaga
 kelestariannya.
 (2) Masyarakat diberi kesempatan yang seluas-luasnya
 untuk meneliti, mengembangkan, memproduksi,
-mengedarkan, meningkatkan, dan menggunakan Sediaan Farmasi dan Alat Kesehatan yang dapat
+mengedarkan, meningkatkan, dan menggunakan Sediaan
+Farmasi dan Alat Kesehatan yang dapat
 dipertanggungjawabkan manfaat dan keamanannya.
 (3) Penelitian, pengembangan, produksi, peredaran,
 peningkatan, serta penggunaan Sediaan Farmasi dan
