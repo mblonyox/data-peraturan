@@ -12,19 +12,19 @@ Menimbang :
 bahwa untuk melaksanakan ketentuan Pasal 24 ayat (2),
 Pasal 25 ayat (5), Pasal 33 ayat (5), Pasal 36, Pasal 40 ayat (6),
 Pasal 43 ayat (2), Pasal 49, Pasal 50 ayat (6), Pasal 51 ayat (5),
-Pasal 52 ayat (5), Pasal 53 ayat (6), Pasal59, Pasal62, Pasal69,
+Pasal 52 ayat (5), Pasal 53 ayat (6), Pasal 59, Pasal 62, Pasal 69,
 Pasal 73, Pasal 85, Pasal 92, Pasal 95, Pasal 96 ayat (6),
 Pasal 97 ayat (6), Pasal 101, Pasal 107, Pasal 108 ayat (4),
 Pasal 113, Pasal 122, Pasal 126 ayat (2), Pasal 134, Pasal 136,
-Pasal 137 ayat (3), Pasal 144, Pasal 145 ayat (4), Pasal 152
-ayat (1) dan ayat (2), Pasal 159, Pasal164, Pasal 171, Pasal 172
-ayat (5), Pasal 175 ayat (2), Pasal 177 ayat (3), Pasal 178
-ayat (6), Pasal 179 ayat (2), Pasal 183, Pasal 187 ayat (11),
+Pasal 137 ayat (3), Pasal 144, Pasal 145 ayat (4), Pasal 152 ayat (1)
+dan ayat (2), Pasal 159, Pasal 164, Pasal 171, Pasal 172 ayat (5),
+Pasal 175 ayat (2), Pasal 177 ayat (3), Pasal 178 ayat (6),
+Pasal 179 ayat (2), Pasal 183, Pasal 187 ayat (11),
 Pasal 196, Pasal 200 ayat(2), Pasal 206, Pasal 226, Pasal 230,
 Pasal 231 ayat (6), Pasal 233 ayat (2), Pasal 234 ayat (4),
 Pasal 235 ayat (4), Pasal 236 ayat (2), Pasal 237 ayat (4),
 Pasal 239, Pasal 240 ayat(2), Pasal 245,Pasal 247, pasal 257,
-Pasal 258 ayat (5), Pasal 262, Pasal 266, Pasal 26T ayat (4),
+Pasal 258 ayat (5), Pasal 262, Pasal 266, Pasal 267 ayat (4),
 Pasal 271, Pasal 272 ayat (5), Pasal 278, Pasal 283 ayat (6),
 Pasal 285 ayat (3), Pasal 289, Pasal 290 ayat (4), pasal 299,
 Pasal 301 ayat (3), Pasal 304 ayat (5), Pasal 309, pasal 313
@@ -42,7 +42,7 @@ Tahun 2023 tentang Kesehatan;
 
 Mengingat :
 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik
-Indonesia Tahun t945;
+Indonesia Tahun 1945;
 2. Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan
 (Lembaran Negara Republik Indonesia Tahun 2023
 Nomor 105, Tambahan Lembaran Negara Republik
@@ -449,7 +449,7 @@ Pasal 10
 hamil, masa kehamilan, persalinan, dan pascapersalinan.
 (2) Upaya Kesehatan ibu sebagaimana dimaksud pada ayat (1)
 dilaksanakan melalui upaya promotif, preventif, kuratil
-dan/ atau rehabilitatif.
+dan/atau rehabilitatif.
 
 Pasal 11
 (1) Upaya Kesehatan ibu pada masa sebelum hamil
@@ -1218,7 +1218,7 @@ Upaya Kesehatan dewasa dilakukan pada kelompok usia
 
 Pasal 58
 (1) Upaya Kesehatan dewasa dilakukan melalui upaya
-promotif, preventif, kuratif, rehabilitatif , danlatau paliatif.
+promotif, preventif, kuratif, rehabilitatif, dan/atau paliatif.
 (2) Upaya promotif sebagaimana dimaksud pada ayat (1)
 paling sedikit meliputi:
   a. gizi seimbang;
@@ -1384,7 +1384,7 @@ penyediaan:
   d. rumah atau perumahan ramah lanjut usia; dan/atau
   e. fasilitas publik lainnya yang ramah lanjut usia.
 
-Pasal 66 
+Pasal 66
 (1) Upaya Kesehatan lanjut usia yang bersifat preventif
 sebagaimana dimaksud dalam Pasal 64 berupa:
   a. pencegahan penyakit; dan
@@ -1486,7 +1486,7 @@ ayat (1) meliputi:
 Pasal 74
 (1) Perawatan jangka panjang di Fasilitas Pelayanan
 Kesehatan tingkat pertama sebagaimana dimaksud dalam
-Pasal71 huruf b berupa kunjungan rumah dan pelayancrn
+Pasal 71 huruf b berupa kunjungan rumah dan pelayancrn
 perawatan di rumah.
 (2) Perawatan jangka panjang di Fasilitas Pelayanan
 Kesehatan tingkat lanjut sebagaimana dimaksud dalam
@@ -1500,7 +1500,7 @@ ayat (2) dilakukan oleh Tenaga Medis, Tenaga Kesehatan,
 dan Tenaga Pendukung atau Penunjang Kesehatan terlatih
 sesuai dengan kompetensi dan kewenangan.
 (4) Perawatan jangka panjang di rumah perawatan
-sebagaimana dimaksud dalam Pasal 7l huruf b
+sebagaimana dimaksud dalam Pasal 71 huruf b
 dilakukan oleh Tenaga Medis, Tenaga Kesehatan, dan
 Tenaga Pendukung atau Penunjang Kesehatan terlatih
 sesuai dengan kompetensi dan kewenangan mencakup
@@ -1604,30 +1604,30 @@ produktif, dan bermartabat.
 
 Pasal 84
 Setiap penyandang disabilitas berhak:
-a. memperoleh akses atas Fasilitas Pelayanan Kesehatan dan
-Pelayanan Kesehatan yang sesuai standar, aman,
-bermutu, dan terjangkau;
-b. memperoleh informasi dan komunikasi yang mudah
-diakses dan dipahami sesuai ragam disabilitas;
-c. memperoleh kesamaan dan kesempatan secara mandiri
-menentukan Pelayanan Kesehatan yang diperlukan bagi
-dirinya;
-d. memperoleh alat bantu Kesehatan berdasarkan
-kebutuhannya;
-e. memperoleh- pelindungan dari kecelakaan akibat kerja,
-tindak kekerasan, dan perdagangan orang;
-f. memperoleh Obat yang bermutu dengan efek samping
-yang rendah;
-g. memperoleh pelindungan dari upaya percobaan medis;
-h. memperoleh pelindungan dalam penelitian dan
-pengembangan  Kesehatan yang mengikutsertakan
-manusia sebagai subjek; dan
-i. memperoleh identitas kedisabilitasan, narahubung, dan
-akses terhadap bantuan.
+  a. memperoleh akses atas Fasilitas Pelayanan Kesehatan dan
+  Pelayanan Kesehatan yang sesuai standar, aman,
+  bermutu, dan terjangkau;
+  b. memperoleh informasi dan komunikasi yang mudah
+  diakses dan dipahami sesuai ragam disabilitas;
+  c. memperoleh kesamaan dan kesempatan secara mandiri
+  menentukan Pelayanan Kesehatan yang diperlukan bagi
+  dirinya;
+  d. memperoleh alat bantu Kesehatan berdasarkan
+  kebutuhannya;
+  e. memperoleh- pelindungan dari kecelakaan akibat kerja,
+  tindak kekerasan, dan perdagangan orang;
+  f. memperoleh Obat yang bermutu dengan efek samping
+  yang rendah;
+  g. memperoleh pelindungan dari upaya percobaan medis;
+  h. memperoleh pelindungan dalam penelitian dan
+  pengembangan  Kesehatan yang mengikutsertakan
+  manusia sebagai subjek; dan
+  i. memperoleh identitas kedisabilitasan, narahubung, dan
+  akses terhadap bantuan.
 
 Pasal 85
 (1) Upaya Kesehatan penyandang disabilitas dilakukan
-m-etitui upaya promotif, preventif, kuratif, rehabilitatif,
+melalui upaya promotif, preventif, kuratif, rehabilitatif,
 dan/atau paliatif.
 (2) Upaya Kesehatan penyandang.-.disabilitas dilakukan
 sepanjang usia penyandang disabilitas.
@@ -2171,7 +2171,7 @@ berhak:
   b. memperoleh akses ke pelayanan kontrasepsi; dan
   c. memilih metode kontrasepsi untuk dirinya tanpa
   paksaan.
-(5) Metode kontrasepsi sebagaimana dimaksud pada ayat (41
+(5) Metode kontrasepsi sebagaimana dimaksud pada ayat (4)
 huruf c dilakukan sesuai pilihan pasangan usia subur
 dengan mempertimbangkan usia, jumlah persalinan,
 jumlah anak, kondisi Kesehatan, dan norma agama.
@@ -2325,13 +2325,13 @@ Pasal 118
 Kehamilan akibat tindak pidana perkosaan atau tindak pidana
 kekerasan seksual lain yang menyebabkan kehamilan
 sebagaimana dimaksud dalam Pasal 116 dibuktikan dengan:
-a. surat keterangan dokter atas usia kehamilan sesuai
-dengan kejadian tindak pidana perkosaan atau tindak
-pidana kekerasan seksual lain yang menyebabkan
-kehamilan; dan
-b. keterangan penyidik mengenai adanya dugaan perkosaan
-dan/atau kekerasan seksual lain yang menyebabkan
-kehamilan.
+  a. surat keterangan dokter atas usia kehamilan sesuai
+  dengan kejadian tindak pidana perkosaan atau tindak
+  pidana kekerasan seksual lain yang menyebabkan
+  kehamilan; dan
+  b. keterangan penyidik mengenai adanya dugaan perkosaan
+  dan/atau kekerasan seksual lain yang menyebabkan
+  kehamilan.
 
 Pasal 119
 (1) Pelayanan aborsi yang diperbolehkan hanya dapat
@@ -2358,10 +2358,9 @@ kehamilan akibat tindak pidana perkosaan atau tindak
 pidana kekerasan seksual lain.
 
 Pasal 121
-(1) Tim pertimbangan sebagaimana dimaksud dalam
-Pasal 12O ayat (2) dibentuk oleh pimpinan
-Fasilitas Pelayanan Kesehatan tingkat lanjut untuk
-pelayanan aborsi.
+(1) Tim pertimbangan sebagaimana dimaksud dalam Pasal 120
+ayat (2) dibentuk oleh pimpinan Fasilitas Pelayanan Kesehatan
+tingkat lanjut untuk pelayanan aborsi.
 (2) Tim pertimbangan sebagaimana dimaksud pada ayat (1)
 diketuai oleh komite medik Rumah Sakit dengan
 paling sedikit 1 (satu) anggota Tenaga Medis yang memiliki
@@ -2873,7 +2872,7 @@ bersifat promotif, preventif, kuratif, dan/atau rehabilitatif.
 
 Pasal 151
 (1) Upaya Kesehatan jiwa yang bersifat promotif sebagaimana
-dimaksud dalam Pasal 15O bertujuan untuk:
+dimaksud dalam Pasal 150 bertujuan untuk:
   a. mempertahankan dan meningkatkan derajat
   Kesehatan jiwa masyarakat secara optimal;
   b. menghilangkan stigma, diskriminasi, dan
@@ -3394,7 +3393,8 @@ dilaksanakan atas dasar surat permohonan resmi dari:
 jiwa diatur dengan Peraturan Menteri.
 
 Pasal 172
-(1) Untuk melaksanakan pekerjaan tertentu atau menduduki jabatan tertentu, setiap orang wajib dilakukan
+(1) Untuk melaksanakan pekerjaan tertentu atau
+menduduki jabatan tertentu, setiap orang wajib dilakukan
 pemeriksaan Kesehatan jiwa.
 (2) Pemeriksaan Kesehatan jiwa sebagaimana dimaksud
 pada ayat (1) wajib dilakukan sebelum melaksanakan
@@ -3532,7 +3532,7 @@ determinan Kesehatan.
 (2) Penyakit menular sebagaimana dimaksud pada ayat (1)
 merupakan penyakit yang dapat menular ke manusia yang
 disebabkan oleh mikroorganisme.
-(3) Penyakit menular sebagaimana dimaksud pada ayat (21,
+(3) Penyakit menular sebagaimana dimaksud pada ayat (2) ,
 berdasarkan cara penularannya dikelompokkan menjadi:
 a. penyakit menular langsung; dan
 b. penyakit tular vektor dan binatang pembawa penyakit.
@@ -3595,7 +3595,7 @@ penularan melalui:
 huruf d ditujukan untuk mengetahui dan mengidentifikasi
 adanya faktor risiko dan kasus penyakit menular di
 masyarakat.
-(8) Penemuan kasus sebagaimana dimaksud pada ayat (71
+(8) Penemuan kasus sebagaimana dimaksud pada ayat (7) 
 dilakukan melalui skrining dan deteksi dini terhadap
 faktor risiko dan penyakit pada individu atau populasi
 berisiko yang diduga terinfeksi agen penyebab penyakit.
@@ -3719,6 +3719,7 @@ Desa bertanggung jawab:
   dan lintas sektor; dan
   d. menyelenggarakan Upaya Kesehatan bersumber daya
   masyarakat.
+
 Pasal 186
 (1) Menteri menetapkan program prioritas dan target
 penanggulangan penyakit menular di tingkat nasional
@@ -3769,7 +3770,7 @@ Pasal 188
   dan/atau menjadi kebal terhadap antimikroba.
 (2) Setiap Orang yang melanggar ketentuan sebagaimana
 dimaksud pada ayat (1) dikenai sanksi administratif.
-(3) Sanksi administratif sebagaimana dimaksud pada ayat (21
+(3) Sanksi administratif sebagaimana dimaksud pada ayat (2) 
 berupa:
   a. peringatan tertulis;
   b. denda administratif;
@@ -4106,7 +4107,7 @@ target penanggulangan penyakit tidak menular yang
 ditetapkan oleh Menteri.
 (3) Selain melaksanakan program prioritas dan target
 penanggulangan penyakit tidak menular sebagaimana
-dimaksud pada ayat (2l., Pemerintah Daerah dapat
+dimaksud pada ayat (2), Pemerintah Daerah dapat
 menetapkan program prioritas dan target lain sesuai
 dengan kebutuhan wilayahnya.
 (4) Penetapan program prioritas dan target sebagaimana
@@ -4391,10 +4392,10 @@ dimaksud pada ayat (1) meliputi:
 
 Pasal 216
 (1) Pemberian Pelayanan Kesehatan dan kedokteran keluarga
-sebagaimana dimaksud dalam Pasal 2I3 ayat (2) huruf c
+sebagaimana dimaksud dalam Pasal 213 ayat (2) huruf c
 bertujuan untuk mewujudkan keadaan yang sehat secara
 menyeluruh bagi keluarga melalui pelayanan yang bersifat
-promotif, preventif, kuratil rehabilitatlf, danl atau paliatif.
+promotif, preventif, kuratif, rehabilitatif, dan/atau paliatif.
 (2) Pelayanan Kesehatan dan kedokteran keluarga diberikan
 oleh:
   a. Tenaga Medis termasuk yang memiliki kompetensi
@@ -4468,16 +4469,17 @@ Pasal 219
 Pemerintah hrsat, Pemerintah Daerah, dan Pemerintah Desa
 bertanggung jawab atas penyelenggaraan Upaya Kesehatan
 keluarga sesuai kewenangan masing-masing.
-Pasal 22O
+
+Pasal 220
 Ketentuan lebih lanjut mengenai pedoman penyelenggaraan
 Upaya Kesehatan keluarga sebagaimana dimaksud dalam
-Pasal 2ll sampai dengan Pasal 218 diatur dengan
+Pasal 211 sampai dengan Pasal 218 diatur dengan
 Peraturan Menteri.
 
 Bagian Kesebelas
 Kesehatan Sekolah
 
-Pasal221
+Pasal 221
 (1) Kesehatan sekolah diselenggarakan untuk meningkatkan
 kemampuan hidup sehat bagi peserta didik, pendidik, dan
 tenaga kependidikan dalam rangka mewujudkan sumber
@@ -4485,7 +4487,7 @@ daya manusia yang berkualitas serta mewujudkan
 lingkungan sekolah yang sehat.
 (2) Kesehatan sekolah sebagaimana dimaksud pada ayat (1)
 diselenggarakan pada satuan pendidikan formal dan
-nonformal sesuai dengan ketentuan peraturan perundangundangan.
+nonformal sesuai dengan ketentuan peraturan perundang-undangan.
 (3) Kesehatan sekolah yang diselenggarakan pada satuan
 pendidikan nonformal sebagaimana dimaksud pada
 ayat (2) dapat diselenggarakan sesuai dengan kemampuan
@@ -4495,24 +4497,26 @@ diselenggarakan melalui:
 a. pendidikan Kesehatan;
 b. Pelayanan Kesehatan; dan
 c. pembinaan lingkungan sekolah sehat.
+
 Pasal 222
 (1) Pendidikan Kesehatan sebagaimana dimaksud dalam
 Pasal 221 ayat (4) huruf a ditujukan untuk peningkatan
-pengetahrf€ur, sikap, dan perilaku serta keterampilan
+pengetahuan, sikap, dan perilaku serta keterampilan
 hidup sehat.
 (2) Pendidikan Kesehatan dilaksanakan melalui kegiatan
-intrakurikule r, kokurikuler, dan f atau e kstrakurikuler.
-SK No 230603 A
+intrakurikuler, kokurikuler, dan/atau ekstrakurikuler.
 (3) Pendidikan Kesehatan diberikan oleh pendidik dan dapat
 berkolaborasi dengan Tenaga Medis dan/atau Tenaga
 Kesehatan atau kader Kesehatan yang memiliki
 kompetensi dan kewenangan sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 223
 (1) Pelayanan Kesehatan sebagaimana dimaksud dalam
-Pasal 221 ayat (41 huruf b dilaksanakan dengan
+Pasal 221 ayat (4) huruf b dilaksanakan dengan
 mengutamakan pelayanan promotif dan preventif, tanpa
-mengesampingkan pelayanan kuratif dan rehabilitatif. (2) Pelayanan promotif dilaksanakan melalui pemberian
+mengesampingkan pelayanan kuratif dan rehabilitatif.
+(2) Pelayanan promotif dilaksanakan melalui pemberian
 komunikasi, informasi, dan edukasi Kesehatan dalam
 kegiatan intrakurikuler, kokurikuler, dan/atau
 ekstrakurikuler.
@@ -4520,12 +4524,13 @@ ekstrakurikuler.
 imunisasi, pelaksanaan skrining Kesehatan, pemberian
 suplementasi gizi, dan pemberian Sediaan Farmasi untuk
 pencegahan penyakit.
-(41 Pelayanan kuratif dilaksanakan melalui pertolongan
+(4) Pelayanan kuratif dilaksanakan melalui pertolongan
 pertama pada kecelakaan, pertolongan pertama pada
 penyakit, dan rujukan Kesehatan.
 (5) Pelayanan rehabilitatif dilaksanakan melalui pemberian
 pelayanan psikososial pada korban perundungan atau
 kekerasan dan masalah Kesehatan jiwa lainnya.
+
 Pasal 224
 (1) Pelayanan promotif dilaksanakan oleh satuan pendidikan
 dan dapat berkolaborasi dengan Puskesmas penanggung
@@ -4533,24 +4538,20 @@ jawab wilayah.
 (2) Pelayanan preventif, kuratif, dan rehabilitatif
 dilaksanakan oleh Puskesmas penanggung jawab wilayah
 atau oleh satuan pendidikan setelah berkoordinasi dengan
-Puskesmas penanggung jawab wilayah. (3) Pelayanan preventif, kuratif, dan rehabilitatif diberikan
+Puskesmas penanggung jawab wilayah.
+(3) Pelayanan preventif, kuratif, dan rehabilitatif diberikan
 oleh Tenaga Medis dan/atau Tenaga Kesehatan yang
 memiliki kompetensi dan kewenangan sesuai dengan
 ketentuan peraturan perundang-undangan.
-(41 Tenaga Medis dan/atau Tenaga Kesehatan dalam
+(4) Tenaga Medis dan/atau Tenaga Kesehatan dalam
 melaksanakan pelayanan preventif, kuratif, dan
 rehabilitatif melibatkan atau berkolaborasi dengan
 pendidik dan tenaga kependidikan yang kompeten,
 dan/atau kader Kesehatan sekolah.
-SK No 230604 A
-Pasal225...
 
-FRESTDEN
-REPUBLIK INDONESIA
--105-
 Pasal 225
 (1) Pembinaan lingkungan sekolah sehat sebagaimana
-dimaksud dalam Pasal 221 ayat (41 huruf c ditujukan
+dimaksud dalam Pasal 221 ayat (4) huruf c ditujukan
 untuk mewujudkan lingkungan satuan pendidikan yang
 sehat, aman, nyaman, dan inklusif.
 (2) Pembinaan lingkungan sekolah sehat dilaksanakan
@@ -4577,7 +4578,8 @@ dimaksud pada ayat (2) meliputi:
   a. penciptaan lingkungan satuan pendidikan yang
   responsif terhadap kebutuhan anak termasuk anak
   yang berkebutuhan khusus; dan
-  b. penerapan satuan pendidikan bebas kekerasan, pelecehan, pornografi, pornoaksi, dan
+  b. penerapan satuan pendidikan bebas kekerasan,
+  pelecehan, pornografi, pornoaksi, dan
   ketergantungan internet.
 (5) Pembinaan lingkungan sekolah sehat dilakukan oleh
 satuan pendidikan dan dapat berkolaborasi dengan
@@ -4594,7 +4596,8 @@ melalui:
   c. menjaga kebersihan dan keamanan.
 
 Pasal 226
-(1) Tenaga pendidik pada satuan pendidikan bertanggung jawab memberikan pendidikan Kesehatan dan
+(1) Tenaga pendidik pada satuan pendidikan bertanggung-
+jawab memberikan pendidikan Kesehatan dan
 memastikan kegiatan Kesehatan sekolah termasuk
 pembiasaan hidup sehat di satuan pendidikan berjalan
 dengan baik.
@@ -4692,13 +4695,13 @@ huruf a meliputi:
   e. pemenuhaa gizi seimbang pekerja;
   f. peningkatan Kesehatan fisik dan jiwa; dan
   g. Kesehatan reproduksi.
-(3) Upaya promotif sebagaimana dimaksud pada ayat (21
+(3) Upaya promotif sebagaimana dimaksud pada ayat (2) 
 dilakukan di tempat kerja.
 (4) Upaya preventif sebagaimana dimaksud pada ayat (1)
 huruf b meliputi:
   a. pencegahan penyakit akibat kerja; dan
   b. pencegahan penyakit lainnya di tempat kerja.
-(5) Upaya preventif sebagaimana dimaksud pada ayat (41
+(5) Upaya preventif sebagaimana dimaksud pada ayat (4) 
 paling sedikit dilakukan melalui:
   a. identifikasi, penilaian, dan pengendalian potensi
   bahaya Kesehatan;
@@ -4811,13 +4814,14 @@ Pasal 240
 Pencatatan dan pelaporan sebagaimana dimaksud dalam
 Pasal 234 huruf e dilaksanakan oleh pemberi kerja, pengurus
 atau pengelola tempat kerja, dan/atau Fasilitas Pelayanan
-Kesehatan sesuai dengan ketentuan peraturan perundang-undangan dan terintegrasi dengan Sistem Informasi Kesehatan
+Kesehatan sesuai dengan ketentuan peraturan perundang-undangan
+dan terintegrasi dengan Sistem Informasi Kesehatan
 Nasional.
 
 Pasal 241
 (1) Upaya Kesehatan kerja sesuai dengan standar Kesehatan
 kerja wajib diselenggarakan oleh pemberi kerja dan
-pengurLls atau pengelola tempat kerja di semua tempat
+pengurus atau pengelola tempat kerja di semua tempat
 kerja.
 (2) Standar Kesehatan kerja diatur dengan:
   a. Peraturan Menteri untuk standar Kesehatan kerja
@@ -5097,10 +5101,10 @@ seba.gaimana dimaksud pada ayat (2) huruf a dilakukan
 sebelum kejadian, saat kejadian, dan setelah kejadian
 kondisi matra.
 (4) Upaya Kesehatan lingkungan dalam ancaman global
-perubahan iklim sebagaimana dimaksud pada ayat (21
+perubahan iklim sebagaimana dimaksud pada ayat (2) 
 huruf b dilakukan melalui kegiatan mitigasi dan adaptasi.
 (5) Upaya Kesehatan lingkungan dalam ancaman global
-pertrbahan iklim sebagaimana dimaksud pada ayat (41
+pertrbahan iklim sebagaimana dimaksud pada ayat (4) 
 dilakukan untuk mewujudkan sistem Kesehatan yang
 berketahanan iklim.
 (6) Sistem Kesehatan yang berketahanan iklim sebagaimana
@@ -5449,7 +5453,7 @@ Nasional.
 Pasal 273
 (1) Manajemen penanggulangan Kesehatan bencana pada
 prabencana sebagaimana dimaksud dalam Pasal 272
-ayat (41 meliputi upaya:
+ayat (4) meliputi upaya:
   a. mengurangi urncaman bahaya yang berkaitan
   langsung dengan Kesehatan;
   b. mengurangi kerentanan masyarakat dengan
@@ -5699,7 +5703,7 @@ Pasal 291
 Pasal 281 ayat (1) meliputi:
   a. perencanaan;
   b. penyimpanan;
-  c. pengujianpratransfusi;
+  c. pengujian pratransfusi;
   d. pendistribusian darah; dan
   e. tindakan medis pemberian darah kepada Pasien.
 (2) Penyelenggaraan pelayanan transfusi darah sebagaimana
@@ -5735,7 +5739,7 @@ dan Fasilitas Pelayanan Kesehatan lain.
 
 Pasal 294
 Pengujian pratransfusi sebagaimana dimaksud dalam
-Pasal 29I ayat (1) huruf c dilakukan sesuai dengan standar
+Pasal 291 ayat (1) huruf c dilakukan sesuai dengan standar
 untuk mencegah risiko ketidakcocokan darah Pasien dengan
 darah donor serta risiko transfusi darah sebelum tindakan
 medis pemberian darah.
@@ -5840,10 +5844,10 @@ plasma.
 keselamatan dan Kesehatan donor plasma, Tenaga Medis,
 dan Tenaga Kesehatan.
 
-Pasal 3O5
+Pasal 305
 (1) Plasma yang dikumpulkan dari donor untuk kepentingan
 memproduksi produk Obat derivat plasma sebagaimana
-dimaksud dalam Pasal 3O4 ayat (2) dikumpulkan oleh
+dimaksud dalam Pasal 304 ayat (2) dikumpulkan oleh
 bank plasma.
 (2) Plasma yang tidak digunakan dalam Pelayanan Kesehatan
 sebagaimana dimaksud dalam Pasal 304 ayat (3) didapat
@@ -5989,7 +5993,8 @@ diperoleh dari bank plasma atau unit pengelola darah yang
 telah memenuhi standar cara pembuatan Obat yang baik.
 (4) Produk Obat derivat plasma yang dihasilkan oleh fasilitas
 fraksionasi plasma harus memenuhi standar keamanan,
-khasiat, dan mutu, serta memperoleh izin edar Obat dari kepala lembaga pemerintah nonkementerian yang
+khasiat, dan mutu, serta memperoleh izin edar Obat dari 
+kepala lembaga pemerintah nonkementerian yang
 menyelenggarakan urusan pemerintahan di bidang
 pengawasan obat dan makanan sesuai dengan ketentuan
 peraturan perundang-undangan.
@@ -6063,7 +6068,7 @@ administratif oleh pejabat yang berwenang berupa:
   d. pencabutan perbinan berusaha.
 (3) Fasilitas fraksionasi plasma yang melaksanakan
 fraksionasi plasma tidak sesuai dengan standar
-sebagaimana dimaksud dalam pasal 317 ayat (41 dan
+sebagaimana dimaksud dalam pasal 317 ayat (4) dan
 melakukan pemusnahan plasma tidak sesuai standar
 sebagaimana dimaksud dalam pasal 319 ayat (1)
 dikenakan sanksi administratif oleh pejabat yang
@@ -6106,10 +6111,10 @@ Masyarakat berperan serta dalam penyerenggaraan
 pengumpulan plasma dan fraksionasi plasma.
 
 Pasal 324
-Ketentuan lebih lanjut mengenai pengeloraan plasma
-sebagaimana dimaksud dalam pasal soo- sampai d"rrga.,
-Pasal 315 dan fraksionasi plasma sebagaimana dimakJud
-dalam Pasal 317 sampai dengan pasal 5tg diatur dengan
+Ketentuan lebih lanjut mengenai pengelolaan plasma
+sebagaimana dimaksud dalam pasal 304 sampai dengan
+Pasal 315 dan fraksionasi plasma sebagaimana dimaksud
+dalam Pasal 317 sampai dengan pasal 319 diatur dengan
 Peraturan Menteri.
 
 Bagian Ketujuh Belas
@@ -6152,7 +6157,7 @@ dan/atau jaringan tubuh dapat dilakukan pada saat yang
 bersangkutan mati tanpa persetujuan keluarganya.
 
 Pasal 328
-(1) Keluarga sebagaimana dimaksud dalam pasal 322 ayat (31
+(1) Keluarga sebagaimana dimaksud dalam pasal 322 ayat (3) 
 dan ayat (4) meliputi:
   a. suami atau istri;
   b. anak yang sudah dewasa;
@@ -6262,7 +6267,7 @@ yang terdiri atas:
 
 Pasal 336
 Pendaftaran calon donor hidup dan calon resipien
-g9-b?gaimana dimaksud dalam Pasal 33S ayat (1) huruf a
+sebagaimana dimaksud dalam Pasal 335 ayat (1) huruf a
 dilakukan setelah memenuhi persyaratan administratif.
 
 Pasal 337
@@ -6359,7 +6364,7 @@ huruf c dilihat dari segi medis dan nonmedis.
 ayat (1) dilaksanakan oleh tim transplantasi pada Rumah
 Sakit penyelenggara transplantasi organ.
 (3) Selain dilaksanakan di Rumah Sakit penyelenggara
-transplantasi organ sebagaimana dimaksud pada ayat (21
+transplantasi organ sebagaimana dimaksud pada ayat (2) 
 pemeriksaan kecocokan juga dapat dilaksanakan pada
 laboratorium tertentu di luar Rumah Sakit penyelenggara
 transplantasi organ.
@@ -6367,7 +6372,7 @@ transplantasi organ.
 antara donor hidup dan resipien organ dari segi nonmedis
 sebagaimana dimaksud pada ayat (1) dapat dilakukan
 verifikasi lapangan.
-(5) Verifikasi lapangan sebagaimana dimaksud pada ayat (41
+(5) Verifikasi lapangan sebagaimana dimaksud pada ayat (4) 
 dilakukan untuk memastikan hubungan calon resipien
 dan calon donor hidup, latar belakang penyumbangan
 organ, dan tidak adanya unsur jual beli organ.
@@ -6432,7 +6437,7 @@ hidup berkewajiban:
   e. tidak melakukan perjanjian khusus dengan donor
   terkait dengan transplantasi organ.
 (3) Paket biaya transplantasi organ sebagaimana dimaksud
-pada ayat(2\huruf b merupakan paket biaya transplantasi
+pada ayat (2) huruf b merupakan paket biaya transplantasi
 organ sebagaimana dimaksud dalam Pasal 335 ayat (2).
 
 Pasal 346
@@ -6468,50 +6473,55 @@ dengan memenuhi persyaratan administratif.
 donor mati sebagaimana dimaksud pada ayat (1)
 dilakukan sesuai dengan ketentuan persyaratan
 administratif bagi pendaftaran calon donor hidup
-sebagaimana dimaksud dalam Pasal 337. (3) Untuk penyakit tertentu, persyaratan usia paling rendah
+sebagaimana dimaksud dalam Pasal 337.
+(3) Untuk penyakit tertentu, persyaratan usia paling rendah
 18 (delapan belas) tahun dapat dikecualikan bagi calon
-donor mati. (4) Calon donor mati yang telah memenuhi persyaratan
+donor mati.
+(4) Calon donor mati yang telah memenuhi persyaratan
 administratif akan terdaftar sebagai donor organ pada
 sistem informasi transplantasi organ dan/atau jaringan
 tubuh yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
-SK No 230648 A
-(5) Pendaftaran
-
-PRESIDEN
-REPUBLIK TNDONESIA
--r49-
 (5) Pendaftaran calon donor mati juga dapat dilakukan pada
 saat donor telah dinyatakan mati atas persetujuan
 keluarga.
+
 Pasal 348
 Ketentuan persyaratan administratif bagi calon resipien pada
 penyelenggaraan transplantasi organ dengan donor mati
 dilakukan sesuai dengan ketentuan persyaratan administratif
 bagi pend aftaran calon resipien sebagaimana dimaksud dalam
 Pasal 339.
+
 Pasal 349
 (1) Penyelenggaraan Pelayanan Kesehatan dalam
 transplantasi organ dengan donor mati sebagaimana
-dimaksud dalam Pasal 346 ayat (1) huruf b sampai dengan huruf d dilakukan saat yang bersangkutan telah
+dimaksud dalam Pasal 346 ayat (1) huruf b sampai dengan
+huruf d dilakukan saat yang bersangkutan telah
 dinyatakan mati setelah memenuhi kriteria diagnosis
-kematian. (2) Dalam hal calon donor organ dirawat di Rumah Sakit
+kematian.
+(2) Dalam hal calon donor organ dirawat di Rumah Sakit
 dengan menunjukan adanya gejala klinis yang mengarah
 pada mati batang otak/mati otak, calon donor harus
-dilakukan uji mati batang otak/mati otak. (3) Dalam hal hasil uji mati batang otak/mati otak
+dilakukan uji mati batang otak/mati otak.
+(3) Dalam hal hasil uji mati batang otak/mati otak
 menunjukan positif mati batang otak/mati otak, calon
 donor dapat ditetapkan sebagai donor organ.
-(41 Diagnosis kematian sebagaimana dimaksud pada ayat (1)
+(4) Diagnosis kematian sebagaimana dimaksud pada ayat (1)
 dapat dilakukan berdasarkan kriteria:
-a. kematian klinis/konvensional atau berhentinya
-fungsi sistem jantung sirkulasi secara permanen;
-atau
-b. kematian mati batang otak/mati otak. (5) Diagnosis kematian sebagaimana dimaksud pada ayat (4)
+  a. kematian klinis/konvensional atau berhentinya
+  fungsi sistem jantung sirkulasi secara permanen;
+  atau
+  b. kematian mati batang otak/mati otak.
+(5) Diagnosis kematian sebagaimana dimaksud pada ayat (4)
 dilakukan setelah memenuhi persyaratan pemeriksaan,
 prosedur pemeriksaan, penyimpulan mati klinis atau mati
-batang otak/mati otak, dan penetapan waktu kematian. (6) Pemeriksaan untuk penentuan diagnosis kematian
+batang otak/mati otak, dan penetapan waktu kematian.
+(6) Pemeriksaan untuk penentuan diagnosis kematian
 sebagaimana dimaksud pada ayat (5) harus menjunjung
-tinggi nilai dan norma agama, moral, etika, dan hukum. (7) Diagnosis kematian klinis/konvensional atau berhentinya fungsi sistem jantung sirkulasi secara permanen
+tinggi nilai dan norma agama, moral, etika, dan hukum.
+(7) Diagnosis kematian klinis/konvensional atau berhentinya
+fungsi sistem jantung sirkulasi secara permanen
 sebagaimana dimaksud pada ayat (4) huruf a dapat
 dilakukan di Fasilitas Pelayanan Kesehatan atau di luar
 Fasilitas Pelayanan Kesehatan sesuai dengan standar
@@ -6520,28 +6530,35 @@ prosedur.
 (8) Penetapan waktu kematian sebagaimana dimaksud pada
 ayat (5) dilakukan pada saat dinyatakan mati batang
 otak/mati otak, bukan saat terapi bantuan hidup
-dihentikan atau jantung berhenti berdenyut. (9) Setelah calon donor ditetapkan mati batang otak/mati
+dihentikan atau jantung berhenti berdenyut.
+(9) Setelah calon donor ditetapkan mati batang otak/mati
 otak, terhadap terapi bantuan hidup tetaf diteruskan
 sampai organ yang dibutuhkan diambil.
+
 Pasal 350
 (1) Diagnosis kematian di Fasilitas Pelayanan Kesehatan
 harus dilakukan oleh:
-a. dokter atau dokter spesialis untuk mati
-klinis/ konvensional; dan
-b. dokter spesialis sesuai dengan kompetensinya untuk
-mati batang otak/mati otak. (2) Diagnosis kematian klinis/konvensional di luar Fasilitas
+  a. dokter atau dokter spesialis untuk mati
+  klinis/ konvensional; dan
+  b. dokter spesialis sesuai dengan kompetensinya untuk
+  mati batang otak/mati otak.
+(2) Diagnosis kematian klinis/konvensional di luar Fasilitas
 Pelayanan Kesehatan merupakan penentuan kematian
-yang dilakukan oleh dokter atau dokter spesialis. (3) Dalam hal tidak ada dokter atau dokter spesialis
+yang dilakukan oleh dokter atau dokter spesialis.
+(3) Dalam hal tidak ada dokter atau dokter spesialis
 sebagaimana dimaksud pada ayat (1) huruf a, penentuan
-kematian dapat dilakukan oleh perawat atau bidan. (41 Diagnosis kematian mati batang otak/mati otak paling
+kematian dapat dilakukan oleh perawat atau bidan.
+(4) Diagnosis kematian mati batang otak/mati otak paling
 sedikit dilakukan oleh 2 (dua) orang dokter spesialis yang
 bukan merupakan dokter yang terlibat dalam tindakan
-transplantasi. (5) Dokter spesialis sebagaimana dimaksud pada ayat (4)
+transplantasi.
+(5) Dokter spesialis sebagaimana dimaksud pada ayat (4)
 terdiri dari dokter spesialis anestesi dan dokter'spesialis
 saraf.
 (6) Dalam hal diperlukan, penentuan mati batang otak/mati
 otak dapat melibatkan dokter spesialis lain sesuai dengan
 kebutuhan.
+
 Pasal 351
 (1) Orang yang telah ditetapkan mati batang otak/mati otak
 dan tidak diketahui identitasnya dapat menjadi donor
@@ -6550,11 +6567,11 @@ mati.
 sebagaimana dimaksud pada ayat (1) harus dilakukan
 upaya identifikasi terlebih dahulu oleh instansi yang
 berwenang.
+
 Pasal 352
 Ketentuan mengenai pemeriksaan kelayakan calon donor mati
 dilaksanakan sesuai dengan ketentuan pemeriksaan kelayakan
 calon donor hidup sebagaimana dimaksud dalam pasal 341.
-SK No230650A
 
 Pasal 353
 (1) Pemeriksaan kecocokan antara donor mati dan resipien
@@ -6565,20 +6582,19 @@ dari segi medis sebagaimana dimaksud pada ayat (1)
 dilaksanakan sesuai dengan ketentuan pemeriksaan
 kecocokan antara donor hidup dan resipien dari segi medis
 sebagaimana dimaksud dalam Pasal 342.
+
 Pasal 354
 (1) Operasi transplantasi organ dan penatalaksanaan
 pascaoperasi transplantasi organ sebagaimana dimaksud
-dalam Pasal 346 ayat 
-. 
-(1) huruf d dilakukan oleh
-tim transplantasi Rumah Sakit penyelenggara
+dalam Pasal 346 ayat (1) huruf d dilakukan oleh tim
+transplantasi Rumah Sakit penyelenggara
 transplantasi organ.
 (2) Dalam hal organ berasal dari calon donor mati, operasi
 transplantasi organ sebagaimana dimaksud pada ayat (1)
 harus didahului dengan penandatanganan surat
 persetujuan oleh keluarga.
 (3) Dikecualikan dari ketentuan sebagaimana dimaksud pada
-ayat (21, dalam hal calon donor mati semasa hidupnya
+ayat (2), dalam hal calon donor mati semasa hidupnya
 sudah terdaftar sebagai donor organ, operasi transplantasi
 organ tidak memerlukan persetujuan keluarga.
 (4) Penatalaksanaan pascaoperasi transplantasi organ
@@ -6586,18 +6602,19 @@ sebagaimana dimaksud pada ayat (1) dilakukan terhadap
 resipien selama proses pemulihan di Rumah Sakit dan
 setelah proses pemulihan di Rumah Sakit yang dilakukan
 dalam bentuk monitoring dan evaluasi.
+
 Pasal 355
 Setiap calon donor mati pada transplantasi organ berhak:
-a. dibebaskan dari seluruh biaya Pelayanan Kesehatan
-setelah ditetapkan mati batang otak/mati otak;
-b. memperoleh prioritas sebagai resipien apabila
-memerlukan transplantasi organ;
-c. mencabut pendaftaran dirinya dalam data calon donor
-mati semasa hidupnya;
-d. memilih jenis org€rn yang akan didonorkan pada saat
-melakukan pendaftaran sebagai calon donor mati; dan
-e. dibebaskan dari biaya pemulasaraan jenazah di Rumah
-Sakit.
+  a. dibebaskan dari seluruh biaya Pelayanan Kesehatan
+  setelah ditetapkan mati batang otak/mati otak;
+  b. memperoleh prioritas sebagai resipien apabila
+  memerlukan transplantasi organ;
+  c. mencabut pendaftaran dirinya dalam data calon donor
+  mati semasa hidupnya;
+  d. memilih jenis org€rn yang akan didonorkan pada saat
+  melakukan pendaftaran sebagai calon donor mati; dan
+  e. dibebaskan dari biaya pemulasaraan jenazah di Rumah
+  Sakit.
 
 Pasal 356
 (1) Setiap resipien pada transplantasi organ dengan donor
@@ -6605,12 +6622,13 @@ mati berhak mengetahui urutan daftar tunggu calon
 resipien untuk memperoleh donor.
 (2) Setiap resipien pada transplantasi organ dengan donor
 mati berkewajiban:
-a. membayar paket biaya transplantasi organ, baik
-secara mandiri maupun melalui asuransi
-penjaminnya;
-b. mematuhi petunjuk pemeliharaan Kesehatan bagi
-resipien; dan
-c. melakukan uji Kesehatan sesuai petunjuk dokter.
+  a. membayar paket biaya transplantasi organ, baik
+  secara mandiri maupun melalui asuransi
+  penjaminnya;
+  b. mematuhi petunjuk pemeliharaan Kesehatan bagi
+  resipien; dan
+  c. melakukan uji Kesehatan sesuai petunjuk dokter.
+
 Pasal 357
 (1) Setiap donor pada transplantasi organ dapat memperoleh
 penghargaan karena tidak dapat melakukan kegiatan atau
@@ -6618,72 +6636,73 @@ pekerjaan secara optimal selama proses transplantasi dan
 pemulihan Kesehatan.
 (2) Penghargaan sebagaimana dimaksud pada ayat (1) bukan
 imbalan, bukan jual beli, dan hanya untuk tujuan
-kemanus iaant, serta tidak dikomersialkan. (3) Penghargaan sebagaimana dimaksud pada ayat (21
+kemanus iaant, serta tidak dikomersialkan.
+(3) Penghargaan sebagaimana dimaksud pada ayat (2)
 diberikan oleh resipien.
-(41 Dalam hal resipien tidak mampu, penghargaan
+(4) Dalam hal resipien tidak mampu, penghargaan
 sebagaimana dimaksud pada ayat (2) diberikan oleh
-Pemerintah Pusat atau Pemerintah Daerah. (5) Resipien tidak mampu sebagaimana dimaksud pada
+Pemerintah Pusat atau Pemerintah Daerah.
+(5) Resipien tidak mampu sebagaimana dimaksud pada
 ayat (4) merupakan resipien yang memenuhi kriteria
 sebagai peserta penerima bantuan iuran jaminan
 kesehatan nasional.
 (6) Penghargaan sebagaimana dimaksud pada ayat (1) sampai
-dengan ayat(41, bentuk dan/atau nilainya ditetapkan oleh
+dengan ayat (4), bentuk dan/atau nilainya ditetapkan oleh
 Menteri setelah berkoordinasi dengan menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 keuangan negara.
+
 Pasal 358
 (1) Pendanaan penyelenggaraan transplantasi organ berasal
 dari sumber:
-a. anggaran pendapatan dan belanja negara;
-b. anggaran pendapatan dan belanja daerah; dan/atau
-c. sumber lain yang sah sesuai dengan ketentuan
-peraturan perundang-undangan.
-SK No 230652 A
-(2) Pendanaan
-
-REPUJLTI:t'[55n=r,o
--153-
+  a. anggaran pendapatan dan belanja negara;
+  b. anggaran pendapatan dan belanja daerah; dan/atau
+  c. sumber lain yang sah sesuai dengan ketentuan
+  peraturan perundang-undangan.
 (2) Pendanaan yang bersumber dari anggaran pendapatan
 dan belanja negara sebagaimana dimaksud paaa ayat (1)
 huruf a dipergunakan untuk kegiatan:
-a. sosialisasi dan peningkatan peran serta masyarakat
-dalam penyelenggaraan transplantasi organ;
-b. pembinaan Rumah Sakit penyelenggara transplantasi
-organ;
-c. pemeriksaan kelayakan calon donor; dan
-d. pengambilan organ donor mati batang otak/mati
-otak.
+  a. sosialisasi dan peningkatan peran serta masyarakat
+  dalam penyelenggaraan transplantasi organ;
+  b. pembinaan Rumah Sakit penyelenggara transplantasi
+  organ;
+  c. pemeriksaan kelayakan calon donor; dan
+  d. pengambilan organ donor mati batang otak/mati
+  otak.
 (3) Pendanaan yang bersumber dari anggaran pendapatan
 dan belanja daerah sebagaimana dimaksud paaa ayat (1)
 huruf b dipergunakan untuk kegiatan:
-a. sosialisasi dan peningkatan peran serta masyarakat
-dalam penyelenggaraan transplantasi organ;
-b. pembinaan Rumah Sakit penyelenggara transplantasi
-organ milik Pemerintah Daerah;
-c. pemeriksaan kelayakan calon donor yang tidak
-didanai oleh anggaran pendapatan dan belanja
-negara; dan
-d. pengambilan organ donor mati batang otaklmati otak
-yang tidak didanai oleh anggaran pendapatan dan
-belanja negara.
-(41 selain dipergunakan untuk kegiatan sebagaimana
-dimaksud pada ayat (21dan ayat (3), anggar"r, p"rrdapatan
-dan belanja negara dan anggaran pendipatan dan belanja
-daerah dapat digunakan untuk penghargaan bagi don6r
-dalam hal resipien tidak mampu sebagaihana dimaksud
-dalam Pasal 357. (5) Penggunaan anggaran pendapatan dan belanja daerah
-sebagaimana dimaksud pada ayat (41 dilakukan jika
-penghargaan bagi donor tidak didanai oleh 
-pendapatan "nggd."., dan belanja negara. (6) Pemberian penghargaan bagi donor sebagaimana
-dimaksud pada ayat (4) dibebankan pada 
-pendapatan "-rgg"r"r, dan belanja negara dan anggaian pendapatan
-dan belanja daerah sesuai dengan kemimpu"r, k.r.rrgu..,
+  a. sosialisasi dan peningkatan peran serta masyarakat
+  dalam penyelenggaraan transplantasi organ;
+  b. pembinaan Rumah Sakit penyelenggara transplantasi
+  organ milik Pemerintah Daerah;
+  c. pemeriksaan kelayakan calon donor yang tidak
+  didanai oleh anggaran pendapatan dan belanja
+  negara; dan
+  d. pengambilan organ donor mati batang otaklmati otak
+  yang tidak didanai oleh anggaran pendapatan dan
+  belanja negara.
+(4)Selain dipergunakan untuk kegiatan sebagaimana
+dimaksud pada ayat (2) dan ayat (3), anggaran pendapatan
+dan belanja negara dan anggaran pendapatan dan belanja
+daerah dapat digunakan untuk penghargaan bagi donor
+dalam hal resipien tidak mampu sebagaimana dimaksud
+dalam Pasal 357.
+(5) Penggunaan anggaran pendapatan dan belanja daerah
+sebagaimana dimaksud pada ayat (4) dilakukan jika
+penghargaan bagi donor tidak didanai oleh anggaran
+pendapatan dan belanja negara.
+(6) Pemberian penghargaan bagi donor sebagaimana
+dimaksud pada ayat (4) dibebankan pada anggaran
+pendapatan dan belanja negara dan anggaran pendapatan
+dan belanja daerah sesuai dengan kemampuan keuangan
 negara atau keuangan daerah dan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 359
 Ketentuan lebih lanjut mengenai penyelenggaraan pelayanan
-Kesehatan dalam transplantasi organ sebagaimana dimiksud
-dalam Pasal 335. sampai dengan pasal gss diatur dengan
+Kesehatan dalam transplantasi organ sebagaimana dimaksud
+dalam Pasal 335 sampai dengan pasal 358 diatur dengan
 Peraturan Menteri.
 
 Paragraf 3
@@ -6703,6 +6722,7 @@ termasuk sisa jaringan hasil operasi, dan jaringan lain
 yang sudah tidak dibutuhkan lagi oleh donor sebagaimana
 dimaksud pada ayat (2) hanya dilakukan pendataan oleh
 bank mata dan/atau bank jaringan.
+
 Pasal 361
 (1) Transplantasi jaringan tubuh hanya dapat
 diselenggarakan di Rumah Sakit atau klinik utama yang
@@ -6715,9 +6735,10 @@ standar profesi.
 Tenaga Medis dan Tenaga Kesehatan dengan kompetensi
 dan kewenangan di bidang transplantasi jaringan.
 (4) Persyaratan sebagaimana dimaksud pada ayat (3)
-dilaksanakan berdasarkan penyelenggaraar: masingmasing transplantasi j aringan.
+dilaksanakan berdasarkan penyelenggaraar: masing-masing transplantasi jaringan.
 (5) Standar Rumah Sakit atau klinik utama sebagaimana
 dimaksud pada ayat (1) ditetapkan oleh Menteri.
+
 Pasal 362
 (1) Bank mata dan bank jaringan sebagaimana dimaksud
 dalam Pasal 360 ayat (3) dapat diselenggarakan oleh
@@ -6728,30 +6749,31 @@ daerah.
 pada ayat (1) harus mendapatkan izin dari Menteri.
 
 Pasal 363
-(1) Bank mata sebagaimana dimaksud dalam Pasal g62
+(1) Bank mata sebagaimana dimaksud dalam Pasal 362
 bertugas menyediakan jaringan mata berupa kornea,
 sklera, dan jaringan lain dari mata yang bermutu untuk
 pelayanan transplantasi j aringan.
 (2) Dalam menjalankan tugas sebagaimana dimaksud pada
 ayat (1), bank mata paling sedikit menyelenggarakan
 fungsi:
-a. pengerahan donor;
-b. pendaftaran calon donor dan calon resipien;
-c. seleksi donor melalui pemeriksaan kesehatan yang
-meliputi pemeriksaan fisik dan laboratorium;
-d. pengambilan jaringan kornea danf atau sklera dan
-penyimpanan sementara serta pemulihan estetik
-donor;
-e. pengolahan, penyimpanan, pengemasan, pelabelan,
-dan sterilisasi jaringan, serta pemeliharaan;
-f. pengendalian mutu jaringan dari organ mata;
-g. pendistribusian jaringan;
-h. pencatatandan pendokumentasian;
-i. pendidikan dan pelatihan; dan j. penelitian dan pengembangan.
+  a. pengerahan donor;
+  b. pendaftaran calon donor dan calon resipien;
+  c. seleksi donor melalui pemeriksaan kesehatan yang
+  meliputi pemeriksaan fisik dan laboratorium;
+  d. pengambilan jaringan kornea danf atau sklera dan
+  penyimpanan sementara serta pemulihan estetik
+  donor;
+  e. pengolahan, penyimpanan, pengemasan, pelabelan,
+  dan sterilisasi jaringan, serta pemeliharaan;
+  f. pengendalian mutu jaringan dari organ mata;
+  g. pendistribusian jaringan;
+  h. pencatatandan pendokumentasian;
+  i. pendidikan dan pelatihan; dan j. penelitian dan pengembangan.
 (3) Dalam rangka melaksanakan fungsi sebagaimana
 dimaksud pada ayat (2) huruf a sampai dengan huruf c,
 bank mata dapat membentuk jejaring pelayanan bank
 mata.
+
 Pasal 364
 (1) Untuk memenuhi penyediaan jaringan mata berrrpa
 kornea, sklera, dan jaringan lain dari mata secara
@@ -6759,220 +6781,199 @@ nasional, Menteri membentuk bank mata pusat sebagai
 bank mata rujukan nasional.
 (2) Selain memiliki tugas sebagaimana dimaksud dalam
 Pasal 363 ayat (1), bank mata pusat bertugas:
-a. mendatangkan dan mengirimkan jaringan mata dari
-dan ke luar negeri sesuai dengan ketentuan
-peraturan perundang-undangan ;
-b. melakukan koordinasi pengumpulan jaringan mata
-tingkat nasional; dan
-c. menyediakan jaringan mata donor secara nasional. (3) T\.rgas mendatangkan jaringan mata dari luar negeri
+  a. mendatangkan dan mengirimkan jaringan mata dari
+  dan ke luar negeri sesuai dengan ketentuan
+  peraturan perundang-undangan ;
+  b. melakukan koordinasi pengumpulan jaringan mata
+  tingkat nasional; dan
+  c. menyediakan jaringan mata donor secara nasional.
+(3) Tugas mendatangkan jaringan mata dari luar negeri
 sebagaimana dimaksud pada ayat (2) huruf a dilakukan
 melalui jejaring bank mata internasional.
-SK No 230655 A
-(41 T\rgas
-
--156-
 (4) Tugas mengirimkan jaringan mata ke luar negeri
 sebagaimana dimaksud pada ayat (2) huruf a dilakukan
 dalam hal kebutuhan jaringan mata dalam negeri telah
 terpenuhi.
+
 Pasal 365
 Ketentuan lebih lanjut mengenai bank mata sebagaimana
 dimaksud dalam Pasal 362 sampai dengan Pasal 364 diatur
 dengan Peraturan Menteri.
-PRESIDEN
-REPUBLIK INDONE3IA
+
 Pasal 366
-Donor pada transplantasi jaringan terdiri atas donor hidup
+(1) Donor pada transplantasi jaringan terdiri atas donor hidup
 dan donor mati.
-Transplantasi jaringan sebagaimana dimaksud pada
-ayat itl untuk jaringan mata meliputi transplantasi
+(2) Transplantasi jaringan sebagaimana dimaksud pada
+ayat (1) untuk jaringan mata meliputi transplantasi
 kornea, sklera, dan jaringan lain dari mata.
-Ketentuan mengenai calon resipien transplantasi jaringan
+(3) Ketentuan mengenai calon resipien transplantasi jaringan
 tubuh dilaksanakan sesuai dengan ketentuan calon
 resipien transplantasi organ.
-(1)
-(2t
-(3)
+
 Pasal 367
 Transplantasi jaringan tubuh dilaksanakan melalui tahapan
 kegiatan:
-a. pendaftaran calon donor dan calon resipien;
-b. pemeriksaan kelayakan calon donor dilihat dari segi
-tindakan, psikologis, dan sosioyuridis;
-c. pemeriksain kecocokan antara donor dan resipien
-jaringan tubuh; dan
-d. -operisi transplantasi dan penatalaksanaan pascaoperasi
-transplantasi jaringan tubuh.
+  a. pendaftaran calon donor dan calon resipien;
+  b. pemeriksaan kelayakan calon donor dilihat dari segi
+  tindakan, psikologis, dan sosioyuridis;
+  c. pemeriksain kecocokan antara donor dan resipien
+  jaringan tubuh; dan
+  d. operasi transplantasi dan penatalaksanaan pascaoperasi
+  transplantasi jaringan tubuh.
+
 Pasal 368
 (1) Untuk terdaftar sebagai calon donor jaringan tubuh, setiap
 calon donor di bank mata dan/atau bank jaringan harus
 memenuhi persyaratan.
 (2) Persyaratan calon donor sebagaimana dimaksud pada
 ayat (1) paling sedikit terdiri atas:
-;. membuat pernyataan tertulis tentang kesediaan
-donor men5rumbangkan jaringan mata dan/atau
-jaringan lain secara sukarela tanpa meminta imbalan;
-b. mendapat persetujuan keluarga; dan
-c. memahami indikasi, kontraindikasi, risiko, prosedur
-transplantasi jaringan tubuh, panduan hidup
-pascatransplantasi jaringan tubuh, dan bersedia
-membuat surat Persetujuannya.
-(3) Ketentuan. . .
-SK No 230657 A
+  a. membuat pernyataan tertulis tentang kesediaan
+  donor men5rumbangkan jaringan mata dan/atau
+  jaringan lain secara sukarela tanpa meminta imbalan;
+  b. mendapat persetujuan keluarga; dan
+  c. memahami indikasi, kontraindikasi, risiko, prosedur
+  transplantasi jaringan tubuh, panduan hidup
+  pascatransplantasi jaringan tubuh, dan bersedia
+  membuat surat Persetujuannya.
+(3) Ketentuan mengenai keluarga dan mekanisme
+persetujuan keluarga sebagaimana dimaksud pada
+ayat (2) huruf b sesuai dengan ketentuan keluarga dan
+mekanisme persetujuan kelusga pada calon donor organ
+sebagaimana dimaksud dalam Pasal 328.
 
 Pasal 369
 Persyaratan untuk terdaftar sebagai calon resipien terdiri atas:
-a. memiliki keterangan dari dokter penanggung jawab
-pelayanan di Fasilitas Pelayanan Kesehatan tentang
-"d"ny" indikasi medis untuk dilakukan transplantasi
-jaringan tubuh;
-b. -bersedia 
-membayar biaya penggantian pengambilan dan
-pemrosesan jaringan tubuh atau memberikan surat
-penjaminan biaya penggantian pengambilan dan
-pemrosesan jaringan tubuh, untuk calon resipien yang
-dijamin asuransi atau lembaga penjamin lain;
-c. memahami indikasi, kontraindikasi, risiko, dan tata cara
-transplantasi jaringan tubuh, serta memberikan
-persetujuan dilakukannya transplantasi jaringan tubuh;
-dan
-d. membuat pernyataan tidak melakukan pembelian jaringan
-tubuh maupun melakukan perjanjian dengan calon donor
-yang bermakna jual beli atau komersialisasi.
+  a. memiliki keterangan dari dokter penanggung jawab
+  pelayanan di Fasilitas Pelayanan Kesehatan tentang
+  adanya indikasi medis untuk dilakukan transplantasi
+  jaringan tubuh;
+  b. bersedia membayar biaya penggantian pengambilan dan
+  pemrosesan jaringan tubuh atau memberikan surat
+  penjaminan biaya penggantian pengambilan dan
+  pemrosesan jaringan tubuh, untuk calon resipien yang
+  dijamin asuransi atau lembaga penjamin lain;
+  c. memahami indikasi, kontraindikasi, risiko, dan tata cara
+  transplantasi jaringan tubuh, serta memberikan
+  persetujuan dilakukannya transplantasi jaringan tubuh; dan
+  d. membuat pernyataan tidak melakukan pembelian jaringan
+  tubuh maupun melakukan perjanjian dengan calon donor
+  yang bermakna jual beli atau komersialisasi.
+
 Pasal 370
 Ketentuan pemeriksaan kelayakan calon donor transplantasi
 jaringan tubuh dilakukan melalui pemeriksaan medis yang
 dilakukan di laboratorium yang dimiliki oleh bank mata atau
 bank jaringan.
 
-Ketentuan mengenai keluarga dan mekanisme
-persetujuan keluarga sebagaimana dimaksud pada
-ayat (2) huruf b sesuai dengan ketentuan keluarga dan
-mekanisme persetujuan kelusga pada calon donor organ
-sebagaimana dimaksud dalam Pasal 328.
 Pasal 371
-Pengambilan jaringan tubuh dalam rangka penyiapan
+(1) Pengambilan jaringan tubuh dalam rangka penyiapan
 jaringan tubuh dapat dilaksanakan oleh Rumah Sakit atau
 klinik utama yang bekerja sama dengan bank mata atau
 bank jaringan.
-Selain Rumah Sakit atau klinik utama, untuk
+(2) Selain Rumah Sakit atau klinik utama, untuk
 pengambilan jaringan mata dapat dilakukan di tempat lain
 yang memungkinkan untuk dilakukan pengambilan
 jaringan mata sesuai standar.
-Pengambilan jaringan tubuh sebagaimana dimaksud pada
+(3) Pengambilan jaringan tubuh sebagaimana dimaksud pada
 ayat (1) dilakukan oleh Tenaga Medis dan/atau Tenaga
 Kesehatan yang terlatih.
-
-Hasil pengambilan jaringan tubuh sebagaimana dimaksud
+(4) Hasil pengambilan jaringan tubuh sebagaimana dimaksud
 pada ayat (1) dilakukan pengolahan dan penyimpanan.
-Jaringan tubuh yang telah dilakukan pengolahan dan
+(5) Jaringan tubuh yang telah dilakukan pengolahan dan
 penyimpanan sebagaimana dimaksud pada ayat (4) harus
 memenuhi standar kelayakan jaringan tubuh untuk
 ditransplantasi.
-Pasal372
-Operasi transplantasi dan penatalaksanaan pascaoperasi
+
+Pasal 372
+(1) Operasi transplantasi dan penatalaksanaan pascaoperasi
 jaringan tubuh dilakukan oleh Tenaga Medis yang
 mempunyai keahlian dan kewenangan.
-Tenaga Medis sebagaimana dimaksud pada ayat (1)
+(2) Tenaga Medis sebagaimana dimaksud pada ayat (1)
 merupakan penanggung jawab pelayanan di Rumah Sakit
 atau klinik utama penyelenggara.
-Dalam melaksanakan operasi transplantasi dan
+(3) Dalam melaksanakan operasi transplantasi dan
 penatalaksanaan pascaoperasi jaringan tubuh
 sebagaimana dimaksud pada ayat (1), Tenaga Medis dapat
 dibantu oleh Tenaga Kesehatan yang terlatih.
-Operasi transplantasi jaringan tubuh berupa jaringan
+(4) Operasi transplantasi jaringan tubuh berupa jaringan
 mlta dilakukan bekerja sama dengan bank mata dalam
 rangka penyediaan jaringan mata.
-Penatalaksanaan pascaoperasi transplantasi jaringan
+(5) Penatalaksanaan pascaoperasi transplantasi jaringan
 tubuh harus dilakukan terhadap resipien melalui
 monitoring dan evaluasi.
-(2)
-(s)
-(1)
-(3)
-(4)
-(s)
+
 Pasal 373
 Bank mata dan/atau bank jaringan melakukan pelaporan
 terhadap penyelenggaraan kegiatan sesuai dengan tugas dan
 fungsi masing-masing kepada Menteri melalui sistem informasi
 transplantasi organ dan/atau jaringan tubuh yang terintegrasi
 dengan Sistem Informasi Kesehatan Nasional.
+
 Pasal 374
 (1) Setiap donor pada transplantasi jaringan tubuh berhak
 dijaga kerahasiaan identitas dan hasil pemeriksaan
 kesehatannya.
-Dalam hal hasil pemeriksaan sebagaimana dimaksud pada
+(2) Dalam hal hasil pemeriksaan sebagaimana dimaksud pada
 ayat (1) ditemukan kelainan atau penyakit tertentu, donor
 hidup dapat meminta pemberitahuan hasil pemeriksaan
 kesehatan dengan tetap terjaga kerahasiaannya.
-Donor hidup pada transplantasi jaringan tubuh
+(3) Donor hidup pada transplantasi jaringan tubuh
 berkewajiban memberikan informasi yang jujur, lengkap,
 dan akurat sesuai dengan kemampuan dan
 pengetahuannya tentang masalah kesehatannya.
-(2t
-SK No 230659 A
-(3)
-Pasal375...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--159-
 Pasal 375
 (1) Setiap resipien pada transplantasi jaringan tubuh berhak
 mengetahui urutan daftar tunggu calon resipien untuk
 memperoleh jaringan tubuh.
 (2) Setiap resipien pada transplantasi jaringan tubuh wajib:
-a. mengikuti prosedur pelaksanaan transplantasi
-jaringan tubuh;
-b. membayar seluruh biaya penyelenggaraan
-transplantasi jaringan tubuh, baik secara mandiri
-atau melalui asuransi penjaminnya; dan
-c. mengganti biaya pemrosesan dan biaya
-pengembangan jaringan tubuh.
+  a. mengikuti prosedur pelaksanaan transplantasi
+  jaringan tubuh;
+  b. membayar seluruh biaya penyelenggaraan
+  transplantasi jaringan tubuh, baik secara mandiri
+  atau melalui asuransi penjaminnya; dan
+  c. mengganti biaya pemrosesan dan biaya
+  pengembangan jaringan tubuh.
+
 Pasal 376
 Pemerintah Pusat dan Pemerintah Daerah dapat memberikan
 bantuan pendanaan pengembangan bank mata dan
 bank jaringan.
-Pasal377
+
+Pasal 377
 (1) Pendanaan penyelenggaraan transplantasi jaringan tubuh
 berasal dari sumber:
-a. anggaran pendapatan dan belanja negara;
-b. anggaran pendapatan dan belanja daerah; dan/atau
-c. sumber lain yang sah sesuai dengan ketentuan
-peraturan perundang-undangan.
+  a. anggaran pendapatan dan belanja negara;
+  b. anggaran pendapatan dan belanja daerah; dan/atau
+  c. sumber lain yang sah sesuai dengan ketentuan
+  peraturan perundang-undangan.
 (2) Pendanaan yang bersumber dari anggaran pendapatan
 dan belanja negara sebagaimana dimaksud pada ayat (1)
 huruf a dipergunakan untuk kegiatan:
-a. sosialisasi dan peningkatan peran serta masyarakat
-dalam penyelenggaraan transplantasi jaringan tubuh;
-b. pembinaan Rumah Sakit penyelenggaratransplantasi
-jaringan tubuh;
-c. pemeriksaan kelayakan calon donor; dan
-d. pengambilan jaringan tubuh donor mati.
+  a. sosialisasi dan peningkatan peran serta masyarakat
+  dalam penyelenggaraan transplantasi jaringan tubuh;
+  b. pembinaan Rumah Sakit penyelenggaratransplantasi
+  jaringan tubuh;
+  c. pemeriksaan kelayakan calon donor; dan
+  d. pengambilan jaringan tubuh donor mati.
 (3) Pendanaan yang bersumber dari anggaran pendapatan
 dan belanja daerah sebagaimana dimaksud pada ayat (1)
 huruf b dipergunakan untuk kegiatan:
-a. sosialisasi dan peningkatan peran serta masyarakat
-dalam penyelenggaraan transplantasi jaringan tubuh;
-b. pembinaan Rumah Sakit penyelenggara transplantasi
-jaringan tubuh milik Pemerintah Daerah;
-c. pemeriksaan kelayakan calon donor yang tidak
-didanai oleh anggaran pendapatan dan belanja
-negara; dan
-SK No 230660 A
-d. pengambilan...
+  a. sosialisasi dan peningkatan peran serta masyarakat
+  dalam penyelenggaraan transplantasi jaringan tubuh;
+  b. pembinaan Rumah Sakit penyelenggara transplantasi
+  jaringan tubuh milik Pemerintah Daerah;
+  c. pemeriksaan kelayakan calon donor yang tidak
+  didanai oleh anggaran pendapatan dan belanja
+  negara; dan
+  d. pengambilan jaringan tubuh donor mati yang tidak
+  didanai oleh anggaran pendapatan dan belanja
+  negara.
 
-PRESIDEN
-REPUBLIK TNDONESIA
-160 -
-d. pengambilan jaringan tubuh donor mati yang tidak
-aiaanai oleh anggaran pendapatan dan belanja
-negara.
 Pasal 378
 Ketentuan lebih lanjut mengenai teknis pelaksanaan
 penyelenggaraan transplantasi jaringan tubuh sebagaimana
-ii*Lt"rd dalam pasal 36O, Pasal 361, dan Pasal 366 sampai
+disebutkan dalam Pasal 360, Pasal 361, dan Pasal 366 sampai
 dengan Pasal 377 diatur dengan Peraturan Menteri.
 
 Paragraf 4
@@ -6982,76 +6983,67 @@ dan/atau Jaringan Tubuh
 Paragraf 5
 Tanggung Jawab Pemerintah Pusat dan Pemerintah Daerah
 
-(1)
-(2t
-(3)
 Pasal 379
-Dalam rangka mendukung penyelenggaraan transplantasi
+(1) Dalam rangka mendukung penyelenggaraan transplantasi
 organ dan/atau jaringan tubuh, Menteri membentuk
 sislem informasi transplantasi organ danlatau jaringan
 tubuh yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
-Setiap Fasilitas Pelayanan Kesehatan penyelenggara
+(2) Setiap Fasilitas Pelayanan Kesehatan penyelenggara
 transplantasi organ dan/atau jaringan tubuh harus
 melakukan pencatatan dan pelaporan penyelenggaraan
 transplantasi melalui sistem informasi transplantasi organ
 dan/ atau jaringan tubuh.
-Sistem informasi transplantasi organ dan/atau jaringan
+(3) Sistem informasi transplantasi organ dan/atau jaringan
 tubuh sebagaimana dimaksud pada ayat (1) menyediakan
 data dan informasi terkait penyelenggaraan transplantasi
 organ dan/atau jaringan tubuh, wadah dan sarana
 komunikasi bagi masyarakat, dan Fasilitas Pelayanan
 Kesehatan penyelenggara transplantasi organ dan/atau
 jaringan tubuh.
+
 Pasal 380
-Pemerintah Pusat bertanggung jawab melaksanakan
+(1) Pemerintah Pusat bertanggung jawab melaksanakan
 peningkatan upaya transplantasi organ dan/atau jaringan
 tubuh melalui:
-a. melakukan sosialisasi dan peningkatan peran serta
-masyarakat sebagai donor organ danlata,u jaringan
-tubuh demi kepentingan kemanusiaan dan
-pemulihan Kesehatan;
-b. menYelenggarakan . . .
-SK No 230661 A
-(1)
-
-FRESIDEN
-REPUBLIK INDONESIA
--161 -
-b. menyelenggarakan registrasi dan pengelolaan data
-donor dan resipien organ dan/atau jaringan tubuh;
-c. menyelenggarakan pendidikan dan penelitian yang
-menunjang kegiatan pelayanan transplantasi organ
-dan/ atau jaringan tubuh;
-d. melakukan koordinasi penyelenggaraan jejaring
-antar-Rumah Sakit penyelenggara transplantasi
-organ dan/atau jaringan tubuh;
-e. men5rusun dan menetapkan kebijakan, standar, dan
-pedoman penyelenggaraar, transplantasi organ
-dan/atau jaringan tubuh bekerja sama dengan
-organisasi profesi terkait;
-f. melakukan penelusuran latar belakang donor;
-g. mengkaji kelayakan pasangan resipien dan donor
-berdasarkan hasil pemeriksaan oleh Rumah Sakit
-penyelen ggar a tran splantasi organ dan hasil verifi kasi
-latar belakang donor;
-h. melakukan pemElntauan pelindungan Kesehatan dan
-hak donor hidup pascatransplantasi; dan
-i. melakukan kerja sama dengan lembaga transplantasi
-organ dan/atau jaringan tubuh internasional.
+  a. melakukan sosialisasi dan peningkatan peran serta
+  masyarakat sebagai donor organ dan/atau jaringan
+  tubuh demi kepentingan kemanusiaan dan
+  pemulihan Kesehatan;
+  b. menyelenggarakan registrasi dan pengelolaan data
+  donor dan resipien organ dan/atau jaringan tubuh;
+  c. menyelenggarakan pendidikan dan penelitian yang
+  menunjang kegiatan pelayanan transplantasi organ
+  dan/ atau jaringan tubuh;
+  d. melakukan koordinasi penyelenggaraan jejaring
+  antar-Rumah Sakit penyelenggara transplantasi
+  organ dan/atau jaringan tubuh;
+  e. menyusun dan menetapkan kebijakan, standar, dan
+  pedoman penyelenggaraar, transplantasi organ
+  dan/atau jaringan tubuh bekerja sama dengan
+  organisasi profesi terkait;
+  f. melakukan penelusuran latar belakang donor;
+  g. mengkaji kelayakan pasangan resipien dan donor
+  berdasarkan hasil pemeriksaan oleh Rumah Sakit
+  penyelen ggar a tran splantasi organ dan hasil verifi kasi
+  latar belakang donor;
+  h. melakukan pemElntauan pelindungan Kesehatan dan
+  hak donor hidup pascatransplantasi; dan
+  i. melakukan kerja sama dengan lembaga transplantasi
+  organ dan/atau jaringan tubuh internasional.
 (2) Pemerintah Daerah bertanggung jawab melaksanakan
 peningkatan upaya transplantasi organ dan/atau jaringan
 tubuh melalui:
-a. melakukan koordinasi penyelenggaraan jejaring antar
-Rumah Sakit penyelenggara transplantasi organ
-dan/ atau jaringan tubuh;
-b. melakukan sosialisasi dan promosi kepada
-masyarakat untuk mendonorkan organ demi
-kepentingan tolong menolong dan amal kebaikan; dan
-c. melakukan pemantauan pelindungan Kesehatan dan
-hak donor hidup pascatransplantasi.
+  a. melakukan koordinasi penyelenggaraan jejaring antar
+  Rumah Sakit penyelenggara transplantasi organ
+  dan/ atau jaringan tubuh;
+  b. melakukan sosialisasi dan promosi kepada
+  masyarakat untuk mendonorkan organ demi
+  kepentingan tolong menolong dan amal kebaikan; dan
+  c. melakukan pemantauan pelindungan Kesehatan dan
+  hak donor hidup pascatransplantasi.
 (3) Tanggung jawab Pemerintah Pusat dan Pemerintah
-Daerah sebagaimana dimaksud pada ayat (1) dan ayat (21
+Daerah sebagaimana dimaksud pada ayat (1) dan ayat (2)
 diwujudkan sebagai upaya untuk meningkatkan
 ketersediaan organ dan/atau jaringan tubuh.
 
@@ -7061,26 +7053,18 @@ Peran Serta Masyarakat
 Pasal 381
 (1) Dalam penyelenggaraan transplantasi organ dan jaringan
 tubuh, masyarakat dapat berperan melalui kegiatan:
-a. promosi dan sosialisasi transplantasi organ dan
-jaringan tubuh;
-SK No 230662 A
-b. melakukan
-
-(21
-FRESIDEN
-REPUBLIK INDONESIA
-L62 -
-b. melakukan komunikasi, informasi, dan edukasi
-mengenai transplantasi organ dan jaringan tubuh;
-dan
-c. mencegah terjadinya jual beli organ dan jaringan
-tubuh.
-Kegiatan promosi dan sosialisasi transplantasi organ dan
+  a. promosi dan sosialisasi transplantasi organ dan
+  jaringan tubuh;
+  b. melakukan komunikasi, informasi, dan edukasi
+  mengenai transplantasi organ dan jaringan tubuh; dan
+  c. mencegah terjadinya jual beli organ dan jaringan
+  tubuh.
+(2) Kegiatan promosi dan sosialisasi transplantasi organ dan
 jaringan tubuh sebagaimana dimaksud pada ayat (1)
 huruf a, dilakukan bersama dengan tokoh agama, tokoh
 masyarakat, pendidik, pekerja sosial, penggiat pembela
 konsumen, dan penggiat promosi kesehatan.
-Mencegah terjadinya jual beli organ dan jaringan tubuh
+(3) Mencegah terjadinya jual beli organ dan jaringan tubuh
 sebagaimana dimaksud pada ayat (1) huruf c dilakukan
 melalui edukasi, pemberdayaan masyarakat, pengaduan,
 dan/atau pelaporan.
@@ -7092,147 +7076,134 @@ Paragraf 1
 Umum
 
 Pasal 382
-Terapi berbasis sel dan/atau sel punca dapat dilakukan
+(1) Terapi berbasis sel dan/atau sel punca dapat dilakukan
 apabila terbukti keamanan dan kemanfaatannya serta
 memenuhi standar mutu.
-Terapi berbasis sel punca dan/atau sel hanya dapat
+(2) Terapi berbasis sel punca dan/atau sel hanya dapat
 dilakukan untuk tujuan penyembuhan penyakit dan
 pemulihan kesehatan.
-Terapi berbasis sel dan/atau sel punca sebagaimana
+(3) Terapi berbasis sel dan/atau sel punca sebagaimana
 dimaksud pada ayat (1) dilarang untuk reproduksi.
-Sel punca sebagaimana dimaksud pada ayat (2) tidak
+(4) Sel punca sebagaimana dimaksud pada ayat (2) tidak
 boleh berasal dari sel punca embrionik.
-(3)
-(1)
-(3)
-(4)
-(2t
+
 Pasal 383
 (1) Terapi berbasis sel dan/atau sel punca sebagaimana
 dimaksud dalam Pasal 382 ayat (1) dapat menggunakan:
-a. sel;
-b. sel punca;
-c. sekretom;
-d. vesikel ekstraseluler; dan
-e. sel, sel punca, dan/atau produk turunan lainnya
-sesuai dengan perkembangan ilmu pengetahuan dan
-teknologi.
-
+  a. sel;
+  b. sel punca;
+  c. sekretom;
+  d. vesikel ekstraseluler; dan
+  e. sel, sel punca, dan/atau produk turunan lainnya
+  sesuai dengan perkembangan ilmu pengetahuan dan
+  teknologi.
 (2) Penggunaan produk terapi berbasis sel dan turunannya
 sebagaimana dimaksud pada ayat (1) wajib mendapatkan
 persetuiuan Menteri dan kepala lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
 pemerintahan di bidang pengawasan obat dan makanan
-sesuai dengan kewenangannya. (3) Menteri dan kepala lembaga pemerintah nonkementerian
+sesuai dengan kewenangannya.
+(3) Menteri dan kepala lembaga pemerintah nonkementerian
 yang menyelenggarakan urusan pemerintahan di bidang
-pengawasan -obat dan makanan memfasilitasi
+pengawasan obat dan makanan memfasilitasi
 pengembangan produk terapi berbasis sel dan
-turtrnannya. (4) Ketentuan lebih lanjut mengenai persetujuan- d1.
+turunannya.
+(4) Ketentuan lebih lanjut mengenai persetujuan
 pengembangan produk sebagaimana yang dimaksud pada
-i1a{ Q) dan ayat (3) diatur dengan Peraturan Menteri dan
-plraturan kepala lembaga pemerintah nonkementerian
+ayat (1) dan ayat (3) diatur dengan Peraturan Menteri dan
+peraturan kepala lembaga pemerintah nonkementerian
 yang menyelenggarakan urusan pemerintahan di bidang
 pengawasan obat dan makanan sesuai dengan
 kewenangannya.
 
 Paragraf 2
-Kegiatan PelaYanan
+Kegiatan Pelayanan
 
 Pasal 384
 (1) Terapi berbasis sel dan/atau sel punca sebagaimana
 dimaksud dalam Pasal 383 diberikan melalui
-penyelenggaraan pelayanan sel danf atau sel punca.
+penyelenggaraan pelayanan sel dan/atau sel punca.
 (2) Penyelenggaraan pelayanan sel dan/atau sel punca
-sebigaimana dimaksud pada ayat (1) terdiri atas kegiatan:
-a. pengambilan;
-b. pengolahan;
-c. penyimpanan; dan latau d. pemanfaatan klinis.
+sebagaimana dimaksud pada ayat (1) terdiri atas kegiatan:
+  a. pengambilan;
+  b. pengolahan;
+  c. penyimpanan; dan/atau
+  d. pemanfaatan klinis.
+
 Pasal 385
 Pengambilan sel dan/atau sel punca sebagaimana dimaksud
 dalam Pasal 384 ayat (2) huruf a harus mendapatkan
 persetujuan tertulis dari Pasien dan/atau donor sesuai standar
 profesi dan standar prosedur operasional dan memperhatikan
-etit<a profesi dan keselamatan Pasien dan/atau pendonor.
+etika profesi dan keselamatan Pasien dan/atau pendonor.
+
 Pasal 386
 (1) Pengolahan sel dan/atau sel punca sebagaimana
-dimiksud dalam Pasal 384 ayat (2) huruf b
+dimaksud dalam Pasal 384 ayat (2) huruf b
 diselenggarakan oleh sarana pengolahan sel dan/atau sel
 punca dengan menerapkan standar cara pembuatan Obat
 yang baik.
-(2) Sarana...
-SK No 230664 A
-
-(21
-PRESIDEN
-REPUBLTK TNDONESIA
-L64 -
-Sarana pengolahan sel dan/atau sel punca sebagaimana
+(2) Sarana pengolahan sel dan/atau sel punca sebagaimana
 dimaksud pada ayat (1) berupa Fasilitas Pelayanan
 Kesehatan harus memenuhi standar dan persyaratan
-serta harus mendapatkan izin dan Menteri.
-Selain Fasilitas Pelayanan Kesehatan, pengolahan sel
+serta harus mendapatkan izin dari Menteri.
+(3) Selain Fasilitas Pelayanan Kesehatan, pengolahan sel
 dan/atau sel punca dapat dilakukan oleh industri farmasi
 yang penyelenggaraannya sesuai dengan ketentuan
 peraturan perundang-undangan.
-Ketentuan lebih lanjut mengenai standar cara pembuatan
+(4) Ketentuan lebih lanjut mengenai standar cara pembuatan
 Obat yang baik sebagaimana dimaksud pada ayat (1)
 diatur dengan peraturan kepala lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
 pemerintahan di bidang pengawasan obat dan makanan.
+
 Pasal 387
-Penyimpanan sel dan/atau sel punca sebagaimana
+(1) Penyimpanan sel dan/atau sel punca sebagaimana
 dimaksud dalam Pasal 384 ayat (2) huruf c dilakukan di
 bank sel dan/atau sel punca atau tempat penyimpanan
 lainnya di Fasilitas Pelayanan Kesehatan.
-Bank sel dan/atau sel punca harus memenuhi standar
+(2) Bank sel dan/atau sel punca harus memenuhi standar
 dan persyaratan serta harus mendapatkan izin dari
 Menteri.
+
 Pasal 388
-Pemanfaatan klinis sel dan/atau sel punca sebagaimana
-dimaksud dalam Pasal 384 ayat (2) huruf d harrrs
+(1) Pemanfaatan klinis sel dan/atau sel punca sebagaimana
+dimaksud dalam Pasal 384 ayat (2) huruf d harus
 mendapatkan persetujuan tertulis dari Pasien dan
 dilakukan oleh Tenaga Medis yang memiliki kompetensi
 dan kewenangan.
-Pemanfaatan klinis sel dan/atau sel punca dilakukan
+(2) Pemanfaatan klinis sel dan/atau sel punca dilakukan
 melalui mekanisme:
-a. sistemik;
-b. regional;
-c. lokal;
-d. topikal; danlatau
-e. mekanisme lain sesuai perkembangan ilmu
-pengetahuan dan teknologi.
+  a. sistemik;
+  b. regional;
+  c. lokal;
+  d. topikal; dan/atau
+  e. mekanisme lain sesuai perkembangan ilmu
+  pengetahuan dan teknologi.
 
 Paragraf 3
 Penggunaan
 
 Pasal 389
 Penggunaan sel dan/atau sel punca dilaksanakan pada:
-a. pelayanan terapi; dan
-b. penelitian berbasis pelayanan terapi.
-(3)
-(4)
-(1)
-(2t
-(1)
-(2t
-SK No 230665 A
-Pasal 390
+  a. pelayanan terapi; dan
+  b. penelitian berbasis pelayanan terapi.
 
-FRESIDEN
-REPUBLTK INDONESIA
--165-
-Pasal 39O
+Pasal 390
 (1) Pelayanan terapi sebagaimana dimaksud dalam Pasal 389
 huruf a merupakan pelayanan yang berbasis bukti ilmiah
 dan telah mempunyai standar pelayanan terapi.
-(2) Standar pelayanan terapi sebagaimana dimlksud pada
-ayat (1) ditetapkan oleh Menteri. (3) Standar pelayanan terapi sebagaimana dimaksud pada
+(2) Standar pelayanan terapi sebagaimana dimaksud pada
+ayat (1) ditetapkan oleh Menteri.
+(3) Standar pelayanan terapi sebagaimana dimaksud pada
 ayat (1) dapat diusulkan oleh Kolegium, Fasilitas
-Pelayanan Kesehatan, atau pusat penelitian. (4) Penggunaan sel dan/atau sel punca pada pelayanan terapi
+Pelayanan Kesehatan, atau pusat penelitian.
+(4) Penggunaan sel dan/atau sel punca pada pelayanan terapi
 dilakukan di:
-a. Rumah Sakit; dan
-b. klinik.
-Pasal 39 1
+  a. Rumah Sakit; dan
+  b. klinik.
+
+Pasal 391
 (1) Penelitian berbasis pelayanan terapi sebagaimana
 dimaksud dalam Pasal 389 huruf b merupakan penelitian
 translasional dan pemanfaatan terapeutik sel dan/atau
@@ -7240,32 +7211,32 @@ sel punca yang dilakukan terhadap Pasien sebagai subjek
 penelitian.
 (2) Penelitian berbasis pelayanan terapi dapat ditetapkan
 sebagai pelayanan terapi terstandar setelah dibuktikan
-keamanan, efektivitas, dan efisiensinya. (3) Penelitian berbasis pelayanan terapi hanya
+keamanan, efektivitas, dan efisiensinya.
+(3) Penelitian berbasis pelayanan terapi hanya
 diselenggarakan di Rumah Sakit yang ditetapkan oleh
 Menteri.
 (4) Dalam rangka memperluas kegiatan penelitian berbasis
 pelayanan terapi, Rumah Sakit dapat melaksanakan
-jejaring penelitian berbasis pelayanan. (5) Penelitian berbasis pelayanan terapi sebagaimana
+jejaring penelitian berbasis pelayanan.
+(5) Penelitian berbasis pelayanan terapi sebagaimana
 dimaksud pada ayat (3) harus ditakukan pemantauan dan
 evaluasi.
-(1)
-Pasal 392
-Pemilik produk dan pemberi layanan terapi berbasis sel, sel punca, dan/atau turunannya harus melakukan pemantauan keamanan penggunaan melalui
-Farmakovigilans pada setiap Pasien yang menggunakan
-produk berbasis sel, sel punca, dan/atau turtrnannya.
-Pemantauan keamanan penggunaan produk berbasis sel,
-sel punca, dan/atau turunannya sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan
-peraturan perundang-undangan.
-SK No 230666 A
-(2t
-Pasal 393
 
-FRESIDEN
-REFUBLIK INDONESIA
-- 166-
+Pasal 392
+(1) Pemilik produk dan pemberi layanan terapi berbasis sel,
+sel punca, dan/atau turunannya harus melakukan
+pemantauan keamanan penggunaan melalui
+Farmakovigilans pada setiap Pasien yang menggunakan
+produk berbasis sel, sel punca, dan/atau turunannya.
+(2) Pemantauan keamanan penggunaan produk berbasis sel,
+sel punca, dan/atau turunannya sebagaimana dimaksud
+pada ayat (1) dilaksanakan sesuai dengan ketentuan
+peraturan perundang-undangan.
+
 Pasal 393
 Fasilitas Pelayanan Kesehatan penyelenggara dapat
 menetapkan biaya pelayanan terapi terstandar.
+
 Pasal 394
 Ketentuan lebih lanjut mengenai kegiatan pelayanan dan
 penggunaan terapi berbasis sel dan/atau sel punca diatur
@@ -7277,16 +7248,17 @@ Bedah Plastik Rekonstruksi dan Estetika
 Pasal 395
 Pengaturan bedah plastik rekonstruksi dan estetika bertujuan
 untuk:
-a. meningkatkan upaya penyembuhan penyakit,
-memulihkan kesehatan, memperbaiki fungsi atau
-penampilan, dan meningkatkan kualitas hidup pasien;
-b. menjamin pemeliharaan mutu dan keselamatan pasien
-dalam pelayanan bedah plastik rekonstruksi dan estetika;
-dan
-c. mencegah kegiatan penyalahgunaan tindakan bedah
-plastik rekonstruksi dan estetika oleh pihak yang tidak
-berwenang dan tidak kompeten, serta untuk tujuan non
-medis.
+  a. meningkatkan upaya penyembuhan penyakit,
+  memulihkan kesehatan, memperbaiki fungsi atau
+  penampilan, dan meningkatkan kualitas hidup pasien;
+  b. menjamin pemeliharaan mutu dan keselamatan pasien
+  dalam pelayanan bedah plastik rekonstruksi dan estetika;
+  dan
+  c. mencegah kegiatan penyalahgunaan tindakan bedah
+  plastik rekonstruksi dan estetika oleh pihak yang tidak
+  berwenang dan tidak kompeten, serta untuk tujuan non
+  medis.
+
 Pasal 396
 (1) Bedah plastik rekonstmksi dan estetika hanya dapat
 dilakukan oleh Tenaga Medis yang mempunyai keahlian
@@ -7295,6 +7267,7 @@ dan kewenangan.
 bertentangan dengan nonna yang berlaku dalam
 masyarakat dan tidak ditujukan untuk mengubah
 identitas.
+
 Pasal 397
 (1) Pelayanan bedah plastik rekonstruksi dan estetika dapat
 diselenggarakan oleh Fasilitas pelayanan Kesehatan
@@ -7307,24 +7280,27 @@ Kesehatan sebagaimana dimaksud pada ayat (1) berupa
 sumber daya manusia, bangunan, prasarana, dan
 peralatan kesehatan.
 (3) Sumber daya manusia sebagaimana dimaksud pada
-ayat (21meliputi Tenaga Medis yang mempunyai keahlian
+ayat (2) meliputi Tenaga Medis yang mempunyai keahlian
 dan kewenangan serta didukung oleh Tenaga Kesehatan
 dan Tenaga Pendukung atau Penunjang Kesehatan.
-(41 Bangunan dan prasarana sebagaimana dimaksud pada
+(4) Bangunan dan prasarana sebagaimana dimaksud pada
 ayat (2) harus memenuhi aspek keselamatan, kesehatan,
 kenyamanan, kemudahan, efisien dalam penggunaan
 sumber daya, serta keserasian dan keselarasan dengan
-lingkungan. (5) Peralatan kesehatan sebagaimana dimaksud pada ayat (21
+lingkungan.
+(5) Peralatan kesehatan sebagaimana dimaksud pada ayat (2)
 harus memenuhi standar mutu, keamanan, dan
 keselamatan sesuai dengan ketentuan peraturan
 perundang-undangan yang disesuaikan dengan pelayanan
 yang diberikan.
+
 Pasal 398
 Pelayanan bedah plastik rekonstruksi dan estetika untuk
 menyesuaikan alat kelamin dengan jenis kelamin yang
 sebenarnya hanya dapat dilakukan berdasarkan indikasi medis
 dan dilakukan pada Rumah Sakit yang telah memenuhi
 persyaratan.
+
 Pasal 399
 (1) Tata cara pelayanan bedah plastik rekonstruksi dan
 estetika meliputi:
@@ -7340,7 +7316,7 @@ rekonstruksi dan estetika.
 (2) Dalam melaksanakan tata cara pelayanan bedah plastik
 rekonstrrrksi dan estetika sebagaimana dimaksud pada
 ayat (1), Fasilitas Pelayanan Kesehatan sebagaimana
-dimaksud dalam Pasal 397 ayat (1) harus menJrusun
+dimaksud dalam Pasal 397 ayat (1) harus menyusun
 standar prosedur operasional mengenai penyelenggaraan
 operasi bedah plastik rekonstruksi dan estetika sesuai
 pelayanan yang diberikan.
@@ -7352,9 +7328,10 @@ sebagaimana dimaksud dalam Pasal 397 ayat (1) harus
 dilakukan pencatatan dan pelaporan melalui Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
-Pasal 4O1
+
+Pasal 401
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-teknis penyelenggaraan bedah plastik rekonstmksi dan
+teknis penyelenggaraan bedah plastik rekonstruksi dan
 estetika sebagaimana dimaksud dalam Pasal 397 dan Pasal 399
 diatur dengan Peraturan Menteri.
 
@@ -7366,6 +7343,7 @@ Sediaan Farmasi, Alat Kesehatan, dan PKRT harus aman,
 berkhasiat/bermanfaat, bermutu, dan terjangkau serta
 memenuhi ketentuan jaminan produk halal sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 403
 Pengamanan Sediaan Farmasi, Alat Kesehatan, dan PKRT
 diselenggarakan untuk melindungi masyarakat dari bahaya
@@ -7373,23 +7351,19 @@ yang disebabkan oleh penggunaan Sediaan Farmasi,
 Alat Kesehatan, dan PKRT yang tidak memenuhi standar
 dan/atau persyaratan keamanan, khasiat/kemanfaatan, dan
 mutu.
+
 Pasal 404
 Pengamanan Sediaan Farmasi, Alat Kesehatan, dan PKRT
 diselenggarakan dengan memenuhi standar dan/atau persyaratan untuk menjamin keamanan,
 khasiat/kemanfaatan, dan mutu sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 405
 (1) standar dan/atau persyaratan sediaan Farmasi terdiri
 atas:
 a. farmakope lndonesia dan/atau standar lainnya yang
 diakui untuk Sediaan Farmasi berupa Obat dan
 Bahan Obat;
-SK No 230669 A
-b. farmakope
-
-PRESIDEN
-NEPUBLTK INDONESIA
--169-
 b. farmakope herbal Indonesia dan/atau standar
 lainnya yang diakui untuk Sediaan Farmasi berupa
 Obat Bahan Alam;
@@ -7408,29 +7382,24 @@ dan kodeks Kosmetik Indonesia. (3) Standar dan/atau persyaratan Alat Kesehatan b
 standar nasional Indonesia sesuai dengan ketentuan
 peraturan perundang-undangan, kompendium Alat
 Kesehatan, darrrf atau standar lainnya yang diakui.
-(41 Standar dan/atau persyaratan untuk PKRT dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
+(4) Standar dan/atau persyaratan untuk PKRT dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 (5) Pen5rusunan dan penetapan farmakope lndonesia,
 farmakope herbal Indonesia, dan kodeks Kosmetik
 Indonesia sebagaimana dimaksud pada ayat (1)
 dilaksanakan oleh Menteri dengan melibatkan
 kementerian / lembaga terkait. (6) Pen5rusunan dan penetapan standar lainnya yang diakui
 berupa metode analisis/monografi serta standar danf atau
-persyaratan lainnya sebagaimana dimaksud pada ayat (21
+persyaratan lainnya sebagaimana dimaksud pada ayat (2) 
 dilaksanakan oleh kepala lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
-pemerintahan di bidang pengawasan obat dan makanan. (71 Pen5rusunan dan penetapan standar dan/atau
+pemerintahan di bidang pengawasan obat dan makanan. (7) Pen5rusunan dan penetapan standar dan/atau
 persyaratan untuk Alat Kesehatan berupa kompendium Alat Kesehatan dilaksanakan oleh Menteri dengan
 melibatkan kementerian/ lembaga terkait.
+
 Pasal 406
 (1) Bahan baku yang digunakan dalam Sediaan Farmasi berupa Obat Bahan Alam, Suplemen Kesehatan,
 Obat Kuasi, dan Kosmetik sediaan tertentu berdasarkan kajian risiko harus memenuhi standar dan/atau
 persyaratan mutu sebagai bahan baku farmasi.
-SK No 230670 A
-(2) Sediaan
-
-FRESIDEN
-REPUBLIK INDONESIA
--t70-
 (2) Sediaan tertentu berdasarkan kajian risiko sebagaimana
 dimaksud pada ayat (1) merupakan sediaan Obat Bahan
 Alam, Suplemen Kesehatan, Obat Kuasi, dan Kosmetik
@@ -7441,7 +7410,7 @@ bahan baku farmasi.
 dilakukan oleh kepala lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
 pemerintahan di bidang pengawasan obat dan makanan.
-(41 Sediaan tertentu berdasarkan kajian risiko sebagaimana
+(4) Sediaan tertentu berdasarkan kajian risiko sebagaimana
 dimaksud pada ayat (2) ditetapkan oleh kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 urusan pemerintahan di bidang pengawasan obat dan
@@ -7451,6 +7420,7 @@ pada ayat (1) diatur dengan peraturan kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 urusan pemerintahan di bidang pengawasan obat dan
 makanan.
+
 Pasal 407
 (1) Dalam memenuhi standar dan/atau persyaratan
 keamanan, khasiat/kemanfaatan, dan mutu, pelaku
@@ -7469,7 +7439,7 @@ fungsi, dan kewenanga.n masing-masing.
 sebagaimana dimaksud pada ayat (2) dilakukan paling
 sedikit melalui kegiatan sampling dan pengujian
 berdasarkan analisis risiko.
-(41 Sampling sebagaimana dimaksud pada ayat (3)
+(4) Sampling sebagaimana dimaksud pada ayat (3)
 dilaksanakan secara rutin dan insidental.
 
 (5) Sampling yang dilaksanakan di sarana pengelola Sediaan
@@ -7482,9 +7452,10 @@ Sediaan Farmasi diatur dengan peraturan kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 urusan pemerintahan di bidang pengawasan obat dan
 makanan.
-(71 Ketentuan lebih lanjut mengenai sampling dan pengujian
+(7) Ketentuan lebih lanjut mengenai sampling dan pengujian
 sebagaimana dimaksud pada ayat (3) untuk Alat
 Kesehatan dan PKRT diatur dengan Peraturan Menteri.
+
 Pasal 408
 (1) Dalam upaya melindungi masyarakat dari Sediaan
 Farmasi, Alat Kesehatan, dan PKRT di peredaran yang
@@ -7498,7 +7469,7 @@ urusan pemerintahan di bidang pengawasan obat dan
 makanan.
 (3) Pemilik izin edar Alat Kesehatan dan PKRT wajib
 melakukan Vigilans dan melaporkan kepada Menteri.
-(41 Pelaporan Farmakovigilans dan vigilans dilakukan melalui
+(4) Pelaporan Farmakovigilans dan vigilans dilakukan melalui
 Sistem Informasi Kesehatan yang terintegrasi dengan
 Sistem Informasi Kesehatan Nasional. (5) Dalam melakukan Farmakovigilans dan Vigilans, pemilik
 izin edar dapat melibatkan Fasilitas Pelayanan Kesehatan. (6) Dalam rangka pelaksanaan Farmakovigilans dan Vigilans
@@ -7524,6 +7495,7 @@ merupakan bagian dari penyelenggaraan keselamatan
 Pasien di Fasilitas Pelayanan Kesehatan. (3) Pelaporan sebagaimana dimaksud pada ayat (2) dilakukan
 melalui Sistem Informasi Kesehatan yang terintegrasi
 dengan Sistem lnformasi Kesehatan Nasional.
+
 Pasal 410
 (1) Ketentuan lebih lanjut mengenai pelaksanaan
 Farmakovigilans sebagaimana dimaksud dalam pasal 408
@@ -7534,7 +7506,8 @@ makanan.
 (2) Ketentuan lebih lanjut mengenai Vigilans sebagaimana
 dimaksud dalam Pasal 408 ayat (1) huruf b diatur dengan
 Peraturan Menteri.
-Pasal 41 1
+
+Pasal 411
 (1) Dalam hal pemihk izin edar dan/atau pelaku usaha yang
 memproduksi dan latau mengedarkan Sediaan Farmasi,
 Alat Kesehatan, dan/atau PKRT menemukan Sediaan
@@ -7549,12 +7522,7 @@ Menteri dan peraturan kepala lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
 pemerintahan di bidang pengawasan obat dan makanan
 sesuai dengan kewenangannya.
-Pasal4L2...
-SK No 230673 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--r73-
 Pasal 412
 (1) Pemusnahan dilaksanakan terhadap Sediaan Farmasi,
 Alat Kesehatan, dan/atau PKRT yang:
@@ -7575,46 +7543,47 @@ memiliki izin edar, dicabut izin edarnya, izin edar berakhir
 dan tidak dilakukan perpanjangan, dan kedaluwarsa
 sebagaimana dimaksud pada ayat (1) huruf a sampai
 dengan huruf e wajib melakukan pemusnahan Sediaan
-Farmasi, Alat Kesehatan, dan/atau PKRT sesuai standar. (3) Pemusnahan Sediaan Farmasi, Alat Kesehatan, dan/atau
+Farmasi, Alat Kesehatan, dan/atau PKRT sesuai standar.
+(3) Pemusnahan Sediaan Farmasi, Alat Kesehatan, dan/atau
 PKRT yang berhubungan dengan tindak pidana di bidang
 Kesehatan sebagaimana dimaksud pada ayat (1) huruf f
 dilaksanakan sesuai dengan ketentuan peraturan
 pertrndang-undangan.
-(41 Pemusnahan Sediaan Farmasi, Alat Kesehatan, dan/atau
+(4) Pemusnahan Sediaan Farmasi, Alat Kesehatan, dan/atau
 PKRT dilaksanakan dengan memperhatikan dampak
 terhadap Kesehatan manusia serta upaya pelestarian
-lingkungan hidup. (5) Ketentuan lebih lanjut mengenai pemusnahan Sediaan
+lingkungan hidup.
+(5) Ketentuan lebih lanjut mengenai pemusnahan Sediaan
 Farmasi, Alat Kesehatan, dan/atau PKRT diatur dengan
 Peraturan Menteri dan peraturan kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 urusan pemerintahan di bidang pengawasan obat dan
 makanan sesuai dengan kewenangannya.
+
 Pasal 413
 (1) Produksi Sediaan Farmasi, Alat Kesehatan, dan/atau
 PKRT hanya dapat dilakukan oleh fasilitas produksi
 Sediaan Farmasi, Alat Kesehatan, dan/atau PKRT yang
 memiliki perizinan berusaha sesuai dengan ketentuan
 peraturan perundang-undangan.
-SK No 230674 A
-(2) Perizinan
-
-PRESIDEN
-REPUBUK TNDONESIA
--t74-
 (2) Perizinan berusaha sebagaimana dimaksud pada ayat (1)
 tidak berlaku bagi usaha jamu gendong, usaha jamu
-racikan, dan fasilitas produksi Obat penggunaan khusus. (3) Produksi Sediaan Farmasi, Alat Kesehatan, dan/atau
+racikan, dan fasilitas produksi Obat penggunaan khusus.
+(3) Produksi Sediaan Farmasi, Alat Kesehatan, dan/atau
 PKRT wajib memenuhi ketentuan cara pembuatan yang
-baik sesuai dengan ketentuan peraturan perundangundangan.
+baik sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 414
 Sediaan Farmasi, Alat Kesehatan, dan PKRT hanya dapat
 diedarkan setelah memperoleh perizinan berusaha berupa
-izin edar sesuai dengan ketentuan peraturan perundangundangan.
+izin edar sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 415
 Peredaran Sediaan Farmasi dan Alat Kesehatan, terdiri atas
 kegiatan:
 a. distribusi; dan
 b. penyerahan.
+
 Pasal 416
 (1) Distribusi Sediaan Farmasi dan Alat Kesehatan
 sebagaimana dimaksud dalam Pasal 415 huruf a hanya
@@ -7631,11 +7600,12 @@ sesuai dengan cara distribusi yang baik sesuai dengan
 ketentuan peraturan perundang-undangan. (4) Ketentuan lebih lanjut mengenai fasilitas pengelolaan
 kefarmasian sebagaimana dimaksud pada ayat (1)
 diatur dengan Peraturan Menteri.
-Pasal 4I7
+
+Pasal 417
 (1) Penyerahan Sediaan Farmasi dan Alat Kesehatan
 sebagaimana dimaksud dalam Pasal 415 huruf b hanya
 dapat dilakukan oleh fasilitas pelayanan kefarmasian dan
-fasilitas lain yang telah memiliki perizinan berusaha sesuai dengan ketentuan peraturan perundangundangan.
+fasilitas lain yang telah memiliki perizinan berusaha sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Penyerahan Sediaan Farmasi sebagaimana dimaksud
 pada ayat (1) berupa Obat Bahan Alam dan Suplemen
 Kesehatan untuk keperluan khusus hanya dapat
@@ -7648,10 +7618,12 @@ Peraturan Menteri dan peraturan kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 urusan pemerintahan di bidang pengawasan obat dan
 makanan sesuai dengan kewenangannya.
+
 Pasal 418
 Peredaran Sediaan Farmasi dan Alat Kesehatan dapat
 dilakukan dengan memanfaatkan sistem elektronik yang
 terintegrasi dengan Sistem Informasi Kesehatan Nasional.
+
 Pasal 419
 (1) Ketentuan mengenai upaya pemastian mutu dan
 keamanan Alat Kesehatan dan PKRT, cara pembuatan
@@ -7667,6 +7639,7 @@ Sediaan Farmasi, dan pengawasan peredaran Sediaan
 Farmasi dengan memanfaatkan sistem elektronik diatur dengan peraturan kepala lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
 pemerintahan di bidang pengawasan obat dan makanan.
+
 Pasal 420
 (1) Sediaan Farmasi, Alat Kesehatan, dan pKRT yang diimpor
 dan diekspor harus memenuhi standar dan persyaratan
@@ -7674,7 +7647,7 @@ keamanan, khasiat/kemanfaatan, dan mutu. (2) Impor dan/atau ekspor Sediaan Farma
 dan PKRT hanya dapat dilakukan oleh pelaku usaha
 yang telah memiliki perizinan berusaha sesuai dengan
 ketentuan peraturan perundang-undangan.
-(3) Selain pelaku usaha sebagaimana dimaksud pada ayat (21,
+(3) Selain pelaku usaha sebagaimana dimaksud pada ayat (2) ,
 lembaga penelitian dapat mengimpor psikotropika,
 prekursor farmasi, dan Alat Kesehatan untuk kepentingan
 ilmu pengetahuan setelah mendapat persetujuan dari
@@ -7688,7 +7661,8 @@ peraturan perundang-undangan.
 sebagaimana dimaksud pada ayat (3) serta Sediaan
 Farmasi dan Alat Kesehatan sebagaimana dimaksud pada
 ayat (4) dilarang untuk diedarkan.
-Pasal421
+
+Pasal 421
 (1) Sediaan Farmasi, Alat Kesehatan, dan PKRT yang diimpor
 harus memiliki perizinan berusaha berupa izin edar sesuai
 dengan ketentuan peraturan perundang-undangan. (2) Dalam keadaan tertentu, Sediaan Farmasi dan Alat
@@ -7696,10 +7670,12 @@ Kesehatan dapat diimpor tanpa memiliki perizinan
 berusaha bempa izin edar melalui mekanisme jalur
 khusus yang dilaksanakan sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 422
 Impor dan/atau ekspor Sediaan Farmasi, Alat Kesehatan, dan
 PKRT dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 423
 (1) Sediaan Farmasi, Alat Kesehatan, dan PKRT wajib
 memiliki penandaan yang objektif, lengkap, dan tidak
@@ -7707,6 +7683,7 @@ menyesatkan.
 (2) Penandaan sebagaimana dimaksud pada ayat (1)
 merupakan informasi mengenai produk dalam bentuk
 gambar, warna, tulisan, dan/atau bentuk lain.
+
 Pasal 424
 (1) Promosi dan/atau iklan Sediaan Farmasi, Alat Kesehatan,
 dan PKRT yang diedarkan wajib memuat keterangan
@@ -7721,10 +7698,11 @@ Tenaga Medis atau Tenaga Kesehatan. (3) Sediaan Farmasi dan Alat Kesehatan yang 
 sebagaimana dimaksud pada ayat (2) hanya dapat
 dipromosikan dan/atau diiklankan pada media ilmiah
 untuk Tenaga Medis dan Tenaga Kesehatan.
-(41 Penandaan, publikasi, dan iklan Sediaan Farmasi untuk
+(4) Penandaan, publikasi, dan iklan Sediaan Farmasi untuk
 narkotika, psikotropika, dan prekursor farmasi
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 425
 (1) Ketentuan lebih lanjut mengenai penandaan, promosi,
 dan iklan Alat Kesehatan dan PKRT diatur dengan
@@ -7734,13 +7712,14 @@ dan iklan Sediaan Farmasi diatur dengan peraturan
 kepala lembaga pemerintah nonkementerian yang
 menyelenggarakan urusan pemerintahan di bidang
 pengawasan obat dan makanan.
+
 Pasal 426
 (1) Setiap pemilik izin eda:. dan/atau pelaku usaha di bidang
 Sediaan Farmasi, Alat Kesehatan, dan PKRT yang:
 a. tidak menyelenggarakan upaya pemastian mutu dan
 keamanan produk sejak kegiatan pembuatan sampai
 dengan peredaran sebagaimana dimaksud dalam
-Pasal 4O7 ayat (Ll;
+Pasal 407 ayat (1);
 b. tidak melakukan Farmakovigilans dan Vigilans
 sebagaimana dimaksud dalam Pasal 408 ayat (2) dan
 ayat (3);
@@ -7771,38 +7750,36 @@ Pasal 424 ayat(ll,
 dikenakan sanksi administratif.
 (2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
 berupa:
-a. peringatan;
-b. penghentian sementara kegiatan usaha melalui
-pembekuan perizinan berusaha;
-c. pengenaan denda administratif;
-d. pengenaa.n daya paksa polisional; dan/atau
-e. pencabutan perizinan berusaha. (3) Pengenaan daya paksa polisional sebagaimana dimaksud
-pada ayat (21huruf d terdiri atas:
-a. penarikan dari peredaran;
-b. ganti rugi;
-c. pemusnahan;
-d. penutupan atau pemblokiran sistem elektronik
-dan/atau media internet lain; dan /atau
-e. penutupan akses permohonan perizinan berusaha.
-(41 Penarikan dari peredaran sebagaimana dimaksud pada
+  a. peringatan;
+  b. penghentian sementara kegiatan usaha melalui
+  pembekuan perizinan berusaha;
+  c. pengenaan denda administratif;
+  d. pengenaan daya paksa polisional; dan/atau
+  e. pencabutan perizinan berusaha.
+(3) Pengenaan daya paksa polisional sebagaimana dimaksud
+pada ayat (2) huruf d terdiri atas:
+  a. penarikan dari peredaran;
+  b. ganti rugi;
+  c. pemusnahan;
+  d. penutupan atau pemblokiran sistem elektronik
+  dan/atau media internet lain; dan /atau
+  e. penutupan akses permohonan perizinan berusaha.
+(4) Penarikan dari peredaran sebagaimana dimaksud pada
 ayat (3) huruf a dilaksanakan oleh dan menjadi tanggung
 jawab pemilik izin edar dan/atau pelaku usaha yang
 memproduksi dan latau mengedarkan Sediaan Farmasi,
-Alat Kesehatan, dan PKRT. (5) Sanksi administratif sebagaimana dimaksud pada ayat (2)
+Alat Kesehatan, dan PKRT.
+(5) Sanksi administratif sebagaimana dimaksud pada ayat (2)
 diberikan secara kumulatif atau bertahap berdasarkan
 tingkat risiko pelanggaran sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 427
 Masyarakat dapat berperan serta dalam mewujudkan
 pelindungan dari bahaya yang disebabkan oleh penggunaan
 Sediaan Farmasi, Alat Kesehatan, dan PKRT yang tidak tepat
 dan/atau tidak memenuhi standar dan/atau persyaratan.
-SK No 230679 A
-Pasal428...
 
-FRESIDEN
-REPUBLIK TNDONESIA
--r79-
 Pasal 428
 (1) Praktik kefarmasian meliputi produksi, termasuk
 pengendalian mutu, pengadaan, penyimpanan,
@@ -7812,12 +7789,12 @@ Farmasi, serta pengelolaan dan pelayanan kefarmasian.
 harus dilakukan oleh tenaga kefarmasian sesuai dengan
 ketentuan peraturan perundang-undangan.
 (3) Dalam menjalankan praktik kefarmasian sebagaimana
-dimaksud pada ayat (21tenaga kefarmasian dapat dibantu
+dimaksud pada ayat (2) tenaga kefarmasian dapat dibantu
 oleh Tenaga Pendukung atau Penunjang Kesehatan.
 (4) Dalam kondisi tertentu, praktik kefarmasian secara
 terbatas pada fasilitas pelayanan kefarmasian dapat
 dilakukan oleh Tenaga Medis dan Tenaga Kesehatan.
-(5) Kondisi tertentu sebagaimana dimaksud pada ayat (41
+(5) Kondisi tertentu sebagaimana dimaksud pada ayat (4) 
 meliputi:
 a. ketiadaan tenaga kefarmasian di suatu wilayah;
 b. kebutuhan program pemerintah;
@@ -7827,7 +7804,7 @@ d. KLB, Wabah, dan darurat bencana lainnya.
 dimaksud pada ayat (4) meliputi dokter, dokter gigi,
 perawat, atau bidan yang memberikan pelayanan
 kefarmasian dalam batas tertentu.
-(71 Ketentuan lebih lanjut mengenai praktik kefarmasian
+(7) Ketentuan lebih lanjut mengenai praktik kefarmasian
 secara terbatas diatur dengan Peraturan Menteri.
 
 Bagian Kedua Puluh Satu
@@ -7875,6 +7852,7 @@ sintetis yang jenis dan sifatnya sama atau serupa yang
 dikonsumsi dengan cara dipanaskan menggunakan alat
 pemanas elektronik kemudian dihisap termasuk dalam
 ketentuan Peraturan Pemerintah ini.
+
 Pasal 430
 Penyelenggaraan pengamanan zat adiktif berupa produk
 tembakau dan rokok elektronik bertujuan untuk:
@@ -7893,7 +7871,8 @@ buruk Kesehatan, ekonomi, dan lingkungan; dan
 e. mendorong dan menggerakkan masyarakat untuk aktif
 terlibat dalam upaya pengendalian produk tembakau dan
 rokok elektronik.
-Pasal 43 1
+
+Pasal 431
 (1) Setiap Orang yang memproduksi, mengimpor, dan/atau
 mengedarkan produk tembakau wajib:
 a. memiliki perizinan berusaha sesuai dengan
@@ -7926,12 +7905,6 @@ b. mematuhi batas maksimal kadar nikotin;
 c. melakukan pengujian kandungan kadar nikotin
 untuk setiap varian yang diproduksi dan/atau
 diimpor; dan
-SK No 230682 A
-d. melaporkan
-
-PRESIDEN
-REPUBLTK INDONESIA
--t82-
 d. melaporkan hasil pengujian kadar nikotin
 sebagaimana dimaksud dalam huruf c, daftar
 kandungan, dan bahan tambahan kepada lembaga
@@ -7963,31 +7936,33 @@ menyelenggarakan koordinasi, sinkronisasi, dan
 pengendalian urusan kementerian dalam penyelenggaraan
 pemerintahan di bidang pembangunan manusia dan
 kebudayaan.
-(1)
+
 Pasal 432
-Setiap Orang yang memproduksi produk tembakau dan
+(1) Setiap Orang yang memproduksi produk tembakau dan
 rokok elektronik dilarang menggunakan bahan tambahan
 kecuali telah dapat dibuktikan secara ilmiah bahan
 tambahan tersebut tidak berbahaya bagi Kesehatan.
-Bahan tambahan yang dilarang sebagaimana dimaksud
+(2) Bahan tambahan yang dilarang sebagaimana dimaksud
 pada ayat (1) ditetapkan oleh Menteri.
-Dalam rangka pengawasan terhadap penggunaan bahan
+(3) Dalam rangka pengawasan terhadap penggunaan bahan
 tambahan yang dilarang sebagaimana dimaksud pada
 ayat (1) dilakukan:
-a. pengujian pada saat sebelum beredar; dan b. verifikasi selama beredar.
-(21
-(3)
+  a. pengujian pada saat sebelum beredar; dan
+  b. verifikasi selama beredar.
 (4) Pengujian dan verifikasi sebagaimana dimaksud pada
 ayat (3) harus dilakukan di laboratorium terakreditasi
-yang berbeda. (5) Hasil pengujian dan verifikasi sebagaimana dimaksud
+yang berbeda.
+(5) Hasil pengujian dan verifikasi sebagaimana dimaksud
 pada ayat (3) dilaporkan kepada lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan
-pemerintahan di bidang pengawasan obat dan makanan. (6) Setiap Orang yang memproduksi produk tembakau dan
+pemerintahan di bidang pengawasan obat dan makanan.
+(6) Setiap Orang yang memproduksi produk tembakau dan
 rokok elektronik yang menggunakan bahan tambahan
 sebagaimana dimaksud pada ayat (1) dikenakan sanksi
 administratif oleh menteri yang menyelenggarakan urusan
 pemerintahan di bidang perdagangan berupa penarikan
 produk atas biaya produsen.
+
 Pasal 433
 (1) Setiap Orang yang memproduksi dan latau mengimpor
 produk tembakau berupa rokok putih mesin dilarang
@@ -8034,14 +8009,17 @@ pendidikan dan tempat bermain anak; dan f. menggunakan jasa situs web atau aplik
 komersial dan media sosial. (2) Ketentuan larangan sebagaimana dimaksud pada ayat (1)
 huruf f bagi jasa situs web atau aplikasi elektronik
 komersial dikecualikan jika terdapat verifikasi umur.
+
 Pasal 435
 Setiap Orang yang memproduksi dan I atau mengimpor produk
 tembakau dan rokok elektronik harus memenuhi standardisasi
 kemasan yang terdiri atas desain dan tulisan.
+
 Pasal 436
 Peringatan Kesehatan merupakan tulisan dan gambar pada
 kemasan yang memberikan informasi dan edukasi mengenai
 bahaya merokok.
+
 Pasal 437
 (1) Setiap Orang yang memproduksi, memasukkan ke dalam
 wilayah Negara Kesatuan Republik Indonesia, dan/atau
@@ -8056,24 +8034,18 @@ kemasan cairan nikotin isi ulang rokok elektronik;
 dan
 c. dicantumkan pada bagian atas kemasan sisi lebar
 bagian depan dan belakang.
-SK No 230377 A
-(3) Setiap
-
-PRESIDEN
-REPUBLIK INOONESIA
--185-
 (3) Setiap 1 (satu) varian produk tembakau dan rokok
 elektronik wajib dicantumkan gambar dan tulisan
 peringatan Kesehatan yang terdiri atas 5 (lima) jenis
 yang berbeda, dengan porsi masing-masing
 2Oo/o (dua puluh persen) dari jumlah setiap varian produk
 tembakau dan rokok elektronik.
-(41 Ketentuan sebagaimana dimaksud pada ayat (3), tidak
+(4) Ketentuan sebagaimana dimaksud pada ayat (3), tidak
 berlaku bagi industri produk tembakau nonpengusaha
 kena pajak yang total jumlah produksinya tidak lebih dari
 24.OOO.O0O (dua puluh empat juta) batang pertahun.
 (5) Industri produk tembakau sebagaimana dimaksud pada
-ayat (41 wajib mencantumkan paling sedikit 2 (dua) jenis
+ayat (4) wajib mencantumkan paling sedikit 2 (dua) jenis
 gambar dan tulisan peringatan Kesehatan yang ditetapkan
 dalam Peraturan Menteri.
 (6) Ketentuan lebih lanjut mengenai gambar dan
@@ -8082,6 +8054,7 @@ ayat (2) sampai dengan ayat (5) diatur dengan
 Peraturan Menteri setelah berkoordinasi dengan menteri
 yang menyelenggarakan urusa.n pemerintahan di bidang
 keuangan negara.
+
 Pasal 438
 (1) Gambar dan tulisan peringatan Kesehatan sebagaimana
 dimaksud dalam Pasal 437 dicantumkan pada setiap
@@ -8093,29 +8066,24 @@ peringatan Kesehatan.
 (3) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
 berlaku bagi rokok klobot, rokok kelembak menyan, dan
 cerutu kemasan batangan.
-(41 Pencantuman gambar dan tulisan sebagaimana dimaksud
+(4) Pencantuman gambar dan tulisan sebagaimana dimaksud
 pada ayat (1) harus memenuhi persyaratan sebagai
 berikut:
-a. dicantumkan pada bagian atas kemasan sisi lebar
-bagian depan dan belakang masing-masing seluas
-5Oo/o (lima puluh persen), diawali dengan kata
-"Peringatan" dengan menggunakan huruf berwarna
-kuning dengan dasar hitam, harus dicetak dengan
-jelas dan mencolok, baik sebagian atau seluruhnya;
-b. gambar sebagaimana dimaksud dalam huruf a harus
-dicetak berwarna; dan
-c. Jenls...
-SK No 230686 A
-
-FRESIDEN
-REPUBLIK INDONESIA
-- 186-
-c. jenis huruf harus menggunakan huruf arial bold dan
-proporsional dengan kemasan, tulisan warna kuning
-di atas latar belakang hitam.
+  a. dicantumkan pada bagian atas kemasan sisi lebar
+  bagian depan dan belakang masing-masing seluas
+  50% (lima puluh persen), diawali dengan kata
+  "Peringatan" dengan menggunakan huruf berwarna
+  kuning dengan dasar hitam, harus dicetak dengan
+  jelas dan mencolok, baik sebagian atau seluruhnya;
+  b. gambar sebagaimana dimaksud dalam huruf a harus
+  dicetak berwarna; dan
+  c. jenis huruf harus menggunakan huruf arial bold dan
+  proporsional dengan kemasan, tulisan warna kuning
+  di atas latar belakang hitam.
 (5) Gambar dan tulisan peringatan Kesehatan sebagaimana
-dimaksud pada ayat (41tidak boleh tertutup oleh apa pun
-sesuai dengan ketentuan peraturan perundangundangan.
+dimaksud pada ayat (4) tidak boleh tertutup oleh apa pun
+sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 439
 (1) Kepala lembaga pemerintah nonkementerian yang
 menyelenggarakan urusan pemerintahan di bidang
@@ -8124,6 +8092,7 @@ terhadap pencantuman peringatan Kesehatan pada
 produk tembakau dan rokok elektronik.
 (2) Pengawasan sebagaimana dimaksud pada ayat (1)
 dilaksanakan berkoordinasi dengan instansi terkait.
+
 Pasal 440
 Setiap Orang yang memproduksi, memasukkan ke dalam
 wilayah Negara Kesatuan Republik Indonesia, dan/atau
@@ -8134,7 +8103,8 @@ administratif berupa:
 a. penarikan produk tembakau dan rokok elektronik;
 dan/atau
 b. denda administratif.
-Pasal 44 1
+
+Pasal 441
 (1) Setiap Orang yang memproduksi dan latau mengimpor
 produk tembakau wajib mencantumkan informasi pada
 label setiap kemasan dengan penempatan yang jelas dan
@@ -8169,7 +8139,7 @@ serta nama dan alamat produsen; dan
 d. dilarang mencantumkan keterangan atau tanda
 apa pun yang menyesatkan atau kata yang bersifat
 promotif.
-(41 Ketentuan sebagaimana dimaksud pada ayat (2) huruf b
+(4) Ketentuan sebagaimana dimaksud pada ayat (2) huruf b
 dan ayat (3) tidak berlaku bagi:
 a. produk tembakau yang sudah mendapatkan sertifikat
 merek sesuai dengan ketentuan peraturan
@@ -8185,6 +8155,7 @@ memenuhi kewajiban atau melanggar ketentuan
 sebagaimana dimaksud pada ayat (1) sampai dengan
 ayat (3) dikenai sanksi administratif sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 442
 (1) Kawasan tanpa rokok merupakan ru€rngan atau area yang
 dinyatakan dilarang untuk kegiatan merokok atau
@@ -8197,6 +8168,7 @@ untuk kegiatan penjualan.
 (3) Larangan kegiatan memproduksi produk tembakau dan
 rokok elektronik tidak berlaku bagi tempat yang
 digunakan untuk kegiatan produksi.
+
 Pasal 443
 (1) Pemerintah Daerah wajib menetapkan dan
 mengimplementasikan kawasan tanpa rokok di
@@ -8224,18 +8196,14 @@ peraturan perundang-undangan.
 pada ayat (3) merupakan ruang terbuka, terpisah dari
 bangunan utama, jauh dari lalu lalang orang, dan jauh
 dari pintu keluar masuk.
+
 Pasal 444
 Dalam rangka peningkatan kepatuhan Pemerintah Daerah
 dalam implementasi kawasan tanpa rokok, Pemerintah pusat
 melakukan pemantauan dengan menggunakan Sistem
 Informasi Kesehatan yang terintegrasi dengan sistem Informasi
 Kesehatan Nasional.
-SK No230689A
-Pasal445...
 
-FRESIDEN
-REPUBLIK INDONESIA
--189-
 Pasal 445
 (1) Menteri dapat memberikan penghargaan kepada
 Pemerintah Daerah yang berhasil mengimplementasikan
@@ -8244,6 +8212,7 @@ kawasan tanpa rokok.
 dimaksud pada ayat (1), Menteri berkoordinasi dengan
 menteri yang menyelenggarakan urusan pemerintahan
 dalam negeri.
+
 Pasal 446
 (1) Setiap Orang yang memproduksi, mengimpor, dan/atau
 mengedarkan produk tembakau dan rokok elektronik
@@ -8255,6 +8224,7 @@ rokok elektronik pada media sosial berbasis digital
 berdasarkan rekomendasi kementerian yang
 menyelenggarakan urusan pemerintahan di bidang
 kesehatan.
+
 Pasal 447
 (1) Pengendalian iklan produk tembakau dan rokok elektronik
 pada situs web dan latau aplikasi elektronik komersial
@@ -8294,6 +8264,7 @@ komersial yang tidak sesuai dengan ketentuan
 sebagaimana dimaksud pada ayat (1) berdasarkan
 rekomendasi kementerian yang menyelenggarakan urusan
 pemerintahan di bidang kesehatan.
+
 Pasal 448
 (1) Pengendalian iklan produk tembakau dan rokok elektronik
 pada tempat penjualan dilakukan sebagai berikut:
@@ -8325,6 +8296,7 @@ bentuk tokoh iklan; dan j. tidak bertentangan dengan norma yang berlaku
 dalam masyarakat.
 (2) Ketentuan sebagaimana dimaksud pada ayat (1) huruf a
 hanya berlaku bagi pasar swalayan modern.
+
 Pasal 449
 (1) Pengendalian iklan produk tembakau dan rokok elektronik
 pada media luar ruang dilakukan sebagai berikut:
@@ -8359,18 +8331,13 @@ wanita hamil;
 bentuk tokoh iklan; dan/atau
 m. tidak bertentangan dengan norma yang berlaku
 dalam masyarakat.
-SK No nA692 A
-(2) Media
-
-PRESIDEN
-REPUBLIK TNDONESIA
--t92-
 (2) Media iklan luar ruang berupa videotron hanya dapat
 ditayangkan pada pukul 22.OO sampai dengan
 pukul 05.00 waktu setempat.
 (3) Pengaturan lebih lanjut iklan produk tembakau dan
 rokok elektronik pada media luar ruang diatur oleh
 Pemerintah Daerah.
+
 Pasal 450
 (1) Pemerintah Pusat melakukan pengawasan terhadap iklan
 produk tembakau dan rokok elektronik pada media sosial
@@ -8382,75 +8349,78 @@ penurunan iklan terhadap iklan produk tembakau dan
 rokok elektronik pada media luar ruang dan tempat
 penjualan yang tidak sesuai dengan ketentuan
 sebagaimana dimaksud dalam Pasal 448 dan Pasal 449.
+
 Pasal 451
 (1) Pengendalian iklan produk tembakau dan rokok elektronik
 pada media cetak dan media penyiaran berupa televisi
 dilakukan sebagai berikut:
-a. mencantumkan peringatan Kesehatan untuk iklan
-bergerak di media penyiaran berupa televisi harus
-berukuran full screen selama paling singkat
-10% (sepuluh persen) dari total durasi iklan dan tidak
-kurang dari 2 (dua) detik atau untuk iklan tidak
-bergerak di media penyiaran berupa televisi atau
-media cetak harrrs berukuran sekurang-kurangnya
-15% (lima belas persen) dari total luas iklan;
-b. mencantumkan tulisan "Dilarang menjual dan
-memberi kepada orang di bawah 2l tahun dan
-perempuan hamil";
-c. tidak memperagakan, menggunakan, dan/atau
-menampilkan wujud atau bentuk produk tembakau
-dan rokok elektronik, atau sebutan lain yang dapat
-diasosiasikan dengan merek produk tembakau dan
-rokok elektronik;
-d. tidak mencantumkan nama produk merupakan
-produk tembakau atau rokok elektronik;
-e. tidak menggambarkan atau menyarankan bahwa
-mengonsumsi produk tembakau dan rokok elektronik
-memberikan manfaat bagi Kesehatan;
-f. tidak menggunakan kata atau kalimat yang
-menyesatkan dan/atau berupa ajakan untuk
-mengonsumsi produk tembakau dan rokok
-elektronik;
-g. tidak menampilkan anak, remaja, danf atau wanita
-hamil dalam bentuk gambar dan/atau tulisan; h. tidak ditujukan terhadap anak, remaja, dan/atau
-wanita hamil;
-i. tidak menggunakan kartun atau animasi sebagai
-bentuk tokoh iklan; dan j. tidak bertentangan dengan norma yang berlaku
-dalam masyarakat.
-Pengendalian iklan produk tembakau dan rokok elektronik
+  a. mencantumkan peringatan Kesehatan untuk iklan
+  bergerak di media penyiaran berupa televisi harus
+  berukuran full screen selama paling singkat
+  10% (sepuluh persen) dari total durasi iklan dan tidak
+  kurang dari 2 (dua) detik atau untuk iklan tidak
+  bergerak di media penyiaran berupa televisi atau
+  media cetak harrrs berukuran sekurang-kurangnya
+  15% (lima belas persen) dari total luas iklan;
+  b. mencantumkan tulisan "Dilarang menjual dan
+  memberi kepada orang di bawah 2l tahun dan
+  perempuan hamil";
+  c. tidak memperagakan, menggunakan, dan/atau
+  menampilkan wujud atau bentuk produk tembakau
+  dan rokok elektronik, atau sebutan lain yang dapat
+  diasosiasikan dengan merek produk tembakau dan
+  rokok elektronik;
+  d. tidak mencantumkan nama produk merupakan
+  produk tembakau atau rokok elektronik;
+  e. tidak menggambarkan atau menyarankan bahwa
+  mengonsumsi produk tembakau dan rokok elektronik
+  memberikan manfaat bagi Kesehatan;
+  f. tidak menggunakan kata atau kalimat yang
+  menyesatkan dan/atau berupa ajakan untuk
+  mengonsumsi produk tembakau dan rokok
+  elektronik;
+  g. tidak menampilkan anak, remaja, danf atau wanita
+  hamil dalam bentuk gambar dan/atau tulisan;
+  h. tidak ditujukan terhadap anak, remaja, dan/atau
+  wanita hamil;
+  i. tidak menggunakan kartun atau animasi sebagai
+  bentuk tokoh iklan; dan
+  j. tidak bertentangan dengan norma yang berlaku
+  dalam masyarakat.
+(2) Pengendalian iklan produk tembakau dan rokok elektronik
 pada media penyiaran berupa radio dilakukan sebagai
 berikut:
-a. menyampaikan peringatan Kesehatan dengan suara
-yang jelas;
-b. tidak menyebutkan kata atau kalimat yang
-menyesatkan dan/atau berupa ajakan untuk
-mengonsumsi produk tembakau dan rokok
-elektronik; dan
-c. durasi iklan paling lama 1 (satu) menit.
-Bentuk peringatan Kesehatan sebagaimana dimaksud
+  a. menyampaikan peringatan Kesehatan dengan suara
+  yang jelas;
+  b. tidak menyebutkan kata atau kalimat yang
+  menyesatkan dan/atau berupa ajakan untuk
+  mengonsumsi produk tembakau dan rokok
+  elektronik; dan
+  c. durasi iklan paling lama 1 (satu) menit.
+(3) Bentuk peringatan Kesehatan sebagaimana dimaksud
 pada ayat (1) huruf a ditetapkan oleh Menteri.
-Selain memenuhi ketentuan sebagaimana dimaksud pada
+(4) Selain memenuhi ketentuan sebagaimana dimaksud pada
 ayat (1), iklan produk tembakau dan rokok elektronik di
 media cetak wajib memenuhi ketentuan:
-a. tidak diletakkan di sampul atau halaman depan dan
-belakang media cetak;
-b. tidak diletakkan satu halaman dengan iklan
-makanan dan minuman;
-c. luas kolom iklan tidak memenuhi seluruh halaman;
-dan
-d. tidak dimuat di media cetak untuk anak, remaja, dan
-perempuErn.
-Selain memenuhi ketentuan sebagaimana dimaksud pada
+  a. tidak diletakkan di sampul atau halaman depan dan
+  belakang media cetak;
+  b. tidak diletakkan satu halaman dengan iklan
+  makanan dan minuman;
+  c. luas kolom iklan tidak memenuhi seluruh halaman;
+  dan
+  d. tidak dimuat di media cetak untuk anak, remaja, dan
+  perempuErn.
+(5) Selain memenuhi ketentuan sebagaimana dimaksud pada
 ayat (1), iklan di media penyiaran berupa televisi dan radio
 hanya dapat ditayangkan atau disiarkan setelah
-pukul 22.OO sampai dengan pukul 05.00 waktu setempat.
-Pimpinan lembaga yang menyelenggarakan urusan di bidang penyiaran melakukan pengawasan dan penindakan terhadap pelanggaran ketentuan
-pengendalian iklan produk tembakau dan rokok elektronik pada media penyiaran berupa televisi dan radio
+pukul 22.00 sampai dengan pukul 05.00 waktu setempat.
+(6) Pimpinan lembaga yang menyelenggarakan urusan di
+bidang penyiaran melakukan pengawasan dan penindakan
+terhadap pelanggaran ketentuan
+pengendalian iklan produk tembakau dan rokok elektronik
+pada media penyiaran berupa televisi dan radio
 sebagaimana dimaksud pada ayat (1), ayat (2), dan
 ayat (5).
-(71 Pimpinan...
-(s)
-
 (7) Pimpinan lembaga yang menyelenggarakan urusan di
 bidang media cetak melakukan pengawasan dan
 penindakan terhadap pelanggaran ketentuan
@@ -8458,19 +8428,21 @@ pengendalian iklan produk tembakau dan rokok elektronik
 pada media cetak sebagaimana dimaksud pada ayat (1)
 dan ayat (4).
 (8) Penindakan sebagaimana dimaksud pada ayat (6) dan
-ayat (71 dilakukan melalui pemberian sanksi administratif
+ayat (7) dilakukan melalui pemberian sanksi administratif
 berupa:
-a. penarikan dan/atau perbaikan iklan;
-b. peringatan tertulis; dan/atau
-c. pelarangan sementara mengiklankan produk
-tembakau dan rokok elektronik yang bersangkutan
-pada pelanggaran berulang atau pelanggaran berat.
+  a. penarikan dan/atau perbaikan iklan;
+  b. peringatan tertulis; dan/atau
+  c. pelarangan sementara mengiklankan produk
+  tembakau dan rokok elektronik yang bersangkutan
+  pada pelanggaran berulang atau pelanggaran berat.
+
 Pasal 452
 Dalam rangka memenuhi akses ketersediaan informasi dan
 edukasi Kesehatan masyarakat, Pemerintah Pusat dan
 Pemerintah Daerah menyelenggarakan iklan layanan
 masyarakat mengenai bahaya menggunakan produk tembakau
 dan rokok elektronik.
+
 Pasal 453
 (1) Pemerintah Pusat dan Pemerintah Daerah melakukan
 pengendalian promosi produk tembakau dan
@@ -8489,41 +8461,38 @@ elektronik; dan
 c. tidak menggunakan logo dan/atau merek produk
 tembakau dan rokok elektronik pada suatu kegiatan
 lembaga dan/ atau perseorangan.
-Pasal454...
-SK No 230695 A
 
-PRESIDEN
-REFUELIK INDONESIA
--195-
 Pasal 454
 (1) Setiap Orang yang memproduksi dan latau mengimpor
 produk tembakau dan rokok elektronik yang mensponsori
 suatu kegiatan lembaga dan/atau perseorangan hanya
 dapat dilakukan dengan ketentuan sebagai berikut:
-a. tidak menggunakan nama merek dagang dan logo
-produk tembakau dan rokok elektronik termasuk
-citra merek produk tembakau dan rokok elektronik;
-dan
-b. tidak bertujuan untuk mempromosikan produk
-tembakau dan rokok elektronik.
+  a. tidak menggunakan nama merek dagang dan logo
+  produk tembakau dan rokok elektronik termasuk
+  citra merek produk tembakau dan rokok elektronik;
+  dan
+  b. tidak bertujuan untuk mempromosikan produk
+  tembakau dan rokok elektronik.
 (2) Sponsor sebagaimana dimaksud pada ayat (1) dilarang
 untuk kegiatan lembaga danf atau perseorangan yang
 diliput media.
+
 Pasal 455
 Setiap Orang yang memproduksi dan I atau mengimpor produk
 tembakau dan rokok elektronik dapat memberikan bantuan
 dalam bentuk tanggung jawab sosial perusahaan, dengan
 ketentuan sebagai berikut:
-a. tidak menggunakan nama merek dagang dan logo produk
-tembakau dan rokok elektronik;
-b. tidak bertujuan untuk mempromosikan produk tembakau
-dan rokok elektronik;
-c. tidak memberikan secara cuma-cuma, potongan harga,
-maupun hadiah produk tembakau dan rokok elektronik,
-atau produk terkait lainnya;
-d. tidak diliput dan dipublikasikan oleh media; dan
-e. tidak mengikutsertakan setiap orang di bawah usia
-21 (dua puluh satu) tahun.
+  a. tidak menggunakan nama merek dagang dan logo produk
+  tembakau dan rokok elektronik;
+  b. tidak bertujuan untuk mempromosikan produk tembakau
+  dan rokok elektronik;
+  c. tidak memberikan secara cuma-cuma, potongan harga,
+  maupun hadiah produk tembakau dan rokok elektronik,
+  atau produk terkait lainnya;
+  d. tidak diliput dan dipublikasikan oleh media; dan
+  e. tidak mengikutsertakan setiap orang di bawah usia
+  21 (dua puluh satu) tahun.
+
 Pasal 456
 Setiap orang dilarang menyiarkan dan menggarnbarkan dalam
 bentuk gambar atau foto, menayangkan, menarnpilkan atau
@@ -8541,22 +8510,25 @@ tembakau dan rokok elektronik dilarang memberikan produk
 tembakau, rokok elektronik, dan/atau barang yang
 menyerupai produk tembakau dan rokok elektronik secara
 cuma-cuma kepada anak, remaja, dan perempuan hamil.
+
 Pasal 458
 Setiap Orang dilarang men5ruruh atau memerintahkan untuk
 menjual, membeli, atau mengonsumsi produk tembakau
 dan rokok elektronik kepada setiap orang di bawah usia
 21 (dua puluh satu) tahun.
+
 Pasal 459
 Setiap Orang yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 454 sampai dengan Pasal 458 dikenai
 sanksi administratif oleh Menteri, menteri/pimpinan lembaga
 terkait, dan Pemerintah Daerah sesuai dengan kewenangannya
 berupa:
-a. teguran lisan;
-b. teguran tertulis;
-c. penghentian sementara kegiatan; dan/atau
-d. pemutusan akses informasi elektronik dan/atau dokumen
-elektronik.
+  a. teguran lisan;
+  b. teguran tertulis;
+  c. penghentian sementara kegiatan; dan/atau
+  d. pemutusan akses informasi elektronik dan/atau dokumen
+  elektronik.
+
 Pasal 460
 (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab menyediakan layanan konseling dan intervensi
@@ -8569,32 +8541,27 @@ keahlian.
 (3) Layanan konseling dan intervensi farmakologi berhenti
 merokok sebagaimana dimaksud pada ayat (1) dapat
 menggunakan layanan Telekesehatan dan Telemedisin.
-SK No 230697 A
-Pasal46l...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--t97-
 Pasal 461
 (1) Pemerintah Pusat bertanggung jawab:
-a. mengatur dan menyelenggarakan pengamanan
-produk tembakau dan rokok elektronik, termasuk
-menetapkan standardisasi perangkat rokok
-elektronik;
-b. menyediakan akses terhadap informasi dan edukasi
-mengenai pengamanan produk tembakau dan rokok
-elektronik;
-c. menyediakan layanan konseling dan intervensi
-farmakologi berhenti merokok;
-d. melakukan kegiatan penelitian dan pengembangan,
-termasuk survei perilaku merokok setiap tahun
-secara periodik;
-e. melakukan upaya pengemb€rngan dalam rangka
-diversifikasi produk tembakau yang penggunaannya
-akan membawa manfaat bagi kesehatan dan
-melindungi kelestarian tanaman tembakau; dan
-f. melakukan advokasi dan kerja sama lintas
-program/ sektor, masyarakat, dan internasional.
+  a. mengatur dan menyelenggarakan pengamanan
+  produk tembakau dan rokok elektronik, termasuk
+  menetapkan standardisasi perangkat rokok
+  elektronik;
+  b. menyediakan akses terhadap informasi dan edukasi
+  mengenai pengamanan produk tembakau dan rokok
+  elektronik;
+  c. menyediakan layanan konseling dan intervensi
+  farmakologi berhenti merokok;
+  d. melakukan kegiatan penelitian dan pengembangan,
+  termasuk survei perilaku merokok setiap tahun
+  secara periodik;
+  e. melakukan upaya pengemb€rngan dalam rangka
+  diversifikasi produk tembakau yang penggunaannya
+  akan membawa manfaat bagi kesehatan dan
+  melindungi kelestarian tanaman tembakau; dan
+  f. melakukan advokasi dan kerja sama lintas
+  program/ sektor, masyarakat, dan internasional.
 (2) Pemerintah Daerah bertanggung jawab:
 a. mengatur dan menyelenggarakan pengamanan
 produk tembakau dan rokok elektronik, pada level
@@ -8615,12 +8582,6 @@ melindungi kelestarian tanaman tembakau;
 f. melakukan advokasi dan kerja sama lintas
 program/sektor dan masyarakat di wilayah provinsi
 dan kabupaten/kota;
-SK No230698A
-g. mendorong
-
-PRESIDEN
-REPUBLTK INDONESIA
-198 -
 g. mendorong partisipasi dan Upaya Kesehatan
 bersumber daya masyarakat untuk pengendalian
 konsumsi produk tembakau dan rokok elektronik di
@@ -8629,6 +8590,7 @@ h. melakukan pengawasan terhadap pelaksanaan
 implementasi kawasan tanpa rokok dan pelarangan
 iklan, promosi, dan sponsor produk tembakau dan
 rokok elektronik.
+
 Pasal 462
 (1) Dalam penyelenggaraan pengamanan produk tembakau
 dan rokok elektronik masyarakat dapat berperan:
@@ -8652,6 +8614,7 @@ melibatkan masyarakat umum.
 (2) Peran masyarakat sebagaimana dimaksud pada ayat (1)
 dapat dilakukan oleh perseorangan, kelompok, badan
 hukum, badan usaha, dan lembagaf organisasi.
+
 Pasal 463
 Pencatatan dan pelaporan terhadap upaya pengamanan
 produk tembakau dan rokok elektronik, termasuk layanan
@@ -8670,15 +8633,18 @@ Umum
 Pasal 464
 Setiap Orang berhak mendapatkan pelayanan kedokteran
 untuk kepentingan hukum.
+
 Pasal 465
 Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab
 dalam penyelenggaraan pelayanan kedokteran untuk
 kepentingan hukum.
+
 Pasal 466
 Penyelenggaraan pelayanan kedokteran untuk kepentingan
 hukum ditujukan untuk memperoleh fakta dan temuan yang
 dapat digunakan sebagai dasar dalam memberikan keterangan
 ahli.
+
 Pasal 467
 (1) Pelayanan kedokteran untuk kepentingan hukum terdiri
 atas:
@@ -8690,9 +8656,10 @@ dapat dilakukan bedah mayat forensik sesuai dengan
 ketentuan peraturan perurndang-undangan, pemeriksaan
 laboratorium, dan/ atau autopsi virtual pascakematian.
 (3) Pelayanan kedokteran untuk kepentingan hukum
-sebagaimana dimaksud pada ayat (1) dan ayat (21
+sebagaimana dimaksud pada ayat (1) dan ayat (2) 
 dilakukan oleh Tenaga Medis sesuai dengan keahlian dan
 kewenangannya.
+
 Pasal 468
 (1) Penyelenggaraan pelayanan kedokteran untuk
 kepentingan hukum dilakukan pada Fasilitas Pelayanan
@@ -8706,12 +8673,13 @@ kekerasan pada ora.ng hidup;
 c. memiliki sarana, prasarana, dan peralatan kesehatan
 yang menunjang pelayanan; dan
 d. memiliki standar prosedur operasional pelayanan
-kedokteran untuk kepentingan hukum. (3) Persyaratan sebagaimana dimaksud pada ayat (21huruf b
+kedokteran untuk kepentingan hukum. (3) Persyaratan sebagaimana dimaksud pada ayat (2) huruf b
 dikecualikan bagi pelayanan kedokteran terhadap
 orang mati. (4) Dalam hal terdapat kebutuhan pelayanan,
 Fasilitas Pelayanan Kesehatan dapat memberikan
 pelayanan kedokteran untuk kepentingan hukum di
 tempat lain yang memenuhi persyaratan.
+
 Pasal 469
 Penyelenggaraan pelayanan kedokteran untuk kepentingan
 hukum dapat dilakukan dengan melibatkan peran serta
@@ -8729,7 +8697,8 @@ b. penyebab kecederaan;
 c. adanya kekerasan atau hubungan seksual; d. dampak terhadap Kesehatan baik fisik maupun jiwa;
 e. kecakapan hukum seseorang; dan/atau f. temuan lain yang berhubungan dengan tindak pidana dan
 pelakunya.
-Pasal4Tl
+
+Pasal 471
 Pelayanan kedokteran terhadap orang hidup sebagaimana
 dimaksud dalam Pasal 470 dilakukan pida: -
 a. korban kekerasan fisik; b. korban kekerasan psikis atau psikologis;
@@ -8755,20 +8724,23 @@ pascakematian sebagaimana dimaksud pada ayat (1)
 huruf c sampai dengan huruf e harus dilakukan dengan
 persetujuan keluarga.
 (3) Dikecualikan dari ketentuan sebagaimana dimaksud pada
-ayat (21, pelayanan kedokteran terhadap orang mati yang
+ayat (2) , pelayanan kedokteran terhadap orang mati yang
 terindikasi ada dugaan tindak pidana dapat dilakukan
 berdasarkan permintaan oleh aparat penegak hukum
-sesuai dengan ketentuan peraturan perundangundangan.
+sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 473
 (1) Untuk kepentingan penegakan hukum dan administratif
 kependudukan, setiap orang yang mati harus diupayakan
 untuk diketahui sebab kematian dan identitasnya. (2) Dalam rangka upaya penentuan identitas sebagaimana
 dimaksud pada ayat (1) harus dilakukan upaya identifikasi
 mayat sesuai dengan standar.
+
 Pasal 474
 Tindakan bedah mayat oleh Tenaga Medis harus dilakukan
 sesuai dengan norma agarna, norma sosial budaya,
 norma kesusilaan, dan etika profesi.
+
 Pasal 475
 Pelaksanaan upaya penentuan sebab kematian sebagaimana
 dimaksud dalam Pasal 473 ayat (1) dapat dipadukan dengan
@@ -8811,6 +8783,7 @@ setempat tanpa harus memperoleh persetujuan Pasien
 atau keluarga, wali, atau pengampu, jika Pasien diduga
 menderita penyakit yang berpotensi menimbulkan
 KLB atau Wabah.
+
 Pasal 478
 Ketentuan lebih lanjut mengenai penyelenggaraan pelayanan
 kedokteran untuk kepentingan hukum bagi orang hidup dan
@@ -8824,7 +8797,8 @@ Pasal 479
 Pelayanan Kesehatan tradisional merupakan Pelayanan
 Kesehatan yang dilakukan berdasarkan pada pengetahuan,
 keahlian, dan/atau nilai yang bersumber dari kearifan lokal.
-Pasal 48O
+
+Pasal 480
 (1) Pelayanan Kesehatan tradisional sebagaimana dimaksud
 dalam Pasal 479 meliputi pelayanan promotif, preventif,
 kuratif, rehabilitatlf , dartlatau paliatif.
@@ -8835,8 +8809,9 @@ tradisional.
 bertujuan untuk pencegahan penyakit dan perawatan
 kesehatan melalui pemanfaatan Pelayanan Kesehatan
 tradisional.
-(41 Pelayanan kuratif sebagaimana dimaksud pada ayat (1)
-bertujuan untuk penyembuhan atau pengurangan rasa sakit melalui pemanfaatan Pelayanan Kesehatan
+(4) Pelayanan kuratif sebagaimana dimaksud pada ayat (1)
+bertujuan untuk penyembuhan atau pengurangan rasa
+sakit melalui pemanfaatan Pelayanan Kesehatan
 tradisional.
 (5) Pelayanan rehabilitatif sebagaimana dimaksud pada
 ayat (1) bertujuan untuk membantu mempercepat
@@ -8845,10 +8820,11 @@ Kesehatan tradisional.
 (6) Pelayanan paliatif sebagaimana dimaksud pada ayat (1)
 bertujuan untuk meningkatkan kualitas hidup melalui
 pemanfaatan Pelayanan Kesehatan tradisional.
-(71 Ketentuan lebih lanjut mengenai standar Pelayanan
+(7) Ketentuan lebih lanjut mengenai standar Pelayanan
 Kesehatan tradisional yang bersifat promotif, preventif,
 kuratif, rehabilitatif, dan/atau paliatif diatur dengan
 Peraturan Menteri.
+
 Pasal 481
 (1) Pelayanan kesehatan tradisional dilakukan dengan
 menggunakan:
@@ -8864,6 +8840,7 @@ ramuan sebagaimana dimaksud pada ayat (1) huruf b
 berasal dari tumbuhan, hewan, mineral, dan/atau bahan
 lain dari sumber daya alam dan harus berupa rarnuan
 racikan sendiri atau produk Obat Bahan Alam.
+
 Pasal 482
 (1) Pelayanan Kesehatan tradisional diselenggarakan secara
 terintegrasi dengan Pelayanan Kesehatan konvensional.
@@ -8883,6 +8860,7 @@ e. penetapan alur kerja sama dan rujukan antara
 Pelayanan Kesehatan tradisional dengan Pelayanan
 Kesehatan konvensional dalam sistem Pelayanan
 Kesehatan.
+
 Pasal 483
 (1) Dalam rangka penyelenggaraan dan pengembangan
 Pelayanan Kesehatan tradisional yang terintegrasi dengan
@@ -8900,6 +8878,7 @@ pengembangan Pelayanan Kesehatan tradisional yang
 terintegrasi dengan Pelayanan Kesehatan konvensional
 sebagaimana dimaksud pada ayat (1) diatur dengan
 Peraturan Menteri.
+
 Pasal 484
 (1) Pengembangan Pelayanan Kesehatan tradisional
 dilakukan melalui pengembangan produk, praktik, dan
@@ -8912,7 +8891,7 @@ Iitofarmaka.
 (3) Pengembangan praktik Pelayanan Kesehatan tradisional
 dilakukan melalui pemetaan, penelitian, registrasi,
 standarisasi, serta pembinaan dan pengawasan praktik.
-(41 Pengembangan praktisi pemberi Pelayanan Kesehatan
+(4) Pengembangan praktisi pemberi Pelayanan Kesehatan
 tradisional dilakukan melalui pemetaan, penelitian,
 registrasi, standarisasi, peningkatan kapasitas, serta
 pembinaan dan pengawasan.
@@ -8923,6 +8902,7 @@ industri.
 (6) Ketentuan lebih lanjut mengenai pengembangan
 Pelayanan Kesehatan tradisional diatur dengan Peraturan
 Menteri.
+
 Pasal 485
 Pelayanan Kesehatan tradisional dapat dilakukan di:
 a. tempat praktik mandiri;
@@ -8931,12 +8911,14 @@ c. Rumah Sakit;
 d. Fasilitas Pelayanan Kesehatan tradisional; dan
 e. Fasilitas Pelayanan Kesehatan lain yang ditetapkan oleh
 Menteri.
+
 Pasal 486
 (1) Pelayanan Kesehatan tradisional diberikan oleh Tenaga
 Kesehatan tradisional.
 (2) Tenaga Kesehatan tradisional sebagaimana dimaksud pada ayat (1) merupakan orang yang melakukan
 Pelayanan Kesehatan tradisional yang pengetahuan dan
 keterampilannya diperoleh melalui pendidikan formal.
+
 Pasal 487
 (1) Selain Tenaga Kesehatan tradisional sebagaimana
 dimaksud dalam Pasal 486, Pelayanan Kesehatan
@@ -8951,16 +8933,18 @@ pendidikan nonformal.
 (3) Penyehat tradisional yang memberikan Pelayanan
 Kesehatan tradisional sebagaimana dimaksud pada
 ayat (2) harus memiliki bukti pencatatan dari Menteri.
-(41 Pencatatan sebagaimana dimaksud pada ayat (3)
+(4) Pencatatan sebagaimana dimaksud pada ayat (3)
 diselenggarakan melalui Sistem Informasi Kesehatan yang
 terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 (5) Ketentuan lebih lanjut mengenai penyehat tradisional dan
 tenaga lain yang memiliki kompetensi di bidang Pelayanan
 Kesehatan tradisional diatur dengan Peraturan Menteri.
+
 Pasal 488
 lzin praktik Pelayanan Kesehatan tradisional diterbitkan oleh
 Pemerintah Daerah kabupaten/kota sesuai dengan pedoman
 yang ditetapkan oleh Menteri.
+
 Pasal 489
 (1) Tenaga Kesehatan tradisional, penyehat tradisional, dan
 tenaga lain yang melakukan Pelayanan Kesehatan
@@ -8985,19 +8969,22 @@ berbahaya, radiasi, invasif, dan menggunakan Alat
 Kesehatan / penunjang diagnostik kedokteran, tumbuhan,
 hewan, dan mineral yang dilarang sesuai dengan
 ketentuan peraturan perundang-undangan.
-(41 Ketentuan lebih lanjut mengenai alur kerja sama dan
+(4) Ketentuan lebih lanjut mengenai alur kerja sama dan
 rujukan, serta kompetensi dan kewenangan Pelayanan
 Kesehatan tradisional diatur dengan Peraturan Menteri.
+
 Pasal 490
 Setiap pelaksanaan kegiatan Pelayanan Kesehatan tradisional
 harus dilakukan pencatatan dan pelaporan melalui Sistem
 Informasi Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
+
 Pasal 491
 Pelayanan Kesehatan tradisional yang terintegrasi dengan
 Pelayanan Kesehatan konvensional dapat dibiayai melalui
 jaminan kesehatan nasional sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 492
 (1) Pemerintah Pusat dan Pemerintah Daerah mengatur dan
 mengawasi Pelayanan Kesehatan tradisional dengan
@@ -9009,18 +8996,14 @@ atau Pemerintah Daerah sesuai dengan kewenangannya
 mengenakan sanksi administratif kepada Tenaga
 Kesehatan tradisonal, penyehat tradisional, atau tenaga
 lain yang melakukan pelanggaran terhadap ketentuan
+
 Pasal 489 ayat (1) sampai dengan ayat (3).
-(3) Sanksi administratif sebagaimana dimaksud pada ayat (21
+(3) Sanksi administratif sebagaimana dimaksud pada ayat (2) 
 berrrpa:
 a. teguran lisan;
 b. teguran tertulis; dan/atau
 c. pencabutan izin.
-Pasal493...
-SK No 230708 A
 
-PRESIDEN
-REPUBLTK INDONESIA
--208-
 Pasal 493
 (1) Pemerintah Pusat dan Pemerintah Daerah melakukan
 koordinasi secara berkala dan berkelanjutan dalam
@@ -9048,18 +9031,13 @@ Kesehatan tradisional;
 d. penyelenggaraan pemantauan dan penilaian kualitas
 Pelayanan Kesehatan tradisional; dan
 e. perizinan praktik Pelayanan Kesehatan tradisional
-sesuai dengan ketentuan peraturan perundangundangan.
+sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 494
 Masyarakat diberi kesempatan seluas-luasnya untuk
 mengembangkan, meningkatkan, dan menggunakan
 Pelayanan Kesehatan tradisional yang dapat
 dipertan ggun gj awabkan manfaat dan keamanannya.
-SK No 230709 A
-Bagian
-
-FRESIDEN
-REPUBLIK TNDONESIA
--209-
 
 Bagian Kedua Puluh Empat
 Standar Pelayanan Kesehatan
@@ -9072,6 +9050,7 @@ standar Pelayanan Kesehatan.
 pada ayat (1) merupakan pedoman bagi Tenaga Medis
 dan Tenaga Kesehatan dalam menyelenggarakan
 Pelayanan Kesehatan.
+
 Pasal 496
 Standar Pelayanan Kesehatan bertujuan untuk:
 a. memberikan acuan bagi Tenaga Medis dan Tenaga
@@ -9087,6 +9066,7 @@ a. standar Pelayanan Kesehatan nasional; dan
 b. pedoman nasional pelayanan klinis.
 (2) Standar Pelayanan Kesehatan sebagaimana dimaksud
 pada ayat (1) ditetapkan oleh Menteri.
+
 Pasal 498
 (1) Pen5rusunan standar Pelayanan Kesehatan mengacu
 kepada prinsip:
@@ -9119,6 +9099,7 @@ lanjutan.
 merupakan seperangkat prinsip dan norma yang mengikat
 profesi dalam memberikan Pelayanan Kesehatan terbaik
 kepada Pasien.
+
 Pasal 499
 (1) Dalam penyelenggaraErn Pelayanan Kesehatan di Fasilitas
 Pelayanan Kesehatan, setiap Fasilitas Pelayanan
@@ -9133,46 +9114,42 @@ b. prosedur pemeriksaan atau tindakan.
 pada ayat (1) ditetapkan oleh pimpinan Fasilitas Pelayanan
 Kesehatan.
 (4) Panduan praktik klinis sebagaimana dimaksud pada
-ayat (21huruf a dibuat berdasarkan bukti terbaru dengan
+ayat (2) huruf a dibuat berdasarkan bukti terbaru dengan
 pendekatan penyakit dan pelayanan yang diberikan
 multiprofesi atau lintas profesi.
 (5) Panduan praktik klinis sebagaimana dimaksud pada
-ayat (41 dapat dilengkapi dengan alur klinis, algoritma,
+ayat (4) dapat dilengkapi dengan alur klinis, algoritma,
 atau prosedur.
 (6) Prosedur pemeriksaan atau tindakan sebagaimana
-dimaksud pada ayat (21huruf b dibuat berdasarkan bukti
+dimaksud pada ayat (2) huruf b dibuat berdasarkan bukti
 terbaru dengan pendekatan jenis pemeriksaan atau
 tindakan yang akan diberikan.
-SK No 226968 A
-(7) Dalam
-
-PRESIDEN
-REPUBLTK INDONESIA
--2Lt-
-(71 Dalam hal belum tersedianya standar Pelayanan
+(7) Dalam hal belum tersedianya standar Pelayanan
 Kesehatan sebagaimana dimaksud pada ayat (1),
 pen5rusunan standar prosedur operasional di Fasilitas
 Pelayanan Kesehatan dapat mengacu kepada standar
 profesi, bukti terbaru, atau referensi lainnya dengan
 mempertimbangkan sumber daya yang ada.
-Pasal 50O
+
+Pasal 500
 (1) Fasilitas Pelayanan Kesehatan wajib memberikan
 Pelayanan Kesehatan kepada masyarakat sesuai dengan
-standar Pelayanan Kesehatan. (2) Tenaga Medis dan Tenaga Kesehatan dalam
+standar Pelayanan Kesehatan.
+(2) Tenaga Medis dan Tenaga Kesehatan dalam
 menyelenggarakan praktik wajib memberikan Pelayanan
 Kesehatan sesuai dengan standar Pelayanan Kesehatan.
 (3) Fasilitas Pelayanan Kesehatan, Tenaga Medis, dan
 Tenaga Kesehatan yang melanggar ketentuan
-sebagaimana dimaksud pada ayat (1) dan ayat (21dikenai
+sebagaimana dimaksud pada ayat (1) dan ayat (2) dikenai
 sanksi administratif oleh Pemerintah Pusat dan
 Pemerintah Daerah sesuai dengan kewenangannya
 berupa:
-a. teguran lisan;
-b. teguran tertulis;
-c. denda administratif;
-d. pencabutan SIP; dan/atau
-e. pencabutan perizinan berusaha.
-(41 Tata cara pengenaan sanksi administratif berupa
+  a. teguran lisan;
+  b. teguran tertulis;
+  c. denda administratif;
+  d. pencabutan SIP; dan/atau
+  e. pencabutan perizinan berusaha.
+(4) Tata cara pengenaan sanksi administratif berupa
 pencabutan perizinan berusaha sebagaimana dimaksud
 pada ayat (3) huruf e dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
@@ -9204,15 +9181,15 @@ kontak pertama Pelayanan Kesehatan.
 (2) Pelayanan Kesehatan Primer sebagaimana dimaksud pada
 ayat (1) diselenggarakan secara terintegrasi dengan
 tujuan:
-a. pemenuhan kebutuhan Kesehatan dalam setiap fase
-kehidupan;
-b. perbaikan determinan Kesehatan atau faktor yang
-mempengaruhi Kesehatan yang terdiri atas
-determinan sosial, ekonomi, komersial, dan
-lingkungan; dan
-c. penguatan Kesehatan perseorangan, keluarga, dan
-masyarakat.
-(3) Pemenuhan k'ebutuhan Kesehatan dalam setiap fase
+  a. pemenuhan kebutuhan Kesehatan dalam setiap fase
+  kehidupan;
+  b. perbaikan determinan Kesehatan atau faktor yang
+  mempengaruhi Kesehatan yang terdiri atas
+  determinan sosial, ekonomi, komersial, dan
+  lingkungan; dan
+  c. penguatan Kesehatan perseorangan, keluarga, dan
+  masyarakat.
+(3) Pemenuhan kebutuhan Kesehatan dalam setiap fase
 kehidupan sebagaimana dimaksud pada ayat (2) huruf a
 meliputi pemenuhan kebutuhan pada ibu, bayi dan anak,
 remaja, dewasa, dan lanjut usia.
@@ -9227,24 +9204,19 @@ mempengaruhi Kesehatan sebagaimana dimaksud pada
 ayat (4) dilakukan dengan dukungan dan komitmen
 Pemerintah hrsat, Pemerintah Daerah, dan masyarakat.
 (6) Penguatan Kesehatan perseorangan, keluarga, dan
-masyarakat sebagaimana dimaksud pada ayat (21huruf c
+masyarakat sebagaimana dimaksud pada ayat (2) huruf c
 dilaksanakan untuk mengoptimalkan status Kesehatan
 dengan membangun kemandirian hidup sehat serta
 menguatkan peran sebagai mitra pembangunan
 Kesehatan dan pemberi asuhan untuk diri sendiri dan
 untuk orang lain.
-(71 Penguatan Kesehatan perseorangan, keluarga, dan
+(7) Penguatan Kesehatan perseorangan, keluarga, dan
 masyarakat sebagaimana dimaksud pada ayat (6)
 dilakukan untuk memberikan layanan yang berpusat pada
 perseorangan, berfokus pada keluarga, dan berorientasi
 pada masyarakat yang sesuai dengan latar belakang sosial
 budaya.
-Pasal503...
-SK No 230713 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--2r3-
 Pasal 503
 (1) Pelayanan Kesehatan primer menyelenggarakan Upaya
 Kesehatan perseorangan dan Upaya Kesehatan
@@ -9253,60 +9225,49 @@ masyarakat.
 pada ayat (1) diselenggarakan secara komprehensif
 meliputi promotif, preventif, kuratif, rehabilitatif,
 dan/atau paliatif yang berdampak hanya kepada individu
-dengan pendekatan siklus hidup yang berkesinambungan. (3) Upaya Kesehatan masyarakat sebagaimana dimaksud
+dengan pendekatan siklus hidup yang berkesinambungan.
+(3) Upaya Kesehatan masyarakat sebagaimana dimaksud
 pada ayat (1) diselenggarakan secara komprehensif
 meliputi promotif, preventif, kuratif, rehabilitatif,
 dan/atau paliatif yang berdampak kepada masyarakat
 dengan pendekatan siklus hidup yang berkesinambungan.
-(41 Upaya Kesehatan perseorangan dan Upaya Kesehatan
+(4) Upaya Kesehatan perseorangan dan Upaya Kesehatan
 masyarakat pada Pelayanan Kesehatan primer
 diselenggarakan oleh Puskesmas dan sistem jejaring
 Pelayanan Kesehatan primer di wilayah kerjanya.
-(1)
-(2t
-(3)
+
 Pasal 504
-Upaya Kesehatan perseorangan yang bersifat promotif
+(1) Upaya Kesehatan perseorangan yang bersifat promotif
 merupakan kegiatan untuk memampukan individu dalam
 mengendalikan dan meningkatkan kesehatannya.
-Upaya Kesehatan perseorangan yang bersifat promotif
+(2) Upaya Kesehatan perseorangan yang bersifat promotif
 dapat berupa pemberian penjelasan dan/atau edukasi
 tentang gaya hidup sehat, faktor risiko, serta
 permasalahan Kesehatan.
-Upaya Kesehatan perseorangan yang bersifat preventif
+(3) Upaya Kesehatan perseorangan yang bersifat preventif
 bertujuan untuk mencegah terjadinya penyakit atau
 menghentikan penyakit dan mencegah komplikasi yang
 diakibatkan setelah timbulnya penyakit.
-Upaya Kesehatan perseorangan yang bersifat preventif
+(4) Upaya Kesehatan perseorangan yang bersifat preventif
 dapat berupa imunisasi, deteksi dini, dan intervensi dini.
-Upaya Kesehatan perseorangan yang bersifat kuratif
+(5) Upaya Kesehatan perseorangan yang bersifat kuratif
 bertujuan untuk penyembuhan penyakit dan/atau
 pengurangan penderitaan akibat penyakit.
-Upaya Kesehatan perseorangan yang bersifat rehabilitatif
+(6) Upaya Kesehatan perseorangan yang bersifat rehabilitatif
 bertujuan untuk mengoptimalkan fungsi dan mengurangi
 disabilitas pada individu dengan masalah Kesehatan
 dalam interaksinya dengan lingkungannya.
-Upaya Kesehatan perseorangan yang bersifat rehabilitatif
+(7) Upaya Kesehatan perseorangan yang bersifat rehabilitatif
 dapat berupa terapi wicara atau fisioterapi.
-Upaya Kesehatan perseorangan yang bersifat paliatif
+(8) Upaya Kesehatan perseorangan yang bersifat paliatif
 bertujuan untuk meningkatkan kualitas hidup Pasien dan
 keluarganya yang menghadapi masalah berkaitan dengan
 penyakit yang mengancam jiwa.
-(4)
-(s)
-(6)
-(7)
-(8)
-SK No 230714A
-(9) Upaya
-
-PRESIDEN
-REPUBLTK INDONESIA
--2t4-
 (9) Upaya Kesehatan perseorangan yang bersifat paliatif dapat
 berupa identifikasi dini, penilaian yang benar, pengobatan
 rasa sakit, dan penanganan masalah lain, baik fisik,
 psikososial, maupun spiritual.
+
 Pasal 505
 (1) Upaya Kesehatan masyarakat yang bersifat promotif
 merupakan suatu kegiatan dan/atau serangkaian
@@ -9317,8 +9278,9 @@ berupa komunikasi yang efektif untuk mengedukasi
 masyarakat tentang Kesehatan dan faktor yang
 mempengaruhi serta cara untuk meningkatkan status
 Kesehatan, penguatan gerakan masyarakat, serta
-pen5rusunan kebijakan dan regulasi yang mendukung dan
+penyusunan kebijakan dan regulasi yang mendukung dan
 melindungi Kesehatan masyarakat.
+
 Pasal 506
 (1) Upaya Kesehatan masyarakat yang bersifat preventif
 merupakan suatu kegiatan pencegahan terhadap suatu
@@ -9331,20 +9293,17 @@ permasalahan Kesehatan masyarakat, penanggulangan
 permasalahan yang ditemukan, serta kegiatan
 pencegahan penyakit atau permasalahan kesehatan
 lainnya.
+
 Pasal 507
 Upaya Kesehatan masyarakat yang bersifat kuratif merupakan
 kegiatan pengobatan yang ditujukan untuk menghentikan atau
 mengendalikan penularan dan beban penyakit di masyarakat.
+
 Pasal 508
 Upaya Kesehatan masyarakat yang bersifat rehabilitatif
 merupakan kegiatan untuk membantu penyintas kembali ke
 masyarakat.
-Pasal 509. . .
-SK No 230715 A
 
-PRESIDEN
-REPUBLTK INDONESIA
--2t5-
 Pasal 509
 Upaya Kesehatan masyarakat yang bersifat paliatif merupakan
 kegiatan untuk memampukan masyarakat atau komunitas
@@ -9354,6 +9313,7 @@ berkaitan dengan penyakit yang mengancam jiwa.
 (1)
 (2)
 (3)
+
 Pasal 510
 Pelayanan Kesehatan primer diselenggarakan melalui
 suatu sistem jejaring Pelayanan Kesehatan yang saling
@@ -9368,19 +9328,21 @@ b. struktur jejaring berbasis satuan pendidikan;
 c. struktur jejaring berbasis tempat kerja;
 d. struktur jejaring sistem rujukan; dan
 e. struktur jejaring lintas sektor.
+
 Pasal 511
 Struktur jejaring berbasis wilayah administratif sebagaimana
 dimaksud dalam Pasal 510 ayat (3) huruf a memastikan
 tersedianya Pelayanan Kesehatan untuk seluruh masyarakat
 dengan menjamin tersedianya Pelayanan Kesehatan hingga
 tingkat desa/ kelurahan yang meliputi:
-a. Fasilitas Pelayanan Kesehatan tingkat pertama dan
-Fasilitas Pelayanan Kesehatan penunjang, baik milik
-Pemerintah Pusat, Pemerintah Daerah, maupun
-masyarakat;
-b. unit Pelayanan Kesehatan di tingkat desa/kelurahan; dan
-c. Upaya Kesehatan bersumber daya masyarakat,
-di dalam wilayah kerja hrskesmas.
+  a. Fasilitas Pelayanan Kesehatan tingkat pertama dan
+  Fasilitas Pelayanan Kesehatan penunjang, baik milik
+  Pemerintah Pusat, Pemerintah Daerah, maupun
+  masyarakat;
+  b. unit Pelayanan Kesehatan di tingkat desa/kelurahan; dan
+  c. Upaya Kesehatan bersumber daya masyarakat,
+  di dalam wilayah kerja hrskesmas.
+
 Pasal 512
 (1) Unit Pelayanan Kesehatan di tingkat desa/kelurahan
 mengoordinasikan urusan Kesehatan di desa/kelurahan
@@ -9399,18 +9361,13 @@ ayat (1) dilaksanakan oleh kader Kesehatan paling sedikit
 2 (dua) orang yang ditugaskan oleh Pemerintah Daerah
 atau Pemerintah Desa/ kelurahan.
 (5) Dalam rangka menunjang tugas kader Kesehatan
-sebagaimana dimaksud pada ayat (41, Pemerintah Pusat,
+sebagaimana dimaksud pada ayat (4), Pemerintah Pusat,
 Pemerintah Daerah, atau Pemerintah Desa memberikan
 insentif kepada kader Kesehatan.
 (6) Unit Pelayanan Kesehatan di tingkat desa/kelurahan
 dilaksanakan sesuai standar pelayanan hrskesmas
 pembantu yang ditetapkan oleh Menteri.
-(1)
-(21
-(3)
-(4)
-(s)
-(6)
+
 Pasal 513
 Upaya Kesehatan bersumber daya masyarakat merupakan
 wahana pemberdayaan masyarakat bidang Kesehatan
@@ -9431,7 +9388,7 @@ peningkatan Pelayanan Kesehatan masyarakat desa.
 Pos pelayanan terpadu sebagaimana dimaksud pada
 ayat (4) dilaksanakan oleh kader dan/atau masyarakat.
 Pelayanan Kesehatan masyarakat desa sebagaimana
-dimaksud pada ayat (41termasuk:
+dimaksud pada ayat (4) termasuk:
 a. Pelayanan Kesehatan seluruh siklus hidup sesuai
 standar yang ditetapkan oleh Menteri;
 b. pemberian edukasi Kesehatan kepada masyarakat;
@@ -9444,35 +9401,30 @@ Dalam rangka pelayanan sosial dasar bidang Kesehatan di pos
 pelayanan terpadu, dilakukan pembinaan teknis dan
 peningkatan kemampuan kader oleh unit Kesehatan di
 desa/ kelurahan dan Puskesmas.
+
 Pasal 515
-(1)
-(3)
-(2)
-(41
-(s)
-(6)
-(7)
-Dalam penyelenggaraan pelayanan sosial dasar bidang
+(1) Dalam penyelenggaraan pelayanan sosial dasar bidang
 Kesehatan di pos pelayanan terpadu, Pemerintah Pusat,
 Pemerintah Daerah, atau Pemerintah Desa memberikan
 insentif kepada kader.
-Insentif sebagaimana dimaksud pada ayat (1) dapat
+(2) Insentif sebagaimana dimaksud pada ayat (1) dapat
 bersumber dari anggaran Pemerintah Pusat, Pemerintah
 Daerah, dan/atau Pemerintah Desa.
-Pemberian insentif kepada kader yang bersumber dari
+(3) Pemberian insentif kepada kader yang bersumber dari
 Pemerintah Pusat, Pemerintah Daerah, dan/atau
 Pemerintah Desa tidak bersifat duplikatif.
-Pemberian insentif yang bersumber dari anggaran
-Pemerintah Pusat sebagaimana dimaksud pada ayat (21
+(4) Pemberian insentif yang bersumber dari anggaran
+Pemerintah Pusat sebagaimana dimaksud pada ayat (2)
 dilakukan melalui transfer ke daerah sesuai dengan
 ketentuan peraturan perundang-undangan.
-Besaran insentif lingkup kelurahan ditetapkan oleh kepala
+(5) Besaran insentif lingkup kelurahan ditetapkan oleh kepala
 daerah.
-Besaran insentif lingkup desa ditetapkan oleh kepala desa.
-Dalam menetapkan besaran insentif sebagaimana
+(6) Besaran insentif lingkup desa ditetapkan oleh kepala desa.
+(7) Dalam menetapkan besaran insentif sebagaimana
 dimaksud pada ayat (5) dan ayat (6), kepala daerah dan
 kepala desa mempertimbangkan tugas dan beban kerja
 kader.
+
 Pasal 516
 Setiap Fasilitas Pelayanan Kesehatan dalam struktur jejaring
 berbasis wilayah administratif sebagaimana dimaksud dalam
@@ -9480,30 +9432,27 @@ Pasal 510 ayat (3) huruf a melakukan:
 a. Pelayanan Kesehatan sesuai dengan standar; dan b. penyampaian laporan pelayanan kepada Puskesmas di
 wilayah kerjanya melalui Sistem Informasi Kesehatan yang
 terintegrasi dengan Sistem Informasi Kesehatan Nasional.
+
 Pasal 517
 Setiap unit Pelayanan Kesehatan dalam struktur jejaring
 berbasis wilayah administratif sebagaimana dimaksud dalam
 Pasal 510 ayat (3) huruf a melakukan:
 a. Pelayanan Kesehatan untuk seluruh siklus hidup sesuai
 standar; dan
-SK No 230718 A
-b. penyampaian
-
-FRESIDEN
-REPUBLIK INDONESIA
--2t8-
 b. penyampaian laporan pelayanan melalui Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
+
 Pasal 518
 (1) Struktur jejaring berbasis satuan pendidikan
-sebagaimana dimaksud dalam Pasal 51O ayat (3) huruf b
+sebagaimana dimaksud dalam Pasal 510 ayat (3) huruf b
 mencakup semua satuan pendidikan di dalam wilayah
 kerja suatu Puskesmas.
 (2) Satuan pendidikan dalam jejaring Pelayanan Kesehatan
 primer melakukan Pelayanan Kesehatan sesuai
 dengan pedoman penyelenggaraan Kesehatan sekolah
 sebagaimana dimaksud dalam Pasal 229.
+
 Pasal 519
 (1) Struktur jejaring berbasis tempat kerja sebagaimana
 dimaksud dalam Pasal 510 ayat (3) huruf c mencakup
@@ -9512,8 +9461,10 @@ Puskesmas.
 (2) Tempat kerja dalam jejaring Pelayanan Kesehatan primer
 melakukan Pelayanan Kesehatan sesuai standar
 Kesehatan kerja.
+
 Pasal 520
 (1) Struktur jejaring sistem rujukan sebagaimana dimaksud
+
 Pasal 510 ayat (3) hurl.f d dilakukan melalui rujukan
 secara vertikal, horizontal, dan rujuk balik.
 (2) Rujukan secara vertikal sebagaimana dimaksud pada
@@ -9534,12 +9485,6 @@ telah selesai ditangani pada Fasilitas Pelayanan Kesehatan
 penerima rujukan dan masih dibutuhkan perawatan
 lanjutan pada Fasilitas Pelayanan Kesehatan yang lebih
 rendah kompetensinya.
-SK No 230719 A
-(5) Jejaring. . .
-
-PRESIDEN
-REPUBLIK TNDONESIA
--2t9-
 (5) Jejaring sistem rujukan sebagaimana dimaksud pada
 ayat (1) diberlakukan bagi penyelenggaraan Pelayanan
 Kesehatan perseorangan berdasarkan kebutuhan medis
@@ -9547,6 +9492,7 @@ Pasien dan kemampu€rn pelayanan pada setiap Fasilitas
 Pelayanan Kesehatan dengan mempertimbangkan
 aksesibilitas. (6) Dalam menentukan rujukan, Fasilitas Pelayanan
 Kesehatan primer dapat menggunakan Telemedisin.
+
 Pasal 521
 (1) Struktur jejaring lintas sektor sebagaimana dimaksud
 dalam Pasal 510 ayat (3) huruf e mencakup jejaring
@@ -9554,6 +9500,7 @@ pemerintah di tingkat kecamatan, desa/kelurahan,
 dusun, rukun warga, mkun tetangga, dan jejaring mitra
 Kesehatan untuk mengatasi determinan Kesehatan. (2) Pelibatan jejaring lintas sektor sebagaimana dimaksud
 pada ayat (1) dapat mendukung Pelayanan Kesehatan.
+
 Pasal 522
 Pemerintah Pusat, Pemerintah Daerah, Pemerintah Desa,
 Fasilitas Pelayanan Kesehatan, Puskesmas, dan sistem jejaring
@@ -9562,6 +9509,7 @@ menyelenggarakan Pelayanan Kesehatan primer harus
 melakukan pencatatan dan pelaporan melalui Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
+
 Pasal 523
 (1) Pemerintah Pusat, Pemerintah Daerah, dan Pemerintah
 Desa bertanggung jawab atas penyelenggaraan dan
@@ -9606,6 +9554,7 @@ Manusia Kesehatan di Pelayanan Kesehatan primer;
 c. kerja sama dukungan operasional pemberdayaan
 masyarakat; dan
 d. kerja sama dalam diseminasi Informasi Kesehatan.
+
 Pasal 525
 Ketentuan lebih lanjut mengenai penyelenggaraan Pelayanan
 Kesehatan primer dalam suatu sistem jejaring Pelayanan
@@ -9639,10 +9588,12 @@ sebagaimana dimaksud pada ayat (1), laboratorium medis
 dapat melaksanakan fungsi jejaring surveilans berbasis
 laboratorium, fungsi penelitian, dan pendidikan di bidang
 laboratorium medis.
+
 Pasal 528
 Laboratorium medis sebagaimana dimaksud dalam Pasal 526
 ayat (2) huruf a dapat diselenggarakan oleh Pemerintah hrsat,
 Pemerintah Daerah, maupun masyarakat.
+
 Pasal 529
 (1) Laboratorium Kesehatan masyarakat sebagaimana
 dimaksud dalam Pasal 526 ayat (2) huruf b merupakan
@@ -9667,17 +9618,13 @@ laboratorium;
 m. pengembangan teknologi tepat guna; dan
 n. perumusan rekomendasi kebijakan dan
 pengembangan program Kesehatan.
-SK No 230722 A
-Pasal 530. . .
 
-PRESIDEN
-REPUBLTK INDONESIA
--222-
 Pasal 530
 Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab
 menyediakan dan menyelenggarakan laboratorium Kesehatan
-masyarakat sebagaimana dimaksud dalam Pasal 526 ayat (21
+masyarakat sebagaimana dimaksud dalam Pasal 526 ayat (2)
 huruf b.
+
 Pasal 531
 (1) Laboratorium Kesehatan masyarakat diselenggarakan
 secara berjenjang dalam 5 (lima) tingkatan, meliputi:
@@ -9696,7 +9643,7 @@ perundang-undangan.
 sebagaimana dimaksud pada ayat (1) huruf b merupakan
 laboratorium Kesehatan masyarakat pada daerah
 kabupaten/kota.
-(41 Laboratorium Kesehatan masyarakat tingkat 3 (tiga)
+(4) Laboratorium Kesehatan masyarakat tingkat 3 (tiga)
 sebagaimana dimaksud pada ayat (1) huruf c merupakan
 laboratorium Kesehatan masyarakat pada daerah provinsi.
 (5) Laboratorium Kesehatan masyarakat tingkat 4 (empat)
@@ -9706,6 +9653,7 @@ regional.
 (6) Laboratorium Kesehatan masyarakat tingkat 5 (lima)
 sebagaimana dimaksud pada ayat (1) huruf e merupakan
 laboratorium Kesehatan masyarakat nasional.
+
 Pasal 532
 (1) Dalam melaksanakan fungsinya, laboratorium Kesehatan
 masyarakat dapat berjejaring dengan laboratorium medis,
@@ -9724,11 +9672,13 @@ dan/atau
 f. bentuk kegiatan jejaring lainnya.
 (3) Laboratorium Kesehatan masyarakat menjadi koordinator
 jejaring laboratorium Kesehatan di wilayahnya.
+
 Pasal 533
 Pemrosesan data dan informasi sebagaimana dimaksud dalam
 Pasal 532 ayat (2) huruf b dilakukan melalui sistem informasi
 laboratorium Kesehatan yang terintegrasi dengan
 Sistem Informasi Kesehatan Nasional.
+
 Pasal 534
 Dalam hal laboratorium Kesehatan dan laboratorium
 non-Kesehatan menemukan hasil pemeriksaan laboratorium
@@ -9737,12 +9687,14 @@ Wabah, laboratorium Kesehatan dan laboratorium
 non-Kesehatan wajib melaporkan kepada kepala dinas
 kesehatan dalam waktu kurang dan 24 (dua puluh empat) jam
 sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 535
 (1) Penyelenggaraan laboratorium Kesehatan harus didukung
 oleh sumber daya manusia, sarana, prasarana, serta
 peralatan.
 (2) Laboratorium Kesehatan harus memenuhi standar
 keamanan dan keselamatan hayati.
+
 Pasal 536
 (1) Sumber daya manusia sebagaimana dimaksud dalam
 Pasal 535 ayat (1) terdiri atas tenaga manajerial dan
@@ -9764,6 +9716,7 @@ kerja.
 (4) Peralatan sebagaimana dimaksud dalam Pasal535 ayat (1)
 harus memenuhi standar persyaratan mutu, keamanan,
 dan keselamatan.
+
 Pasal 537
 Ketentuan lebih lanjut mengenai pedoman penyelenggaraan
 laboratorium Kesehatan sebagaimana dimaksud dalam
@@ -9783,6 +9736,7 @@ pada ayat (1) diselenggarakan oleh Tenaga Medis dan
 Tenaga Kesehatan sesuai dengan kompetensi dan
 kewenangan pada Fasilitas Pelayanan Kesehatan
 tingkat lanjut.
+
 Pasal 539
 (1) Dalam pengembangan Pelayanan Kesehatan lanjutan,
 Pemerintah Pusat, Pemerintah Daerah, dan masyarakat
@@ -9805,6 +9759,7 @@ Indonesia.
 (2) Kewajiban sebagaimana dimaksud pada ayat (1)
 diutamakan dengan mengoptimalkan peran
 Pemerintah Daerah.
+
 Pasal 541
 (1) Pelayanan Kesehatan di daerah tertinggal, perbatasan,
 dan kepulauan serta daerah bermasalah Kesehatan atau
@@ -9820,27 +9775,22 @@ sebagaimana dimaksud pada ayat (1) merupakan daerah
 yang ditentukan sesuai dengan ketentuan peraturan
 perundang-undangan.
 (3) Pendekatan sebagaimana dimaksud pada ayat (1) berupa:
-a. strategi Pelayanan Kesehatan;
-b. penyediaan Tenaga Medis dan Tenaga Kesehatan atau
-pelimpahan kewenangan dalam Pelayanan
-Kesehatan; dan
-c. penyediaan sarana dan prasarana, Sediaan Farmasi,
-dan Alat Kesehatan sesuai standar.
-(41 Selain pada daerah tertinggal, perbatasan, dan kepulauan
+  a. strategi Pelayanan Kesehatan;
+  b. penyediaan Tenaga Medis dan Tenaga Kesehatan atau
+  pelimpahan kewenangan dalam Pelayanan
+  Kesehatan; dan
+  c. penyediaan sarana dan prasarana, Sediaan Farmasi,
+  dan Alat Kesehatan sesuai standar.
+(4) Selain pada daerah tertinggal, perbatasan, dan kepulauan
 serta daerah bermasalah Kesehatan atau daerah tidak
 diminati, pendekatan Pelayanan Kesehatan sebagaimana
 dimaksud pada ayat (3) juga dilakukan pada kawasan
 hutan dan komunitas adat terpencil.
+
 Pasal 542
 (1) Strategi Pelayanan Kesehatan sebagaimana dimaksud
 dalam Pasal 541 ayat (3) huruf a dilakukan dengan
 modifikasi Pelayanan Kesehatan.
-SK No 230726 A
-(2) Modifikasi...
-
-PRESIDEN
-REPUBLTK INDONESIA
--226-
 (2) Modifikasi Pelayanan Kesehatan sebagaimana dimaksud
 pada ayat (1) merupakan kegiatan Pelayanan Kesehatan
 yang diberikan menyesuaikan dengan kondisi dan
@@ -9855,6 +9805,7 @@ Telemedisin; dan
 d. modifikasi Pelayanan Kesehatan lain.
 (4) Ketentuan lebih lanjut mengenai modifikasi Pelayanan
 Kesehatan diatur dengan Peraturan Menteri.
+
 Pasal 543
 Penyelenggaraan Pelayanan Kesehatan di kawasan daerah
 tertinggal, perbatasan, kepulauan, kawasan hutan, dan
@@ -9862,6 +9813,7 @@ komunitas adat terpencil harus dilakukan oleh Tenaga Medis
 dan Tenaga Kesehatan yang memiliki kompetensi
 dan kewenangan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 544
 Dalam hal Tenaga Medis dan/atau Tenaga Kesehatan tidak
 tersedia, Pemerintah Pusat, Pemerintah Daerah provinsi, atau
@@ -9875,6 +9827,7 @@ peraturan perundang-undangan ; atau
 c. pelimpahan wewenang untuk melakukan Pelayanan
 Kesehatan kepada Tenaga Medis dan Tenaga Kesehatan
 yang tersedia baik secara mandat maupun delegatif.
+
 Pasal 545
 (1) Pemerintah Rrsat dan Pemerintah Daerah menjamin
 ketersediaan sarana, prasarana, dan Perbekalan
@@ -9907,6 +9860,7 @@ daerah endemis.
 melakukan pembangunan infrastruktur jalan,
 perhubungan, dan Fasilitas Pelayanan Kesehatan untuk
 meningkatkan akses Pelayanan Kesehatan yang bermutu.
+
 Pasal 546
 (1) Fasilitas Pelayanan Kesehatan kawasan daerah tertinggal,
 perbatasan, kepulauan, kawasan hutan, dan komunitas
@@ -9918,21 +9872,17 @@ pada ayat (1) harus mempertimbangkan ketersediaan
 Perbekalan Kesehatan untuk Fasilitas Pelayanan
 Kesehatan lainnya di lingkup kabupaten/kota lainnya
 serta kemampuan dalam pengelolaan penyimpanan.
+
 Pasal 547
 (1) Setiap Fasilitas Pelayanan Kesehatan di kawasan daerah
 tertinggal, perbatasan, kepulauan,. kawasan hutan, dan
 komunitas adat terpencil wajib melakukan pencatatan dan
 pelaporan.
-SK No 226971 A
-(2) Pencatatan .
-
-PRESIDEN
-REPUBLIK TNDONESIA
--228-
 (2) Pencatatan dan pelaporan sebagaimana dimaksud pada
 ayat (1) dapat dilakukan melalui Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
+
 Pasal 548
 Ketentuan lebih lanjut mengenai pelaksanaan Pelayanan
 Kesehatan di kawasan daerah tertinggal, perbatasan,
@@ -9954,6 +9904,7 @@ Pelayanan Kesehatan.
 (2) Teknologi informasi dan komunikasi sebagaimana
 dimaksud pada ayat (1) terintegrasi dengan
 Sistem Informasi Kesehatan Nasional.
+
 Pasal 550
 (1) Pemanfaatan teknologi informasi dan komunikasi
 sebagaimana dimaksud dalam Pasal 549 ayat (1) dapat
@@ -9962,6 +9913,7 @@ dilaksanakan melalui Telekesehatan dan Telemedisin.
 atas pemberian pelayanan klinis dan pelayanan nonklinis.
 (3) Pemberian pelayanan klinis sebagaimana dimaksud pada
 ayat (2) dilakukan melalui Telemedisin.
+
 Pasal 551
 Setiap Fasilitas Pelayanan Kesehatan yang menyelenggarakan
 Pelayanan Kesehatan melalui teknologi informasi dan
@@ -9978,6 +9930,7 @@ ditetapkan oleh Menteri.
 (2) Pen5rusunan standar interoperabilitas sebagaimana
 dimaksud pada ayat (1) dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 553
 (1) Sumber daya manusia dalam penyelengaraan Upaya
 Kesehatan berbasis teknologi informasi dan komunikasi,
@@ -9988,6 +9941,7 @@ c. Tenaga Pendukung atau Penunjang Kesehatan.
 (2) Sumber daya manusia sebagaimana dimaksud pada
 ayat (1) harrrs memiliki kompetensi di bidang teknologi
 informasi dan komunikasi.
+
 Pasal 554
 (1) Dalam mendukung penyelenggaraan Telekesehatan dan
 Telemedisin yang berkualitas, Fasilitas Pelayanan
@@ -9999,6 +9953,7 @@ terintegrasi dengan ruangan Pelayanan Kesehatan
 lainnya.
 (3) Penyediaan jaringan internet dan jaringan listrik sesuai
 standar kebutuhan layanan digital.
+
 Pasal 555
 (1) Penyelenggara Telekesehatan dan Telemedisin dalam
 memberikan pelayanan dapat menggunakan aplikasi.
@@ -10019,6 +9974,7 @@ kesehatan.
 (5) Ketentuan mengenai registrasi aplikasi yang
 dikembangkan secara mandiri dilakukan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 556
 (1) Untuk mendukung terselenggaranya Upaya Kesehatan
 yang memanfaatkan teknologi informasi dan komunikasi,
@@ -10044,12 +10000,12 @@ pemeriksaan penunjang.
 pada ayat (1) berupa promotif, preventif, kuratif,
 rehabilitatif , danlatau paliatif serta sistem informasi dan
 administrasi Kesehatan.
-(41 Persyaratan untuk menyelenggarakan Telekesehatan
+(4) Persyaratan untuk menyelenggarakan Telekesehatan
 meliputi:
-a. sumber daya manusia;
-b. sarana dan prasarana;
-c. peralatan; dan
-d. aplikasi.
+  a. sumber daya manusia;
+  b. sarana dan prasarana;
+  c. peralatan; dan
+  d. aplikasi.
 (5) Ketentuan lebih lanjut mengenai persyaratan untuk
 penyelenggaraan Telekesehatan sebagaimana dimaksud
 pada ayat (4) diatur dengan Peraturan Menteri.
@@ -10059,9 +10015,9 @@ Telemedisin
 
 Pasal 558
 (1) PenyelenggaraarL Telemedisin meliputi layanan:
-a. antar-Fasilitas Pelayanan Kesehatan; dan
-b. antara Fasilitas Pelayanan Kesehatan dengan
-masyarakat.
+  a. antar-Fasilitas Pelayanan Kesehatan; dan
+  b. antara Fasilitas Pelayanan Kesehatan dengan
+  masyarakat.
 (2) Penyelenggaraan Telemedisin antar-Fasilitas Pelayanan
 Kesehatan sebagaimana dimaksud pada ayat (1) huruf a
 merupakan Telemedisin yang dilaksanakan antara
@@ -10082,25 +10038,20 @@ penyelenggara sistem elektronik yang terdaftar sesuai
 dengan ketentuan peraturan perulndang-undangan.
 (5) Fasilitas Pelayanan Kesehatan yang dapat
 menyelenggarakan Telemedisin terdiri atas:
-a. Rumah Sakit;
-b. Puskesmas;
-c. klinik;
-d. praktik mandiri Tenaga Medis atau Tenaga
-Kesehatan;
-e. laboratorium Kesehatan; dan
-f. apotek.
+  a. Rumah Sakit;
+  b. Puskesmas;
+  c. klinik;
+  d. praktik mandiri Tenaga Medis atau Tenaga
+  Kesehatan;
+  e. laboratorium Kesehatan; dan
+  f. apotek.
 (6) Fasilitas Pelayanan Kesehatan yang menyelenggarakan
 Telemedisin harus memenuhi persyaratan yang meliputi:
-a. infrastrrrktur;
-b. jenis pelayanan;
-c. sumber daya manusia; dan
-d. standar klinis.
-SK No 230732 A
-Pasal559...
+  a. infrastrrrktur;
+  b. jenis pelayanan;
+  c. sumber daya manusia; dan
+  d. standar klinis.
 
-PRESIDEN
-REPUBLTK TNDONESIA
--232-
 Pasal 559
 (1) Infrastruktur sebagaimana dimaksud dalam Pasal 558
 ayat (6) huruf a merupakan fasilitas yang diperlukan
@@ -10124,6 +10075,7 @@ mendukung penyelenggaraan Telemedisin. (6) Sarana, prasarana, dan perangkat seba
 pelayanan, persyaratan mutu, keamanan, keselamatan,
 dan laik pakai sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 560
 (1) Perangkat lunak sebagaimana dimaksud dalam pasal 559
 ayat (5) merupakan aplikasi yang mendukung
@@ -10134,18 +10086,13 @@ perundang-undangan.
 Telemedisin dapat mengembangkan dan menggunakan
 aplikasi mandiri atau menggunakan aplikasi milik
 pemerintah atau swasta. (3) Dalam hal penyelenggaraan Telemedisin menggunakan
-aplikasi mandiri sebagaimana dimaksud pada ayat (21,
+aplikasi mandiri sebagaimana dimaksud pada ayat (2),
 aplikasi harus teregistrasi di kementerian yang
 menyelenggarakan urusan pemerintahan di bidang
 kesehatan.
 (4) Registrasi aplikasi mandiri dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
-Pasa1561...
-SK No 230733 A
 
-PRESIDEN
-REPUBLIK TNDONESIA
--233-
 Pasal 561
 (1) Jenis pelayanan sebagaimana dimaksud dalam Pasal 558
 ayat (6) huruf b, meliputi:
@@ -10168,6 +10115,7 @@ Kesehatan. (5) Ketentuan lebih lanjut mengenai jenis pelayanan yang
 dapat diselenggarakan pada penyelenggaraan Telemedisin
 sebagaimana dimaksud pada ayat (1) diatur dengan
 Peraturan Menteri.
+
 Pasal 562
 (1) Sumber daya manusia sebagaimana dimaksud dalam
 Pasal 558 ayat (6) huruf c terdiri atas:
@@ -10176,23 +10124,19 @@ b. Tenaga Kesehatan; dan
 c. Tenaga Pendukung atau Penunjang Kesehatan.
 (2) Tenaga Medis dan Tenaga Kesehatan sebagaimana
 dimaksud pada ayat (1) huruf a dan huruf b yang
-melakukan penyelenggaraan Telemedisin wajib -.-ititI STR dan SIP. (3) Ketentuan lebih lanjut mengenai STR dan SIp dalam
+melakukan penyelenggaraan Telemedisin wajib memiliki STR dan SIP.
+(3) Ketentuan lebih lanjut mengenai STR dan SIP dalam
 penyelenggaraan Telemedisin sebagaimana dimaksud
-pada ayat (21diatur dengan Peraturan Menteri.
-Pasal 563
-(1) Standar klinis sebagaimana dimaksud dalam pasal 55g
-ayat (6) huruf d terdiri atas:
-a. standar prosedur operasional dan ruang lingkup
-pelayanan;
-SK No 230734 A
-b. komunikasi
+pada ayat (2)diatur dengan Peraturan Menteri.
 
-PRESIDEN
-REPUBLTK INDONESIA
--234-
-b. komunikasi antara pemberi pelayanan dengan
-Pasien; dan
-c. kerahasiaan Pasien.
+Pasal 563
+(1) Standar klinis sebagaimana dimaksud dalam pasal 558
+ayat (6) huruf d terdiri atas:
+  a. standar prosedur operasional dan ruang lingkup
+  pelayanan;
+  b. komunikasi antara pemberi pelayanan dengan
+  Pasien; dan
+  c. kerahasiaan Pasien.
 (2) Standar prosedur operasional sebagaimana dimaksud
 pada ayat (1) huruf a berupa prosedur pemberian
 pelayanan Telemedisin.
@@ -10207,6 +10151,7 @@ komunikasi dengan Pasien.
 (5) Kerahasiaan Pasien sebagaimana dimaksud pada ayat (1)
 huruf c merupakan kewajiban penyelenggara Telemedisin
 untuk memastikan data dan informasi Pasien terlindungi.
+
 Pasal 564
 Ketentuan lebih lanjut mengenai penyelenggaraan Telemedisin
 diatur dengan Peraturan Menteri.
@@ -10258,6 +10203,7 @@ perkembangan ilmu pengetahuan dan teknologi. (5) Perencanaan sebagai dasar penge
 Medis dan Tenaga Kesehatan sebagaimana dimaksud pada
 ayat (1) huruf d dilakukan dengan memperhatikan
 ketersediaan jenis dan syarat jabatan serta kompetensi.
+
 Pasal 567
 (1) Menteri menetapkan kebijakan dan men5rusun
 perencanaan Tenaga Medis dan Tenaga Kesehatan
@@ -10271,15 +10217,10 @@ kota, Pemerintah Daerah provinsi, dan pihak terkait
 berdasarkan ketersediaan Tenaga Medis dan
 Tenaga Kesehatan serta kebutuhan penyelenggaraan
 pembangunan dan Upaya Kesehatan.
-SK No 230736 A
-(3) Perencanaan. . .
-
-PRESIDEN
-REPUBLIK TNDONESIA
--236-
 (3) Perencanaan Tenaga Medis dan Tenaga Kesehatan secara
 nasional sebagaimana dimaksud pada ayat (1) dan ayat (2)
 ditetapkan oleh Menteri.
+
 Pasal 568
 (1) Pemerintah Daerah wajib menJrusun perencanaan Tenaga
 Medis dan Tenaga Kesehatan di wilayahnya meliputi
@@ -10289,6 +10230,7 @@ Pemerintah Daerah dan masyarakat.
 Medis dan Tenaga Kesehatan dengan mengacu pada
 perencanaan Tenaga Medis dan Tenaga Kesehatan
 sebagaimana dimaksud dalam Pasal 567 ayat (1).
+
 Pasal 569
 Perencanaan Tenaga Medis dan Tenaga Kesehatan dilakukan
 terhadap Tenaga Medis dan Tenaga Kesehatan yang
@@ -10296,16 +10238,20 @@ melaksanakan pekerjaan keprofesian sesuai dengan
 kompetensi dan kewenangannya yang bekerja pada Fasilitas
 Pelayanan Kesehatan atau unit kerja milik Pemerintah Pusat,
 Pemerintah Daerah, atau masyarakat.
+
 Pasal 570
 Perencanaan Tenaga Medis dan Tenaga Kesehatan
 sebagaimana dimaksud dalam Pasal 567 ayat (1) dan
+
 Pasal 568 ayat (1) mengacu pada rencana induk bidang
 Kesehatan.
+
 Pasal 571
 Perencanaan Tenaga Medis dan Tenaga Kesehatan disusun
 melalui pendekatan:
 a. institusi; dan/atau
 b. wilayah.
+
 Pasal 572
 (1) Pen5rusunan perencanaan Tenaga Medis dan Tenaga
 Kesehatan melalui pendekatan institusi sebagaimana
@@ -10331,6 +10277,7 @@ ayat (1), dalam men5rusun perencanaan Tenaga Medis dan
 Tenaga Kesehatan dapat menggunakan metode lainnya
 sesuai dengan perkembangan teknis perencanaan dengan
 pendekatan institusi.
+
 Pasal 573
 (1) Pen5rusunan perencanaan Tenaga Medis dan Tenaga
 Kesehatan melalui pendekatan wilayah sebagaimana
@@ -10347,6 +10294,7 @@ kabupatenf kota, provinsi, dan nasional.
 (3) Perencanaan Tenaga Medis dan Tenaga Kesehatan melalui
 pendekatan wilayah sebagaimana dimaksud pada ayat (1)
 dapat dilakukan peninjauan kembali setiap tahun.
+
 Pasal 574
 Ketentuan lebih lanjut mengenai tata cara pen5rusunan
 perencanaan Tenaga Medis dan Tenaga Kesehatan diatur
@@ -10366,15 +10314,15 @@ pendayagunaan Tenaga Medis dan Tenaga Kesehatan.
 Tenaga Kesehatan dilakukan melalui pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan.
 (3) Pendidikan tinggi Tenaga Medis dan Tenaga Kesehatan
-sebagaimana dimaksud pada ayat (21terdiri atas:
-a. pendidikan akademik, yang terdiri atas program
-sarjana, magister, dan doktor;
-b. pendidikan vokasi, yang terdiri atas program diploma
-tiga, diploma empat/sarjana terapan, magister
-terapan, dan doktor terapan; dan
-c. pendidikan profesi, yang terdiri atas program profesi,
-spesialis, dan subspesialis.
-(41 Tenaga Medis harus memiliki kualifikasi pendidikan paling
+sebagaimana dimaksud pada ayat (2) terdiri atas:
+  a. pendidikan akademik, yang terdiri atas program
+  sarjana, magister, dan doktor;
+  b. pendidikan vokasi, yang terdiri atas program diploma
+  tiga, diploma empat/sarjana terapan, magister
+  terapan, dan doktor terapan; dan
+  c. pendidikan profesi, yang terdiri atas program profesi,
+  spesialis, dan subspesialis.
+(4) Tenaga Medis harus memiliki kualifikasi pendidikan paling
 rendah pendidikan profesi.
 (5) Tenaga Kesehatan memiliki kualifikasi pendidikan paling
 rendah diploma tiga.
@@ -10395,43 +10343,45 @@ dimaksud pada ayat (1), pendidikan tinggi Tenaga Medis
 dan Tenaga Kesehatan program spesialis dan subspesialis
 juga dapat diselenggarakan oleh RSPPU bekerja sama
 dengan perguruan tinggi.
+
 Pasal 577
 (1) Kerja sama sebagaimana dimaksud dalam Pasal 576
 bertujuan untuk:
-a. meningkatkan efektivitas, efisiensi, produktivitas,
-kreativitas, inovasi, mutu, dan relevansi pelaksanaan
-tridharma perguruan tinggi untuk meningkatkan
-daya saing bangsa;
-b. meningkatkan sinkronisasi dan harmonisasi
-pelayanan pendidikan dan penelitian bidang
-Kesehatan; dan
-c. memberikan kontribusi nyata untuk bidang
-pendidikan, penelitian, dan pengembangan ilmu
-pengetahuan dan teknologi dalam pembangunan
-bidang Kesehatan di wilayahnya.
-l2l Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:
-a. kerja sama akademik; dan
-b. kerja sama nonakademik. (3) Bentuk kerja sama akademik sebagaimana dimaksud
-pada ayat (21huruf a paling sedikit berupa:
-a. Pelayanan Kesehatan dalam suatu sistem Kesehatan
-akademik;
-b. penjaminan mutu pendidikan tinggi bidang
-Kesehatan; dan
-c. keda sama pendidikan, penelitian, dan pengabdian
-kepada masyarakat.
-(41 Bentuk kerja sama nonakademik sebagaimana dimaksud
+  a. meningkatkan efektivitas, efisiensi, produktivitas,
+  kreativitas, inovasi, mutu, dan relevansi pelaksanaan
+  tridharma perguruan tinggi untuk meningkatkan
+  daya saing bangsa;
+  b. meningkatkan sinkronisasi dan harmonisasi
+  pelayanan pendidikan dan penelitian bidang
+  Kesehatan; dan
+  c. memberikan kontribusi nyata untuk bidang
+  pendidikan, penelitian, dan pengembangan ilmu
+  pengetahuan dan teknologi dalam pembangunan
+  bidang Kesehatan di wilayahnya.
+(2) Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:
+  a. kerja sama akademik; dan
+  b. kerja sama nonakademik.
+(3) Bentuk kerja sama akademik sebagaimana dimaksud
+pada ayat (2) huruf a paling sedikit berupa:
+  a. Pelayanan Kesehatan dalam suatu sistem Kesehatan
+  akademik;
+  b. penjaminan mutu pendidikan tinggi bidang
+  Kesehatan; dan
+  c. keda sama pendidikan, penelitian, dan pengabdian
+  kepada masyarakat.
+(4) Bentuk kerja sama nonakademik sebagaimana dimaksud
 ayat (2) huruf b paling sedikit berupa kerja sama bidang
 sumber daya manusia, sarana dan prasarana, serta
 pendanaan.
-(1)
-(2)
+
 Pasal 578
-Ruang lingkup kerja sama sebagaimana dimaksud dalam
+(1) Ruang lingkup kerja sama sebagaimana dimaksud dalam
 Pasal 577 dituangkan dalam perjanjian kerja sama.
-Perjanjian kerja sama sebagaimana dimaksud pada
+(2) Perjanjian kerja sama sebagaimana dimaksud pada
 ayat (1) paling sedikit memuat hak dan kewajiban para
 pihak serta memperhatikan hak dan kewajiban peserta
-didik sesuai dengan ketentuan peraturan perundangundangan.
+didik sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 579
 (1) Penyelenggara pendidikan tinggi Tenaga Medis dan Tenaga
 Kesehatan sebagaimana dimaksud dalam Pasal 576
@@ -10444,38 +10394,39 @@ setelah memenuhi persyaratan pembukaan program studi
 pendidikan tinggi Tenaga Medis dan Tenaga Kesehatan.
 (3) Persyaratan sebagaimana dimaksud pada ayat (2)
 paling sedikit meliputi:
-a. studi kelayakan dan naskah akademik;
-b. rencana strategis penyelenggaraan pendidikan tinggi;
-c. pemenuhan standar nasional pendidikan tinggi;
-d. kerja sama sebagaimana dimaksud dalam Pasal 576
-dengan Fasilitas Pelayanan Kesehatan bagi
-perguruan tinggi atau dengan perguruan tinggi bagi
-RSPPU; dan
-e. sistem penjaminan mutu internal.
+  a. studi kelayakan dan naskah akademik;
+  b. rencana strategis penyelenggaraan pendidikan tinggi;
+  c. pemenuhan standar nasional pendidikan tinggi;
+  d. kerja sama sebagaimana dimaksud dalam Pasal 576
+  dengan Fasilitas Pelayanan Kesehatan bagi
+  perguruan tinggi atau dengan perguruan tinggi bagi
+  RSPPU; dan
+  e. sistem penjaminan mutu internal.
 (4) Dalam hal penyelenggara pendidikan Tenaga Medis dan
 Tenaga Kesehatan mempakan:
-a. perguruan tinggi negeri badan hukum; atau
-b. RSPPU tertentu yang memenuhi persyaratan
-tambahan,
+  a. perguruan tinggi negeri badan hukum; atau
+  b. RSPPU tertentu yang memenuhi persyaratan
+  tambahan,
 izin sebagaimana dimaksud pada ayat (1) dapat diberikan
 untuk membuka program studi secara mandiri.
 (5) Penyelenggaraan perguruan tinggi negeri badan hukum
 sebagaimana dimaksud pada ayat (4) huruf a
-dilaksanakan sesuai dengan ketentuan perundangundangan.
+dilaksanakan sesuai dengan ketentuan perundang-undangan.
 (6) Persyaratan tambahan bagi RSPPU tertentu sebagaimana
 dimaksud pada ayat (4) huruf b meliputi:
-a. penyelenggaraan pendidikan, penelitian, dan
-pengabdian kepada masyarakat yang bermutu;
-b. pemenuhan standar minimum kelayakan finansial;
-dan
-c. pengelolaan organisasi berdasarkan prinsip tata
-kelola yang baik.
-(71 Ketentuan lebih lanjut mengenai izin dan persyaratan
+  a. penyelenggaraan pendidikan, penelitian, dan
+  pengabdian kepada masyarakat yang bermutu;
+  b. pemenuhan standar minimum kelayakan finansial;
+  dan
+  c. pengelolaan organisasi berdasarkan prinsip tata
+  kelola yang baik.
+(7) Ketentuan lebih lanjut mengenai izin dan persyaratan
 penyelenggara pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan diatur dengan peraturan menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 pendidikan setelah berkoordinasi dengan Menteri.
-Pasal 58O
+
+Pasal 580
 Penyelenggara pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan harus memberikan manfaat dan berperan
 aktif dalam mendukung program untuk meningkatkan derajat
@@ -10497,7 +10448,7 @@ menyelenggarakan urusan pemerintahan di bidang
 kesehatan dan Kolegium setiap disiplin ilmu.
 (3) Standar kompetensi lulusan yang menjadi bagian dari
 standar nasional pendidikan tinggi sebagaimana
-dimaksud pada ayat(21mengacu pada standar kompetensi
+dimaksud pada ayat (2) mengacu pada standar kompetensi
 Tenaga Medis dan Tenaga Kesehatan yang disusun oleh
 Kolegium dan ditetapkan oleh Menteri.
 (4) Standar nasional pendidikan tinggi pada pendidikan tinggi
@@ -10507,13 +10458,13 @@ menyelenggarakan urusan pemerintahan di bidang
 pendidikan.
 (5) Standar nasional pendidikan tinggi pada pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan sebagaimana
-dimaksud pada ayat (41 merupakan acuan dalam
-penJrusunan kurikulum.
+dimaksud pada ayat (4) merupakan acuan dalam
+penyusunan kurikulum.
 (6) Kurikulum sebagaimana dimaksud pada ayat (5) disusun
 oleh penyelenggara pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan bersama Kolegium.
-(71 Ketentuan mengenai keterlibatan Kolegium sebagaimana
-dimaksud pada ayat (21, ayat (3), dan ayat (6) dikecualikan
+(7) Ketentuan mengenai keterlibatan Kolegium sebagaimana
+dimaksud pada ayat (2), ayat (3), dan ayat (6) dikecualikan
 terhadap pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan yang belum memiliki Kolegium.
 
@@ -10534,6 +10485,7 @@ informasi.
 (2) Seleksi penerimaan peserta didik pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan mencakup
 tes tertulis, wawancara, dan/atau portofolio.
+
 Pasal 583
 (1) Dalam hal seleksi penerimaan peserta didik sebagaimana
 dimaksud dalam Pasal 582 ayat (2) untuk pendidikan
@@ -10560,6 +10512,7 @@ sebagaimana dimaksud pada ayat (3) dapat
 mempertimbangkan afirmasi untuk pemerataan distribusi
 Tenaga Medis dan Tenaga Kesehatan spesialis/
 subspesialis.
+
 Pasal 584
 (1) Peserta didik pendidikan Tenaga Medis dan Tenaga
 Kesehatan program spesialis / subspesialis didayagunakan
@@ -10579,11 +10532,13 @@ Kesehatan lain yang membutuhkan.
 dimaksud pada ayat (3), peserta didik yang ditempatkan
 pada Fasilitas Pelayanan Kesehatan lain sebagaimana
 dimaksud pada ayat (4)juga dapat menerima insentif.
+
 Pasal 585
 Pelaksanaan pendayagunaan peserta didik sebagaimana
 dimaksud dalam Pasal 584 mengacu pada perencanaan
 Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud
 dalam Pasal 567 ayat (1).
+
 Pasal 586
 Ketentuan lebih lanjut mengenai pendayagunaan peserta didik
 pendidikan Tenaga Medis dan Tenaga Kesehatan program
@@ -10601,47 +10556,39 @@ Pasal 587
 (1) Pembinaan dan pengawasan terhadap pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan dilaksanakan
 melalui:
-a. advokasi, sosialisasi, dan bimbingan teknis; dan
-b. monitoring dan evaluasi.
+  a. advokasi, sosialisasi, dan bimbingan teknis; dan
+  b. monitoring dan evaluasi.
 (2) Pembinaan dan pengawasan terhadap pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan sebagaimana
 dimaksud pada ayat (1) dilaksanakan oleh menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 pendidikan dan Menteri secara bersama.
-SK No 23074 A
-(3) Ketentuan . .
-
-PRESIDEN
-REPUBLTK INOONESIA
--244-
 (3) Ketentuan lebih lanjut mengenai pembinaan dan
 pengawasan terhadap pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan diatur dengan peraturan menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 pendidikan dan Peraturan Menteri sesuai dengan
 kewenangan masing-masing.
-(21
-(1)
-(3)
-(41
+
 Pasal 588
-Penjaminan mutu pendidikan tinggi Tenaga Medis dan
+(1) Penjaminan mutu pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan dilaksanakan melalui sistem
 penjaminan mutu.
-Sistem penjaminan mutu sebagaimana dimaksud pada
+(2) Sistem penjaminan mutu sebagaimana dimaksud pada
 ayat (1) terdiri atas sistem penjaminan mutu internal dan
 sistem penjaminan mutu eksternal.
-Sistem penjaminan mutu internal sebagaimana dimaksud
-pada ayat (21dilaksanakan oleh unit penjaminan mutu.
-Unit penjaminan mutu sebagaimana dimaksud pada
+(3) Sistem penjaminan mutu internal sebagaimana dimaksud
+pada ayat (2) dilaksanakan oleh unit penjaminan mutu.
+(4) Unit penjaminan mutu sebagaimana dimaksud pada
 ayat (3) pada perguruan tinggi melibatkan perwakilan
 mitra Fasilitas Pelayanan Kesehatan dan pada RSPPU
 melibatkan dosen perwakilan perguruan tinggi.
-Sistem penjaminan mutu eksternal sebagaimana
+(5) Sistem penjaminan mutu eksternal sebagaimana
 dimaksud pada ayat (2) meliputi akreditasi oleh lembaga
-akreditasi sesuai dengan ketentuan peraturan perulndangundangan terkait pemenuhan standar nasional
+akreditasi sesuai dengan ketentuan peraturan
+perundang-undangan terkait pemenuhan standar nasional
 pendidikan tinggi.
-(s)
+
 Pasal 589
 Ketentuan lebih lanjut mengenai pedoman penyelenggaraan
 pendidikan oleh RSPPU diatur dengan Peraturan Menteri
@@ -10656,17 +10603,11 @@ Pasal 590
 (1) Peserta didik yang menyelesaikan pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan berhak
 mendapatkan:
-a. ijazah dan gelar untuk diploma tiga, sarjana, dan
-diploma empat/ sarjana terapan; atau
-b. Sertifikat Profesi dan gelar untuk pendidikan profesi.
-(2) ljazah, Sertifikat Profesi, dan gelar sebagaimana dimaksud
-pada ayat (1) diberikan oleh pergurLtan tinggi.
-SK No 230745 A
-(3) Dalam
-
-PRESIDEN
-TIEPUBLIK INDONESIA
--245-
+  a. ijazah dan gelar untuk diploma tiga, sarjana, dan
+    diploma empat/ sarjana terapan; atau
+  b. Sertifikat Profesi dan gelar untuk pendidikan profesi.
+(2) Ijazah, Sertifikat Profesi, dan gelar sebagaimana dimaksud
+pada ayat (1) diberikan oleh perguruan tinggi.
 (3) Dalam hal pendidikan profesi sebagaimana dimaksud
 pada ayat (1) huruf b merupakan pendidikan tinggi
 Tenaga Medis dan Tenaga Kesehatan program
@@ -10674,6 +10615,7 @@ spesialis/subspesialis, Sertifikat Profesi dan gelar
 diberikan oleh perguruan tinggi bersama dengan mitra
 Fasilitas Pelayanan Kesehatan atau RSPPU bersama
 dengan mitra perguruan tinggi.
+
 Pasal 591
 (1) Peserta didik pada pendidikan vokasi dan pendidikan
 profesi harus mengikuti uji kompetensi secara nasional.
@@ -10693,6 +10635,7 @@ ayat (2) dilaksanakan berdasarkan standar prosedur
 operasional yang ditetapkan bersama oleh Menteri dan
 menteri yang menyelenggarakan urusan pemerintahan di
 bidang pendidikan.
+
 Pasal 592
 (1) Peserta didik pendidikan vokasi yang lulus uji
 kompetensi pada akhir masa pendidikan memperoleh
@@ -10718,6 +10661,7 @@ Tenaga Medis dan Tenaga Kesehatan.
 (3) Ketentuan lebih lanjut mengenai sumpah profesi
 sebagaimana dimaksud pada ayat (2) diatur dengan
 Peraturan Menteri.
+
 Pasal 594
 (1) Lulusan pendidikan tinggi Tenaga Medis dan
 Tenaga Kesehatan yang telah memiliki Sertifikat
@@ -10742,7 +10686,8 @@ pertama dan Fasilitas Pelayanan Kesehatan tingkat lanjut.
 (2) Fasilitas Pelayanan Kesehatan sebagaimana dimaksud
 pada ayat (1) meliputi Rumah Sakit dan Puskesmas.
 (3) Rumah Sakit dan hrskesmas sebagaimana dimaksud
-pada ayat (21ditetapkan oleh Menteri.
+pada ayat (2) ditetapkan oleh Menteri.
+
 Pasal 596
 (1) Program internsip sebagaimana dimaksud dalam
 Pasal 595 ayat (1) bertujuan untuk pemantapan,
@@ -10752,6 +10697,7 @@ diselenggarakan secara nasional oleh Menteri setelah
 berkoordinasi dengan menteri yang menyelenggarakan
 urusan pemerintahan di bidang pendidikan dan pihak
 terkait.
+
 Pasal 597
 (1) Setiap dokter atau dokter gigi warga negara Indonesia yang
 lulus program profesi dokter atau dokter gigi dalam negeri
@@ -10763,12 +10709,14 @@ pendamping internsip.
 sebagaimana dimaksud pada ayat (1) harus
 menyelesaikan internsip sebelum melaksanakan praktik
 keprofesiannya.
-(41 Program internsip dokter dan dokter gigi
+(4) Program internsip dokter dan dokter gigi
 sebagaimana dimaksud pada ayat (1) dilaksanakan paling
 Iama 1 (satu) tahun.
+
 Pasal 598
 Tenaga Medis yang telah menyelesaikan program internsip
 diberikan surat tanda selesai internsip.
+
 Pasal 599
 Tenaga Medis yang mengikuti program internsip wajib:
 a. bersedia ditempatkan di seluruh wilayah Indonesia;
@@ -10795,12 +10743,14 @@ b. pelindungan hukum sepanjang mematuhi standar profesi
 dan standar pelayanan;
 c. pendampingan dari dokter atau dokter gigi; dan
 d. fasilitas tempat tinggal.
+
 Pasal 601
 (1) Biaya penyelenggaraan program internsip dibebankan
 pada anggaran pendapatan dan belanja negara.
 (2) Pemerintah Daerah memberikan fasilitas dalam
 penyelenggaraan program internsip sesuai dengan
 kemampuan daerah.
+
 Pasal 602
 (1) Menteri melakukan pembinaan dan pengawasan terhadap
 pelaksanaan program internsip dokter atau dokter gigi
@@ -10810,6 +10760,7 @@ urusan pemerintahan di bidang pendidikan dan Konsil.
 ayat (1) diarahkan untuk meningkatkan mutu program
 internsip secara berkelanjutan dalam upaya
 meningkatkan mutu Pelayanan Kesehatan.
+
 Pasal 603
 (1) Dalam hal Tenaga Medis yang mengikuti program
 internsip melanggar kewajiban sebagaimana dimaksud
@@ -10820,6 +10771,7 @@ dapat berupa:
 a. teguran lisan;
 b. teguran tertulis; dan/atau
 c. rekomendasi penundaan penerbitan STR.
+
 Pasal 604
 Ketentuan lebih lanjut mengenai pelaksanaan program
 internsip diatur dengan Peraturan Menteri.
@@ -10828,7 +10780,7 @@ Paragraf 8
 Sumber Daya Manusia dalam Pendidikan
 Tenaga Medis dan Tenaga Kesehatan
 
-Pasal 6O5
+Pasal 605
 (1) Sumber daya manusia dalam pendidikan Tenaga Medis
 dan Tenaga Kesehatan terdiri atas:
 a. pendidik dan tenaga kependidikan yang bukan
@@ -10852,24 +10804,20 @@ memberikan Pelayanan Kesehatan pada Fasilitas
 Pelayanan Kesehatan yang bermitra dengan pergurulan
 tinggi atau RSPPU dapat menjalankan tugas pendidikan,
 penelitian, atau pengabdian kepada masyarakat.
-Pasal 6O6
+
+Pasal 606
 (1) Tenaga Medis dan Tenaga Kesehatan sebagai pendidik
 klinis sebagaimana dimaksud dalam Pasal 605 ayat (3)
 dapat memiliki jenjang jabatan akademik sampai dengan
 jabatan profesor setelah memenuhi persyaratan.
 (2) Ketentuan mengenai pendidik klinis sebagaimana
 dimaksud pada ayat (1) diatur dengan Peraturan Presiden.
+
 Pasal 607
 (1) Sumber daya manusia sebagaimana dimaksud dalam
 Pasal 605 ayat (1) mendapatkan kesetaraan pengakuan
 atas pekerjaannya dalam proses pendidikan Tenaga Medis
 dan Tenaga Kesehatan dalam pengembangan kariernya.
-(2) Sumber...
-SK No 230750A
-
-FRESIDEN
-REPUBLIK INDONESIA
--250-
 (2) Sumber daya manusia sebagaimana dimaksud pada
 ayat (1) dapat ditugaskan untuk melaksanakan
 pekerjaannya secara fleksibel antarpenyelenggara
@@ -10879,10 +10827,11 @@ dimaksud pada ayat (2) diatur lebih lanjut dalam
 perjanjian kerja sama antara perguruan tinggi dengan
 mitra Fasilitas Pelayanan Kesehatan atau antara
 RSPPU dengan mitra perguruan tinggi.
+
 Pasal 608
 Ketentuan mengenai dosen, tenaga kependidikan, peneliti, dan
 perekayasa sebagaimana dimaksud dalam Pasal 605
-dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
+dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 Paragraf 9
 Bantuan Pendanaan Pendidikan
@@ -10895,43 +10844,38 @@ oleh Pemerintah Pusat dan Pemerintah Daerah.
 pada ayat (1) diberikan sesuai dengan kebijakan
 perencanaan Tenaga Medis dan Tenaga Kesehatan.
 (3) Bantuan pendanaan pendidikan sebagaimana dimaksud
-pada ayat (21diberikan kepada Tenaga Medis dan Tenaga
+pada ayat (2) diberikan kepada Tenaga Medis dan Tenaga
 Kesehatan dengan mempertimbangkan:
-a. prioritaspembangunanKesehatan;
-b. kebutuhan program;
-c. ketersediaan alokasi anggaran; dan
-d. mekanisme perenc€rnaan dan penganggaran.
-(41 Pemberian bantuan pendanaan pendidikan dilaksanakan
+  a. prioritaspembangunanKesehatan;
+  b. kebutuhan program;
+  c. ketersediaan alokasi anggaran; dan
+  d. mekanisme perenc€rnaan dan penganggaran.
+(4) Pemberian bantuan pendanaan pendidikan dilaksanakan
 selama masa studi sesuai dengan kurikulum yang
 ditetapkan oleh penyelenggara pendidikan.
+
 Pasal 610
 (1) Tenaga Medis dan Tenaga Kesehatan yang menerima
 bantuan pendanaan pendidikan sebagaimana dimaksud
 dalam Pasal 609 ayat (1) wajib melaksanakan masa
 pengabdian pada Fasilitas Pelayanan Kesehatan yang
 ditunjuk setelah menyelesaikan pendidikan.
-SK No 230751 A
-(2) Fasilitas
-
-FRESIDEN
-TTEPUBUK INDONESIA
--25r-
 (2) Fasilitas Pelayanan Kesehatan yang ditunjuk sebagaimana
 dimaksud pada ayat (1) diprioritaskan untuk:
-a. Fasilitas Pelayanan Kesehatan di daerah tertinggal,
-perbatasan, dan kepulauan;
-b. Fasilitas Pelayanan Kesehatan di daerah bermasalah
-Kesehatan; dan/atau
-c. Fasilitas Pelayanan Kesehatan yang memerlukan
-Pelayanan Kesehatan termasuk pelayanan
-spesialistik dan subspesialistik.
+  a. Fasilitas Pelayanan Kesehatan di daerah tertinggal,
+  perbatasan, dan kepulauan;
+  b. Fasilitas Pelayanan Kesehatan di daerah bermasalah
+  Kesehatan; dan/atau
+  c. Fasilitas Pelayanan Kesehatan yang memerlukan
+  Pelayanan Kesehatan termasuk pelayanan
+  spesialistik dan subspesialistik.
 (3) Tenaga Medis dan Tenaga Kesehatan sebagaimana
 dimaksud pada ayat (1) yang melaksanakan masa
 pengabdian pada Fasilitas Pelayanan Kesehatan milik
 pemerintah diangkat sebagai aparatur sipil negara oleh
 Pemerintah Pusat atau Pemerintah Daerah sesuai
-kewenangannya dan ketentuan peraturan perundangundangan.
-(41 Tenaga Medis dan Tenaga Kesehatan yang menerima
+kewenangannya dan ketentuan peraturan perundang-undangan.
+(4) Tenaga Medis dan Tenaga Kesehatan yang menerima
 bantuan pendanaan pendidikan tidak melaksanakan
 masa pengabdian dikenai sanksi administratif berupa
 pencabutan STR.
@@ -10941,7 +10885,7 @@ Tenaga Medis dan Tenaga Kesehatan.
 (6) Pemerintah Daerah wajib menyediakan sumber
 daya dalam pendayagunaan Tenaga Medis dan
 Tenaga Kesehatan sebagaimana dimaksud pada ayat (5).
-(71 Pemerintah Daerah yang tidak mendayagunakan
+(7) Pemerintah Daerah yang tidak mendayagunakan
 Tenaga Medis dan Tenaga Kesehatan sebagaimana
 dimaksud pada ayat (5) tidak dapat mengajukan usulan
 pemenuhan kebutuhan Tenaga Medis dan
@@ -10950,12 +10894,14 @@ untuk jangka waktu tertentu.
 (8) Ketentuan lebih lanjut mengenai bantuan pendanaan
 pendidikan Tenaga Medis dan Tenaga Kesehatan diatur
 dengan Peraturan Menteri.
+
 Pasal 611
 (1) Bantuan pendanaan pendidikan dapat diberikan oleh
 masyarakat.
 (2) Mekanisme bantuan pendanaan pendidikan sebagaimana
 dimaksud pada ayat (1) dilaksanakan sesuai dengan
 perjanjian para pihak.
+
 Pasal 612
 Menteri, gubernur, dan bupati/wali kota melakukan
 pembinaan dan pengawasan terhadap penyelenggaraan
@@ -10991,12 +10937,7 @@ b. pendanaan penyelenggaraan pendidikan pada Rumah
 Sakit pendidikan dan RSPPU berasal dari
 kementerian yang menyelenggarakan urusan
 pemerintahan di bidang kesehatan.
-SK No 226995 A
-(4) Dalam
 
-PRESIDEN
-REPUBLTK INDONESIA
--253-
 (4) Dalam hal peserta didik pendidikan Tenaga Medis dan
 Tenaga Kesehatan menerima bantuan pendanaan
 pendidikan dari Pemerintah Daerah, pendanaan
@@ -11022,6 +10963,7 @@ keprofesiannya.
 (2) Peningkatan kompetensi secara berkelanjutan
 sebagaimana dimaksud pada ayat (1) dilakukan
 paling sedikit melalui peningkatan kualifikasi pendidikan.
+
 Pasal 615
 (1) Peningkatan kualifikasi pendidikan sebagaimana
 dimaksud dalam Pasal 614 ayat (2) diselenggarakan
@@ -11032,15 +10974,10 @@ pendidikan sebagaimana dimaksud pada ayat (1),
 Pemerintah Pusat, Pemerintah Daerah, masyarakat, dan
 pihak lain dapat memberikan bantuan pendanaan
 pendidikan bagi Tenaga Medis dan Tenaga Kesehatan.
+
 Pasal 616
 Ketentuan lebih lanjut mengenai peningkatan kompetensi
 secara berkelanjutan diatur dengan Peraturan Menteri.
-SK No 230754 A
-Bagian
-
-PRESIDEN
-REPUBUK INDONESIA
--254-
 
 Bagian Ketiga
 Pendayagunaan Tenaga Medis dan Tenaga Kesehatan
@@ -11077,23 +11014,20 @@ pemenuhan Tenaga Medis dan Tenaga Kesehatan untuk
 Pelayanan Kesehatan lanjutan pada Fasilitas Pelayanan
 Kesehatan miliknya sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 619
 Dalam rangka pemenuhan kebutuhan Tenaga Medis dan
 Tenaga Kesehatan sebagaimana dimaksud dalam Pasal 618,
 Pemerintah Pusat dapat memberikan insentif atau disinsentif
-kepada Pemerintah Daerah.
-Pasal620...
-SK No 230755 A
+kepada Pemerintah Daerah
 
-FRESIDEN
-REPUBLIK INDONESIA
--255-
-Pasal 62O
+Pasal 620
 Pemberian insentif atau disinsentif kepada Pemerintah Daerah
 sebagaimana dimaksud dalam Pasal 619 dilaksanakan sesuai
 dengan kriteria dan memperhatikan aspek pemerataan,
 transparansi, akuntabilitas, dan efisien.
-Pasal 62 1
+
+Pasal 621
 (1) Ketentuan mengenai kriteria pemberian insentif atau
 disinsentif sebagaimana dimaksud dalam Pasal 620 diatur
 dengan peraturan menteri yang menyelenggarakan urusan
@@ -11129,11 +11063,6 @@ kota sesuai perencanaan nasional dengan memperhatikan
 kebutuhan Pelayanan Kesehatan, ketersediaan Tenaga
 Medis dan Tenaga Kesehatan, serta memperhatikan
 daerah tertinggal, perbatasan, dan kepulauan.
-(41 Menteri...
-SK No 230756 A
-
-REPUBLIK INDONESIA
--256-
 (4) Menteri menetapkan jenis Tenaga Medis dan Tenaga
 Kesehatan yang menjadi prioritas, kriteria, dan penetapan
 Fasilitas Pelayanan Kesehatan yang menjadi lokasi
@@ -11141,6 +11070,7 @@ penugasan khusus sebagaimana dimaksud pada ayat (1).
 (5) Penetapan sebagaimana dimaksud pada ayat (4) menjadi
 acuan bagi gubernur atau bupati/wali kota dalam
 melakukan penugasan khusus.
+
 Pasal 623
 (1) Dalam rangka penugasan khusus Tenaga Medis dan
 Tenaga Kesehatan, Pemerintah Daerah wajib menyediakan
@@ -11154,6 +11084,7 @@ Pemerintah Daerah dapat memberikan tunjangan daerah
 bagi peserta penugasan khusus yang ditugaskan oleh
 Pemerintah Pusat sesuai dengan kemampuan keuangan
 daerah masing-masing.
+
 Pasal 624
 Tenaga Medis dan Tenaga Kesehatan yang didayagunakan
 melalui penugasan khusus berhak:
@@ -11172,12 +11103,7 @@ penugasan khusus;
 f. memperoleh jaminan keamanan; dan
 g. memperoleh hak lain sesuai dengan ketentuan peraturan
 perundang-undangan.
-SK No 230757 A
-Pasal 625 . .
 
-FRESIDEN
-REPUBLIK TNDONESIA
--257 -
 Pasal 625
 Ketentuan lebih lanjut mengenai tata cara penyelenggaraan
 penugasan khusus Tenaga Medis dan Tenaga Kesehatan diatur
@@ -11193,21 +11119,24 @@ Kesehatan, Pemerintah Pusat dan/atau Pemerintah
 Daerah dapat memanfaatkan Tenaga Medis dan Tenaga
 Kesehatan lulusan dari penyelenggara pendidikan yang
 diselenggarakan oleh Pemerintah Pusat atau masyarakat
-untuk mengikuti seleksi penempatan. (2) Penempatan sebagaimana dimaksud pada ayat (1)
+untuk mengikuti seleksi penempatan.
+(2) Penempatan sebagaimana dimaksud pada ayat (1)
 dilaksanakan sesuai dengan perencanaan sebagaimana
-dimaksud dalam Pasal 566. (3) Tenaga Medis dan Tenaga Kesehatan yang telah lulus
+dimaksud dalam Pasal 566.
+(3) Tenaga Medis dan Tenaga Kesehatan yang telah lulus
 seleksi sebagaimana dimaksud pada ayat (1) ditempatkan
 pada Fasilitas Pelayanan Kesehatan milik Pemerintah
 Pusat dan/atau Pemerintah Daerah untuk jangka waktu
 tertentu.
-(41 Penempatan sebagaimana dimaksud pada ayat (21
+(4) Penempatan sebagaimana dimaksud pada ayat (2)
 mempertimbangkan:
-a. pemenuhan kebutuhan insentif;
-b. jaminan keamanan serta keselamatan kerja;
-c. daerah yang memiliki kekurangan Tenaga Medis dan
-Tenaga Kesehatan;
-d. kebutuhan Pelayanan Kesehatan; dan
-e. Fasilitas Pelayanan Kesehatan. (5) Ketentuan lebih lanjut mengenai tata cara penempatan
+  a. pemenuhan kebutuhan insentif;
+  b. jaminan keamanan serta keselamatan kerja;
+  c. daerah yang memiliki kekurangan Tenaga Medis dan
+  Tenaga Kesehatan;
+  d. kebutuhan Pelayanan Kesehatan; dan
+  e. Fasilitas Pelayanan Kesehatan.
+(5) Ketentuan lebih lanjut mengenai tata cara penempatan
 Tenaga Medis dan Tenaga Kesehatan diatur dengan
 Peraturan Menteri.
 
@@ -11238,6 +11167,7 @@ peraturan perundang-undangan.
 (5) Tenaga Medis dan Tenaga Kesehatan yang
 dipindahtugaskan diberikan kompensasi sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 628
 (1) Tenaga Medis dan Tenaga Kesehatan sebagaimana
 dimaksud dalam Pasal 627 ayat (1) yang bertugas di
@@ -11248,7 +11178,7 @@ keamanan, dukungan sarana prasarana dan Alat
 Kesehatan, kenaikan pangkat luar biasa, dan pelindungan
 dalam pelaksanaan tugas sesuai dengan ketentuan
 peraturan perundang-undangan.
-(2) T\rnjangan atau insentif khusus, jaminan keamanan,
+(2) Tunjangan atau insentif khusus, jaminan keamanan,
 dukungan sarana prasarana dan Alat Kesehatan,
 kenaikan pangkat luar biasa, dan pelindungan dalam
 pelaksanaan tugas sebagaimana dimaksud pada ayat (1)
@@ -11259,17 +11189,13 @@ komunitas adat terpencil.
 jenis dan besaran tunjangan atau insentif bagi Tenaga
 Medis dan Tenaga Kesehatan yang ditugaskan pada
 daerah tertinggal, perbatasan, dan kepulauan serta
-daerah bermasalah Kesehatan atau daerah tidak diminati. (4) Pemerintah Pusat dan Pemerintah Daerah memberikan
+daerah bermasalah Kesehatan atau daerah tidak diminati.
+(4) Pemerintah Pusat dan Pemerintah Daerah memberikan
 tunjangan atau insentif khusus, jaminan keamanan,
 dukungan sarana prasarana dan Alat Kesehatan dan
 perlindungan dalam pelaksanaan tugas di daerah
 tertinggal, perbatasan, dan kepulauan serta daerah
 bermasalah Kesehatan atau daerah tidak diminati.
-SK No 230759 A
-(5) Tenaga
-
-REPUBLIK INDONESIA
--259-
 (5) Tenaga Medis dan Tenaga Kesehatan yang memenuhi
 kinerja dan kriteria tertentu saat bertugas di daerah
 tertinggal, perbatasan, dan kepulauan serta daerah
@@ -11278,6 +11204,7 @@ diberikan kenaikan pangkat luar biasa.
 (6) Ketentuan lebih lanjut mengenai pemenuhan kinerja dan
 kriteria tertentu sebagaimana dimaksud pada ayat (5)
 diatur dengan Peraturan Menteri.
+
 Pasal 629
 (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab pada pemenuhan kebutuhan Fasilitas Pelayanan
@@ -11292,7 +11219,7 @@ sebagaimana dimaksud pada ayat (2) dapat dilakukan
 dengan cara penugasan sementara danlatau pemberian
 target kinerja tambahan apabila belum tersedia Tenaga
 Medis dan Tenaga Kesehatan pengganti.
-(41 Pemberian target kinerja tambahan sebagaimana
+(4) Pemberian target kinerja tambahan sebagaimana
 dimaksud pada ayat (3) dilakukan pada Tenaga Medis dan
 Tenaga Kesehatan yang memiliki level kompetensi yang
 sama.
@@ -11311,21 +11238,17 @@ Medis dan Tenaga Kesehatan.
 sebagaimana dimaksud pada ayat (1) dilaksanakan
 sesuai dengan perencanaan Tenaga Medis dan Tenaga
 Kesehatan.
-SK No 230760 A
-(3) Penempatan...
 
-PRESIDEN
-REPUBUK INDONESIA
--260-
 (3) Penempatan Tenaga Medis dan Tenaga Kesehatan
 sebagaimana dimaksud pada ayat (1) dilaksanakan
 dalam jangka waktu tertentu.
 (4) Tenaga Medis dan Tenaga Kesehatan sebagaimana
-dimaksud pada ayat(21ditempatkan di Fasilitas Pelayanan
+dimaksud pada ayat (2) ditempatkan di Fasilitas Pelayanan
 Kesehatan dan diberikan insentif dengan besaran yang
 ditetapkan oleh Menteri setelah mendapatkan
 persetujuan dari menteri yang menyelenggarakan urusan
 pemerintahan di bidang keuangan negara.
+
 Pasal 631
 Ketentuan lebih lanjut mengenai penyelenggaraan penempatan
 Tenaga Medis dan Tenaga Kesehatan lulusan penyelenggara
@@ -11352,10 +11275,10 @@ tidak diminati.
 (3) Pola ikatan dinas sebagaimana dimaksud pada ayat (1)
 diberlakukan kepada calon Tenaga Medis dan
 Tenaga Kesehatan yang mendapatkan:
-a. subsidi biaya pendidikan;
-b. bantuan biaya pendidikan/beasiswa; dan latau
-c. pengangkatan sebagai pegawai.
-(41 Calon Tenaga Medis dan Tenaga Kesehatan sebagaimana
+  a. subsidi biaya pendidikan;
+  b. bantuan biaya pendidikan/beasiswa; dan latau
+  c. pengangkatan sebagai pegawai.
+(4) Calon Tenaga Medis dan Tenaga Kesehatan sebagaimana
 dimaksud pada ayat (3) wajib melaksanakan ikatan dinas
 sesuai dengan perjanjian dengan Pemerintah Pusat,
 Pemerintah Daerah, badan usaha, atau masyarakat yang
@@ -11366,7 +11289,7 @@ masyarakat yang menetapkan pola ikatan dinas wajib
 mendayagunakan Tenaga Medis dan Tenaga Kesehatan di
 Fasilitas Pelayanan Kesehatan dengan memperhatikan
 gaji/upah, imbalan jasa, dan tunjangan kinerja yang layak
-sesuai dengan ketentuan peraturan perundangundangan.
+sesuai dengan ketentuan peraturan perundang-undangan.
 
 Paragraf 8
 Pendayagunaan Tenaga Cadangan Kesehatan
@@ -11401,12 +11324,7 @@ Kesehatan dapat dipersiapkan untuk kondisi kedaruratan
 Kesehatan lainnya.
 (6) Tenaga cadangan Kesehatan sebagaimana dimaksud pada
 ayat (1) dapat berbentuk tim dan/atau perseorangan.
-Pasal634...
-SK No 230762 A
 
-PRESIDEN
-REPUBUK INDONESIA
--262-
 Pasal 634
 (1) Pengelolaan tenaga cadangan Kesehatan dilakukan
 melalui:
@@ -11419,7 +11337,7 @@ c. pelaksanaan mobilisasi.
 (2) Pendaftaran sebagaimana dimaksud pada ayat (1) huruf a
 dapat dilakukan secara sukarela atau penugasan.
 (3) Pendaftaran secara penugasan sebagaimana dimaksud
-pada ayat (21dapat dilakukan melalui penugasan institusi
+pada ayat (2) dapat dilakukan melalui penugasan institusi
 pemerintah atau penugasan institusi nonpemerintah
 berdasarkan kerja sama yang telah disepakati oleh
 pemerintah.
@@ -11437,23 +11355,24 @@ untuk menghasilkan tenaga cadangan Kesehatan yang
 kompeten dan siap untuk dimobilisasi pada
 penanggulangan KLB, Wabah, dan darurat bencana serta
 kedaruratan Kesehatan lainnya.
-(71 Penentuan tingkat kapasitas tenaga cadangan Kesehatan
+(7) Penentuan tingkat kapasitas tenaga cadangan Kesehatan
 sebagaimana ayat (1) huruf b berdasarkan kemampuan
 dan/atau pengalaman dalam penanggulangan KLB,
 Wabah, dan darurat bencana serta kedaruratan
 Kesehatan lainnya.
-(S) Pelaksanaan mobilisasi sebagaimana dimaksud
+(8) Pelaksanaan mobilisasi sebagaimana dimaksud
 pada ayat (1) huruf c dilaksanakan oleh Pemerintah Pusat
 dan/atau Pemerintah Daerah dengan
 mempertimbangkan:
-a. kejadian KLB, Wabah, dan darurat bencana serta
-kedaruratan Kesehatan lainnya di tingkat nasional,
-provinsi, atau kabupaten/ kota;
-b. rekomendasi kebutuhan penanggulangan KLB,
-Wabah, dan darurat bencana serta kedaruratan
-Kesehatan lainnya; dan
-keamanan dan keselamatan dalam menjalankan
-tugasnya.
+  a. kejadian KLB, Wabah, dan darurat bencana serta
+  kedaruratan Kesehatan lainnya di tingkat nasional,
+  provinsi, atau kabupaten/ kota;
+  b. rekomendasi kebutuhan penanggulangan KLB,
+  Wabah, dan darurat bencana serta kedaruratan
+  Kesehatan lainnya; dan
+  c. keamanan dan keselamatan dalam menjalankan
+  tugasnya.
+
 Pasal 635
 (1) Pengelolaan tenaga cadangan Kesehatan sebagaimana
 dimaksud dalam Pasal 634 dilakukan melalui sistem
@@ -11463,17 +11382,20 @@ dengan Sistem Informasi Kesehatan Nasional.
 sebagaimana dimaksud pada ayat (1) dapat diakses oleh
 Pemerintah Daerah provinsi dan Pemerintah Daerah
 kabupaten/kota.
+
 Pasal 636
 Dalam pelaksanaan mobilisasi sebagaimana dimaksud dalam
 Pasal 634 ayat (1) huruf c, tenaga cadangan Kesehatan
 mendapatkan jaminan kecelakaan kerja dan jaminan kematian
 sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 637
 Pemerintah Pusat dan Pemerintah Daerah melakukan
 pengawasan, pemantauan, dan evaluasi perkembangan
 program tenaga cadangan Kesehatan baik sebelum, pada saat,
 maupun pasca-KlB, Wabah, dan darurat bencana serta
 kedaruratan Kesehatan lainnya.
+
 Pasal 638
 Ketentuan lebih lanjut mengenai mekanisme pendayagunaan
 tenaga cadangan Kesehatan sebagaimana dimaksud
@@ -11493,62 +11415,52 @@ b. meningkatkan profesionalisme, daya saing, dan jejaring di
 tingkat internasional; dan
 c. memperluas lapangan kerja sesuai dengan kualifikasi dan
 kompetensi Tenaga Medis dan Tenaga Kesehatan.
-Pasal640...
-SK No 230764 A
 
-(1)
-(2t
-PRESIDEN
-REFUBLIK INDONESIA
-264 -
 Pasal 640
-Pendayagunaan Tenaga Medis dan Tenaga Kesehatan
+(1) Pendayagunaan Tenaga Medis dan Tenaga Kesehatan
 warga negara Indonesia ke luar negeri dapat dilakukan
 dengan mempertimbangkan keseimbangan antara
 kebutuhan Tenaga Medis dan Tenaga Kesehatan di
 Indonesia serta peluang kerja bagi Tenaga Medis dan
 Tenaga Kesehatan warga negara Indonesia di luar negeri.
-Pertimbangan keseimbangan sebagaimana dimaksud
+(2) Pertimbangan keseimbangan sebagaimana dimaksud
 pada ayat (1) berdasarkan kecukupan jumlah dan jenis
 untuk pemenuhan kebutuhan di dalam negeri.
-Pendayagunaan Tenaga Medis dan Tenaga Kesehatan
+(3) Pendayagunaan Tenaga Medis dan Tenaga Kesehatan
 warga negara Indonesia ke luar negeri dilaksanakan oleh
 Pemerintah hrsat, Pemerintah Daerah, dan masyarakat.
-(3)
-Pasal 64 1
+
+Pasal 641
 Pendayagunaan Tenaga Medis dan Tenaga Kesehatan warga
 negara Indonesia ke luar negeri dapat dilakukan melalui
 kegiatan:
-a. bakti sosial;
-b. peningkatan kompetensi; dan/atau
-c. penempatan sebagai pekerja migran Indonesia bidang
-Kesehatan.
+  a. bakti sosial;
+  b. peningkatan kompetensi; dan/atau
+  c. penempatan sebagai pekerja migran Indonesia bidang
+  Kesehatan.
+
 Pasal 642
 (1) Bakti sosial sebagaimana dimaksud dalam Pasal 641
 huruf a dilaksanakan berdasarkan:
-a. rasa kemanusiaan;
-b. kemitraan;
-c. kesetaraan gender;
-d. nondiskriminasi;
-e. netralitas;
-f. cerminan kehidupan berbangsa dan bernegara; dan
-g. menghormati kearifan lokal.
+  a. rasa kemanusiaan;
+  b. kemitraan;
+  c. kesetaraan gender;
+  d. nondiskriminasi;
+  e. netralitas;
+  f. cerminan kehidupan berbangsa dan bernegara; dan
+  g. menghormati kearifan lokal.
 (2) Bakti sosial sebagaimana dimaksud pada ayat (1) meliputi:
-a. bakti sosial pada keadaan normal; atau
-b. bakti sosial pada keadaan bencana.
+  a. bakti sosial pada keadaan normal; atau
+  b. bakti sosial pada keadaan bencana.
 (3) Bakti sosial sebagaimana dimaksud pada ayat (2) dapat
 dilakukan oleh pemerintah dan/atau lembaga
 nonpemerintah berbadan hukum.
+
 Pasal 643
 Peningkatan kompetensi sebagaimana dimaksud dalam
 Pasal 641 huruf b dilaksanakan dalam rangka peningkatan
 daya saing.
-SK No 230765 A
-Pasal644...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--265-
 Pasal 644
 Penempatan Tenaga Medis dan Tenaga Kesehatan sebagai
 pekerja migran Indonesia bidang Kesehatan sebagaimana
@@ -11557,6 +11469,7 @@ a. persyaratan ketenagakerjaan;
 b. persyaratan teknis bidang Kesehatan; dan
 c. persyaratan lain sesuai dengan ketentuan peraturan
 perundang-undangan negara tujuan penempatan.
+
 Pasal 645
 Pemerintah Pusat, Pemerintah Daerah, dan masyarakat
 memfasilitasi pendayagunaan Tenaga Medis dan
@@ -11566,11 +11479,13 @@ a. penyiapansebelumdidayagunakan;
 b. pemberian pendampingan dan pemantauan selama
 didayagunakan; dan
 c. pemanfaatan setelahdidayagunakan.
+
 Pasal 646
 Pemerintah Pusat, Pemerintah Daerah, dan masyarakat yang
 melakukan pendayagunaan menjamin dan memberikan
 pelindungan kepada Tenaga Medis dan Tenaga Kesehatan yang
 didayagunakan ke luar negeri.
+
 Pasal 647
 (1) Pemerintah Pusat, Pemerintah Daerah, dan masyarakat
 memfasilitasi pendayagunaan kembali Tenaga Medis dan
@@ -11580,6 +11495,7 @@ selesai didayagunakan di luar negeri.
 dilakukan melalui pemanfaatan Tenaga Medis dan Tenaga
 Kesehatan dalam rangka penguatan sistem Kesehatan
 nasional.
+
 Pasal 648
 Ketentuan lebih lanjut mengenai penyelenggaraan kegiatan
 pendayagunaan Tenaga Medis dan Tenaga Kesehatan warga
@@ -11602,6 +11518,7 @@ Negeri yang akan berpraktik di Indonesia.
 dilakukan oleh Menteri dengan melibatkan menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 pendidikan, Konsil, dan Kolegium.
+
 Pasal 650
 (1) Evaluasi Kompetensi Tenaga Medis dan Tenaga Kesehatan
 Warga Negara Indonesia Lulusan Luar Negeri sebagaimana
@@ -11626,12 +11543,7 @@ b. belum kompeten.
 Indonesia Lulusan Luar Negeri yang dinyatakan kompeten
 sebagaimana dimaksud pada ayat (4) huruf a diberikan
 Sertifikat Kompetensi oleh Kolegium.
-SK No 230767 A
-Pasal651...
 
-FRESIDEN
-REPUBUK INDONESIA
--267 -
 Pasal 651
 (1) Tenaga Medis dan Tenaga Kesehatan Warga Negara
 Indonesia Lulusan Luar Negeri yang dinyatakan kompeten
@@ -11644,45 +11556,42 @@ memiliki STR dan SIP.
 (3) Adaptasi sebagaimana dimaksud pada ayat (1)
 dilaksanakan pada Fasilitas Pelayanan Kesehatan yang
 ditetapkan oleh Menteri.
-(4) Adaptasi sebagaimana dimaksud pada ayat (21
+(4) Adaptasi sebagaimana dimaksud pada ayat (2)
 dilaksanakan paling lama 1 (satu) tahun.
-(2t
-(1)
-(3)
-(4)
+
 Pasal 652
-Tenaga Medis dan Tenaga Kesehatan Warga Negara
+(1) Tenaga Medis dan Tenaga Kesehatan Warga Negara
 Indonesia Lulusan Luar Negeri yang dinyatakan belum
 kompeten sebagaimana dimaksud dalam Pasal 650
-ayat (41 huruf b harus mengikuti penambahan
+ayat (4) huruf b harus mengikuti penambahan
 kompetensi.
-Penambahan kompetensi sebagaimana dimaksud pada
+(2) Penambahan kompetensi sebagaimana dimaksud pada
 ayat (1) dilaksanakan pada Fasilitas Pelayanan Kesehatan
 penyelenggara pendidikan yang ditetapkan oleh Menteri.
-Penambahan kompetensi sebagaimana dimaksud pada
-ayat (21dilaksanakan paling lama 1 (satu) tahun.
-Dalam rangka pelaksanaan penambahan kompetensi
+(3) Penambahan kompetensi sebagaimana dimaksud pada
+ayat (2) dilaksanakan paling lama 1 (satu) tahun.
+(4) Dalam rangka pelaksanaan penambahan kompetensi
 sebagaimana dimaksud pada ayat (3), Tenaga Medis dan
 Tenaga Kesehatan Warga Negara Indonesia Lulusan Luar
 Negeri diberikan surat tugas penambahan kompetensi
 yang dikeluarkan oleh Menteri.
-Pada akhir masa penambahan kompetensi sebagaimana
+(5) Pada akhir masa penambahan kompetensi sebagaimana
 dimaksud pada ayat (3) dilakukan uji kompetensi bagi
 Tenaga Medis dan Tenaga Kesehatan Warga Negara
 Indonesia Lulusan Luar Negeri.
-(s)
+
 Pasal 653
 (1) Ketentuan penilaian kemampuan praktik melalui uji
 kompetensi sebagaimana dimaksud dalam Pasal 650
 ayat (1) huruf b dikecualikan bagi Tenaga Medis dan
 Tenaga Kesehatan Warga Negara Indonesia Lulusan Luar
 Negeri yang:
-a. merupakan lulusan dari penyelenggara pendidikan di
-Iuar negeri yang sudah direkognisi dan telah praktik
-paling sedikit 2 (dua) tahun di luar negeri; atau
-b. merulpakan ahli dalam bidang unggulan tertentu
-dalam Pelayanan Kesehatan yang dibuktikan dengan
-Sertifikasi Kompetensi.
+  a. merupakan lulusan dari penyelenggara pendidikan di
+  Iuar negeri yang sudah direkognisi dan telah praktik
+  paling sedikit 2 (dua) tahun di luar negeri; atau
+  b. merupakan ahli dalam bidang unggulan tertentu
+  dalam Pelayanan Kesehatan yang dibuktikan dengan
+  Sertifikasi Kompetensi.
 (2) Penyelenggara pendidikan di luar negeri yang sudah
 direkognisi sebagaimana dimaksud pada ayat (1) huruf a
 ditetapkan oleh Menteri setelah berkoordinasi dengan
@@ -11694,24 +11603,26 @@ Negeri sebagaimana di maksud pada ayat (1) berupa
 penilaian portofolio.
 (4) Hasil penilaian portofolio sebagaimana dimaksud pada
 ayat (3) berupa:
-a. kompeten; atau
-b. belum kompeten.
+  a. kompeten; atau
+  b. belum kompeten.
 (5) Dalam hal hasil penilaian portofolio dinyatakan kompeten
-sebagaimana dimaksud pada ayat (41 huruf a,
+sebagaimana dimaksud pada ayat (4) huruf a,
 Tenaga Medis dan Tenaga Kesehatan Warga Negara
 Indonesia Lulusan Luar Negeri diberikan Sertifikat
 Kompetensi.
 (6) Dalam hal hasil penilaian portofolio dinyatakan belum
-kompeten sebagaimana dimaksud pada ayat (41 huruf b,
+kompeten sebagaimana dimaksud pada ayat (4) huruf b,
 Tenaga Medis dan Tenaga Kesehatan Warga Negara
-Indonesia Lulusan Luar Negeri harls mengikuti uji
+Indonesia Lulusan Luar Negeri harus mengikuti uji
 kompetensi.
+
 Pasal 654
 Tenaga Medis dan Tenaga Kesehatan Warga Negara Indonesia
 Lulusan Luar Negeri yang telah menyelesaikan evaluasi
 kompetensi dan akan melaksanakan praktik di Indonesia harus
 memiliki STR dan SIP sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 655
 (1) Masa adaptasi dan penambahan kompetensi di Fasilitas
 Pelayanan Kesehatan sebagaimana dimaksud dalam
@@ -11738,10 +11649,12 @@ Indonesia Lulusan Luar Negeri yang telah menyelesaikan
 adaptasi dapat didayagunakan di Fasilitas Pelayanan
 Kesehatan yang membutuhkan sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 656
 Penyelenggaraan evaluasi kompetensi dilaksanakan dengan
 menggunakan Sistem Informasi Kesehatan yang terintegrasi
 dengan Sistem Informasi Kesehatan Nasional.
+
 Pasal 657
 Ketentuan lebih lanjut mengenai pelaksanaan evaluasi
 kompetensi dan tata cara pendayagunaan Tenaga Medis dan
@@ -11770,6 +11683,7 @@ Lulusan Dalam Negeri sebagaimana dimaksud dalam Pasal658
 ayat (1) huruf a yang melaksanakan praktik di Indonesia harus
 memiliki SIP dan STR sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 660
 (1) Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Dalam Negeri hanya dapat melakukan praktik
@@ -11797,6 +11711,7 @@ Negeri yang akan melaksanakan praktik di Indonesia wajib
 memenuhi persyaratan ketenagakerjaan dan persyaratan
 teknis bidang Kesehatan serta persyaratan lainnya sesuai
 ketentuan peraturan perundang-undangan.
+
 Pasal 661
 (1) Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Luar Negeri sebagaimana dimaksud dalam
@@ -11805,12 +11720,6 @@ praktik di lndonesia hanya berlaku untuk Tenaga Medis
 spesialis dan subspesialis serta Tenaga Kesehatan tingkat
 kompetensi tertentu setelah mengikuti evaluasi
 kompetensi.
-(2) Tenaga...
-SK No 230771 A
-
-PRESIOEN
-REPUBLIK INDONESIA
--27t-
 (2) Tenaga Kesehatan tingkat kompetensi tertentu
 sebagaimana dimaksud pada ayat (1) merupakan
 Tenaga Kesehatan yang memiliki kualifikasi setara dengan
@@ -11818,8 +11727,9 @@ level 8 (delapan) kerangka kualifikasi nasional Indonesia.
 (3) Dalam kondisi tertentu, Menteri dapat menetapkan
 pendayagunaan Tenaga Medis dan Tenaga Kesehatan
 Warga Negara Asing Lulusan Luar Negeri dengan
-kualifikasi selain sebagaimana dimaksud pada ayat (21
+kualifikasi selain sebagaimana dimaksud pada ayat (2)
 untuk melaksanakan praktik keprofesian.
+
 Pasal 662
 (1) Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Luar Negeri yang melaksanakan praktik di
@@ -11852,16 +11762,12 @@ ketentuan peraturan perundang-undangan.
 pada ayat (3) wajib memfasilitasi pelatihan bahasa
 Indonesia bagi Tenaga Medis dan Tenaga Kesehatan Warga
 Negara Asing Lulusan Luar Negeri yang didayagunakan.
-SK No 230772 A
-Pasal663...
 
-FRESIDEN
-REPUBLIK INDONESIA
--272-
 Pasal 663
 Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Luar Negeri dilarang menyelenggarakan praktik secara
 mandiri.
+
 Pasal 664
 (1) Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Luar Negeri sebagaimana dimaksud dalam
@@ -11874,10 +11780,11 @@ Negeri yang akan berpraktik di Indonesia.
 (3) Penyelenggaraan evaluasi kompetensi sebagaimana
 dimaksud pada ayat (1) dilaksanakan dengan
 menggunakan Sistem Informasi Kesehatan.
-(41 Evaluasi kompetensi sebagaimana dimaksud pada ayat (1)
+(4) Evaluasi kompetensi sebagaimana dimaksud pada ayat (1)
 dilakukan oleh Menteri dengan melibatkan menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 pendidikan, Konsil, dan Kolegium.
+
 Pasal 665
 (1) Evaluasi kompetensi bagi Tenaga Medis dan Tenaga
 Kesehatan Warga Negara Asing Lulusan Luar Negeri
@@ -11887,6 +11794,7 @@ b. penilaian kemampuan praktik.
 (2) Penilaian kemampuan praktik sebagaimana dimaksud
 pada ayat (1) huruf b meliputi penyetaraan kompetensi
 dan uji kompetensi.
+
 Pasal 666
 (1) Hasil penilaian kelengkapan administratif sebagaimana
 dimaksud dalam Pasal 665 ayat (1) huruf a berupa:
@@ -11920,7 +11828,7 @@ Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Luar Negeri yang telah mengikuti penyetaraan
 kompetensi dan dinyatakan setara sebagaimana dimaksud
 pada ayat (5) hurr.f b dapat mengikuti uji kompetensi.
-Hasil uji kompetensi sebagaimana dimaksud pada ayat (71
+Hasil uji kompetensi sebagaimana dimaksud pada ayat (7) 
 berupa:
 a. kompeten; atau
 b. belum kompeten.
@@ -11967,22 +11875,22 @@ bidang pendidikan dan Kolegium.
 Kesehatan Warga Negara Asing Lulusan Luar Negeri yang
 memenuhi kriteria sebagaimana dimaksud pada ayat (1),
 dilakukan melalui:
-a. penilaian kelengkapan administratif; dan
-b. penilaian kemampuan praktik melalui portofolio.
-(41 Hasil penilaian kelengkapan administratif sebagaimana
+  a. penilaian kelengkapan administratif; dan
+  b. penilaian kemampuan praktik melalui portofolio.
+(4) Hasil penilaian kelengkapan administratif sebagaimana
 dimaksud pada ayat (3) huruf a berupa:
-a. lengkap; atau
-b. tidak lengkap.
+  a. lengkap; atau
+  b. tidak lengkap.
 (5) Hasil penilaian praktik melalui portofolio sebagaimana
 dimaksud pada ayat (3) huruf b berupa:
-a. kompeten; atau
-b. belum kompeten.
+  a. kompeten; atau
+  b. belum kompeten.
 (6) Dalam hal hasil penilaian praktik melalui portofolio
 dinyatakan kompeten sebagaimana dimaksud pada
 ayat (5) huruf a, Tenaga Medis dan Tenaga Kesehatan
 Warga Negara Asing Lulusan Luar Negeri diberikan
 Sertifikat Kompetensi.
-(71 Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
+(7) Tenaga Medis dan Tenaga Kesehatan Warga Negara Asing
 Lulusan Luar Negeri sebagaimana dimaksud pada ayat (6)
 dapat didayagunakan sesuai dengan kebutuhan dan
 ketentuan peraturan perundang-undangan.
@@ -11996,6 +11904,7 @@ perundang-undangan.
 pengenalan terkait sistem Pelayanan Kesehatan di
 Indonesia kepada Tenaga Medis dan Tenaga Kesehatan
 Warga Negara Asing Lulusan Luar Negeri.
+
 Pasal 668
 Ketentuan lebih lanjut mengenai pelaksanaan evaluasi
 kompetensi dan tata cara pendayagunaan Tenaga Medis
@@ -12016,21 +11925,16 @@ terakreditasi oleh Pemerintah Pusat.
 (3) Akreditasi lembaga pelatihan sebagaimana dimaksud pada
 ayat (2) dilakukan oleh Pemerintah Pusat berdasarkan
 permohonan dari institusi penyelenggara pelatihan.
-(41 Pengelolaan pelatihan dan/atau kegiatan peningkatan
-kompetensi sebagaimana dimaksud pada ayat (21
+(4) Pengelolaan pelatihan dan/atau kegiatan peningkatan
+kompetensi sebagaimana dimaksud pada ayat (2)
 terintegrasi melalui Sistem Informasi Kesehatan Nasional.
+
 Pasal 670
 Penyelenggaraan pelatihan sebagaimana
-Pasal 669 ayat (1) dilakukan berdasarkan:
+dimaksud dalam Pasal 669 ayat (1) dilakukan berdasarkan:
 a. pengkajian kebutuhan; dan
 b. kurikulum terstandar.
-dimaksud dalam
-SK No 230776 A
-Pasal67L...
 
-PRESIDEN
-REPI.JBLIK INDONESIA
--276-
 Pasal 671
 (1) Pengkajian kebutuhan sebagaimana dimaksud dalam
 Pasal 670 huruf a mempertimbangkan kebutuhan:
@@ -12059,7 +11963,8 @@ internasional sebagaimana dimaksud pada ayat (1)
 huruf d dilakukan melalui identifikasi kebutuhan negara
 tujuan dan penguatan kompetensi Tenaga Medis dan
 Tenaga Kesehatan.
-Pasal672
+
+Pasal 672
 (1) Penyelenggaraan kegiatan peningkatan kompetensi
 sebagaimana dimaksud dalam Pasal 669 ayat (1)
 dilakukan berdasarkan :
@@ -12071,12 +11976,7 @@ lokakaryalworlcslwp, bimbingan teknis, coaching,
 mentoring, dan/atau kegiatan lain untuk peningkatan
 kompetensi sesuai dengan ketentuan peraturan
 perundang-undangan.
-Pasal673...
-SK No 230777 A
 
-PRESIDEN
-REPUELIK INDONESIA
--277 -
 Pasal 673
 (1) Pelatihan dan/atau kegiatan peningkatan kompetensi
 sebagaimana dimaksud dalam Pasal 669 dapat digunakan
@@ -12087,6 +11987,7 @@ peningkatan kompetensi.
 kompetensi sebagaimana dimaksud pada ayat (1) dikelola
 melalui Sistem Informasi Kesehatan yang terintegrasi
 dengan Sistem Informasi Kesehatan Nasional.
+
 Pasal 674
 (1) Dalam rangka menjamin kualitas dan keberhasilan
 penyelenggaraan pelatihan dan/atau kegiatan
@@ -12098,6 +11999,7 @@ b. evaluasipascapelatihan.
 (3) Evaluasi penyelenggaraan kegiatan peningkatan
 kompetensi sebagaimana dimaksud pada ayat (1)
 dilakukan melalui evaluasi proses penyelenggaraan.
+
 Pasal 675
 (1) Dalam penyelenggaraErn kegiatan peningkatan kompetensi
 dapat dilakukan fellowship dan program pengembangan
@@ -12123,6 +12025,7 @@ d. publikasi ilmiah.
 pendidikan keprofesian berkelanjutan sebagaimana
 dim.aksud pada ayat (4) dapat digunakan untuk
 pemenuhan kecukupan satuan kredit profesi.
+
 Pasal 676
 Ketentuan lebih lanjut mengenai pedoman pelatihan
 dan/atau kegiatan peningkatan kompetensi diatur dengan
@@ -12139,27 +12042,29 @@ Pasal 677
 menjalankan praktik wajib memiliki STR.
 (2) STR sebagaimana dimaksud pada ayat (1), diberikan
 kepada:
-a. Tenaga Medis dan Tenaga Kesehatan warga negara
-Indonesia; dan
-b. Tenaga Medis dan Tenaga Kesehatan warga negara
-asing.
+  a. Tenaga Medis dan Tenaga Kesehatan warga negara
+  Indonesia; dan
+  b. Tenaga Medis dan Tenaga Kesehatan warga negara
+  asing.
 (3) STR bagi Tenaga Medis dan Tenaga Kesehatan warga
-negara Indonesia sebagaimana dimaksud pada ayat (21
+negara Indonesia sebagaimana dimaksud pada ayat (2)
 huruf a berlaku seumur hidup.
-(41 Dikecualikan dari ketentuan jangka waktu STR seumur
+(4) Dikecualikan dari ketentuan jangka waktu STR seumur
 hidup sebagaimana dimaksud pada ayat (3), bagi
 Tenaga Medis dan Tenaga Kesehatan warga negara
 Indonesia yang melaksanakan pendidikan, internsip, atau
 dalam proses adaptasi, STR berlaku selama proses
-pendidikan, internsip, atau adaptasi. (5) STR bagi Tenaga Medis dan Tenaga Kesehatan warga
+pendidikan, internsip, atau adaptasi.
+(5) STR bagi Tenaga Medis dan Tenaga Kesehatan warga
 negara asing sebagaimana dimaksud pada ayat (2) huruf b
 berlaku paling lama 2 (dua) tahun dan dapat
 diperpanjang sebanyak 1 (satu) kali untuk masa
-2 (dua) tahun berikutnya. (6) Ketentuan jangka waktu sebagaimana dimaksud pada
+2 (dua) tahun berikutnya.
+(6) Ketentuan jangka waktu sebagaimana dimaksud pada
 ayat (5) dikecualikan bagi STR Tenaga Medis dan
 Tenaga Kesehatan warga negara asing yang
 didayagunakan di kawasan ekonomi khusus yang
-dilaksanakan sesuai dengan ketentuan perundangundangan.
+dilaksanakan sesuai dengan ketentuan perundang-undangan.
 
 Pasal 678
 (1) Pengajuan permohonan STR bagi Tenaga Medis dan
@@ -12171,13 +12076,15 @@ Konsil atas nama Menteri setelah Tenaga Medis atau
 Tenaga Kesehatan memenuhi persyaratan.
 (3) Persyaratan sebagaimana dimaksud pada ayat (2) paling
 sedikit meliputi:
-a. memiliki ijazah pendidikan di bidang Kesehatan
-dan/atau Sertifikat Profesi; dan
-b. memiliki Sertifikat Kompetensi.
+  a. memiliki ijazah pendidikan di bidang Kesehatan
+  dan/atau Sertifikat Profesi; dan
+  b. memiliki Sertifikat Kompetensi.
+
 Pasal 679
 Dalam hal terdapat perubahan kualifikasi kompetensi
 dan/atau beralih profesi, Tenaga Medis dan Tenaga Kesehatan
 dapat mengajukan perubahan data STR.
+
 Pasal 680
 Ketentuan lebih lanjut mengenai persyaratan, tata cara
 pengajuan, dan penerbitan STR diatur dengan Peraturan
@@ -12196,85 +12103,76 @@ yang terintegrasi dengan Sistem Informasi Kesehatan
 Nasional.
 (3) Tenaga Medis dan Tenaga Kesehatan tertentu dalam
 mengajukan permohonan SIP harus memiliki:
-a. STR; dan
-b. tempat praktik.
+  a. STR; dan
+  b. tempat praktik.
 (4) SIP sebagaimana dimaksud pada ayat (1) diterbitkan oleh
 Pemerintah Daerah kabupaten/kota tempat Tenaga Medis
 atau Tenaga Kesehatan menjalankan praktiknya.
-SK No 230780 A
-(5) Dalam
-
-FRESIDEN
-REPUBLIK INDONESIA
--280-
 (5) Dalam hal penerbitan SIP sebagaimana dimaksud pada
-ayat (4l', Menteri menetapkan batas waktu maksimal
+ayat (4), Menteri menetapkan batas waktu maksimal
 proses penerbitan SIP.
 (6) Dalam hal proses penerbitan SIP sebagaimana dimaksud
 pada ayat (5) melebihi batas waktu maksimal, SIP secara
 otomatis terbit melalui sistem informasi yang terintegrasi
 dengan Sistem Informasi Kesehatan Nasional.
-(1)
-(2t
-(3)
-(41
-(s)
+
 Pasal 682
-SIP sebagaimana dimaksud dalam Pasal 681 ayat (1)
+(1) SIP sebagaimana dimaksud dalam Pasal 681 ayat (1)
 diberikan bagi Tenaga Medis dan Tenaga Kesehatan
 tertentu warga negara Indonesia dan warga negara asing.
-SIP sebagaimana dimaksud pada ayat (1) hanya berlaku
+(2) SIP sebagaimana dimaksud pada ayat (1) hanya berlaku
 untuk 1 (satu) tempat praktik.
-SIP Tenaga Medis dan Tenaga Kesehatan warga negara
+(3) SIP Tenaga Medis dan Tenaga Kesehatan warga negara
 Indonesia sebagaimana dimaksud pada ayat (1) berlaku
 selama 5 (lima) tahun dan dapat diperpanjang selama
 memenuhi persyaratan.
-Persyaratan perpanjangan SIP sebagaimana dimaksud
+(4) Persyaratan perpanjangan SIP sebagaimana dimaksud
 pada ayat (3) meliputi:
-a. STR;
-b. tempat praktik; dan
-c. pemenuhan kecukupan satuan kredit profesi.
-SIP bagi Tenaga Medis dan Tenaga Kesehatan warga
+  a. STR;
+  b. tempat praktik; dan
+  c. pemenuhan kecukupan satuan kredit profesi.
+(5) SIP bagi Tenaga Medis dan Tenaga Kesehatan warga
 negara asing berlaku paling lama 2 (dua) tahun dan dapat
 diperpanjang 1 (satu) kali dan hanya untuk 2 (dua) tahun
 berikutnya.
-Ketentuan jangka waktu sebagaimana dimaksud pada
+(6) Ketentuan jangka waktu sebagaimana dimaksud pada
 ayat (5) dikecualikan bagi SIP Tenaga Medis dan Tenaga
 Kesehatan warga negara asing yang didayagunakan di
 kawasan ekonomi khusus yang dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan.
-(6)
+
 Pasal 683
 (1) Pemenuhan kecukupan satuan kredit profesi sebagaimana
 dimaksud dalam Pasal 682 ayat (4) huruf c digunakan
 untuk proses perpanjangan SIP.
 (2) Pemenuhan kecukupan satuan kredit profesi sebagaimana
 dimaksud pada ayat (1) diperoleh melalui:
-a. pelatihan dan/atau kegiatan peningkatan
-kompetensi;
-b. pelayanan; dan
-c. pengabdian.
+  a. pelatihan dan/atau kegiatan peningkatan
+  kompetensi;
+  b. pelayanan; dan
+  c. pengabdian.
 (3) Standar pemenuhan kecukupan satuan kredit profesi
 sebagaimana dimaksud ayat (2) ditetapkan oleh Kolegium.
 
 Pasal 684
-Dalam kondisi tertentu, Menteri dapat menerbitkan SIP.
-Penerbitan SIP sebagaimana dimaksud pada ayat (1)
+(1) Dalam kondisi tertentu, Menteri dapat menerbitkan SIP.
+(2) Penerbitan SIP sebagaimana dimaksud pada ayat (1)
 ditujukan untuk:
-a. pelaksanaan program internsip bagi dokter dan
-dokter gigi;
-b. pelaksanaan program pendidikan dokter spesialis,
-dokter subspesialis, dokter gigi spesialis, dokter gigi
-subspesialis, dan Tenaga Kesehatan spesialis;
-c. pemenuhan Tenaga Medis dan Tenaga Kesehatan
-pada kawasan ekonomi khusus atau Pintu Masuk
-atau pelabuhan atau bandar udara yang melayani
-lalu lintas domestik;
-d. pemenuhan Tenaga Medis dan Tenaga Kesehatan di
-daerah tertinggal, perbatasan, kepulauan, dan
-daerah bermasalah Kesehatan; dan/atau
-e. percepatan pemenuhan Pelayanan Kesehatan
-lainnya.
+  a. pelaksanaan program internsip bagi dokter dan
+  dokter gigi;
+  b. pelaksanaan program pendidikan dokter spesialis,
+  dokter subspesialis, dokter gigi spesialis, dokter gigi
+  subspesialis, dan Tenaga Kesehatan spesialis;
+  c. pemenuhan Tenaga Medis dan Tenaga Kesehatan
+  pada kawasan ekonomi khusus atau Pintu Masuk
+  atau pelabuhan atau bandar udara yang melayani
+  lalu lintas domestik;
+  d. pemenuhan Tenaga Medis dan Tenaga Kesehatan di
+  daerah tertinggal, perbatasan, kepulauan, dan
+  daerah bermasalah Kesehatan; dan/atau
+  e. percepatan pemenuhan Pelayanan Kesehatan
+  lainnya.
+
 Pasal 685
 (1) Dalam kondisi tertentu, Tenaga Medis dan
 Tenaga Kesehatan yang memberikan Pelayanan Kesehatan
@@ -12282,13 +12180,14 @@ tidak memerlukan SIP di tempat tersebut.
 (2) Pemberian Pelayanan Kesehatan dalam kondisi tertentu
 sebagaimana dimaksud pada ayat (1) dapat berdasarkan
 penugasan yang ditetapkan oleh Menteri.
-(3) Penugasan sebagaimana dimaksud pada ayat (21memiliki
+(3) Penugasan sebagaimana dimaksud pada ayat (2)memiliki
 kedudukan hukum yang sama dengan SIP.
 (4) Tenaga Medis atau Tenaga Kesehatan yang memberikan
 Pelayanan Kesehatan berdasarkan penugasan
 sebagaimana dimaksud pada ayat (2) memiliki hak dan
 kewajiban yang sama dengan Tenaga Medis dan Tenaga
 Kesehatan yang memiliki SIP.
+
 Pasal 686
 (1) Penerbitan SIP oleh Pemerintah Daerah kabupaten/kota
 harus mempertimbangkan perencanaan kebutuhan
@@ -12297,18 +12196,18 @@ dan Tenaga Kesehatan.
 (2) Kuota untuk setiap jenis Tenaga Medis dan
 Tenaga Kesehatan sebagaimana dimaksud pada ayat (1)
 paling sedikit memperhatikan kriteria:
-a. ketersediaan dan persebaran Tenaga Medis dan
-Tenaga Kesehatan pada daerah tersebut;
-b. rasio jumlah penduduk dengan Tenaga Medis dan
-Tenaga Kesehatan aktif yang ditetapkan oleh Menteri;
-dan
-c. beban kerja Tenaga Medis dan Tenaga Kesehatan.
+  a. ketersediaan dan persebaran Tenaga Medis dan
+  Tenaga Kesehatan pada daerah tersebut;
+  b. rasio jumlah penduduk dengan Tenaga Medis dan
+  Tenaga Kesehatan aktif yang ditetapkan oleh Menteri; dan
+  c. beban kerja Tenaga Medis dan Tenaga Kesehatan.
 (3) Proses penerbitan SIP sebagaimana dimaksud pada
 ayat (1) dilakukan melalui sistem informasi yang
 terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 (4) Kuota untuk setiap jenis Tenaga Medis dan Tenaga
-Kesehatan sebagaimana dimaksud pada ayat (21
+Kesehatan sebagaimana dimaksud pada ayat (2)
 ditetapkan oleh Menteri.
+
 Pasal 687
 Ketentuan lebih lanjut mengenai penerbitan SIP Tenaga Medis
 dan Tenaga Kesehatan sebagaimana dimaksud dalam
@@ -12341,25 +12240,25 @@ dokter gigi subspesialis tertentu yang memberikan
 Pelayanan Kesehatan di kawasan ekonomi khusus.
 (3) Pemberian surat tugas sebagaimana dimaksud pada
 ayat (1) dilakukan dengan ketentuan:
-a. terdapat permintaan dari dinas kesehatan
-kabupaten / kota berdasarkan kebutuhan;
-b. ketiadaan dokter spesialis atau dokter gigi spesialis
-dengan keahlian dan kompetensi yang sama pada
-kabupaten/ kota tersebut; dan
-c. dokter spesialis atau dokter gigi spesialis yang
-mendapat surat tugas harus telah memiliki SIP.
+  a. terdapat permintaan dari dinas kesehatan
+  kabupaten / kota berdasarkan kebutuhan;
+  b. ketiadaan dokter spesialis atau dokter gigi spesialis
+  dengan keahlian dan kompetensi yang sama pada
+  kabupaten/ kota tersebut; dan
+  c. dokter spesialis atau dokter gigi spesialis yang
+  mendapat surat tugas harus telah memiliki SIP.
 (4) Dinas kesehatan kabupaten/kota dalam mengajukan
 permohonan surat tugas sebagaimana dimaksud pada
 ayat (3) huruf a, melampirkan:
-a. hasil kajian kebutuhan pelayanan kedokteran atau
-kedokteran gigi spesialistik tertentu yang dibutuhkan
-di daerah pengusul;
-b. pernyataan ketiadaan dokter spesialis atau dokter
-gigi spesialis dengan keahlian dan kompetensi yang
-sama pada kabupaten/kota tersebut; dan
-c. usulan kandidat dokter spesialis atau dokter gigi
-spesialis yang akan diusulkan dengan melampirkan
-bukti SIP maksimal yang dimiliki calon kandidat.
+  a. hasil kajian kebutuhan pelayanan kedokteran atau
+  kedokteran gigi spesialistik tertentu yang dibutuhkan
+  di daerah pengusul;
+  b. pernyataan ketiadaan dokter spesialis atau dokter
+  gigi spesialis dengan keahlian dan kompetensi yang
+  sama pada kabupaten/kota tersebut; dan
+  c. usulan kandidat dokter spesialis atau dokter gigi
+  spesialis yang akan diusulkan dengan melampirkan
+  bukti SIP maksimal yang dimiliki calon kandidat.
 (5) Surat tugas sebagaimana dimaksud pada ayat (1)
 diberikan oleh Menteri setelah dilakukan kajian
 pemenuhan ketentuan sebagaimana dimaksud pada
@@ -12369,6 +12268,7 @@ ayat (2) berdasarkan kajian kebutuhan Pelayanan
 Kesehatan sesuai dengan usulan pimpinan Fasilitas
 Pelayanan Kesehatan yang berada pada kawasan ekonomi
 khusus.
+
 Pasal 690
 (1) Surat tugas sebagaimana dimaksud dalam Pasal 689
 diberikan oleh Menteri melalui Sistem Informasi
@@ -12391,11 +12291,7 @@ surat tugas kepada dokter subspesialis atau dokter gigi
 subspesialis tertentu berdasarkan kajian kebutuhan
 Pelayanan Kesehatan sesuai dengan usulan dinas kesehatan
 kabupaten/kota.
-(1)
-(2t
-(1)
-(2t
-(3)
+
 Pasal 693
 Ketentuan lebih lanjut mengenai tata cara pemberian surat
 tugas sebagaimana dimaksud dalam Pasal 689 sampai dengan
@@ -12408,20 +12304,21 @@ Paragraf 1
 Umum
 
 Pasal 692
-Surat tugas sebagaimana dimaksud dalam Pasal 689
+(1) Surat tugas sebagaimana dimaksud dalam Pasal 689
 memiliki kedudukan hukum yang sama dengan SIP.
-Dokter spesialis, dokter gigi spesialis, dokter subspesialis,
+(2) Dokter spesialis, dokter gigi spesialis, dokter subspesialis,
 dan dokter gigi subspesialis yang berpraktik berdasarkan
 surat tugas memiliki hak dan kewajiban yang
 sama dengan dokter spesialis, dokter gigi spesialis,
 dokter subspesialis, dan dokter gigi subspesialis yang
 memiliki SIP.
+
 Pasal 694
-Konsil berkedudukan di bawah dan bertanggung jawab
+(1) Konsil berkedudukan di bawah dan bertanggung jawab
 kepada Presiden melalui Menteri.
-Konsil merupakan lembaga nonstruktural yang dalam
+(2) Konsil merupakan lembaga nonstruktural yang dalam
 menjalankan perannya bersifat independen.
-Konsil sebagaimana dimaksud pada ayat (1) disebut
+(3) Konsil sebagaimana dimaksud pada ayat (1) disebut
 Konsil Kesehatan Indonesia.
 
 Paragraf 2
@@ -12430,18 +12327,12 @@ Tugas, Fungsi, dan Wewenang
 Pasal 695
 (1) Konsil Kesehatan Indonesia sebagaimana dimaksud dalam
 Pasal 694 memiliki peran:
-a. merumuskan kebijakan internal dan standardisasi
-pelaksanaan tugas Konsil Kesehatan Indonesia;
-SK No 230785 A
-b. melakukan
-
-PRESIDEN
-REPUELIK INDONESIA
--285-
-b. melakukan Registrasi Tenaga Medis dan Tenaga
-Kesehatan; dan
-c. melakukan pembinaan teknis keprofesian Tenaga
-Medis dan Tenaga Kesehatan.
+  a. merumuskan kebijakan internal dan standardisasi
+  pelaksanaan tugas Konsil Kesehatan Indonesia;
+  b. melakukan Registrasi Tenaga Medis dan Tenaga
+  Kesehatan; dan
+  c. melakukan pembinaan teknis keprofesian Tenaga
+  Medis dan Tenaga Kesehatan.
 (2) Dalam menjalankan peran sebagaimana dimaksud pada
 ayat (1), Konsil Kesehatan Indonesia mempunyai tugas
 melaksanakan dukungan peningkatan mutu praktik dan
@@ -12449,37 +12340,39 @@ kompetensi teknis keprofesian Tenaga Medis dan
 Tenaga Kesehatan serta memberikan pelindungan dan
 kepastian hukum kepada masyarakat.
 (3) Dalam melaksanakan tugas sebagaimana dimaksud pada
-ayat (21, Konsil Kesehatan Indonesia menyelenggarakan
+ayat (2), Konsil Kesehatan Indonesia menyelenggarakan
 fungsi:
-a. pelaksanaan Registrasi dan pengelolaan data STR;
-b. penetapan kompetensi yang beririsan;
-c. penetapan percabangan disiplin ilmu;
-d. pelaksanaan keputusan pemberian sanksi disiplin;
-e. perumusan dan penetapan kebijakan internal;
-f. penetapan standar kurikulum pelatihan yang
-disusun oleh Kolegium;
-g. pelaksanaan evaluasi kompetensi Tenaga Medis dan
-Tenaga Kesehatan Warga Negara Indonesia Lulusan
-Luar Negeri dan Tenaga Medis dan Tenaga Kesehatan
-Warga Negara Asing Lulusan Luar Negeri bersama
-Menteri, menteri yang menyelenggarakan urusan
-pemerintah di bidang pendidikan dan Kolegium;
-h. pelaksanaan validasi dan pengusulan standar
-kompetensi yang disusun oleh Kolegium untuk
-ditetapkan oleh Menteri;
-i. pengusulan standar profesi Tenaga Medis dan Tenaga
-Kesehatan bersama dengan Kolegium yang
-ditetapkan oleh Menteri; dan j. pengusulan jenis dan kelompok Tenaga Medis dan
-Tenaga Kesehatan baru, bersama dengan Kolegium
-untuk ditetapkan Menteri.
-(41 Dalam melaksanakan fungsi sebagaimana yang dimaksud
+  a. pelaksanaan Registrasi dan pengelolaan data STR;
+  b. penetapan kompetensi yang beririsan;
+  c. penetapan percabangan disiplin ilmu;
+  d. pelaksanaan keputusan pemberian sanksi disiplin;
+  e. perumusan dan penetapan kebijakan internal;
+  f. penetapan standar kurikulum pelatihan yang
+  disusun oleh Kolegium;
+  g. pelaksanaan evaluasi kompetensi Tenaga Medis dan
+  Tenaga Kesehatan Warga Negara Indonesia Lulusan
+  Luar Negeri dan Tenaga Medis dan Tenaga Kesehatan
+  Warga Negara Asing Lulusan Luar Negeri bersama
+  Menteri, menteri yang menyelenggarakan urusan
+  pemerintah di bidang pendidikan dan Kolegium;
+  h. pelaksanaan validasi dan pengusulan standar
+  kompetensi yang disusun oleh Kolegium untuk
+  ditetapkan oleh Menteri;
+  i. pengusulan standar profesi Tenaga Medis dan Tenaga
+  Kesehatan bersama dengan Kolegium yang
+  ditetapkan oleh Menteri; dan
+  j. pengusulan jenis dan kelompok Tenaga Medis dan
+  Tenaga Kesehatan baru, bersama dengan Kolegium
+  untuk ditetapkan Menteri.
+(4) Dalam melaksanakan fungsi sebagaimana yang dimaksud
 pada ayat (3), Konsil Kesehatan Indonesia memiliki
 wewenang untuk menerbitkan, menonaktifkan, dan
 mencabut STR Tenaga Medis dan Tenaga Kesehatan.
+
 Pasal 696
 (1) Konsil Kesehatan Indonesia dalam melaksanakan tugas,
 fungsi, dan wewenang sebagaimana dimaksud dalam
-Pasal 695 ayat (2) sampai dengan ayat (41 harus
+Pasal 695 ayat (2) sampai dengan ayat (4) harus
 berkoordinasi dengan Menteri dalam rangka menjamin
 kesesuaian dengan kebijakan yang ditetapkan oleh
 Menteri.
@@ -12495,61 +12388,61 @@ Susunan Organisasi
 Pasal 697
 (1) Susunan organisasi Konsil Kesehatan Indonesia terdiri
 atas:
-a. pimpinan Konsil Kesehatan Indonesia; dan
-b. Konsil masing-masing kelompok Tenaga Medis dan
-Tenaga Kesehatan.
+  a. pimpinan Konsil Kesehatan Indonesia; dan
+  b. Konsil masing-masing kelompok Tenaga Medis dan
+  Tenaga Kesehatan.
 (2) Pimpinan Konsil Kesehatan Indonesia sebagaimana
 dimaksud pada ayat (1) huruf a terdiri atas:
-a. 1 (satu) orang ketua;
-b. 1 (satu) orang wakil ketua; dan
-c. 7 (tujuh) orang anggota.
+  a. 1 (satu) orang ketua;
+  b. 1 (satu) orang wakil ketua; dan
+  c. 7 (tujuh) orang anggota.
 (3) Pimpinan Konsil Kesehatan Indonesia sebagaimana
 dimaksud pada ayat (2) terdiri atas unsur Pemerintah
 Pusat, profesi Tenaga Medis dan Tenaga Kesehatan,
 Kolegium, dan masyarakat.
 (4) Konsil masing-masing kelompok Tenaga Medis dan
 Tenaga Kesehatan sebagaimana dimaksud pada ayat (1)
-huruf b sejumlah I (satu) orang dari setiap kelompok
+huruf b sejumlah 1 (satu) orang dari setiap kelompok
 Tenaga Medis dan Tenaga Kesehatan.
+
 Pasal 698
 Dalam rangka melaksanakan tugas, fungsi, dan kewenangan,
 Konsil Kesehatan Indonesia didukung oleh Kolegium.
+
 Pasal 699
 Dalam rangka penegakan disiplin profesi sebagai bagian dari
 peningkatan mutu dan kompetensi teknis keprofesian
 Tenaga Medis dan Tenaga Kesehatan, Konsil Kesehatan
 Indonesia didukung oleh majelis.
+
 Pasal 700
 (1) Pimpinan Konsil Kesehatan Indonesia sebagaimana
 dimaksud dalam Pasal 697 ayat (1) huruf a diangkat dan
 diberhentikan oleh Presiden atas usulan Menteri.
-SK No 230787 A
-(2) Masa...
 
-PRESIDEN
-NEPUBLIK INDONESIA
--287 -
 (2) Masa bakti pimpinan Konsil Kesehatan lndonesia
 selama 4 (empat) tahun dan dapat diangkat kembali untuk
 1 (satu) kali masa jabatan berikutnya sepanjang
 memenuhi persyaratan yang ditetapkan.
+
 Pasal 701
 Untuk dapat diangkat dalam keanggotaan Konsil Kesehatan
 Indonesia harus memenuhi persyaratan sebagai berikut:
-a. warga negara Indonesia;
-b. sehat jasmani dan rohani;
-c. bertakwa kepada Tlrhan Yang Maha Esa dan berakhlak
-mulia;
-d. berkelakuan baik;
-e. berusia paling tinggi 65 (enam puluh lima) tahun pada
-saat diangkat;
-f. bagi Tenaga Medis dan Tenaga Kesehatan, pernah
-melakukan praktik keprofesian dan memiliki STR;
-g. tidak pernah dan tidak sedang menjalani sanksi disiplin,
-etik, dan hukum; dan
-h. tidak merangkap jabatan yang memiliki potensi konflik
-kepentingan.
-Pasal 7O2
+  a. warga negara Indonesia;
+  b. sehat jasmani dan rohani;
+  c. bertakwa kepada Tlrhan Yang Maha Esa dan berakhlak
+  mulia;
+  d. berkelakuan baik;
+  e. berusia paling tinggi 65 (enam puluh lima) tahun pada
+  saat diangkat;
+  f. bagi Tenaga Medis dan Tenaga Kesehatan, pernah
+  melakukan praktik keprofesian dan memiliki STR;
+  g. tidak pernah dan tidak sedang menjalani sanksi disiplin,
+  etik, dan hukum; dan
+  h. tidak merangkap jabatan yang memiliki potensi konflik
+  kepentingan.
+
+Pasal 702
 (1) Menteri melakukan seleksi calon pimpinan Konsil
 Kesehatan Indonesia.
 (2) Hasil seleksi calon pimpinan Konsil Kesehatan Indonesia
@@ -12557,18 +12450,13 @@ sebagaimana dimaksud pada ayat (1) diusulkan oleh
 Menteri kepada Presiden.
 (3) Presiden menetapkan pimpinan Konsil Kesehatan
 Indonesia berdasarkan usulan Menteri sebagaimana
-dimaksud pada ayat (21.
-Pasal 7O3
+dimaksud pada ayat (2) .
+
+Pasal 703
 Ketentuan lebih lanjut {nengenai mekanisme seleksi pimpinan
 dan tata kerja Konsil Kesehatan Indonesia serta tata cara
-pengangkatan dan pemberhentian anggota Konsil masingmasing kelompok Tenaga Medis dan Tenaga Kesehatan diatur
+pengangkatan dan pemberhentian anggota Konsil masing-masing kelompok Tenaga Medis dan Tenaga Kesehatan diatur
 dengan Peraturan Menteri.
-SK No 230788 A
-Bagian
-
-PR,ESIDEN
-REPUBLIK INDONESIA
--288-
 
 Bagian Ketujuh
 Kolegium
@@ -12576,7 +12464,7 @@ Kolegium
 Paragraf 1
 Umum
 
-Pasal 7O4
+Pasal 704
 (1) Untuk mengembangkan cabang disiplin ilmu dan standar
 pendidikan Tenaga Medis dan Tenaga Kesehatan,
 setiap kelompok ahli tiap disiplin ilmu Kesehatan dapat
@@ -12635,15 +12523,17 @@ standar Rumah Sakit pendidikan.
 (5) Dalam melaksanakan tugas dan fungsi sebagaimana
 dimaksud pada ayat (3) dan ayat (4), Kolegium memiliki
 wewenang untuk menerbitkan sertifikasi kompetensi.
+
 Pasal 706
 Kolegium dalam melaksanakan tugas,
 wewenangnya berkoordinasi dengan pihak
 disiplin ilmunya.
 fungsi, dan
 terkait sesuai
+
 Pasal 707
 (1) Kolegium dalam melaksanakan tugas, fungsi, dan
-wewenang sebagaimana dimaksud dalam Pasal 7Os
+wewenang sebagaimana dimaksud dalam Pasal 705
 ayat (3) sampai dengan ayat (5) harus berkoordinasi
 dengan Menteri dalam rangka menjamin kesesuaian
 dengan kebijakan yang ditetapkan oleh Menteri.
@@ -12669,6 +12559,7 @@ sebagai anggota.
 (3) Ketua Kolegium Kesehatan Indonesia sebagaimana
 dimaksud pada ayat (1) ditempatkan sebagai perwakilan
 dalam Konsil Kesehatan Indonesia.
+
 Pasal 709
 Untuk dapat diangkat sebagai anggota Kolegium Kesehatan
 Indonesia harus memenuhi persyaratan sebagai berikut:
@@ -12686,6 +12577,7 @@ g. tidak pernah dan tidak sedang menjalani sanksi disiplin,
 etik, dan hukum; dan
 h. tidak merangkap jabatan yang memiliki potensi konflik
 kepentingan.
+
 Pasal 710
 (1) Menteri melakukan seleksi calon anggota
 Kolegium Kesehatan Indonesia dengan melibatkan
@@ -12699,7 +12591,8 @@ selama 4 (empat) tahun dan dapat diangkat kembali untuk
 1 (satu) kali masa jabatan berikutnya sepanjang
 memenuhi persyaratan sebagaimana dimaksud dalam
 Pasal 709.
-Pasal 71 1
+
+Pasal 711
 Ketentuan lebih lanjut mengenai persyaratan, mekanisme
 seleksi, tata cara pengangkatan dan pemberhentian anggota,
 serta tata kerja Kolegium Kesehatan lndonesia diatur dengan
@@ -12711,18 +12604,14 @@ Majelis Disiplin Profesi
 Paragraf 1
 Umum
 
-(1)
-(2)
-(3)
-(4t
-Pasal712
-Dalam rangka penegakan disiplin profesi, Menteri
+Pasal 712
+(1) Dalam rangka penegakan disiplin profesi, Menteri
 membentuk majelis.
-Majelis sebagaimana dimaksud pada ayat (1) selanjutnya
+(2) Majelis sebagaimana dimaksud pada ayat (1) selanjutnya
 disebut Majelis Disiplin Profesi.
-Majelis Disiplin Profesi sebagaimana dimaksud pada
-ayat (21bertanggung jawab kepada Menteri.
-Majelis Disiplin Profesi dibentuk untuk mendukung tugas
+(3) Majelis Disiplin Profesi sebagaimana dimaksud pada
+ayat (2) bertanggung jawab kepada Menteri.
+(4) Majelis Disiplin Profesi dibentuk untuk mendukung tugas
 dan fungsi Konsil Kesehatan Indonesia dalam peningkatan
 mutu dan kompetensi teknis keprofesian Tenaga Medis
 dan Tenaga Kesehatan.
@@ -12732,34 +12621,28 @@ Tugas dan Fungsi
 
 Pasal 713
 (1) Majelis Disiplin Profesi sebagaimana dimaksud dalam
-Pasal 7 L2 mempunyai tugas melaksanakan penegakan
+Pasal 712 mempunyai tugas melaksanakan penegakan
 disiplin profesi Tenaga Medis dan Tenaga Kesehatan
 berdasarkan ketentuan penegakan disiplin yang
 ditetapkan oleh Menteri.
 (2) Dalam melaksanakan tugas sebagaimana dimaksud pada
 ayat (1), Majelis Disiplin Profesi menyelenggarakan fungsi:
-a. penerimaan dan verifikasi pengaduan atas tindakan
-Tenaga Medis dan Tenaga Kesehatan;
-b. pemeriksaan pengaduan dugaan pelanggaran disiplin
-profesi;
-c. penentuan. . .
-SK No 230792 A
-
-FRESTDEN
-IIEPUBLIK INDONESIA
--292-
-c. penentuan ada atau tidaknya pelanggaran disiplin
-profesi yang dilakukan Tenaga Medis dan Tenaga
-Kesehatan;
-d. pengambilan putusan atas pengaduan dan
-menentukan sanksi atas pelanggaran disiplin; dan
-e. pemberian rekomendasi yang berkaitan dengan
-Tenaga Medis atau Tenaga Kesehatan yang diduga
-melakukan tindakan/perbuatan yang melanggar
-hukum dalam pelaksanaan Pelayanan Kesehatan
-atau yang dimintai pertanggungiawaban atas
-tindakan/perbuatan berkaitan dengan pelaksanaan
-Pelayanan Kesehatan yang merugikan Pasien.
+  a. penerimaan dan verifikasi pengaduan atas tindakan
+  Tenaga Medis dan Tenaga Kesehatan;
+  b. pemeriksaan pengaduan dugaan pelanggaran disiplin
+  profesi;
+  c. penentuan ada atau tidaknya pelanggaran disiplin
+  profesi yang dilakukan Tenaga Medis dan Tenaga
+  Kesehatan;
+  d. pengambilan putusan atas pengaduan dan
+  menentukan sanksi atas pelanggaran disiplin; dan
+  e. pemberian rekomendasi yang berkaitan dengan
+  Tenaga Medis atau Tenaga Kesehatan yang diduga
+  melakukan tindakan/perbuatan yang melanggar
+  hukum dalam pelaksanaan Pelayanan Kesehatan
+  atau yang dimintai pertanggungiawaban atas
+  tindakan/perbuatan berkaitan dengan pelaksanaan
+  Pelayanan Kesehatan yang merugikan Pasien.
 
 Paragraf 3
 Keanggotaan
@@ -12777,52 +12660,47 @@ e. masyarakat.
 dan diberhentikan oleh Menteri sampai dengan
 berakhirnya masa jabatan.
 (3) Masa jabatan anggota sebagaimana dimaksud pada
-ayat (21yaitu 4 (empat) tahun dan dapat diangkat kembali
+ayat (2) yaitu 4 (empat) tahun dan dapat diangkat kembali
 untuk 1 (satu) kali masa jabatan berikutnya.
+
 Pasal 715
 Untuk dapat diangkat sebagai anggota Majelis Disiplin Profesi
 harus memenuhi persyaratan sebagai berikut:
-a. warga negara Indonesia;
-b. sehat jasmani dan rohani;
-c. bertakwa kepada T\rhan Yang Maha Esa dan berakhlak
-mulia;
-d. berkelakuan baik;
-e. berusia paling tinggi S5 (enam puluh lima) tahun pada
-saat diangkat;
-f.
-SK No 230793 A
-bagi
+  a. warga negara Indonesia;
+  b. sehat jasmani dan rohani;
+  c. bertakwa kepada Tuhan Yang Maha Esa dan berakhlak
+  mulia;
+  d. berkelakuan baik;
+  e. berusia paling tinggi 65 (enam puluh lima) tahun pada
+  saat diangkat;
+  f. bagi Tenaga Medis dan Tenaga Kesehatan, pernah
+  melakukan praktik keprofesian paling sedikit 10 (sepuluh)
+  tahun dan memiliki STR;
+  g. bagi ahli hukum, pernah memiliki pengalaman di bidang
+  hukum paling sedikit 10 (sepuluh) tahun;
+  h. tidak pernah dan tidak sedang menjalani sanksi disiplin,
+  etik, dan hukum; dan
+  i. tidak merangkap jabatan yang memiliki potensi konflik
+  kepentingan.
 
-PRESIDEN
-REPUBLTK INDONESIA
--293-
-f. bagi Tenaga Medis dan Tenaga Kesehatan, pernah
-melakukan praktik keprofesian paling sedikit 1O (sepuluh)
-tahun dan memiliki STR;
-g. bagi ahli hukum, pernah memiliki pengalaman di bidang
-hukum paling sedikit 10 (sepuluh) tahun;
-h. tidak pernah dan tidak sedang menjalani sanksi disiplin,
-etik, dan hukum; dan
-i. tidak merangkap jabatan yang memiliki potensi konflik
-kepentingan.
-(1)
-(2t
 Pasal 716
-Menteri melakukan seleksi calon anggota Majelis Disiplin
+(1) Menteri melakukan seleksi calon anggota Majelis Disiplin
 Profesi.
-Menteri menetapkan keanggotaan Majelis Disiplin Profesi
+(2) Menteri menetapkan keanggotaan Majelis Disiplin Profesi
 berdasarkan hasil seleksi sebagaimana dimaksud pada
 ayat (1).
-Pasal 7 LT
+
+Pasal 717
 (1) Majelis Disiplin Profesi dalam melaksanakan tugas dan
 fungsi sebagaimana dimaksud dalam Pasal 713 harus
 berkoordinasi dengan Menteri dalam rangka menjamin
 kesesuaian dengan kebijakan yang ditetapkan oleh
 Menteri.
-(2) Dalam hal pelaksana€Ln tugas dan fungsi sebagaimana
+(2) Dalam hal pelaksanaan tugas dan fungsi sebagaimana
 dimaksud pada ayat (1) tidak sesuai dengan kebijakan
 yang ditetapkan oleh Menteri, Menteri dapat melakukan
 penyesuaian pelaksanaan tugas dan fungsi.
+
 Pasal 718
 Ketentuan lebih lanjut mengenai mekanisme pelaksanaan
 seleksi, tata cara pengangkatan dan pemberhentian anggota,
@@ -12842,9 +12720,10 @@ sekretariat sebagaimana dimaksud pada ayat (1) diatur
 dengan Peraturan Menteri setelah mendapat persetujuan
 tertulis dari menteri yang menyelenggarakan urusan
 pemerintahan di bidang aparatur negara.
+
 Pasal 720
 (1) Dalam melaksanakan tugas, ketua, wakil ketua, anggota
-Konsil Kesehatan Indonesia, dan anggota Konsil masingmasing kelompok Tenaga Medis dan Tenaga Kesehatan
+Konsil Kesehatan Indonesia, dan anggota Konsil masing-masing kelompok Tenaga Medis dan Tenaga Kesehatan
 diberikan hak keuangan dan fasilitas.
 (2) Pendanaan untuk pelaksanaan tugas Konsil dan
 sekretariat sebagaimana dimaksud dalam Pasal 719
@@ -12861,7 +12740,7 @@ dan Pasien
 Paragraf 1
 Hak Tenaga Medis dan Tenaga Kesehatan
 
-Pasal721
+Pasal 721
 Tenaga Medis dan Tenaga Kesehatan dalam menjalankan
 praktik berhak:
 a. mendapatkan pelindungan hukum sepanjang
@@ -12878,12 +12757,7 @@ kerja, dan keamanan;
 e. mendapatkan jaminan kesehatan dan jaminan
 ketenagakerjaan sesuai dengan ketentuan peraturan
 perundang-undangan;
-SK No 230795 A
-f. mendapatkan
 
-PRESIDEN
-REPUBLIK INOONESIA
--295-
 f. mendapatkan pelindungan atas perlakuan yang tidak
 sesuai dengan harkat dan martabat manusia, moral,
 kesusilaan, serta nilai sosial budaya;
@@ -12897,6 +12771,7 @@ bertentangan dengan standar profesi, standar pelayanan,
 standar prosedur operasional, kode etik, atau ketentuan
 peraturan perundang-undangan; dan j. mendapatkan hak lain sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 722
 Pelindungan hukum sebagaimana dimaksud dalam Pasal72I
 huruf a ditujukan untuk:
@@ -12908,69 +12783,67 @@ b. menjamin bekerja tanpa paksaan dan ancaman dari pihak
 lain; dan
 c. menjamin bekerja sesuai dengan kewenangan dan
 kompetensi keprofe siannya.
+
 Pasal 723
 (1) Pelindungan hukum sebagaimana dimaksud dalam
 Pasal 721 huruf a diberikan oleh Pemerintah Pusat,
 Pemerintah Daerah, dan pimpinan Fasilitas Pelayanan
 Kesehatan yang meliputi:
-a. pelindungan hukum dalam rangka mencegah Tenaga Medis atau Tenaga Kesehatan melakukan
-pelanggaran; dan
-b. pelindungan hukum bagi Tenaga Medis dan Tenaga
-Kesehatan yang menghadapi permasalahan hukum. (2) Bentuk pelindungan hukum dalam rangka mencegah
+  a. pelindungan hukum dalam rangka mencegah Tenaga 
+  Medis atau Tenaga Kesehatan melakukan
+  pelanggaran; dan
+  b. pelindungan hukum bagi Tenaga Medis dan Tenaga
+  Kesehatan yang menghadapi permasalahan hukum.
+(2) Bentuk pelindungan hukum dalam rangka mencegah
 Tenaga Medis atau Tenaga Kesehatan melakukan
 pelanggaran sebagaimana dimaksud pada ayat (1) huruf a
 berupa:
-a. standar profesi, standar pelayanan, standar prosedur
-operasional, norma, standar, prosedur, dan kriteria
-terkait praktik keprofesian Tenaga Medis dan Tenaga
-Kesehatan;
-SK No 230796 A
-b. memastikan
-
-PRESIDEN
-REPUBLTK INDONESIA
--296-
-b. memastikan Tenaga Medis dan Tenaga Kesehatan
-memiliki STR dan SIP;
-c. memastikan Tenaga Medis dan Tenaga Kesehatan
-melakukan praktik keprofesian sesuai dengan
-kewenangan klinis;
-d. persetujuan dari Pasien dan/atau keluarga untuk
-tindakan yang dilakukan oleh Tenaga Medis dan
-Tenaga Kesehatan, kecuali dalam kondisi
-kegawatdaruratan; dan
-e. memfasilitasi Tenaga Medis atau Tenaga Kesehatan
-memiliki manfaat pelindungan tanggung gugat
-profesi.
+  a. standar profesi, standar pelayanan, standar prosedur
+  operasional, norma, standar, prosedur, dan kriteria
+  terkait praktik keprofesian Tenaga Medis dan Tenaga
+  Kesehatan;
+  b. memastikan Tenaga Medis dan Tenaga Kesehatan
+  memiliki STR dan SIP;
+  c. memastikan Tenaga Medis dan Tenaga Kesehatan
+  melakukan praktik keprofesian sesuai dengan
+  kewenangan klinis;
+  d. persetujuan dari Pasien dan/atau keluarga untuk
+  tindakan yang dilakukan oleh Tenaga Medis dan
+  Tenaga Kesehatan, kecuali dalam kondisi
+  kegawatdaruratan; dan
+  e. memfasilitasi Tenaga Medis atau Tenaga Kesehatan
+  memiliki manfaat pelindungan tanggung gugat
+  profesi.
 (3) Bentuk pelindungan hukum sebagaimana dimaksud pada
 ayat (1) huruf b dapat dilakukan melalui:
-a. penyelesaian perselisihan;
-b. penegakan etika profesi;
-c. penegakan disiplin keilmuan; dan
-d. penegakan hukum.
-(41 Instansi tempat bekerja Tenaga Medis dan Tenaga
+  a. penyelesaian perselisihan;
+  b. penegakan etika profesi;
+  c. penegakan disiplin keilmuan; dan
+  d. penegakan hukum.
+(4) Instansi tempat bekerja Tenaga Medis dan Tenaga
 Kesehatan wajib melindungi dan memberikan bantuan
 hukum kepada Tenaga Medis dan Tenaga Kesehatan yang
 melaksanakan tugas dalam bentuk:
-a. konsultasi hukum; dan/atau
-b. pemberian pendampingan dalam penyelesaian
-sengketa.
+  a. konsultasi hukum; dan/atau
+  b. pemberian pendampingan dalam penyelesaian
+  sengketa.
 (5) Ketentuan lebih lanjut mengenai pelindungan hukum bagi
 Tenaga Medis dan Tenaga Kesehatan diatur dengan
 Peraturan Menteri.
-Pasd 724
+
+Pasal 724
 Hak mendapatkan informasi yang lengkap dan benar dari
 Pasien atau keluarganya sebagaimana dimaksud dalam
-Pasal 721 }nuruf b terdiri atas:
-a. data diri Pasien;
-b. riwayat penyakit, pemeriksaan, tindakan, dan Obat yang
-pernah diterima;
-c. masalah Kesehatan Pasien yang dirasakan saat diperiksa
-oleh Tenaga Medis atau Tenaga Kesehatan sesuai dengan
-kemampuan dan pengetahuan Pasien atau keluarga;
-d. kemampuan dan jaminan pembiayaan Kesehatan yang
-dimiliki; dan
-e. informasi lain yang diperlukan.
+Pasal 721 huruf b terdiri atas:
+  a. data diri Pasien;
+  b. riwayat penyakit, pemeriksaan, tindakan, dan Obat yang
+  pernah diterima;
+  c. masalah Kesehatan Pasien yang dirasakan saat diperiksa
+  oleh Tenaga Medis atau Tenaga Kesehatan sesuai dengan
+  kemampuan dan pengetahuan Pasien atau keluarga;
+  d. kemampuan dan jaminan pembiayaan Kesehatan yang
+  dimiliki; dan
+  e. informasi lain yang diperlukan.
 
 Pasal 725
 (1) Gaji/upah, imbalan jasa, dan tunjangan kinerja yang
@@ -12990,11 +12863,12 @@ Pemerintah Pusat atau Pemerintah Daerah untuk
 melaksanakan program pemerintah diberikan dalam
 bentuk insentif sesuai dengan ketentuan peraturan
 pertrndang-undangan.
-(41 Selain gaji/upah, imbalan jasa, dan tunjangan kinerja
+(4) Selain gaji/upah, imbalan jasa, dan tunjangan kinerja
 sebagaimana dimaksud pada ayat (1), Tenaga Medis dan
 Tenaga Kesehatan juga berhak mendapatkan tunjangan
 hari raya keagamaan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 726
 Pemberian gaji/upah, imbalan jasa, dan tunjangan kinerja bagi
 Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud
@@ -13009,6 +12883,7 @@ g. jenjang karier profesional sebagai Tenaga Medis dan
 Tenaga Kesehatan;
 h. tempat bertugas; dan
 i. pertimbangan objektif lainnya.
+
 Pasal 727
 Ketentuan lebih lanjut mengenai pedoman penghitungan
 pemberian gaji/upah, imbalan jasa, dan tunjangan kinerja
@@ -13018,7 +12893,7 @@ ayat (1) diatur dengan Peraturan Menteri.
 
 Pasal 728
 (1) Pelindungan atas keselamatan, Kesehatan kerja, dan
-keamanan sebagaimana dimaksud dalam Pasal 72I
+keamanan sebagaimana dimaksud dalam Pasal 721
 huruf d dilakukan untuk mendukung Tenaga Medis dan
 Tenaga Kesehatan dalam memberikan pelayanan yang
 sesuai dengan standar profesi, standar pelayanan profesi,
@@ -13037,7 +12912,8 @@ f. pengamanan di tempat kerja. (3) Pimpinan Fasilitas Pelayanan Kesehatan danlat
 daerah yang membawahi Fasilitas Pelayanan Kesehatan
 wajib menerapkan sistem keselamatan, Kesehatan kerja,
 dan keamanan Tenaga Medis dan Tenaga Kesehatan
-sesuai dengan ketentuan peraturan perundangundangan.
+sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 729
 (1) Tenaga Medis dan Tenaga Kesehatan yang melaksanakan
 tugas Pelayanan Kesehatan di daerah tertinggal,
@@ -13049,10 +12925,11 @@ dari Pemerintah Pusat dan Pemerintah Daerah sesuai
 dengan tugas, fungsi, dan kewenangannya. (2) Ketentuan lebih lanjut mengenai pelindungan keamanan
 dan keselamatan sebagaimana dimaksud pada ayat (1)
 diatur dengan Peraturan Presiden.
+
 Pasal 730
 (1) Jaminan kesehatan dan jaminan ketenagakerjaan bagi
 Tenaga Medis dan Tenaga Kesehatan sebagaimana
-dimaksud dalam Pasal 72t huruf e berupa program
+dimaksud dalam Pasal 721 huruf e berupa program
 jaminan sosial sesuai dengan ketentuan peraturan
 perundang-undangan.
 (2) Dalam rangka pemenuhan hak Tenaga Medis dan
@@ -13064,6 +12941,7 @@ Tenaga Medis dan Tenaga Kesehatan untuk mendapatkan
 jaminan kesehatan dan jaminan ketenagakerjaan, serta
 membayar iuran sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 731
 (1) Hak mendapatkan pelindungan atas perlakuan yang tidak
 sesuai dengan harkat dan martabat manusia, moral,
@@ -13093,12 +12971,7 @@ c. menyediakan pelayanan atau kanal pelaporan/
 pengaduan; dan
 d. melakukan tindak lanjut sesuai dengan ketentuan
 peraturan perundang-undangan.
-SK No230800A
-(41 Dalam
 
-PRESIDEN
-REPUBLIK INDONESTA
--300-
 (4) Dalam hal Tenaga Medis dan Tenaga Kesehatan
 memperoleh perlakuan yang tidak sesuai dengan harkat
 dan martabat manusia, moral, kesusilaan, serta nilai
@@ -13110,7 +12983,7 @@ tindakan penyelamatan nyawa atau pencegahan
 kedisabilitasan seseorang pada keadaan Gawat Darurat
 dan/atau pada bencana.
 Pasd 732
-(1) Penghargaan sebagaimana dimaksud dalam Pasal 72I
+(1) Penghargaan sebagaimana dimaksud dalam Pasal 721
 huruf g diberikan bagi Tenaga Medis dan Tenaga
 Kesehatan yang telah melakukan pengabdian, memiliki
 prestasi kerja, dan inovasi dalam melaksanakan
@@ -13133,12 +13006,13 @@ peraturan perundang-undangan.
 (3) Ketentuan lebih lanjut mengenai tata cara pemberian
 penghargaan bagi Tenaga Medis dan Tenaga Kesehatan
 diatur dalam Peraturan Menteri.
+
 Pasal 733
 (1) Hak Tenaga Medis dan Tenaga Kesehatan berupa
 mendapatkan kesempatan untuk mengembangkan diri
 melalui pengembangan kompetensi, keilmuan, dan karier
 di bidang keprofesiannya sebagaimana dimaksud dalam
-Pasal 72I huruf h dilakukan melalui:
+Pasal 721 huruf h dilakukan melalui:
 a. pendidikan formal; dan
 b. pelatihan dan/atau kegiatan peningkatan
 kompetensi.
@@ -13152,6 +13026,7 @@ pegawai selain aparatur sipil negara yang bekerja di
 Fasilitas Pelayanan Kesehatan Pemerintah Pusat,
 Pemerintah Daerah, dan masyarakat dilaksanakan sesuai
 dengan pedoman yang ditetapkan oleh Menteri.
+
 Pasal 734
 (1) Hak menolak keinginan Pasien atau pihak lain yang
 bertentangan dengan standar profesi, standar pelayanan,
@@ -13175,6 +13050,7 @@ perundang-undangan.
 Pasien diberikan penjelasan mengenai alasan penolakan
 tersebut dan dicatat dalam dokumen tertulis berupa
 rekam medis atau dokumen tertulis lain.
+
 Pasal 735
 (1) Tenaga Medis dan Tenaga Kesehatan dalam menjalankan
 praktik wajib:
@@ -13215,6 +13091,7 @@ dengan kewenangan dan kompetensi berdasarkan standar
 profesi, standar pelayanan profesi, standar prosedur
 operasional, dan etika profesi yang dimiliki dalam
 menjalankan praktik.
+
 Pasal 736
 Tenaga Medis dan Tenaga Kesehatan yang melanggar
 kewajiban sebagaimana dimaksud dalam Pasal 735 dikenai
@@ -13229,36 +13106,40 @@ Hak dan Kewajiban Pasien
 
 Pasal 737
 (1) Pasien mempunyai hak:
-a. mendapatkan informasi mengenai Kesehatan dirinya;
-b. mendapatkan penjelasan yang memadai mengenai
-Pelayanan Kesehatan yang diterimanya;
-c. mendapatkan Pelayanan Kesehatan sesuai dengan
-kebutuhan medis, standar profesi, dan pelayanan
-yang bermutu;
-d. menolak atau menyetujui tindakan medis, kecuali
-untuk tindakan medis yang diperlukan dalam rangka
-pencegahan penyakit menular dan penanggulangan
-KLB atau Wabah;
-e. mendapatkan akses terhadap informasi yang terdapat
-di dalam rekam medis;
-f. meminta pendapat Tenaga Medis atau Tenaga
-Kesehatan lain; dan
-g. mendapatkan hak lain sesuai dengan ketentuan
-peraturan perundangan-undangan.
+  a. mendapatkan informasi mengenai Kesehatan dirinya;
+  b. mendapatkan penjelasan yang memadai mengenai
+  Pelayanan Kesehatan yang diterimanya;
+  c. mendapatkan Pelayanan Kesehatan sesuai dengan
+  kebutuhan medis, standar profesi, dan pelayanan
+  yang bermutu;
+  d. menolak atau menyetujui tindakan medis, kecuali
+  untuk tindakan medis yang diperlukan dalam rangka
+  pencegahan penyakit menular dan penanggulangan
+  KLB atau Wabah;
+  e. mendapatkan akses terhadap informasi yang terdapat
+  di dalam rekam medis;
+  f. meminta pendapat Tenaga Medis atau Tenaga
+  Kesehatan lain; dan
+  g. mendapatkan hak lain sesuai dengan ketentuan
+  peraturan perundangan-undangan.
 (2) Informasi mengenai Kesehatan dirinya sebagaimana
 dimaksud pada ayat (1) huruf a meliputi:
-a. hasil pemeriksaan fisik dan penunjang;
-b. diagnosis, pengobatan, tindakan, dan prognosis; dan
-c. pelayanan lain yang diberikan kepada Pasien. (3) Penjelasan yang memadai mengenai Pelayanan Kesehatan
-yang diterimanya sebagaimana dimaksud pada ayat (1) huruf b diberikan oleh Tenaga Medis dan
+  a. hasil pemeriksaan fisik dan penunjang;
+  b. diagnosis, pengobatan, tindakan, dan prognosis; dan
+  c. pelayanan lain yang diberikan kepada Pasien.
+(3) Penjelasan yang memadai mengenai Pelayanan Kesehatan
+yang diterimanya sebagaimana dimaksud pada ayat (1) huruf b
+diberikan oleh Tenaga Medis dan
 Tenaga Kesehatan dengan penjelasan keterangan yang
 cukup dan disampaikan secara lengkap dengan bahasa
-yang mudah dipahami. (4) Pelayanan Kesehatan sesuai dengan kebutuhan medis,
+yang mudah dipahami.
+(4) Pelayanan Kesehatan sesuai dengan kebutuhan medis,
 standar profesi, dan pelayanan yang bermutu
 sebagaimana dimaksud pada ayat (1) huruf c diberikan
 sesuai dengan kemampuan pelayanan dan dilakukan oleh
 Tenaga Medis dan Tenaga Kesehatan yang memiliki
-kompetensi dan kewenangan yang sesuai. (5) Menolak atau menyetujui tindakan medis, kecuali untuk
+kompetensi dan kewenangan yang sesuai.
+(5) Menolak atau menyetujui tindakan medis, kecuali untuk
 tindakan medis yang diperlukan dalam rangka
 pencegahan penyakit menular dan penanggulangan KLB
 atau Wabah sebagaimana dimaksud pada ayat (1) huruf d
@@ -13269,39 +13150,43 @@ serta dicatat dalam rekam medis.
 dalam rekam medis sebagaimana dimaksud pada ayat (1)
 huruf e dilakukan sesuai dengan ketentuan peraturan
 perundang-undangan.
-(71 Permintaan pendapat Tenaga Medis atau Tenaga
+(7) Permintaan pendapat Tenaga Medis atau Tenaga
 Kesehatan lain sebagaimana dimaksud pada ayat (1)
-hurtrf f dilakukan dalam rangka meminta konsultasi
+huruf f dilakukan dalam rangka meminta konsultasi
 tentang penyakit yang dideritanya kepada Tenaga Medis
 atau Tenaga Kesehatan lain yang praktik baik di Fasilitas
 Pelayanan Kesehatan yang sama maupun di Fasilitas
 Pelayanan Kesehatan lainnya.
+
 Pasal 738
 (1) Pasien mempunyai kewajiban:
-a. memberikan informasi yang lengkap dan jujur
-tentang masalah kesehatannya;
-b. mematuhi nasihat dan petunjuk Tenaga Medis dan
-Tenaga Kesehatan;
-c. mematuhi ketentuan yang berlaku pada Fasilitas
-Pelayanan Kesehatan; dan
-d. memberikan imbalan jasa atas Pelayanan Kesehatan
-yang diterima.
+  a. memberikan informasi yang lengkap dan jujur
+  tentang masalah kesehatannya;
+  b. mematuhi nasihat dan petunjuk Tenaga Medis dan
+  Tenaga Kesehatan;
+  c. mematuhi ketentuan yang berlaku pada Fasilitas
+  Pelayanan Kesehatan; dan
+  d. memberikan imbalan jasa atas Pelayanan Kesehatan
+  yang diterima.
 (2) Memberikan informasi yang lengkap dan jujur tentang
 masalah kesehatannya sebagaimana dimaksud pada
 ayat (1) huruf a paling sedikit mengenai:
-a. data diri Pasien;
-b. riwayat penyakit, pemeriksaan, tindakan, dan Obat
-yang pernah diterima; dan
-c. masalah Kesehatan Pasien yang dirasakan saat
-diperiksa oleh Tenaga Medis atau Tenaga Kesehatan
-sesuai dengan kemampuan dan pengetahuan Pasien
-atau keluarga. (3) Mematuhi nasihat dan petunjuk Tenaga Medis dan
+  a. data diri Pasien;
+  b. riwayat penyakit, pemeriksaan, tindakan, dan Obat
+  yang pernah diterima; dan
+  c. masalah Kesehatan Pasien yang dirasakan saat
+  diperiksa oleh Tenaga Medis atau Tenaga Kesehatan
+  sesuai dengan kemampuan dan pengetahuan Pasien
+  atau keluarga.
+(3) Mematuhi nasihat dan petunjuk Tenaga Medis dan
 Tenaga Kesehatan sebagaimana dimaksud pada ayat (1)
 huruf b setelah mendapatkan penjelasan secara lengkap
-dan memadai. (4) Mematuhi ketentuan yang berlaku pada Fasilitas
+dan memadai.
+(4) Mematuhi ketentuan yang berlaku pada Fasilitas
 Pelayanan Kesehatan sebagaimana dimaksud pada
 ayat (1) huruf c paling sedikit berupa mematuhi tata tertib
-yang berlaku pada Fasilitas Pelayanan Kesehatan. (5) Memberikan imbalan jasa atas Pelayanan Kesehatan yang
+yang berlaku pada Fasilitas Pelayanan Kesehatan.
+(5) Memberikan imbalan jasa atas Pelayanan Kesehatan yang
 diterima sebagaimana dimaksud pada ayat (1) huruf d
 merrrpakan pembayaran atas konsultasi, pemeriksaan,
 tindakan, pengobatan, dan Pelayanan Kesehatan lain
@@ -13317,16 +13202,18 @@ Umum
 Pasal 739
 (1) Tenaga Medis dan Tenaga Kesehatan dapat
 menjalankan praktik mandiri dan/atau berpraktik di
-Fasilitas Pelayanan Kesehatan selain praktik mandiri. (2) Tenaga Medis dan Tenaga Kesehatan dalam menjalankan
+Fasilitas Pelayanan Kesehatan selain praktik mandiri.
+(2) Tenaga Medis dan Tenaga Kesehatan dalam menjalankan
 praktik sebagaimana dimaksud pada ayat (1) bertanggung
 jawab secara moral untuk:
-a. mengabdikan diri sesuai dengan bidang keilmuan
-yang dimiliki;
-b. bersikap dan berperilaku sesuai dengan etika profesi;
-c. mengutamakan kepentingan Pasien dan masyarakat
-di atas kepentingan pribadi atau kelompok; dan
-d. menambah ilmu pengetahuan dan mengikuti
-perkembangan ilmu pengetahuan dan teknologi. (3) Dalam menjalankan praktik, Tenaga Medis dan
+  a. mengabdikan diri sesuai dengan bidang keilmuan
+  yang dimiliki;
+  b. bersikap dan berperilaku sesuai dengan etika profesi;
+  c. mengutamakan kepentingan Pasien dan masyarakat
+  di atas kepentingan pribadi atau kelompok; dan
+  d. menambah ilmu pengetahuan dan mengikuti
+  perkembangan ilmu pengetahuan dan teknologi.
+(3) Dalam menjalankan praktik, Tenaga Medis dan
 Tenaga Kesehatan yang memberikan Pelayanan Kesehatan
 kepada Pasien harus melaksanakan upaya terbaik sesuai
 dengan norma, standar pelayanan, dan standar profesi,
@@ -13335,31 +13222,31 @@ serta kebutuhan Kesehatan Pasien.
 diselenggarakan berdasarkan kesepakatan antara Tenaga
 Medis atau Tenaga Kesehatan dan Pasien berdasarkan
 prinsip kesetaraan dan transparansi.
+
 Pasal 740
 (1) Tenaga Medis dan Tenaga Kesehatan yang menjalankan
 praktik mandiri sebagaimana dimaksud dalam Pasal 739
-wajib menginformasikan identitas dirinya. (2) Informasi identitas Tenaga Medis atau Tenaga Kesehatan
+wajib menginformasikan identitas dirinya.
+(2) Informasi identitas Tenaga Medis atau Tenaga Kesehatan
 sebagaimana dimaksud pada ayat (1) meliputi:
-a. nama dan gelar Tenaga Medis dan Tenaga Kesehatan
-yang berpraktik;
-b. bidang keahlian;
-c. nomor SIP;
-d. nomor STR; dan
-e. jadwal praktik.
+  a. nama dan gelar Tenaga Medis dan Tenaga Kesehatan
+  yang berpraktik;
+  b. bidang keahlian;
+  c. nomor SIP;
+  d. nomor STR; dan
+  e. jadwal praktik.
 (3) Tenaga Medis dan Tenaga Kesehatan yang
-memenuhi ketentuan sebagaimana dimaksud
-ayat (1) dikenai sanksi administratif berupa:
-a. teguran lisan;
-b. peringatan tertulis;
-c. denda administratif; dan/atau
-d. pencabutan izin.
+tidak memenuhi ketentuan sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif berupa:
+  a. teguran lisan;
+  b. peringatan tertulis;
+  c. denda administratif; dan/atau
+  d. pencabutan izin.
 
 Paragraf 2
 Kewenangan Praktik Tenaga Medis dan Tenaga Kesehatan
 
-tidak
-pada
-Pasal741
+Pasal 741
 Dalam penyelenggaraan Pelayanan Kesehatan oleh
 Tenaga Medis dan Tenaga Kesehatan, Pasien memiliki
 kewajiban:
@@ -13374,6 +13261,7 @@ oleh Tenaga Medis dan Tenaga Kesehatan dan/atau tidak
 mematuhi petunjuk yang diberikan oleh Tenaga Medis dan
 Tenaga Kesehatan untuk penyembuhan penyakit atau
 masalah Kesehatannya.
+
 Pasal 742
 (1) Tenaga Medis dan Tenaga Kesehatan dalam menjalankan
 praktik harus dilakukan sesuai dengan kewenangan yang
@@ -13385,16 +13273,12 @@ tertinggi.
 (3) Tenaga Medis dan Tenaga Kesehatan dapat memiliki
 kewenangan berdasarkan penambahan kompetensi yang
 dimiliki melalui pelatihan.
-(41 Kewenangan dengan jenjang kompetensi dan kualifikasi
+(4) Kewenangan dengan jenjang kompetensi dan kualifikasi
 tertinggi atau kewenangan berdasarkan penambahan
-kompetensi sebagaimana dimaksud pada ayat (2) dan ayat (3) dicantumkan dalam STR yang dimiliki
+kompetensi sebagaimana dimaksud pada ayat (2) dan
+ayat (3) dicantumkan dalam STR yang dimiliki
 Tenaga Medis dan Tenaga Kesehatan.
-SK No230807A
-Pasal 743. . .
 
-PRES!DEN
-REPUBLIK INDONESIA
--307 -
 Pasal 743
 (1) Tenaga Medis dan Tenaga Kesehatan tertentu dalam
 memberikan Pelayanan Kesehatan di Fasilitas Pelayanan
@@ -13411,32 +13295,33 @@ setelah melalui kredensial.
 (4) Kewenangan klinis sebagaimana dimaksud pada ayat (1)
 ditetapkan oleh pimpinan Fasilitas Pelayanan Kesehatan.
 (5) Dikecualikan dari ketentuan sebagaimana dimaksud pada
-ayat (4),, kewenangan klinis bagi Tenaga Medis dan
+ayat (4), kewenangan klinis bagi Tenaga Medis dan
 Tenaga Kesehatan yang menjalankan praktik mandiri
 sesuai dengan STR dan SIP yang dimiliki.
+
 Pasil 744
 (1) Dalam keadaan tertentu, Tenaga Medis dan
 Tenaga Kesehatan dapat memberikan pelayanan di luar
 kewenangannya.
 (2) Keadaan tertentu sebagaimana dimaksud pada ayat (1)
 paling sedikit meliputi:
-a. ketiadaan Tenaga Medis dan/atau Tenaga Kesehatan
-di suatu wilayah tempat Tenaga Medis atau Tenaga
-Kesehatan bertugas;
-b. kebutuhan program pemerintah;
-c. penanganan kegawatdaruratan medis; dan/atau
-d. KLB, Wabah, dan/atau darurat bencana.
+  a. ketiadaan Tenaga Medis dan/atau Tenaga Kesehatan
+  di suatu wilayah tempat Tenaga Medis atau Tenaga
+  Kesehatan bertugas;
+  b. kebutuhan program pemerintah;
+  c. penanganan kegawatdaruratan medis; dan/atau
+  d. KLB, Wabah, dan/atau darurat bencana.
 (3) Ketiadaan Tenaga Medis dan/atau Tenaga Kesehatan di
 suatu wilayah tempat Tenaga Medis atau Tenaga
-Kesehatan bertugas sebagaimana dimaksud pada ayat (21
+Kesehatan bertugas sebagaimana dimaksud pada ayat (2)
 huruf a ditetapkan oleh kepala perangkat daerah yang
 menyelenggarakan urusan pemerintahan di bidang
 kesehatan kabupaten/ kota setempat.
-(41 Pemberian pelayanan di luar kewenanga.n dalam kondisi
+(4) Pemberian pelayanan di luar kewenangan dalam kondisi
 ketiadaan Tenaga Medis dan/atau Tenaga Kesehatan di
 suatu wilayah sebagaimana dimaksud pada ayat (2)
 huruf a dan dalam rangka pelaksanaan kebutuhan
-program pemerintah sebagaimana dimaksud pada ayat (21
+program pemerintah sebagaimana dimaksud pada ayat (2)
 huruf b dilaksanakan oleh Tenaga Medis atau Tenaga
 Kesehatan yang telah mengikuti pelatihan atau orientasi
 yang diselenggarakan oleh Pemerintah Pusat atau
@@ -13452,23 +13337,27 @@ Pelayanan Kesehatan dan antar-Fasilitas Pelayanan
 Kesehatan.
 (6) Pelayanan di luar kewenangan dalam kondisi KLB, Wabah,
 dan/atau darurat bencana sebagaimana dimaksud pada
-ayat (21huruf d dilakukan pada kegiatan penanggulangan
+ayat (2) huruf d dilakukan pada kegiatan penanggulangan
 KLB, Wabah, dan/atau darurat bencana.
-(71 Pemberian pelayanan di luar kewenangan oleh Tenaga
+(7) Pemberian pelayanan di luar kewenangan oleh Tenaga
 Medis atau Tenaga Kesehatan sebagaimana dimaksud
 pada ayat (6), setelah mendapatkan surat tugas dari
-Pemerintah Pusat dan/atau Pemerintah Daerah. (8) Jangka waktu dan tempat pemberian Pelayanan
+Pemerintah Pusat dan/atau Pemerintah Daerah.
+(8) Jangka waktu dan tempat pemberian Pelayanan
 Kesehatan di luar kewenangan dalam keadaan tertentu
-sebagaimana dimaksud pada ayat(21huruf a, huruf b, dan
+sebagaimana dimaksud pada ayat(2) huruf a, huruf b, dan
 huruf d ditetapkan oleh Pemerintah Pusat dan/atau
-Pemerintah Daerah sesuai kebutuhan. (9) Ketentuan lebih lanjut mengenai kriteria
+Pemerintah Daerah sesuai kebutuhan.
+(9) Ketentuan lebih lanjut mengenai kriteria
 kegawatdamratan medis sebagaimana dimaksud pada
 ayat (5) diatur dengan Peraturan Menteri.
+
 Pasal 745
 (1) Tenaga Medis dan Tenaga Kesehatan dapat menerima
 pelimpahan kewenangan untuk melakukan pelayanan
 Kesehatan terdiri atas:
-a. pelimpahan secara mandat; dan b. pelimpahan secara delegatif.
+  a. pelimpahan secara mandat; dan
+  b. pelimpahan secara delegatif.
 (2) Pelimpahan wewenang secara mandat sebagaimana
 dimaksud pada ayat (1) huruf a merupakan pelimpahan
 tugas dengan tanggung jawab berada pada pemberi
@@ -13480,6 +13369,7 @@ wewenang.
 (4) Pimpinan Fasilitas Pelayanan Kesehatan harus
 menetapkan jenis Pelayanan Kesehatan yang dapat
 dilimpahkan kewenangannya.
+
 Pasal 746
 Ketentuan lebih lanjut mengenai penyelenggaraan praktik
 Tenaga Medis dan Tenaga Kesehatan diatur dalam Peraturan
@@ -13490,7 +13380,7 @@ Pengenaan Sanksi Administratif
 
 Pasal 747
 (1) Sanksi administratif sebagaimana dimaksud dalam
-Pasal 736 dan Pasal 74O ayat (3) diberikan oleh
+Pasal 736 dan Pasal 740 ayat (3) diberikan oleh
 Pemerintah Pusat, Pemerintah Daerah provinsi, atau
 Pemerintah Daerah kabupaten/kota sesuai dengan
 kewenangannya.
@@ -13499,36 +13389,34 @@ dilakukan berdasarkan :
 a. hasil monitoring dan evaluasi;
 b. pengaduan; dan/atau
 c. pemberitaan media elektronik atau media cetak.
+
 Pasal 748
 (1) Sanksi administratif berupa teguran lisan sebagaimana
-dimaksud dalam Pasal 736 huruf a dan Pasal 74O ayat (31
+dimaksud dalam Pasal 736 huruf a dan Pasal 740 ayat (3)
 huruf a diberikan paling banyak 1 (satu) kali dan dibuat
 secara tertulis. (2) Tenaga Medis dan Tenaga Kesehatan yang melakukan
 praktik perseorangan dan Fasilitas Pelayanan Kesehatan
 wajib melakukan perbaikan sesuai dengan rekomendasi
 yang diberikan dalam waktu paling lama 1 (satu) bulan
 sejak menerima teguran lisan.
+
 Pasal 749
 (1) Sanksi administratif berupa peringatan tertulis
 sebagaimana dimaksud dalam Pasal 736 huruf b dan
-Pasal 74O ayat (3) huruf b diberikan apabila rekoniendasi dari teguran lisan sebagaimana dimaksud dalam
+Pasal 740 ayat (3) huruf b diberikan apabila rekoniendasi dari teguran lisan sebagaimana dimaksud dalam
 Pasal 748 ayat (2) tidak dilaksanakan.
-SK No 230810 A
-(2) Peringatan...
 
-PRESIDEN
-REPUBLTK INDONESIA
--310-
 (2) Peringatan tertulis sebagaimana dimaksud pada ayat (1)
 diberikan paling banyak 1 (satu) kali. (3) Tenaga Medis dan Tenaga Kesehatan yang melakukan
 praktik perseorangan dan Fasilitas Pelayanan Kesehatan
 wajib melakukan perbaikan sesuai dengan rekomendasi
 yang diberikan dalam waktu paling lama 1 (satu) bulan
 sejak menerima peringatan tertulis.
+
 Pasal 750
 (1) Sanksi administratif berupa denda administratif
 sebagaimana dimaksud dalam Pasal 736 huruf c dan
-Pasal 74O ayat (31 huruf c diberikan apabila rekomendasi
+Pasal 740 ayat (3) huruf c diberikan apabila rekomendasi
 dari teguran lisan dan peringatan tertulis tidak
 dilaksanakan.
 (2) Tenaga Medis dan Tenaga Kesehatan yang melakukan
@@ -13537,12 +13425,13 @@ yang tidak melaksanakan teguran lisan dan teguran
 tertulis sebagaimana dimaksud pada ayat (1) wajib
 membayar denda administratif ke kas negara atau kas
 daerah maksimal 30 (tiga puluh) hari kerja dari tanggal
-pengenaan denda administratif. (3) Besaran denda administratif sebagaimana dimaksud pada
+pengenaan denda administratif.
+(3) Besaran denda administratif sebagaimana dimaksud pada
 ayat (2) dikenakan sesuai dengan besaran yang telah
 ditetapkan oleh Menteri dan merupakan penerimaan
 negara bukan pajak atau pendapatan daerah sesuai
 dengan ketentuan peraturan perundang-undangan.
-(41 Bukti pembayaran denda administratif sebagaimana
+(4) Bukti pembayaran denda administratif sebagaimana
 dimaksud pada ayat (3) dilaporkan kepada Menteri,
 Pemerintah Daerah provinsi, atau Pemerintah Daerah
 kabupaten/kota.
@@ -13550,47 +13439,47 @@ kabupaten/kota.
 atau kas daerah sebagaimana dimaksud pada ayat (3) dan
 ayat (4) dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 751
 (1) Sanksi administratif berupa pencabutan izin sebagaimana
-dimaksud dalam Pasal 736 huruf d dan Pasal 74O ayat (31
+dimaksud dalam Pasal 736 huruf d dan Pasal 740 ayat (3)
 huruf d diberikan apabila sanksi administratif berrrpa
 denda administratif sebagaimana dimaksud dalam
 Pasal 750 tidak dibayarkan.
-{21 Pencabutan izin sebagaimana dimaksud pada ayat (1)
+(2) Pencabutan izin sebagaimana dimaksud pada ayat (1)
 diberikan paling lama 3 (tiga) bulan dan dapat
 diperpanjang sesuai hasil monitoring dan evaluasi dan
 dapat berlanjut menjadi pencabutan izin tetap.
-SK No 230811 A
-(3) Pencabutan
-
-PRESIDEN
-REPUBLTK INDONESIA
-- 311 -
 (3) Pencabutan izin sebagaimana dimaksud pada ayat (1)
 dilakukan oleh Pemerintah Pusat atau Pemerintah Daerah
 penerbit izin.
+
 Pasal 752
 (1) Tenaga Medis dan Tenaga Kesehatan yang tidak
 memenuhi ketentuan sebagaimana dimaksud dalam
 Pasal 677 ayat (1) dan Pasal 681 ayat (1) dikenakan sanksi
-administratif berupa denda administratif. (2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
+administratif berupa denda administratif.
+(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
 diberikan oleh Pemerintah Pusat, Pemerintah Daerah
 provinsi, atau Pemerintah Daerah kabupaten/kota sesuai
 dengan kewenangannya.
 (3) Sanksi administratif sebagaimana dimaksud pada ayat (1)
 dan ayat (2) dilakukan berdasarkan:
-a. hasil monitoring dan evaluasi;
-b. pengaduan; dan/atau
-c. pemberitaan media elektronik atau media cetak.
+  a. hasil monitoring dan evaluasi;
+  b. pengaduan; dan/atau
+  c. pemberitaan media elektronik atau media cetak.
+
 Pasal 753
 Pengenaan denda administratif sebagaimana dimaksud dalam
 Pasal 752 ayat (1) dan ayat (2) dilakukan sesuai dengan
 ketentuan sebagaimana dimaksud dalam Pasal 750 ayat (3)
 sampai dengan ayat (5).
+
 Pasal 754
 Dalam hal Tenaga Medis, Tenaga Kesehatan, dan Fasilitas
 Pelayanan Kesehatan tidak melaksanakan sanksi administratif
 sebagaimana dimaksud dalam Pasal 747 sampai dengan
+
 Pasal 753, nama Tenaga Medis, Tenaga Kesehatan, dan
 Fasilitas Pelayanan Kesehatan masuk dalam daftar pelanggar
 administratif dan akan diumumkan kepada masyarakat secara
@@ -13617,10 +13506,12 @@ lain bidang Kesehatan.
 (2) Pencatatan sebagaimana dimaksud pada ayat (l)
 dilakukan melalui Sistem Informasi Kesehatan yang
 terintegrasi dengan sistem Informasi Kesehatan Nasional.
+
 Pasal 757
 Perencanaan kebutuhan Tenaga pendukung atau
 Penunjang Kesehatan dapat dilakukan sesuai kebutuhan
 Pelayanan Kesehatan.
+
 Pasal 758
 (1) Pemerintah Daerah dan pimpinan Fasilitas perayanan
 Kesehatan atau institusi lain di bidang Kesehatan
@@ -13635,6 +13526,7 @@ mempertimbangkan kemampuan serta kebutuhan
 Fasilitas Pelayanan Kesehatan, atau institusi rain di
 bidang Kesehatan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 759
 (1) Tenaga Pendukung atau penunjang Kesehatan,
 mempunyai hak:
@@ -13670,6 +13562,7 @@ bidang Kesehatan; dan
 c. mematuhi aturan yang berlaku pada Fasilitas
 Pelayanan Kesehatan atau institusi lain di bidang
 Kesehatan.
+
 Pasal 760
 Ketentuan lebih lanjut mengenai perencanaan, pemenuhan,
 pendayagunaan, kesejahteraan, dan pencatatan Tenaga
@@ -13689,12 +13582,7 @@ dan/atau Pelayanan Kesehatan masyarakat. (2) Fasilitas Pelayanan Kesehatan melip
 a. Fasilitas Pelayanan Kesehatan tingkat pertama;
 b. Fasilitas Pelayanan Kesehatan tingkat lanjut; dan
 c. Fasilitas Pelayanan Kesehatan penunjang.
-SK No 230814 A
-Pasal762...
 
-PRESIDEN
-REPUBLTK INDONESIA
--3t4-
 Pasal 762
 (1) Fasilitas Pelayanan Kesehatan tingkat pertama
 menyelenggarakan Pelayanan Kesehatan primer.
@@ -13710,21 +13598,24 @@ menetapkan Fasilitas Pelayanan Kesehatan tingkat
 pertama lain sesuai dengan perkembangan ilmu
 pengetahuan dan teknologi, serta kebutuhan Pelayanan
 Kesehatan.
-(41 Dalam menyelenggarakan Pelayanan Kesehatan
+(4) Dalam menyelenggarakan Pelayanan Kesehatan
 sebagaimana dimaksud pada ayat (1), dapat dilakukan
-integrasi pelayanan antar-Fasilitas Pelayanan Kesehatan. (5) Integrasi pelayanan sebagaimana dimaksud pada ayat (4)
+integrasi pelayanan antar-Fasilitas Pelayanan Kesehatan.
+(5) Integrasi pelayanan sebagaimana dimaksud pada ayat (4)
 dikoordinasikan oleh Puskesmas sebagai penanggung
 jawab wilayah.
 (6) Integrasi pelayanan sebagaimana dimaksud pada ayat (4)
 ditujukan untuk mendukung pelaksanaan program
 pemerintah, terutama Pelayanan Kesehatan dalam bentuk
 promotif dan preventif.
-(71 Integrasi pelayanan sebagaimana dimaksud pada ayat (4)
+(7) Integrasi pelayanan sebagaimana dimaksud pada ayat (4)
 dilakukan melalui:
-a. pemanfaatan sumber daya; b. penanganan kasus;
-c. pelaporan kasus; dan
-d. bentuk lain menyesuaikan dengan program yang
-diselenggarakan.
+  a. pemanfaatan sumber daya; 
+  b. penanganan kasus;
+  c. pelaporan kasus; dan
+  d. bentuk lain menyesuaikan dengan program yang
+    diselenggarakan.
+
 Pasal 763
 (1) Fasilitas Pelayanan Kesehatan tingkat lanjut
 menyelenggarakan Pelayanan Kesehatan lanjutan yang
@@ -13732,16 +13623,18 @@ meliputi pelayanan spesialistik dan/atau pelayanan
 subspesialistik.
 (2) Fasilitas Pelayanan Kesehatan tingkat lanjut sebagaimana
 dimaksud pada ayat (1) dapat berupa:
-a. Rumah Sakit;
-b. klinik utama;
-c. balai Kesehatan; dan d. praktik mandiri Tenaga Medis atau Tenaga
-Kesehatan.
+  a. Rumah Sakit;
+  b. klinik utama;
+  c. balai Kesehatan; dan
+  d. praktik mandiri Tenaga Medis atau Tenaga
+    Kesehatan.
 (3) Selain Fasilitas Pelayanan Kesehatan tingkat lanjut
 sebagaimana dimaksud pada ayat (2), Menteri dapat
 menetapkan Fasilitas Pelayanan Kesehatan tingkat lanjut
 lain sesuai dengan perkembangan ilmu pengetahuan dan
 teknologi serta kebutuhan Pelayanan Kesehatan.
-Pasd 764
+
+Pasal 764
 (1) Fasilitas Pelayanan Kesehatan penunjang
 menyelenggarakan Pelayanan Kesehatan yang menunjang
 Pelayanan Kesehatan primer dan Pelayanan Kesehatan
@@ -13749,39 +13642,36 @@ lanjutan.
 (2) Fasilitas Pelayanan Kesehatan penunjang sebagaimana
 dimaksud pada ayat (1) dapat berdiri sendiri atau dapat
 bergabung dengan Fasilitas Pelayanan Kesehatan tingkat
-pertama dan Fasilitas Pelayanan Kesehatan tingkat lanjut. (3) Fasilitas Pelayanan Kesehatan penunjang sebagaimana
+pertama dan Fasilitas Pelayanan Kesehatan tingkat lanjut.
+(3) Fasilitas Pelayanan Kesehatan penunjang sebagaimana
 dimaksud pada ayat (1) terdiri atas:
-a. apotek;
-b. unit pengelola darah;
-c. laboratorium Kesehatan;
-d. laboratorium pengolahan sel punca dan/atau sel;
-e. bank materi biologi;
-f. optik;
-g. institusi pengamanan alat dan fasilitas Kesehatan;
-dan
-h. Fasilitas Pelayanan Kesehatan penunjang lain yang
-ditetapkan oleh Menteri.
+  a. apotek;
+  b. unit pengelola darah;
+  c. laboratorium Kesehatan;
+  d. laboratorium pengolahan sel punca dan/atau sel;
+  e. bank materi biologi;
+  f. optik;
+  g. institusi pengamanan alat dan fasilitas Kesehatan;
+  dan
+  h. Fasilitas Pelayanan Kesehatan penunjang lain yang
+  ditetapkan oleh Menteri.
+
 Pasal 765
 (1) Fasilitas Pelayanan Kesehatan sebagaimana dimaksud
 dalam Pasal 761 berdasarkan bentuknya terdiri atas:
-a. Fasilitas Pelayanan Kesehatan statis; dan
-b. Fasilitas Pelayanan Kesehatan bergerak. (2) Fasilitas Pelayanan Kesehatan statis sebagaimana
+  a. Fasilitas Pelayanan Kesehatan statis; dan
+  b. Fasilitas Pelayanan Kesehatan bergerak.
+(2) Fasilitas Pelayanan Kesehatan statis sebagaimana
 dimaksud pada ayat (1) huruf a merupakan
 Fasilitas Pelayanan Kesehatan yang didirikan di
 suatu lokasi dan bersifat permanen yang menyediakan
-pelayanan rawat inap, rawat -jalan, dan/atau
+pelayanan rawat inap, rawat jalan, dan/atau
 Gawat Darurat.
 (3) Fasilitas Pelayanan Kesehatan bergerak sebagaimana
 dimaksud pada ayat (1) huruf b merupakan
 Fasilitas Pelayanan Kesehatan yang memberikan
 Pelayanan Kesehatan yang dapat dipindahkan dari satu
 lokasi ke lokasi lain dalam jangka waktu tertentu.
-(4) Ketentuan...
-SK No 230816 A
-
-PRESIDEN
-REPUBLTK INDONESIA
--316-
 (4) Ketentuan lebih lanjut mengenai Fasilitas Pelayanan
 Kesehatan bergerak sebagaimana dimaksud pada ayat (3)
 diatur dengan Peraturan Menteri.
@@ -13789,27 +13679,24 @@ diatur dengan Peraturan Menteri.
 Bagian Kedua
 Penentuan Jumlah dan Jenis Fasilitas Pelayanan Kesehatan
 
-(1)
-(2t
 Pasal 766
-Pemerintah Pusat dan Pemerintah Daerah bertanggung
+(1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab atas ketersediaan dan akses Fasilitas Pelayanan
 Kesehatan dalam rangka mewujudkan derajat Kesehatan
 yang setinggi-tingginya.
-Pemerintah Daerah menyusun perencanaan kebutuhan
+(2) Pemerintah Daerah menyusun perencanaan kebutuhan
 Fasilitas Pelayanan Kesehatan di wilayahnya.
-Perencanaan kebutuhan Fasilitas Pelayanan Kesehatan
+(3) Perencanaan kebutuhan Fasilitas Pelayanan Kesehatan
 sebagaimana dimaksud pada ayat (2) dilakukan dengan
 mengacu pada rencana induk bidang Kesehatan dan
 mempertimbangkan unsur:
-a. kebutuhan pelayanan;
-b. jumlah dan persebaran penduduk; dan/atau
-c. pola penyakit.
-Ketentuan lebih lanjut mengenai perencanaan kebutuhan
+  a. kebutuhan pelayanan;
+  b. jumlah dan persebaran penduduk; dan/atau
+  c. pola penyakit.
+(4) Ketentuan lebih lanjut mengenai perencanaan kebutuhan
 Fasilitas Pelayanan Kesehatan sebagaimana dimaksud
-pada ayat (21diatur dengan Peraturan Menteri.
-(3)
-(4)
+pada ayat (2) diatur dengan Peraturan Menteri.
+
 Pasal 767
 Pertimbangan kebutuhan Fasilitas Pelayanan Kesehatan
 sebagaimana dimaksud dalam Pasal 766 tidak berlaku bagi
@@ -13830,12 +13717,7 @@ sesuai dengan kewenangannya. (3) Ketentuan mengenai perizinan berusaha Fasilitas
 Pelayanan Kesehatan sebagaimana dimaksud pada
 ayat (1) dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
-SK No 230817 A
-Pasal 769
 
-FRESIDEN
-REPUBLIK INDONESIA
--3L7 -
 Pasal 769
 (1) Dikecualikan dari ketentuan sebagaimana dimaksud
 dalam Pasal 768, perizinan Fasilitas Pelayanan Kesehatan
@@ -13851,15 +13733,17 @@ dimaksud pada ayat (1) diatur dengan Peraturan Menteri.
 Bagian Keempat
 Penyelenggaraan Fasilitas Pelayanan Kesehatan
 
-Pasal 77O
+Pasal 770
 Setiap Fasilitas Pelayanan Kesehatan wajib memiliki sistem
 tata kelola manajemen dan tata kelola Pelayanan Kesehatan
 atau klinis yang baik.
-Pasal771
+
+Pasal 771
 Setiap Tenaga Medis dan Tenaga Kesehatan yang
 menyelenggarakan Pelayanan Kesehatan di Fasilitas Pelayanan
 Kesehatan wajib memiliki STR dan SIP.
-Pasal772
+
+Pasal 772
 (1) Setiap Fasilitas Pelayanan Kesehatan wajib
 menginformasikan daftar nama, nomor STR dan SIP, serta
 jadwal praktik Tenaga Medis dan Tenaga Kesehatan yang
@@ -13871,13 +13755,13 @@ a. teguran lisan;
 b. peringatan tertulis;
 c. denda administratif; dan/atau
 d. pencabutan perizinan berusaha.
-(3) Sanksi administratif sebagaimana dimaksud pada ayat (21
+(3) Sanksi administratif sebagaimana dimaksud pada ayat (2) 
 diberikan oleh Pemerintah Pusat, Pemerintah Daerah
 provinsi, atau Pemerintah Daerah kabupaten/kota sesuai
 dengan kewenangannya.
 (4) Tata cara pengenaan sanksi administratif bagi
 Tenaga Medis dan Tenaga Kesehatan sebagaimana
-dimaksud dalam Pasal 747 sampai dengan Pasal 75O
+dimaksud dalam Pasal 747 sampai dengan Pasal 750
 berlaku secara mutatis mutandis terhadap pengenaan
 sanksi administratif bagi Fasilitas Pelayanan Kesehatan
 sebagaimana dimaksud pada ayat (2) huruf a sampai
@@ -13886,20 +13770,24 @@ dengan huruf c.
 pencabutan perizinan berusaha sebagaimana dimaksud
 pada ayat (2) humf d dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 773
 Setiap Fasilitas Pelayanan Kesehatan wajib melaksanakan
 sistem rujukan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 774
 Fasilitas Pelayanan Kesehatan dapat dimanfaatkan sebagai
 tempat atau wahana pendidikan bagi Tenaga Medis dan
 Tenaga Kesehatan, serta tempat penelitian dan pengembangan
 di bidang Kesehatan yang dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 775
 Ketentuan lebih lanjut mengenai teknis penyelenggaraan
 Fasilitas Pelayanan Kesehatan diatur dengan Peraturan
 Menteri.
+
 Pasal 776
 Penyelenggaraan Fasilitas Pelayanan Kesehatan di kawasan
 ekonomi khusus dilaksanakan sesuai dengan ketentuan
@@ -13922,23 +13810,25 @@ Fasilitas Pelayanan Kesehatan selain tempat praktik
 mandiri, penyelenggaraan rekam medis merupakan
 tanggung jawab Fasilitas Pelayanan Kesehatan.
 (3) Rekam medis sebagaimana dimaksud pada ayat (1) dan
-ayat(21merupakan dokumen yang berisikan data identitas
+ayat(2) merupakan dokumen yang berisikan data identitas
 Pasien, pemeriksaan, pengobatan, tindakan, dan
 pelayanan lain yang telah diberikan kepada Pasien,
 termasuk persetujuan tindakan Pelayanan Kesehatan.
-(41 Rekam medis sebagaimana dimaksud pada ayat (3) harus
+(4) Rekam medis sebagaimana dimaksud pada ayat (3) harus
 disimpan dan dijaga kerahasiaannya oleh Tenaga Medis,
 Tenaga Kesehatan, dan pimpinan Fasilitas Pelayanan
 Kesehatan.
+
 Pasal 779
 (1) Rekam medis sebagaimana dimaksud dalam Pasal 777
 dan Pasal 778 ayat (1) wajib diselenggarakan secara
-elektronik sesuai dengan ketentuan peraturan perundangundangan.
+elektronik sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Dalam hal Fasilitas Pelayanan Kesehatan tidak dapat
 menyelenggarakan rekam medis secara elektronik karena
 hambatan teknis, dapat digunakan rekam medis
 nonelektronik sampai dengan hambatan selesai.
-Pasal 78O
+
+Pasal 780
 Fasilitas Pelayanan Kesehatan dalam menyelenggarakan rekam
 medis wajib:
 a. mencatat dan mendokumentasikan seluruh tindakan yang
@@ -13951,18 +13841,12 @@ Pasien;
 d. memastikan kesesuaian sistem elektronik yang
 kompatibel antara satu sistem dengan sistem elektronik
 lainnya sesuai dengan variabel dan meta data yang
-ditetapkan oleh kementerian yang menyelenggarakan
+ditetapkan oleh Kementerian yang menyelenggarakan
 urusan pemerintahan di bidang kesehatan; dan
-SK No 230820 A
-e. memastikan...
-
-e
-PR,ESIDEN
-REPUBLTK INDONESIA
-320 -
-memastikan sistem elektronik yang berbeda mampu
+e. memastikan sistem elektronik yang berbeda mampu
 bekerja secara terpadu melakukan komunikasi
 menggunakan standar pertukaran data.
+
 Pasal 781
 (1) Rekam medis elektronik merupakan bagian dari Sistem
 Informasi Kesehatan Fasilitas Pelayanan Kesehatan dan
@@ -13972,13 +13856,15 @@ Nasional.
 sebagaimana dimaksud pada ayat (1) juga berlaku bagi
 Fasilitas Pelayanan Kesehatan yang menyelenggarakan
 pelayanan Telemedisin.
+
 Pasal 782
 Pengisian rekam medis elektronik dimulai dari Pasien masuk
 sampai Pasien pulang, dirujuk, atau meninggal.
+
 Pasal 783
 (1) Pembukaan isi rekam medis dapat dilakukan:
-a. atas persetujuan Pasien; dan/atau
-b. tidak atas persetujuan Pasien.
+  a. atas persetujuan Pasien; dan/atau
+  b. tidak atas persetujuan Pasien.
 (2) Permintaan pembukaan isi rekam medis sebagaimana
 dimaksud pada ayat (1) harus dilakukah secara tertulis.
 (3) Permintaan pembukaan isi rekam medis sebagaimana
@@ -13989,23 +13875,17 @@ ayat (1) dilakukan terbatas sesuai dengan kebutuhan.
 (5) Pembukaan isi rekam medis atas persetujuan Pasien
 sebagaimana dimaksud pada ayat (1) huruf a dilakukan
 untuk kepentingan:
-a. pemeliharaan Kesehatan, pengobatan,
-penyembuhan, dan perawatan Pasien;
-b. permintaan Pasien sendiri; dan/atau
-c. administratif, pembayaran asuransi, atau jaminan
-pembiayaan Kesehatan.
+  a. pemeliharaan Kesehatan, pengobatan,
+  penyembuhan, dan perawatan Pasien;
+  b. permintaan Pasien sendiri; dan/atau
+  c. administratif, pembayaran asuransi, atau jaminan
+  pembiayaan Kesehatan.
 (6) Dalam hal Pasien tidak cakap, persetujuan pembukaan isi
 rekam medis sebagaimana dimaksud pada ayat (1)
 huruf a dapat diberikan oleh keluarga terdekat atau
 pengampunya sesuai dengan ketentuan peraturan
 perundang-undangan.
-(71 Keluarga...
-SK No 230821 A
-
-FRESIDEN
-REPUBLIK INDONESIA
--32t-
-(71 Keluarga terdekat sebagaimana dimaksud pada ayat (6)
+(7) Keluarga terdekat sebagaimana dimaksud pada ayat (6)
 meliputi suami atau istri, anak yang sudah dewasa, orang
 tua kanduog, dan/atau saudara kandung Pasien.
 (8) Selain keluarga terdekat sebagaimana dimaksud pada
@@ -14016,7 +13896,7 @@ dilakukan oleh ahli waris.
 memberikan persetujuan karena tidak diketahui
 keberadaannya, tidak cakap secara hukum, meninggal
 dunia, atau tidak ada, persetujuan sebagaimana
-dimaksud pada ayat (21dan ayat (a) tidak diperlukan.
+dimaksud pada ayat (2) dan ayat (a) tidak diperlukan.
 (10) Pembukaan isi rekam medis untuk keperluan
 administrasi, pembayaran asuransi, atau jaminan
 pembiayaan Kesehatan sebagaimana dimaksud pada
@@ -14040,12 +13920,14 @@ dimaksud pada ayat (11) dilakukan oleh pihak atau
 institusi yang berwenang atas kepentingan.
 (1)
 (2)
+
 Pasal 784
 Dokumen rekam medis merupakan milik Fasilitas
 Pelayanan Kesehatan.
 Fasilitas Pelayanan Kesehatan wajib menjaga keamanan,
 keutuhan, kerahasiaan, dan ketersediaan data yang
 terdapat dalam dokumen rekam medis.
+
 Pasal 785
 lsi rekam medis wajib dijaga kerahasiaannya oleh semua pihak
 yang terlibat dalam Pelayanan Kesehatan di Fasilitas Pelayanan
@@ -14082,21 +13964,16 @@ Kesehatan wajib menyimpan rahasia Kesehatan pribadi
 Pasien.
 (3) Rahasia Kesehatan pribadi Pasien sebagaimana dimaksud
 pada ayat (1) terdiri atas:
-a. identitas Pasien;
-b. data dan Informasi Kesehatan Pasien yang meliputi
-hasil anamnesis, pemeriksaan fisik, pemeriksaan
-penunjang, penegakan diagnosis, pengobatan
-dan/atau tindakan Pelayanan Kesehatan; dan
-c. hal lain yang berkenaan dengan Pasien.
-(41 Rahasia Kesehatan pribadi Pasien sebagaimana dimaksud
+  a. identitas Pasien;
+  b. data dan Informasi Kesehatan Pasien yang meliputi
+  hasil anamnesis, pemeriksaan fisik, pemeriksaan
+  penunjang, penegakan diagnosis, pengobatan
+  dan/atau tindakan Pelayanan Kesehatan; dan
+  c. hal lain yang berkenaan dengan Pasien.
+(4) Rahasia Kesehatan pribadi Pasien sebagaimana dimaksud
 pada ayat (3) huruf a dan huruf b merupakan bagian dari
 rekam medis.
-SK No 230823 A
-Pasal789...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--323-
 Pasal 789
 Semua pihak pada Fasilitas Pelayanan Kesehatan yang harus
 menyimpan rahasia Kesehatan pribadi Pasien sebagaimana
@@ -14109,6 +13986,7 @@ d. tenaga lainnya yang memiliki data dan Informasi
 Kesehatan Pasien di Fasilitas Pelayanan Kesehatan; dan
 e. pihak lain yang terlibat dalam penyelenggaraan Pelayanan
 Kesehatan pada Fasilitas Pelayanan Kesehatan.
+
 Pasal 790
 (1) Pembukaan rahasia Kesehatan pribadi Pasien berupa
 rekam medis sebagaimana dimaksud dalam Pasal 788
@@ -14117,7 +13995,8 @@ sebagaimana dimaksud dalam Pasal 783.
 (2) Pembukaan rahasia Kesehatan pribadi Pasien selain
 rekam medis, dapat dilakukan sesuai dengan ketentuan
 pembukaan sebagaimana dimaksud dalam Pasal 735
-ayat (21.
+ayat (2) .
+
 Pasal 791
 (1) Dalam rangka menjaga rahasia Kesehatan pribadi Pasien,
 Fasilitas Pelayanan Kesehatan harus menerapkan sistem
@@ -14127,6 +14006,7 @@ pribadi Pasien.
 keamanan informasi atas Data Kesehatan pribadi Pasien
 sebagaimana dimaksud pada ayat (1) diatur dengan
 Peraturan Menteri.
+
 Pasal 792
 (1) Fasilitas Pelayanan Kesehatan dan penyedia penyimpanan
 data harus menanggulangi dan menanggapi insiden
@@ -14138,12 +14018,6 @@ Fasilitas Pelayanan Kesehatan dalam menerapkan sistem
 manajemen keamanan informasi atas Data Kesehatan
 pribadi Pasien dalam bentuk peningkatan kapasitas
 sumber daya manusia.
-SK No 230824 A
-Bagian
-
-FRESIDEN
-REPUBLTK INDONESIA
--324-
 
 Bagian Ketujuh
 Puskesmas
@@ -14157,17 +14031,18 @@ wilayah kerjanya.
 (2) Dalam melaksanakan tugas sebagaimana dimaksud pada
 ayat (1), Puskesmas memiliki fungsi penyelenggaraan
 Pelayanan Kesehatan primer di wilayah kerjanya.
-Pasil 794
+
+Pasal 794
 (1) Selain menyelenggarakan fungsi sebagaimana dimaksud
-dalam Pasal 793 ayat (2),, Puskesmas berperan
+dalam Pasal 793 ayat (2), Puskesmas berperan
 mewujudkan wilayah kerja yang sehat dengan masyarakat
 yang:
-a. berperilaku hidup sehat;
-b. mudah mengakses Pelayanan Kesehatan bermutu;
-c. hidup dalam lingkungan sehat; dan
-d. memiliki derajat Kesehatan yang setinggi-tingginya,
-baik individu, keluarga, kelompok, maupun
-masyarakat.
+  a. berperilaku hidup sehat;
+  b. mudah mengakses Pelayanan Kesehatan bermutu;
+  c. hidup dalam lingkungan sehat; dan
+  d. memiliki derajat Kesehatan yang setinggi-tingginya,
+  baik individu, keluarga, kelompok, maupun
+  masyarakat.
 (2) Perilaku hidup sehat sebagaimana dimaksud pada ayat (1)
 huruf a dilaksanakan melalui pembudayaan gerakan
 masyarakat hidup sehat.
@@ -14177,7 +14052,7 @@ dilaksanakan melalui penyediaan jaminan kesehatan,
 Fasilitas Pelayanan Kesehatan, dan infrastruktur
 pendukung lainnya hingga tingkat desa/kelurahan, serta
 kemudahan dalam mendapatkan Pelayanan Kesehatan.
-(41 Hidup dalam lingkungan sehat sebagaimana dimaksud
+(4) Hidup dalam lingkungan sehat sebagaimana dimaksud
 pada ayat (1) huruf c merupakan hidup dalam kondisi
 kualitas lingkungan yang sehat baik dari aspek fisik,
 kimia, biologi, maupun sosial.
@@ -14186,12 +14061,7 @@ sebagaimana dimaksud pada ayat (1) huruf d mencakup
 keadaan Kesehatan fisik, jiwa, maupun sosial yang lebih
 baik dari sebelumnya yang dapat dicapai sesuai dengan
 kemampuan maksimal dari setiap orang atau masyarakat.
-SK No 230825 A
-Pasal 795 .
 
-PRESIDEN
-REPUELIK INDONESIA
--325-
 Pasal 795
 Dalam rangka melaksanakan fungsi penyelenggaraan
 Pelayanan Kesehatan primer di wilayah kerjanya, Puskesmas
@@ -14201,6 +14071,7 @@ b. struktur jejaring berbasis satuan pendidikan;
 c. struktur jejaring berbasis tempat kerja;
 d. struktur jejaring sistem rujukan; dan
 e. struktur jejaring lintas sektor.
+
 Pasal 796
 (1) Struktur jejaring berbasis wilayah administratif
 sebagaimana dimaksud dalam Pasal 795 huruf a terdiri
@@ -14218,6 +14089,7 @@ wilayah administratif sebagaimana dimaksud pada
 ayat (1), Puskesmas dapat memberikan dukungan suplai
 logistik program pada struktur jejaring berbasis wilayah
 administratif.
+
 Pasal 797
 (1) Unit Pelayanan Kesehatan di tingkat desa/kelurahan
 sebagaimana dimaksud dalam Pasal 796 ayat (1) huruf b
@@ -14228,23 +14100,20 @@ standar pelayanan hrskesmas pembantu.
 dimaksud pada ayat (1) meliputi aspek ketenagaan,
 Perbekalan Kesehatan, pelayanan kefarmasian,
 sistem informasi, dan Teknologi Kesehatan.
+
 Pasal 798
 (1) Struktur jejaring berbasis satuan pendidikan
 sebagaimana dimaksud dalam Pasal 795 huruf b terdiri
 atas jenjang pendidikan dasar, pendidikan menengah, dan
 pendidikan tinggi.
-SK No 230826 A
-(2) Puskesmas
 
-FRESIDEN
-REPUBLIK INDONESIA
--326-
 (2) hrskesmas sebagai koordinator struktur jejaring berbasis
 satuan pendidikan sebagaimana dimaksud pada ayat (1)
 melaksanakan Upaya Kesehatan melalui pendidikan
 Kesehatan, Pelayanan Kesehatan, dan pembinaan
 lingkungan sekolah, serta sekolah sehat dan kampus
 sehat.
+
 Pasal 799
 (1) Struktur jejaring berbasis tempat kerja sebagaimana
 dimaksud dalam Pasal 795 huruf c terdiri atas tempat
@@ -14258,6 +14127,7 @@ kerja serta pembinaan program Kesehatan kerja. (3) Selain melakukan surveilans s
 ayat l2l, Puskesmas memberikan Pelayanan Kesehatan
 dan mengoordinasikan Upaya Kesehatan bersumber daya
 masyarakat.
+
 Pasal 800
 (1) Struktur jejaring sistem rujukan sebagaimana dimaksud
 dalam Pasal 795 huruf d terdiri atas Fasilitas Pelayanan
@@ -14272,7 +14142,8 @@ c. pencatatan dan pelaporan data secara terintegrasi;
 dan
 d. pertemuan koordinasi secara berkala setiap
 3 (tiga) bulan sekali atau sesuai dengan kebutuhan.
-Pasal 8O1
+
+Pasal 801
 (1) Struktur jejaring lintas sektor sebagaimana dimaksud
 dalam Pasal 795 huruf e meliputi jejaring pemerintah di
 tingkat kecamatan, desa/kelurahan, dusun, rukun warga,
@@ -14283,11 +14154,13 @@ sebagaimana dimaksud pada ayat (1), Puskesmas dan
 jejaring lintas sektor melakukan sinkronisasi perencanaan
 kegiatan daerah yang berkaitan dengan Kesehatan dan
 pembinaan program Kesehatan.
+
 Pasal 802
 Seluruh struktur jejaring sebagaimana dimaksud dalam
 Pasal 795 sampai dengan Pasal 801 harus melaksanakan
 pencatatan dan pelaporan data secara terintegrasi dan
 melakukan pertemuan koordinasi rutin.
+
 Pasal 803
 (1) Pemerintah Daerah kabupaten/kota mendirikan
 Puskesmas di setiap kecamatan.
@@ -14299,14 +14172,14 @@ pola penyakit, dan aksesibilitas.
 (3) Aksesibilitas sebagaimana dimaksud pada ayat (1)
 meliputi aspek waktu tempuh yang dibutuhkan
 masyarakat untuk mencapai Puskesmas.
-(41 Puskesmas yang akan didirikan sebagaimana dimaksud
+(4) Puskesmas yang akan didirikan sebagaimana dimaksud
 pada ayat (1) dan ayat (2) harus memenuhi persyaratan:
-a. lokasi;
-b. bangunan;
-c. prasarana;
-d. sumber daya manusia;
-e. laboratorium; dan
-f. Perbekalan Kesehatan.
+  a. lokasi;
+  b. bangunan;
+  c. prasarana;
+  d. sumber daya manusia;
+  e. laboratorium; dan
+  f. Perbekalan Kesehatan.
 (5) Lokasi, bangunan, dan prasarana sebagaimana dimaksud
 pada ayat (4) huruf a sampai dengan huruf c harus
 memenuhi syarat fungsi, keamanan, kenyamanan,
@@ -14316,29 +14189,29 @@ termasuk yang berkebutuhan khusus atau penyandang
 disabilitas, anak-anak, dan lanjut usia.
 (6) Sumber daya manusia sebagaimana dimaksud pada
 ayat (4) huruf d terdiri atas:
-a. Tenaga Medis;
-b. Tenaga Kesehatan; dan
-c. Tenaga Pendukung atau Penunjang Kesehatan.
-(71 Tenaga Medis sebagaimana dimaksud pada ayat (6)
+  a. Tenaga Medis;
+  b. Tenaga Kesehatan; dan
+  c. Tenaga Pendukung atau Penunjang Kesehatan.
+(7) Tenaga Medis sebagaimana dimaksud pada ayat (6)
 huruf a termasuk Tenaga Medis yang memiliki kompetensi
-di bidang kedokteran keluarga. (8) Tenaga Kesehatan sebagaimana dimaksud pada ayat (6)
+di bidang kedokteran keluarga.
+(8) Tenaga Kesehatan sebagaimana dimaksud pada ayat (6)
 huruf b termasuk Tenaga Kesehatan yang memiliki
 kompetensi di bidang Kesehatan komunitas.
 (9) Laboratorium dan Perbekalan Kesehatan sebagaimana
 dimaksud pada ayat (4) huruf e dan huruf f harus
 memenuhi standar sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 804
-Penyelenggaraan Puskesmas harus
-Sistem Informasi Kesehatan yang
+Penyelenggaraan Puskesmas harus didukung dengan
+Sistem Informasi Kesehatan yang terintegrasi dengan
 Sistem Informasi Kesehatan Nasional.
-didukung
-terintegrasi
-dengan
-dengan
+
 Pasal 805
 Puskesmas dapat memanfaatkan Telekesehatan dan
 Telemedisin dalam menyelenggarakan Pelayanan Kesehatan.
+
 Pasal 806
 (1) Puskesmas dipimpin oleh tenaga yang memiliki
 kompetensi dalam mengoordinasikan Sumber Daya
@@ -14346,6 +14219,7 @@ Kesehatan dan jejaring Pelayanan Kesehatan primer di
 wilayah kerja Puskesmas.
 (2) Pimpinan Puskesmas diangkat dan diberhentikan oleh
 bupati/wali kota.
+
 Pasal 807
 Ketentuan lebih lanjut mengenai teknis penyelenggaraan
 hrskesmas diatur dengan Peraturan Menteri.
@@ -14363,12 +14237,7 @@ spesialistik dan I atau subspesialistik; dan
 b. memberikan pelindungan kepada Pasien, sumber daya
 manusia di Rumah Sakit, masyarakat, dan lingkungan
 Rumah Sakit.
-SK No 230829 A
-Pasal809...
 
-PRESIOEN
-REPUBLIK INDONESIA
--329-
 Pasal 809
 (1) Rumah Sakit menyelenggarakan fungsi Pelayanan
 Kesehatan perseorangan dalam bentuk spesialistik
@@ -14377,6 +14246,7 @@ dan/ atau subspesialistik.
 spesialistik dan/atau subspesialistik sebagaimana
 dimaksud pada ayat (1), Rumah Sakit dapat memberikan
 Pelayanan Kesehatan dasar.
+
 Pasal 810
 Selain menyelenggarakan fungsi Pelayanan Kesehatan
 perseorangan sebagaimana dimaksud dalam Pasal809 ayat (1),
@@ -14387,7 +14257,7 @@ Paragraf 2
 Tanggung Jawab Pemerintah Pusat dan
 Pemerintah Daerah Dalam Penyelenggaraan Rumah Sakit
 
-Pasal 81 1
+Pasal 811
 (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab untuk:
 a. menyediakan Rumah Sakit berdasarkan kebutuhan
@@ -14413,12 +14283,7 @@ h. menyediakan sumber daya manusia yang
 dibutuhkan; dan
 i. mengatur pendistribusian dan penyebaran
 Alat Kesehatan berteknologi tinggi dan bernilai tinggi.
-SK No230830A
-(2) Tanggung
 
-PRESIDEN
-REPUBLTK INDONESIA
--330-
 (2) Tanggung jawab sebagaimana dimaksud pada ayat (1)
 dilaksanakan berdasarkan kewenangan sesuai dengan
 ketentuan peraturan perundang-undangan.
@@ -14430,6 +14295,7 @@ Pasal 812
 Rumah Sakit harus memenuhi persyaratan lokasi, sarana dan
 prasarana, peralatan Kesehatan, serta Sumber Daya Manusia
 Kesehatan.
+
 Pasal 813
 (1) Persyaratan lokasi sebagaimana dimaksud dalam
 Pasal 812 harus memenuhi ketentuan mengenai
@@ -14449,6 +14315,7 @@ Rumah Sakit sebagaimana dimaksud pada ayat (2) paling
 sedikit meliputi kajian terhadap jumlah dan persebaran
 penduduk, rasio jumlah tempat tidur, pola persebaran
 penyakit, dan akses Pelayanan Kesehatan masyarakat.
+
 Pasal 814
 (1) Persyaratan sarana dan prasarana sebagaimana
 dimaksud dalam Pasal 812 harus memenuhi aspek
@@ -14472,6 +14339,7 @@ pengujian fasilitas Kesehatan yang berwenang.
 yang berkaitan dengan keamanan, mutu, dan manfaat
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 816
 (1) Sumber Daya Manusia Kesehatan pada Rumah Sakit
 sebagaimana dimaksud dalam Pasal 812 meliputi
@@ -14494,6 +14362,7 @@ Rumah Sakit atau kepala/direktur Rumah Sakit. (6) Rumah Sakit dapat mendayagunak
 Tenaga Kesehatan wzrrga negara asing sesuai dengan
 kebutuhan pelayanan dan sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 817
 (1) Rumah Sakit dapat diselenggarakan oleh
 Pemerintah hrsat, Pemerintah Daerah, atau masyarakat.
@@ -14501,12 +14370,6 @@ Pemerintah hrsat, Pemerintah Daerah, atau masyarakat.
 berbentuk unit pelaksana teknis atau instansi tertentu
 dan dapat menerapkan pola pengelolaan keuangan badan
 layanan umum.
-(3) Rumah...
-SK No 230832 A
-
-FRESIDEN
-REPUBLIK INDONESIA
--332-
 (3) Rumah Sakit yang didirikan oleh Pemerintah Daerah
 berbentuk unit organisasi bersifat khusus yang
 memberikan layanan secara profesional dan dapat
@@ -14519,6 +14382,7 @@ Pelayanan Kesehatan.
 (5) Rumah Sakit sebagaimana dimaksud pada ayat (4)
 dikecualikan bagi Rumah Sakit yang diselenggarakan oleh
 badan hukum yang bersifat nirlaba.
+
 Pasal 818
 (1) Pendapatan Rumah Sakit yang dikelola Pemerintah Pusat
 dan Pemerintah Daerah seluruhnya dapat digunakan
@@ -14528,6 +14392,7 @@ atau pendapatan pemerintah daerah.
 (2) Pendapatan Rumah Sakit sebagaimana dimaksud pada
 ayat (1) dicatat sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 819
 (1) Rumah Sakit memberikan Pelayanan Kesehatan pada
 semua bidang dan jenis penyakit.
@@ -14536,7 +14401,8 @@ ayat (1), Rumah Sakit dapat memberikan pelayanan
 unggulan pada satu bidang atau satu jenis penyakit
 tertentu berdasarkan disiplin ilmu, golongan umur, organ,
 jenis penyakit, atau kekhususan lainnya.
-Pasal 82O
+
+Pasal 820
 (1) Rumah Sakit ditetapkan klasifikasinya berdasarkan
 kemampuan pelayanan.
 (2) Kemampuan pelayanan sebagaimana dimaksud pada
@@ -14544,7 +14410,7 @@ ayat (1) didasarkan pada jenis pelayanan, sarana dan
 prasarana, peralatan, serta Sumber Daya Manusia
 Kesehatan.
 
-Pasal 82 1
+Pasal 821
 Pelayanan Kesehatan yang diberikan Rumah Sakit paling
 sedikit meliputi:
 a. pelayanan medik;
@@ -14559,11 +14425,13 @@ i. pelayanan gizi;
 j. pemulasaraan jenazah;
 k. pelayanan sterilisasi sentral; dan
 1. pemeliharaan sarana dan prasarana serta Alat Kesehatan.
+
 Pasal 822
 (1) Setiap Rumah Sakit harus menyelenggarakan tata kelola
 Rumah Sakit yang baik dan tata kelola klinis yang baik.
 (2) Tata kelola sebagaimana dimaksud pada ayat (1) diatur
 dalam peraturan internal Rumah Sakit.
+
 Pasal 823
 Ketentuan lebih lanjut mengenai pedoman penyelenggaraan
 Rumah Sakit diatur dengan Peraturan Menteri.
@@ -14573,6 +14441,7 @@ Perizinan Rumah Sakit
 
 (1)
 (2)
+
 Pasal 824
 Setiap Rumah Sakit wajib memiliki perizinan berusaha.
 Pemberian perizinan berusaha sebagaimana dimaksud
@@ -14586,17 +14455,12 @@ Pengorganisasian
 Pasal 825
 Setiap Rumah Sakit harus memiliki organisasi yang efektif,
 efisien, dan akuntabel.
-SK No230834A
-(1)
-(2) Organisasi
 
-PRESIDEN
-EEPUBLIK INDONESIA
--334-
 (2) Organisasi sebagaimana dimaksud pada ayat(l) bertujuan
 untuk mencapai visi dan misi Rumah Sakit sesuai tata
 kelola Rumah Sakit yang baik dan tata kelola klinis yang
 baik.
+
 Pasal 826
 Organisasi Rumah Sakit paling sedikit terdiri atas:
 a. unsur pimpinan;
@@ -14605,6 +14469,7 @@ c. unsur keperawatan;
 d. unsur penunjang medis dan nonmedis;
 e. unsur pelaksana administratif; dan
 f. unsur operasional.
+
 Pasal 827
 (1) Unsur pimpinan sebagaimana dimaksud dalam Pasal 826
 huruf a dijabat oleh:
@@ -14616,6 +14481,7 @@ yang memiliki kompetensi manajemen Rumah Sakit.
 berkewarganegaraan Indone sia.
 (3) Pemilik Rumah Sakit tidak boleh merangkap menjadi
 pimpinan Rumah Sakit.
+
 Pasal 828
 Dalam rangka pelaksanaan unsur pelayanan medis,
 unsur keperawatan, unsur penunjang medis dan nonmedis,
@@ -14624,6 +14490,7 @@ sebagaimana dimaksud dalam Pasal 826 huruf b sampai
 dengan huruf f, dapat dibentuk direktorat, departemen, divisi,
 instalasi, unit kerja, komite, danf atau satuan sesuai dengan
 kebutuhan dan beban kerja Rumah Sakit.
+
 Pasal 829
 Pimpinan organisasi yang membidangi
 keperawatan, dan sumber daya
@@ -14632,6 +14499,7 @@ pelayanan
 manusia
 medis,
 harus
+
 Pasal 830
 Ketentuan lebih lanjut mengenai pedoman organisasi
 Rumah Sakit diatur dengan Peraturan Menteri.
@@ -14650,6 +14518,7 @@ pemilik Rumah Sakit.
 pada ayat (1) mempunyai tugas melaksanakan
 pengawasan penyelenggaraan Rumah Sakit secara
 internal.
+
 Pasal 832
 Ketentuan lebih lanjut mengenai dewan pengawas Rumah Sakit
 diatur dengan Peraturan Menteri.
@@ -14705,6 +14574,7 @@ s. melindungi dan memberikan bantuan hukum bagi semua
 petugas Rumah Sakit dalam melaksanakan tugas; dan
 t. memberlakukan seluruh lingkungan Rumah Sakit sebagai
 kawasan tanpa rokok.
+
 Pasal 834
 (1) Kewajiban Rumah Sakit memberikan informasi yang benar
 tentang pelayanan Rumah Sakit kepada masyarakat
@@ -14716,12 +14586,7 @@ c. informasi terkait dengan kinerja pelayanan.
 (2) Pemberian informasi sebagaimana dimaksud pada ayat (1)
 dapat dilakukan dengan menggunakan teknologi
 informasi dan komunikasi.
-Pasal 835. . .
-SK No 230837 A
 
-PRESIDEN
-REPUBLTK TNDONESIA
--337 -
 Pasal 835
 (1) Kewajiban Rumah Sakit memberikan Pelayanan
 Kesehatan yang aman, bermutu, antidiskriminatif, dan
@@ -14743,6 +14608,7 @@ Rumah Sakit sebagaimana dimaksud pada ayat (1)
 huruf a dilakukan melalui proses registrasi, lisensi,
 akreditasi, dan penerapan standar pelayanan,
 standar profesi, dan standar prosedur operasional.
+
 Pasal 836
 (1) Kewajiban Rumah Sakit memberikan pelayanan
 Gawat Darurat kepada Pasien sesuai dengan kemampuan
@@ -14775,11 +14641,13 @@ rehabilitasi fisik.
 dimaksud pada ayat (1) termasuk Pelayanan Kesehatan
 dalam rangka upaya penanggulangan krisis Kesehatan
 lainnya.
+
 Pasal 838
 Kewajiban Rumah Sakit menyediakan sarana dan pelayanan
 bagi masyarakat tidak mampu atau miskin sebagaimana
 dimaksud dalam Pasal 833 huruf e dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 839
 Kewajiban Rumah Sakit membuat, melaksanakan, dan
 menjaga standar mutu Pelayanan Kesehatan di Rumah Sakit
@@ -14791,16 +14659,12 @@ b. menyelenggarakan penugasan klinis bagi semua Tenaga
 Medis dan Tenaga Kesehatan; dan
 c. melaksanakan peningkatan mutu pelayanan secara
 internal dan eksternal.
-Pasal 84O
+
+Pasal 840
 Kewajiban Rumah Sakit dalam menyelenggarakan rekam medis
 sebagaimana dimaksud dalam Pasal 833 huruf h dilaksanakan
 sesuai dengan ketentuan peraturan perundang-undangan.
-SK No230839A
-Pasal84l...
 
-PRESIDEN
-REPUBLTK INDONESIA
--339-
 Pasal 841
 (1) Kewajiban Rumah Sakit dalam menyediakan sarana dan
 prasarana umum yang layak paling sedikit meliputi sarana
@@ -14814,6 +14678,7 @@ keselamatan, kenyamanan, dan kemudahan akses.
 prasarana sebagaimana dimaksud pada ayat (1)
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 842
 (1) Kewajiban Rumah Sakit melaksanakan sistem rujukan
 sebagaimana dimaksud dalam Pasal 833 huruf j
@@ -14823,6 +14688,7 @@ Sakit dan kebutuhan medis Pasien.
 dimaksud pada ayat (1), Rumah Sakit menggunakan
 Sistem Informasi Kesehatan yang terintegrasi dengan
 Sistem Informasi Kesehatan Nasional.
+
 Pasal 843
 Kewajiban Rumah Sakit menolak keinginan Pasien yang
 bertentangan dengan standar profesi dan etika serta ketentuan
@@ -14830,6 +14696,7 @@ peraturan perundang-undangan sebagaimana dimaksud dalam
 Pasal 833 huruf k dilakukan dengan cara:
 a. melakukan komunikasi, informasi, dan edukasi; dan
 b. membuat peraturan internal Rumah Sakit.
+
 Pasal 844
 (1) Kewajiban Rumah Sakit untuk memberikan informasi
 yang benar, jelas, dan jujur mengenai hak dan kewajiban
@@ -14849,6 +14716,7 @@ b. melakukan monitoring dan evaluasi.
 (2) Pelaksanaan kewajiban sebagaimana dimaksud pada
 ayat (1) dilakukan dengan menerapkan peraturan dan
 standar Rumah Sakit.
+
 Pasal 846
 (1) Kewajiban Rumah Sakit untuk melaksanakan etika
 Rumah Sakit sebagaimana dimaksud dalam Pasal 833
@@ -14864,6 +14732,7 @@ dan perilaku.
 tugas dan tanggung jawab di bidang etik dan/atau hukum
 Rumah Sakit dalam memenuhi kewajiban melaksanakan
 etika dan perilaku sebagaimana dimaksud pada ayat (1).
+
 Pasal 847
 (1) Kewajiban Rumah Sakit dalam memiliki sistem
 pencegahan kecelakaan dan penanggulangan bencana
@@ -14889,27 +14758,28 @@ pemerintah di bidang Kesehatan baik secara regional
 maupun nasional sebagaimana dimaksud dalam
 Pasal 833 huruf p dilaksanakan dalam bentuk pemberian
 pelayanan dalam rangka pelaksanaan prograrn:
-a. penurunan angka kematian ibu dan angka kematian
-bayi;
-b. penurunan angka gizi kurang pada bayi dan balita;
-c. perbaikan pengelolaan jaminan kesehatan nasional;
-d. peningkatan promosi Kesehatan dan penyehatan
-masyarakat;
-e. peningkatan pengelolaan pengendalian penyakit serta
-penanggulangan KLB, Wabah, dan darurat bencana;
-f. peningkatan akses dan mutu Pelayanan Kesehatan;
-g. peningkatan akses Sediaan Farmasi dan Alat
-Kesehatan dengan mengutamakan produk dalam
-negeri;
-h. peningkatan pemenuhan Sumber Daya Manusia
-Kesehatan sesuai standar; dan
-i. pelaksanaan program pemerintah bidang Kesehatan
-lain sesuai dengan ketentuan peraturan perundangundangan.
+  a. penurunan angka kematian ibu dan angka kematian
+  bayi;
+  b. penurunan angka gizi kurang pada bayi dan balita;
+  c. perbaikan pengelolaan jaminan kesehatan nasional;
+  d. peningkatan promosi Kesehatan dan penyehatan
+  masyarakat;
+  e. peningkatan pengelolaan pengendalian penyakit serta
+  penanggulangan KLB, Wabah, dan darurat bencana;
+  f. peningkatan akses dan mutu Pelayanan Kesehatan;
+  g. peningkatan akses Sediaan Farmasi dan Alat
+  Kesehatan dengan mengutamakan produk dalam
+  negeri;
+  h. peningkatan pemenuhan Sumber Daya Manusia
+  Kesehatan sesuai standar; dan
+  i. pelaksanaan program pemerintah bidang Kesehatan
+  lain sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Pelaksanaan program pemerintah di bidang Kesehatan
 sebagaimana dimaksud pada ayat (1) dicatat dan
 dilaporkan oleh Rumah Sakit melalui Sistem Informasi
 Kesehatan Rumah Sakit yang terintegrasi dengan Sistem
 lnformasi Kesehatan Nasional.
+
 Pasal 849
 (1) Kewajiban Rumah Sakit untuk membuat daftar
 Tenaga Medis yang melakukan praktik kedokteran atau
@@ -14940,13 +14810,14 @@ pada ayat (2) huruf a merupakan aturan yang mengatur
 hubungan pemilik atau yang mewakili dengan
 kepala/ direktur Rumah Sakit.
 (4) Peraturan staf medis dan staf Tenaga Kesehatan
-Rumah Sakit sebagaimana dimaksud pada ayat (21
+Rumah Sakit sebagaimana dimaksud pada ayat (2) 
 huruf b merupakan aturan mengenai tata kelola klinis
 untuk menjaga profesionalisme Tenaga Medis dan
 Tenaga Kesehatan di Rumah Sakit.
 (5) Ketentuan lebih lanjut mengenai penyusunan dan
 pelaksanaan peraturan internal Rumah Sakit diatur
 dengan Peraturan Menteri.
+
 Pasal 851
 Kewajiban Rumah Sakit melindungi dan memberikan bantuan
 hukum bagi semua petugas Rumah Sakit dalam melaksanakan
@@ -14961,6 +14832,7 @@ e. mengalokasikan anggaran untuk pendanaan proses
 hukum dan ganti rugi; dan
 f. memberikan upaya pelindungan dan bantuan hukum
 lainnya.
+
 Pasal 852
 Kewajiban Rumah Sakit dalam memberlakukan seluruh
 lingkungan Rumah Sakit sebagai kawasan tanpa rokok
@@ -14993,6 +14865,7 @@ Setiap Rumah Sakit wajib melakukan pencatatan dan
 pelaporan terhadap semua kegiatan penyelenggaraan
 Rumah Sakit dalam Sistem lnformasi Kesehatan Rumah Sakit
 yang terintegrasi dengan Sistem Informasi Kesehatan Nasional.
+
 Pasal 855
 (1) Rumah Sakit wajib menyelenggarakan penyimpanan
 terhadap pencatatan dan pelaporan yang dilakukan untuk
@@ -15029,6 +14902,7 @@ pencabutan perizinan berusaha Rumah Sakit
 sebagaimana dimaksud pada ayat (3) huruf d
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 857
 (1) Sanksi administratif sebagaimana dimaksud dalam
 Pasal 853 ayat (1) dan Pasal 856 ayat (3) dikenakan
@@ -15041,6 +14915,7 @@ c. hasil monitoring dan evaluasi. (2) Laporan sebagaimana dimaksud pada ayat (1)
 disampaikan kepada Pemerintah h,rsat atau
 Pemerintah Daerah pemberi perizinan berusaha
 Rumah Sakit.
+
 Pasal 858
 (1) Pengaduan sebagaimana dimaksud dalam Pasal 857
 ayat (1) hurrrf a dapat dilakukan oleh perseorangan,
@@ -15051,7 +14926,7 @@ memenuhi persyaratan:
 a. dilakukan secara tertulis; dan
 b. memiliki uraian peristiwa yang dapat ditelusuri
 faktanya.
-(3) Pengaduan sebagaimana dimaksud pada ayat (21
+(3) Pengaduan sebagaimana dimaksud pada ayat (2) 
 paling sedikit memuat:
 a. identitas pelapor;
 b. nama dan alamat lengkap pihak yang diadukan;
@@ -15066,10 +14941,12 @@ disampaikan kepada Pemerintah Pusat atau
 Pemerintah Daerah yang menerbitkan perizinan berusaha
 Rumah Sakit. (5) Identitas pelapor sebagaimana dimaksud pada ayat (3)
 huruf a wajib dirahasiakan.
+
 Pasal 859
 Pemberitaan media elektronik atau media cetak sebagaimana
 dimaksud dalam Pasal 857 ayat (1) huruf b merupakan
 pemberitaan yang dapat ditelusuri kebenarannya.
+
 Pasal 860
 (1) Monitoring dan evaluasi sebagaimana dimaksud dalam
 Pasal 857 ayat (1) huruf c dilakukan oleh
@@ -15077,6 +14954,7 @@ Pemerintah Pusat dan/atau Pemerintah Daerah. (2) Hasil monitoring dan evaluasi s
 pada ayat (1) disampaikan kepada Pemerintah Pusat
 atau Pemerintah Daerah yang menerbitkan perizinan
 berusaha Rumah Sakit.
+
 Pasal 861
 (1) Pemerintah Pusat atau Pemerintah Daerah setelah
 menerima laporan dugaan pelanggaran sebagaimana
@@ -15085,6 +14963,7 @@ tindak lanjut laporan.
 (2) Ketentuan mengenai tata cara pemeriksaan tindak lanjut
 laporan sebagaimana dimaksud pada ayat (1) diatur
 dengan Peraturan Menteri.
+
 Pasal 862
 Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
 administratif sebagaimana dimaksud dalam Pasal 856 ayat (3)
@@ -15111,6 +14990,7 @@ a. Rumah Sakit pendidikan yang bekerja sama dengan
 perguruan tinggi sebagai mitra penyelenggara
 pendidikan; dan
 b. RSPPU bekerja sama dengan perguruan tinggi.
+
 Pasal 864
 Penyelenggaraan Rumah Sakit pendidikan bertujuan:
 a. menyediakan tempat penyelenggaraan pendidikan
@@ -15121,6 +15001,7 @@ kedokteran, kedokteran gigi, dan Kesehatan lain dengan
 mengutamakan kepentingan dan keselamatan Pasien; dan
 c. meningkatkan mutu dan kompetensi Tenaga Medis dan
 Tenaga Kesehatan.
+
 Pasal 865
 Rumah Sakit pendidikan harus memberikan pelindungan dan
 kepastian hukum bagi Pasien, pemberi pelayanan,
@@ -15128,15 +15009,11 @@ peserta didik, pendidik, subyek penelitian bidang
 kedokteran/kedokteran gigi/Kesehatan lain, peneliti,
 penyelenggara Rumah Sakit pendidikan, serta institusi
 pendidikan.
+
 Pasal 866
 (1) Rumah Sakit dapat ditetapkan menjadi Rumah Sakit
 pendidikan oleh Menteri setelah memenuhi persyaratan.
-SK No 230847 A
-(2) Persyaratan
 
-PRESIDEN
-REPUELIK TNDONESIA
--347-
 (2) Persyaratan sebagaimana dimaksud pada ayat (1)
 meliputi:
 a. telah menyelenggarakan Pelayanan Kesehatan dan
@@ -15174,43 +15051,45 @@ Pasal 867
 (1) Dalam menjalankan fungsi sebagai tempat pendidikan
 sebagaimana dimaksud dalam Pasal 863 ayat (1),
 Rumah Sakit pendidikan harus:
-a. menyediakan pendidik;
-b. menyediakan sarana dan prasarana serta peralatan
-yang mendukung penyelenggaraan pendidikan;
-c. memiliki variasi dan jumlah kasus yang sesuai
-dengan kebutuhan pendidikan; dan
-d. melakukan koordinasi dengan institusi pendidikan
-dan jejaringnya.
+  a. menyediakan pendidik;
+  b. menyediakan sarana dan prasarana serta peralatan
+  yang mendukung penyelenggaraan pendidikan;
+  c. memiliki variasi dan jumlah kasus yang sesuai
+  dengan kebutuhan pendidikan; dan
+  d. melakukan koordinasi dengan institusi pendidikan
+  dan jejaringnya.
 (2) Dalam menjalankan fungsi tempat penelitian sebagaimana
 dimaksud dalam Pasal 863 ayat (1), Rumah Sakit
 pendidikan harus:
-a. mengembangkan dan menyelenggarakan penelitian
-unggulan dan translasional di bidang ilmu dan
-teknologi kedokteran, kedokteran gigi, dan Tenaga
-Kesehatan lain;
-b. menilai, menapis, dan/atau mengadopsi teknologi
-kedokteran danf atau kedokteran gigi, serta
-Teknologi Kesehatan lainnya; dan
-c. mengembangkan kerja sarna dengan pelaku industri
-bidang Kesehatan dan pihak lain yang terkait.
+  a. mengembangkan dan menyelenggarakan penelitian
+  unggulan dan translasional di bidang ilmu dan
+  teknologi kedokteran, kedokteran gigi, dan Tenaga
+  Kesehatan lain;
+  b. menilai, menapis, dan/atau mengadopsi teknologi
+  kedokteran danf atau kedokteran gigi, serta
+  Teknologi Kesehatan lainnya; dan
+  c. mengembangkan kerja sarna dengan pelaku industri
+  bidang Kesehatan dan pihak lain yang terkait.
 (3) Dalam menjalankan fungsi sebagai tempat penelitian
-sebagaimana dimaksud pada ayat (21, Rumah Sakit
+sebagaimana dimaksud pada ayat (2), Rumah Sakit
 pendidikan harus men5rusun rencana induk penelitian
 yang disesuaikan dengan kebutuhan.
-(41 Hasil penelitian bidang kedokteran, kedokteran gigi, dan
+(4) Hasil penelitian bidang kedokteran, kedokteran gigi, dan
 Kesehatan lain harus disebarluaskan dan/atau
 dipublikasikan secara nasional dan/atau internasional
 kecuali hasil penelitian yang bersifat rahasia,
 berpotensi mengganggu, dan/atau membahayakan
-kepentingan umum. (5) Dalam menjalankan fungsi sebagai tempat Pelayanan
+kepentingan umum.
+(5) Dalam menjalankan fungsi sebagai tempat Pelayanan
 Kesehatan sebagaimana dimaksud dalam Pasal 863
-ayat (1), Rumah Sakit pendidikan harr.s
+ayat (1), Rumah Sakit pendidikan harus
 menyelenggarakan Pelayanan Kesehatan terintegrasi
 dengan mengutamakan tata kelola klinis yang baik,
 perkembangan ilmu dan teknologi kedokteran, kedokteran
 gigi, dan Kesehatan lain berbasis bukti sesuai kebutuhan
 medis Pasien, standar pelayanan, dan mengutamakan
 keselamatan Pasien.
+
 Pasal 868
 Dalam menjalankan fungsi sebagai Rumah Sakit pendidikan,
 Rumah Sakit dapat melakukan kerja sama dengan pihak lain
@@ -15239,6 +15118,7 @@ kerja sama secara tertulis dengan institusi pendidikan.
 (3) Rumah Sakit pendidikan satelit wajib memiliki perjanjian
 kerja sama secara tertulis dengan Rumah Sakit
 pendidikan utama dan institusi pendidikan.
+
 Pasal 871
 (1) Rumah Sakit pendidikan memiliki kewajiban:
 a. meningkatkan mutu pelayanan dan keselamatan
@@ -15268,12 +15148,7 @@ berupa pendanaan, sumber daya manusia, peralatan,
 bantuan hukum, serta sarana dan prasarana.
 (4) Bantuan pendanaan sebagaimana dimaksud pada ayat (3)
 digunakan untuk peningkatan kompetensi peserta didik.
-SK No230850A
-Pasal872...
 
-PRESIDEN
-REPUBLTK INDONESIA
--350-
 Pasal 872
 Pendanaan untuk penyelenggaraan fungsi Rumah Sakit
 pendidikan menjadi tanggung jawab bersama antara pemilik
@@ -15304,6 +15179,7 @@ b. standar sumber daya manusia;
 c. standar sarana penunjang pendidikan; dan
 d. standar peranc€rngan dan pelaksanaan program
 pendidikan klinik yang berkualitas.
+
 Pasal 874
 (1) RSPPU yang telah ditetapkan oleh Menteri sebagaimana
 dimaksud dalam Pasal 873 ayat (1) dapat mengajukanizin
@@ -15314,7 +15190,6 @@ dimaksud dalam Pasal 579.
 (2) Dalam penyelenggaraan pendidikan program spesialis/
 subspesialis, RSPPU dapat membentuk jejaring
 Rumah Sakit dan/atau wahana pendidikan.
-SK No230851 A
 
 Paragraf 6
 Koordinasi Pembelajaran Klinik
@@ -15327,43 +15202,40 @@ subspesialis di RSPPU, pimpinan Rumah Sakit pendidikan
 atau pimpinan RSPPU membentuk unit fungsional.
 (2) Unit fungsional sebagaimana dimaksud pada ayat (1)
 mempunyai tugas:
-a. memberikan dukungan administrasi proses
-pembelajaran klinik di Rumah Sakit pendidikan atau
-RSPPU.
-b. -.rry,.rlm perencanaan kegiatan dan anggaran
-belanja tahunan pembelajaran klinik sesuai
-kebutuhan;
-c. men5rusun perencanaan kebutuhan sarana dan
-prasarana yang diperlukan peserta didik;
-d. membentuk sistem informasi terpadu untuk
-menunjang penyelenggaraan fungsi pelayanan,
-pendidikan, dan penelitian bidang kedokteran,
-kedokteran gigi, dan Kesehatan lain;
-e. melakukan koordinasi dalam rangka fasilitasi kepada
-seluruh peserta didik yang melaksanakan
-pembelajaran klinik, serta dosen dan penyelia yang
-melakukan bimbingan dan supervisi proses
-pembelajaran klinik peserta didik di Rumah Sakit
-pendidikan atau RSPPU;
-f. melakukan supervisi dan koordinasi penilaian kinerja
-terhadap tenaga pendidik atas seluruh proses
-pelayanan yang dilakukan, termasuk yang dilakukan
-di jejaring Rumah Sakit pendidikan atau RSPPU
-dan/atau yang terkait dengan sistem rujukan;
-g. melakukan pemantauan dan evaluasi
-penyelenggaraan proses pembelajaran klinik peserta
-didik; dan
-h. melaporkan hasil kerja secara berkala kepada
-pimpinan Rumah Sakit pendidikan atau pimpinan
-RSPPU dan pimpinan institusi pendidikan.
+  a. memberikan dukungan administrasi proses
+  pembelajaran klinik di Rumah Sakit pendidikan atau
+  RSPPU.
+  b. -.rry,.rlm perencanaan kegiatan dan anggaran
+  belanja tahunan pembelajaran klinik sesuai
+  kebutuhan;
+  c. men5rusun perencanaan kebutuhan sarana dan
+  prasarana yang diperlukan peserta didik;
+  d. membentuk sistem informasi terpadu untuk
+  menunjang penyelenggaraan fungsi pelayanan,
+  pendidikan, dan penelitian bidang kedokteran,
+  kedokteran gigi, dan Kesehatan lain;
+  e. melakukan koordinasi dalam rangka fasilitasi kepada
+  seluruh peserta didik yang melaksanakan
+  pembelajaran klinik, serta dosen dan penyelia yang
+  melakukan bimbingan dan supervisi proses
+  pembelajaran klinik peserta didik di Rumah Sakit
+  pendidikan atau RSPPU;
+  f. melakukan supervisi dan koordinasi penilaian kinerja
+  terhadap tenaga pendidik atas seluruh proses
+  pelayanan yang dilakukan, termasuk yang dilakukan
+  di jejaring Rumah Sakit pendidikan atau RSPPU
+  dan/atau yang terkait dengan sistem rujukan;
+  g. melakukan pemantauan dan evaluasi
+  penyelenggaraan proses pembelajaran klinik peserta
+  didik; dan
+  h. melaporkan hasil kerja secara berkala kepada
+  pimpinan Rumah Sakit pendidikan atau pimpinan
+  RSPPU dan pimpinan institusi pendidikan.
+
 Pasal 876
-Ketentuan lebih lanjut
-Rumah Sakit pendidikan
+Ketentuan lebih lanjut mengenai penyelenggaraan
+Rumah Sakit pendidikan dan RSPPU diatur dengan
 Peraturan Menteri.
-mengenal
-dan RSPPU
-penyelenggaraan
-diatur dengan
 
 Bagian Kesepuluh
 Kompetensi Manajemen Kesehatan Pimpinan
@@ -15380,18 +15252,19 @@ atau sebutan lain sebagai pimpinan di Fasilitas Pelayanan
 Kesehatan.
 (3) Tugas dan tanggung jawab sebagaimana dimaksud pada
 ayat (1) meliputi pembinaan:
-a. pengelolaanPelayananKesehatan;
-b. kepegawaian;
-c. pengelolaan keuangan;
-d. pengelolaan sarana dan prasarana serta peralatan;
-dan
-e. pengelolaan pelayanan lain,
+  a. pengelolaanPelayananKesehatan;
+  b. kepegawaian;
+  c. pengelolaan keuangan;
+  d. pengelolaan sarana dan prasarana serta peralatan;
+  dan
+  e. pengelolaan pelayanan lain,
 di Fasilitas Pelayanan Kesehatan.
-(41 Tugas dan tanggung jawab sebagaimana dimaksud pada
+(4) Tugas dan tanggung jawab sebagaimana dimaksud pada
 ayat (3) dilaksanakan untuk mendukung organisasi yang
 efektif, efisien, dan akuntabel, dalam rangka mencapai
 tata kelola Fasilitas Pelayanan Kesehatan dan tata kelola
 klinis yang baik.
+
 Pasal 878
 (1) Kompetensi manajemen Kesehatan pimpinan Fasilitas
 Pelayanan Kesehatan sebagaimana dimaksud
@@ -15402,12 +15275,13 @@ Kesehatan sebagaimana dimaksud pada ayat (1),
 kompetensi manajemen Kesehatan pimpinan Fasilitas
 Pelayanan Kesehatan dapat mempertimbangkan
 kompleksitas Pelayanan Kesehatan yang dibutuhkan.
+
 Pasal 879
 Kompetensi manajemen Kesehatan
 Pelayanan Kesehatan sebagaimana
 Pasal 878 ayat (1) terdiri atas:
-a. kompetensi manajerial; dan
-b. kompetensi teknis.
+  a. kompetensi manajerial; dan
+  b. kompetensi teknis.
 pimpinan
 dimaksud
 Fasilitas
@@ -15425,18 +15299,19 @@ diikuti, dan/atau pengalaman kepemimpinan.
 (3) Kompetensi manajerial pimpinan Fasilitas Pelayanan
 Kesehatan sebagaimana dimaksud pada ayat (1)
 paling sedikit terdiri atas kemampu€rn:
-a. kerja sama;
-b. komunikasi;
-c. pelayanan publik; dan
-d. pengambilan keputusan.
-(41 Selain kompetensi manajerial sebagaimana dimaksud
-pada ayat (3), bagr pimpinan Fasilitas Pelayanan
+  a. kerja sama;
+  b. komunikasi;
+  c. pelayanan publik; dan
+  d. pengambilan keputusan.
+(4) Selain kompetensi manajerial sebagaimana dimaksud
+pada ayat (3), bagi pimpinan Fasilitas Pelayanan
 Kesehatan yang berstatus aparatur sipil negara harus
 memiliki kompetensi manajerial lain sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 881
 (1) Kompetensi teknis sebagaimana dimaksud dalam
-Pasal 879 hurlf b merupakan pengetahuan, keterampilan,
+Pasal 879 huruf b merupakan pengetahuan, keterampilan,
 dan sikap atau perilaku yang dapat diamati, diukur,
 dan dikembangkan yang spesifik berkaitan dengan
 Pelayanan Kesehatan yang diberikan dan/atau pelayanan
@@ -15446,16 +15321,11 @@ diukur dari kualifikasi pendidikan, termasuk spesialisasi
 pendidikan y€rng dimiliki, pelatihan teknis yang diikuti,
 dan pengalaman bekerja dalam pemberian pelayanan di
 Fasilitas Pelayanan Kesehatan.
+
 Pasal 882
 Ketentuan lebih lanjut mengenai kompetensi manajerial dan
 kompetensi teknis pimpinan Fasilitas Pelayanan Kesehatan
 diatur dengan Peraturan Menteri.
-SK No 226996 A
-Bagian
-
-PRESIDEN
-REPUBLTK TNDONESIA
--354-
 
 Bagian Kesebelas
 Peningkatan Mutu Pelayanan Kesehatan
@@ -15468,6 +15338,7 @@ Peningkatan mutu Pelayanan Kesehatan merupakan
 serangkaian upaya Fasilitas Pelayanan Kesehatan dalam
 menyelenggarakan Pelayanan Kesehatan yang sesuai dengan
 standar dan mengutamakan keselamatan Pasien.
+
 Pasal 884
 Peningkatan mutu Pelayanan Kesehatan ditujukan untuk:
 a. memenuhi hak Pasien untuk mendapatkan Pelayanan
@@ -15479,6 +15350,7 @@ klinis yang baik; dan
 c. meningkatkan pelindungan bagi Sumber Daya Manusia
 Kesehatan, Fasilitas Pelayanan Kesehatan, dan
 masyarakat.
+
 Pasal 885
 (1) Setiap Fasilitas Pelayanan Kesehatan wajib melakukan
 peningkatan mutu Pelayanan Kesehatan secara
@@ -15513,7 +15385,7 @@ yang diharapkan.
 (2) Indikator mutu sebagaimana dimaksud pada ayat (1)
 merupakan tolak ukur yang digunakan oleh
 Fasilitas Pelayanan Kesehatan untuk mencapai target
-mutu tertentu yang telah ditetapkan. (3) Indikator mutu sebagaimana dimaksud pada ayat (21
+mutu tertentu yang telah ditetapkan. (3) Indikator mutu sebagaimana dimaksud pada ayat (2) 
 terdiri atas:
 a. indikator mutu nasional; dan
 b. indikator mutu Fasilitas Pelayanan Kesehatan. (4) Indikator mutu nasional sebagaimana dimaksud pada
@@ -15522,6 +15394,7 @@ Fasilitas Pelayanan Kesehatan. (5) Indikator mutu Fasilitas Pelayanan Kesehatan
 sebagaimana dimaksud pada ayat (3) huruf b ditetapkan
 oleh pimpinan Fasilitas Pelayanan Kesehatan berdasarkan
 prioritas di Fasilitas Pelayanan Kesehatan.
+
 Pasal 887
 (1) Pengukuran indikator mutu dilakukan melalui tahapan
 kegiatan pengumpulan, validasi, analisis data, dan
@@ -15558,6 +15431,7 @@ berhubungan dengan perjalanan penyakit pasien atau
 penyakit yang mendasarinya yang terjadi pada pasien.
 (6) Kejadian sentinel sebagaimana dimaksud pada ayat (5) dapat mengakibatkan kematian, disabilitas yang
 permanen, atau cedera berat yang bersifat sementara.
+
 Pasal 889
 (1) Seluruh insiden keselamatan pasien yang terjadi di
 Fasilitas Pelayanan Kesehatan harus dilaporkan oreh
@@ -15569,6 +15443,7 @@ melaporkan kepada Menteri melalui Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
 (1)
+
 Pasal 890
 Fasilitas Pelayanan Kesehatan harus melakukan
 pengelolaan insiden berdasarkan hasil pelaporan insiden
@@ -15608,6 +15483,7 @@ Pelayanan Kesehatan.
 dilakukan melalui kegiatan identifikasi, analisis, evaluasi,
 pengendalian, pemantauan, serta pelaporan risiko dan
 potensinya.
+
 Pasal 892
 Ketentuan lebih lanjut mengenai pengukuran dan pelaporan
 indikator mutu, pelaporan insiden keselamatan pasien, dan
@@ -15643,33 +15519,22 @@ di bidang perizinan berusaha.
 Paragraf 7
 Akreditasi
 
-(1)
-(2)
-(3)
-(41
-(s)
 Pasal 895
-Akreditasi sebagaimana dimaksud dalam Pasal 885
+(1) Akreditasi sebagaimana dimaksud dalam Pasal 885
 ayat (3) huruf c merupakan pengakuan terhadap peningkatan mutu Pelayanan Kesehatan di
 Fasilitas Pelayanan Kesehatan berdasarkan standar
 akreditasi yang ditetapkan oleh Menteri.
-Akreditasi sebagaimana dimaksud pada ayat (1)
+(2) Akreditasi sebagaimana dimaksud pada ayat (1)
 diselenggarakan oleh Menteri atau lembaga penyelenggara
 akreditasi yang ditetapkan oleh Menteri.
-Penyelenggaraan akreditasi melalui tahapan yang terdiri
+(3) Penyelenggaraan akreditasi melalui tahapan yang terdiri
 atas kegiatan persiapan, penilaian, dan pascaakreditasi.
-Tahapan akreditasi sebagaimana dimaksud pada ayat (3)
+(4) Tahapan akreditasi sebagaimana dimaksud pada ayat (3)
 dapat dilakukan dengan metode luring dan/atau daring.
-Penyelenggaraan akreditasi sebagaimana dimaksud pada
+(5) Penyelenggaraan akreditasi sebagaimana dimaksud pada
 ayat (3) dicatat dan dilaporkan melalui Sistem lnformasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
-SK No230859A
-(6) Ketentuan. . .
-
-PRESIDEN
-REPUBLIK TNDONESIA
--359-
 (6) Ketentuan lebih lanjut mengenai akreditasi Fasilitas
 Pelayanan Kesehatan diatur dengan Peraturan Menteri.
 
@@ -15679,11 +15544,11 @@ Tanggung Jawab Pemerintah
 Pasal 896
 (1) Dalam rangka penyelenggaraan mutu Pelayanan
 Kesehatan, Menteri bertanggung jawab:
-a. menetapkan strategi nasional mutu Pelayanan
-Kesehatan;
-b. menetapkan strategi nasional keselamatan Pasien;
-dan
-c. menetapkan standar mutu dan keselamatan Pasien.
+  a. menetapkan strategi nasional mutu Pelayanan
+  Kesehatan;
+  b. menetapkan strategi nasional keselamatan Pasien;
+  dan
+  c. menetapkan standar mutu dan keselamatan Pasien.
 (2) Gubernur dan bupati/wali kota bertanggung jawab
 memfasilitasi dan menjamin Fasilitas Pelayanan
 Kesehatan di wilayahnya serta melakukan peningkatan
@@ -15734,6 +15599,7 @@ d. Pelayanan Kesehatan terpadu.
 Kesehatan sebagaimana dimaksud pada ayat (1) dapat
 mengacu pada rencana induk bidang Kesehatan yang
 ditetapkan Pemerintah Pusat.
+
 Pasal 899
 (1) Jejaring pengampuan Pelayanan Kesehatan sebagaimana
 dimaksud dalam Pasal 898 ayat (1) huruf a merupakan
@@ -15751,12 +15617,7 @@ pengampuan sebagaimana dimaksud pada ayat (2) harus
 memiliki perencanaan dan pemenuhan terhadap
 Sumber Daya Manusia Kesehatan, sarana dan prasararLa,
 serta Alat Kesehatan.
-Pasal900...
-SK No 230861 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--361-
 Pasal 900
 (1) Dalam rangka meningkatkan akses dan mutu
 Pelayanan Kesehatan melalui jejaring pengampuan
@@ -15767,6 +15628,7 @@ Sumber Daya Manusia Kesehatan, dan pendanaan.
 (2) Ketentuan lebih lanjut mengenai pedoman
 penyelenggaraan jejaring pengampuan Pelayanan
 Kesehatan diatur dengan Peraturan Menteri.
+
 Pasal 901
 (1) Kerja sama 2 (dua) atau lebih Fasilitas Pelayanan
 Kesehatan sebagaimana dimaksud dalam Pasal 898
@@ -15778,6 +15640,7 @@ antar-Fasilitas Pelayanan Kesehatan di Indonesia.
 (2) Kerja sama sebagaimana dimaksud pada ayat (1) dapat
 berupa kerja sama di bidang manajemen, pelayanan, dan
 penelitian.
+
 Pasal 902
 (1) Penyelenggaraan kerja sama 2 (dua) atau lebih
 Fasilitas Pelayanan Kesehatan meliputi:
@@ -15799,13 +15662,8 @@ pihak.
 (3) Penyelenggaraan kerja sama 2 (dua) atau lebih Fasilitas
 Pelayanan Kesehatan dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
-SK No 230862 A
-Pasal903...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--362-
-Pasal 9O3
+Pasal 903
 (1) Pusat unggulan sebagaimana dimaksud dalam Pasal 898
 ayat (1) huruf c merupakan Pelayanan Kesehatan dengan
 karakteristik utama pada Rumah Sakit yang mempunyai
@@ -15826,6 +15684,7 @@ untuk meningkatlan budaya belajar, inovasi, dan
 pengembangan.
 (3) Fasilitas Pelayanan Kesehatan yang menyelenggarakan
 pusat unggulan ditetapkan oleh Menteri.
+
 Pasal 904
 (1) Pelayanan Kesehatan terpadu sebagaimana dimaksud
 dalam Pasal 898 ayat (1) huruf d merupakan
@@ -15859,6 +15718,7 @@ memenuhi ketersediaan, pemerataan, dan keterjangkauan
 Perbekalan Kesehatan dalam penyelenggaraan
 Upaya Kesehatan baik pada kondisi normal maupun kondisi
 KLB, Wabah, dan Bencana.
+
 Pasal 906
 (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab terhadap pengelolaan Perbekalan Kesehatan yang
@@ -15872,6 +15732,7 @@ pada ayat (2) merupakan sarana pengelola
 Sediaan Farmasi, Alat Kesehatan, dan Perbekalan
 Kesehatan lain milik Pemerintah Pusat dan
 Pemerintah Daerah.
+
 Pasal 907
 (1) Perencanaan Perbekalan Kesehatan sebagaimana
 dimaksud dalam Pasal 906 ayat (1) merupakan
@@ -15886,7 +15747,7 @@ Kesehatan Nasional.
 
 Pasal 908
 (1) Dalam perencanaan Perbekalan Kesehatan sebagaimana
-dimaksud dalam Pasal 9O7 dilakukan pemilihan
+dimaksud dalam Pasal 907 dilakukan pemilihan
 Sediaan Farmasi, Alat Kesehatan, dan Perbekalan
 Kesehatan lain.
 (2) Pemilihan sebagaimana dimaksud pada ayat (1) mengacu
@@ -15899,6 +15760,7 @@ sebagaimana dimaksud pada ayat (2) ditinjau dan
 disempurnakan paling lama setiap 2 (dua) tahun sesuai
 dengan perkembangan kebutuhan serta ilmu pengetahuan
 dan teknologi.
+
 Pasal 909
 (1) Penyediaan Perbekalan Kesehatan sebagaimana dimaksud
 dalam Pasal 906 ayat (1) dilakukan sesuai dengan
@@ -15914,6 +15776,7 @@ dengan ketentuan peraturan perundang-undangan.
 ayat (1) harrrs dilakukan penyimpanan sesuai dengan
 persyaratan dan spesifikasi produk untuk menjamin
 keamanan, khasiatf manfaat, dan mutu.
+
 Pasal 910
 (1) Pendistribusian Perbekalan Kesehatan sebagaimana
 dimaksud dalam Pasal 906 ayat (1) dilakukan oleh
@@ -15940,7 +15803,8 @@ Kesehatan Nasional.
 (6) Pelaporan kegiatan pendistribusian Perbekalan Kesehatan
 sebagaimana dimaksud pada ayat (5) dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan.
-Pasal 91 1
+
+Pasal 911
 Pendistribusian Perbekalan
 memenuhi standar sesuai dengan
 perundang-undangan.
@@ -15948,6 +15812,7 @@ Kesehatan
 ketentuan
 harus
 peraturan
+
 Pasal 912
 (1) Pemerintah Pusat dan Pemerintah Daerah dapat
 melibatkan lembaga terkait dalam melakukan
@@ -15967,6 +15832,7 @@ pengelolaan Perbekalan Kesehatan untuk memenuhi
 ketersediaan, pemerataan, dan keterjangkauan
 Perbekalan Kesehatan dalam penyelenggaraar,
 Upaya Kesehatan.
+
 Pasal 913
 (1) Pemerintah h:sat berwenang mengatur dan
 mengendalikan harga Perbekalan Kesehatan, terutama
@@ -15974,12 +15840,7 @@ Obat dan Alat Kesehatan.
 (2) Pemerintah Pusat dalam mengatur dan mengendalikan
 harga Perbekalan Kesehatan sebagaimana dimaksud pada
 ayat (1) dapat melibatkan Pemerintah Daerah.
-SK No230866A
-(3) Pengaturan...
 
-PRESIDEN
-REPUBLTK INDONESIA
--366-
 (3) Pengaturan dan pengendalian harga Perbekalan
 Kesehatan sebagaimana dimaksud pada ayat (1) dilakukan
 untuk memperoleh harga yang wajar bagi masyarakat,
@@ -15988,12 +15849,14 @@ industri, dan pemerintah.
 Kesehatan sebagaimana dimaksud pada ayat (1)
 dilakukan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 914
 (1) Menteri dapat menetapkan Perbekalan Kesehatan tertentu
 yang menjadi prioritas Kesehatan.
 (2) Pemerintah Pusat dapat memberikan insentif fiskal dan
 nonfiskal terhadap Perbekalan Kesehatan tertentu sesuai
 dengan ketentuan peraturan perundang-undangan.
+
 Pasal 915
 Ketentuan lebih lanjut mengenai pengelolaan Perbekalan
 Kesehatan diatur dengan Peraturan Menteri.
@@ -16007,10 +15870,11 @@ Penggolongan Obat merupakan pembedaan kategori Obat
 berdasarkan risiko penggunaan yang bertujuan untuk
 menjamin keamanan dan ketepatan dalam penggunaan,
 penyerahan, dan distribusi Obat.
+
 Pasal 917
 (1) Obat terdiri atas:
-a. Obat dengan resep; dan
-b. Obat tanpa resep.
+  a. Obat dengan resep; dan
+  b. Obat tanpa resep.
 (2) Obat dengan resep sebagaimana dimaksud pada ayat (1)
 huruf a merupakan Obat yang hanya dapat diperoleh
 berdasarkan resep.
@@ -16018,58 +15882,57 @@ berdasarkan resep.
 huruf a diserahkan oleh apoteker di fasilitas pelayanan
 kefarmasian sesuai dengan ketentuan peraturan
 perundang-undangan.
-SK No 230867 A
-(4) Resep
-
-PRESIDEN
-REPUBLIK INOONESIA
--367-
 (4) Resep sebagaimana dimaksud pada ayat (1) merupakan
 permintaan dari Tenaga Medis kepada apoteker atau
 apoteker spesialis baik dalam bentuk tertulis fisik maupun
 elektronik untuk menyediakan dan menyerahkan Sediaan
 Farmasi, Alat Kesehatan, dan/atau pangan olahan untuk
-keperluan medis khusus bagi Pasien. (5) Obat dengan resep digolongkan menjadi:
-a. Obat keras;
-b. narkotika; dan
-c. psikotropika.
+keperluan medis khusus bagi Pasien.
+(5) Obat dengan resep digolongkan menjadi:
+  a. Obat keras;
+  b. narkotika; dan
+  c. psikotropika.
 (6) Obat tanpa resep sebagaimana dimaksud pada ayat (1)
 huruf b diperoleh dari fasilitas pelayanan kefarmasian
 atau fasilitas lain sesuai dengan ketentuan peraturan
 perundang-undangan.
-(71 Obat tanpa resep digolongkan menjadi:
-a. Obat bebas; dan
-b. Obat bebas terbatas.
+(7) Obat tanpa resep digolongkan menjadi:
+  a. Obat bebas; dan
+  b. Obat bebas terbatas.
+
 Pasal 918
-(1) Obat keras sebagaimana dimaksud dalam Pasal 9L7
-ayat (5) huruf a mempakan Obat yang mempunyai risiko
+(1) Obat keras sebagaimana dimaksud dalam Pasal 917
+ayat (5) huruf a merupakan Obat yang mempunyai risiko
 dalam penggunaannya, memiliki potensi penyalahgunaan,
 dan/atau diberikan dengan cara tertentu.
 (2) Narkotika dan psikotropika sebagaimana dimaksud dalam
-Pasal 9L7 ayat (5) huruf b dan huruf c merupakan
+Pasal 917 ayat (5) huruf b dan huruf c merupakan
 narkotika atau psikotropika dalam bentuk Obat yang
 digunakan untuk kepentingan Pelayanan Kesehatan.
+
 Pasal 919
 (1) Obat bebas sebagaimana dimaksud dalam Pasal 917
-ayat (71huruf a merupakan Obat dalam bentuk dan dosis
+ayat (7) huruf a merupakan Obat dalam bentuk dan dosis
 yang aman, dapat diserahkan tanpa resep, dan dapat
 digunakan oleh masyarakat untuk mencegah,
 meringankan, atau mengobati gejala penyakit ringan.
 (2) Obat bebas terbatas sebagaimana dimaksud dalam
-Pasal 9I7 ayat (7) huruf b merupakan Obat keras yang
+Pasal 917 ayat (7) huruf b merupakan Obat keras yang
 memiliki rasio khasiat keamanan yang dapat digunakan
 untuk pengobatan sendiri, dapat diserahkan tanpa resep
 dalam jumlah terbatas, dan disertai dengan peringatan
 penggunaan.
+
 Pasal 920
 (1) Penggolongan Obat sebagaimana dimaksud dalam
 Pasal 917 dilakukan berdasarkan kriteria yang meliputi:
-a. kandungan zat aktif;
-b. cara penggunaan; dan/atau
-c. profil keamanan.
+  a. kandungan zat aktif;
+  b. cara penggunaan; dan/atau
+  c. profil keamanan.
 (2) Pada kemasan Obat wajib dicantumkan secara jelas tanda
 khusus Obat sesuai dengan penggolongannya.
-Pasal 92 1
+
+Pasal 921
 (1) Dalam hal terdapat perkembangan ilmu pengetahuan dan
 teknologi, Menteri dapat menetapkan penggolongan Obat
 dan/atau melakukan perubahan penggolongan Obat
@@ -16086,40 +15949,38 @@ dapat menetapkan penggolongan Obat bersama dengan
 pemberian izin edar Obat.
 (4) Ketentuan lebih lanjut mengenai penggolongan Obat
 diatur dengan Peraturan Menteri.
-Pasal922
+
+Pasal 922
 (1) Obat keras, narkotika, dan psikotropika hanya dapat
 diserahkan oleh apoteker dan/atau apoteker spesialis
 berdasarkan resep di fasilitas pelayanan kefarmasian.
 (2) Obat keras tertentu dengan indikasi dan/atau jumlah
 yang terbatas dapat diserahkan oleh apoteker dan/atau
 apoteker spesialis tanpa resep.
-(3) Obat keras tertentu sebagaimana dimaksud pada ayat (21
+(3) Obat keras tertentu sebagaimana dimaksud pada ayat (2) 
 harus memenuhi kriteria yang dapat berupa:
-a. Obat yang digunakan untuk pengobatan
-swamedikasi;
-b. Obat untuk penyakit kronis pada resep ulangan; atau
-c. Obat topikal.
+  a. Obat yang digunakan untuk pengobatan
+  swamedikasi;
+  b. Obat untuk penyakit kronis pada resep ulangan; atau
+  c. Obat topikal.
 (4) Obat keras tertentu sebagaimana dimaksud pada ayat (2)
 disusun dalam daftar yang ditetapkan oleh Menteri.
 (5) Daftar Obat keras tertentu sebagaimana dimaksud pada
 ayat (4) ditinjau sesuai dengan perkembangan kebutuhan
 Pelayanan Kesehatan serta ilmu pengetahuan dan
 teknologi.
+
 Pasal 923
 (1) Obat bebas dan Obat bebas terbatas dapat digunakan
 untuk swamedikasi.
-SK No230869A
-(2) Swamedikasi
 
-PRESIDEN
-REPUBLTK INDONESIA
--369-
 (2) Swamedikasi sebagaimana dimaksud pada ayat (1)
 merupakan penggunaan Obat yang dilakukan secara
 mandiri untuk mengatasi keluhan atau gejala penyakit.
 (3) Penyerahan Obat bebas dan Obat bebas terbatas harus
 dilakukan dalam satuan kemasan terkecil yang memuat
 informasi tentang Obat.
+
 Pasal 924
 (1) Pelayanan Obat dengan resep dapat menggunakan
 resep elektronik.
@@ -16150,6 +16011,7 @@ empiris/bersumber dari pengetahuan tradisional dan/atau
 ilmiah dari keamanan dan khasiat serta standardisasi mutu
 dengan tujuan pemenuhan standar keamanzln, manfaat, mutu,
 dan ketepatan penggunaan Obat Bahan Alam.
+
 Pasal 926
 Obat Bahan Alam digolongkan menjadi:
 a. jamu;
@@ -16187,6 +16049,7 @@ Pasal 926 huruf d dapat berupa produk Obat Bahan Alam
 inovasi baru, produk Obat Bahan Alam impor, dan
 produk Obat Bahan Alam lisensi sesuai dengan
 perkembangan ilmu pengetahuan dan teknologi.
+
 Pasal 928
 (1) Dalam hal terdapat perkembangan ilmu pengetahuan dan
 teknologi, Menteri dapat menetapkan dan/atau
@@ -16207,6 +16070,7 @@ melibatkan kementerian/lembaga terkait, praktisi, dan
 akademisi.
 (4) Ketentuan lebih lanjut mengenai penggolongan
 Obat Bahan Alam diatur dengan Peraturan Menteri.
+
 Pasal 929
 (1) Obat Bahan Alam dapat digunakan secara mandiri oleh
 masyarakat atau digunakan untuk kepentingan
@@ -16226,6 +16090,7 @@ pendidikan Tenaga Medis dan Tenaga Kesehatan.
 dan Tenaga Kesehatan sebagaimana dimaksud pada
 ayat (4) dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 930
 (1) Obat Bahan Alam yang digunakan secara mandiri oleh
 masyarakat sebagaimana dimaksud dalam Pasal 929
@@ -16244,12 +16109,7 @@ Pasal 931
 (1) Percepatan pengembangan dan ketahanan industri
 Sediaan Farmasi dan Alat Kesehatan ditujukan untuk
 membangun kemajuan Kesehatan nasional.
-SK No 230872 A
-(2) Upaya
 
-PRESIDEN
-REPUBUK INDONESIA
--372-
 (2) Upaya percepatan pengembangan dan ketahanan industri
 Sediaan Farmasi dan Alat Kesehatan dilakukan melalui
 peningkatan kemandirian Sediaan Farmasi dan
@@ -16261,9 +16121,10 @@ Sediaan Farmasi dan Alat Kesehatan serta penguatan tata
 kelola rantai pasok Sediaan Farmasi dan Alat Kesehatan
 dari hulu hingga hilir secara terintegrasi.
 (4) Peningkatan kemandirian Sediaan Farmasi dan
-Alat Kesehatan sebagaimana dimaksud pada ayat (21
+Alat Kesehatan sebagaimana dimaksud pada ayat (2) 
 dilaksanakan dengan memperhatikan pemenuhan standar
 keamanan, khasiat/manfaat, dan mutu.
+
 Pasal 932
 (1) Penelitian dan pengembangan Sediaan Farmasi dan
 Alat Kesehatan diarahkan pada prioritas ketahanan
@@ -16287,6 +16148,7 @@ penelitian produksi dalam negeri.
 Sediaan Farmasi dan Alat Kesehatan diutamakan
 berbentuk kemitraan publik dan swasta dalam rangka
 hilirisasi penelitian nasional.
+
 Pasal 933
 (1) Penelitian dan pengembangan Obat Bahan Alam
 dilakukan dengan mempertimbangkan ketersediaan
@@ -16311,6 +16173,7 @@ c. kelestarian bahan baku tanaman Obat.
 sebagaimana dimaksud pada ayat (1) dilakukan
 dengan memperhatikan karakteristik dan spesifisitas
 Obat Bahan Alam.
+
 Pasal 934
 (1) Pemerintah Pusat memfasilitasi pengujian dan penilaian
 keamanan, khasiat, dan mutu Obat Bahan Alam yang
@@ -16329,6 +16192,7 @@ pada ayat (1) diatur dengan peraturan kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 tugas pemerintahan di bidang pengawasan obat dan
 makanan.
+
 Pasal 935
 (1) Pemanfaatan sumber daya alam untuk penelitian dan
 pengembangan Obat Bahan Alam dan pemeliharaan
@@ -16344,6 +16208,7 @@ melibatkan pelaku usaha dan petani.
 (4) Sistem budi daya pertanian berkelanjutan sebagaimana
 dimaksud pada ayat (1) dilakukan sesuai dengan
 ketentuan peraturan perLlndang-undangan.
+
 Pasal 936
 (1) Industri Sediaan Farmasi dan Alat Kesehatan men5rusun
 rencana produksi dengan mempertimbangkan rencana
@@ -16353,6 +16218,7 @@ dengan rencana induk bidang Kesehatan.
 pada ayat (1) dilakukan melalui Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
+
 Pasal 937
 (1) Pemerintah Pusat, Pemerintah Daerah, masyarakat, dan
 Fasilitas Pelayanan Kesehatan harus mengutamakan
@@ -16370,6 +16236,7 @@ Peraturan Menteri.
 sebagaimana dimaksud pada ayat (3) memperhatikan
 tingkat komponen dalam negeri sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 938
 (1) Untuk menjaga keberlangsungan rantai pasok Sediaan
 Farmasi dan Alat Kesehatan dalam Pelayanan Kesehatan,
@@ -16390,6 +16257,7 @@ dan Alat Kesehatan pada Sistem Informasi Kesehatan
 yang terintegrasi dengan Sistem Informasi Kesehatan
 Nasional sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 939
 (1) Dalam rangka dukungan terhadap produksi
 Sediaan Farmasi dan Alat Kesehatan dalam negeri,
@@ -16413,7 +16281,7 @@ yang digunakan untuk penelitian yang belum tersedia
 di dalam negeri; dan
 c. kemudahan lain sesuai dengan ketentuan peraturan
 perundang-undangan.
-(41 Insentif sebagaimana dimaksud pada ayat (1) diberikan
+(4) Insentif sebagaimana dimaksud pada ayat (1) diberikan
 kepada industri Sediaan Farmasi dan Alat Kesehatan yang
 memenuhi kriteria:
 a. memberikan kontribusi terhadap penurunan impor
@@ -16441,6 +16309,7 @@ dengan ketentuan peraturan perundang-undangan.
 Alat Kesehatan sebagaimana dimaksud pada ayat (1)
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 940
 (1) Dalam rangka pemberian dukungan bagi penguasaan dan
 pemanfaatan teknologi dan inovasi serta penelitian dan
@@ -16460,15 +16329,16 @@ siklus industri dan sedang berkembang, yang
 membutuhkan perlindungan dari persaingan
 internasional sampai industri tersebut menjadi matang
 serta stabil.
-(41 Selain fasilitasi proses alih teknologi sebagaimana
+(4) Selain fasilitasi proses alih teknologi sebagaimana
 dimaksud pada ayat (1), pemberian dukungan juga dapat
 melalui kerja sama luar negeri yang dilakukan oleh
 pemerintah Pusat, Pemerintah Daerah, dan/atau
 masyarakat.
 (5) Kerja sama luar negeri sebagaimana dimaksud pada
-ayat (41 ditujukan untuk meningkatkan investasi,
+ayat (4) ditujukan untuk meningkatkan investasi,
 sumber daya manusia, serta kapasitas produksi industri
 Sediaan Farmasi dan Alat Kesehatan dalam negeri.
+
 Pasal 941
 (1) Percepatan pengembangan dan ketahanan industri
 Sediaan Farmasi dan Alat Kesehatan sebagaimana
@@ -16513,8 +16383,8 @@ dan tata kelola Sediaan Farmasi, Alat Kesehatan, dan
 Perbekalan Kesehatan lainnya berdasarkan pada standar,
 sistem, dan tata kelola Sediaan Farmasi, Alat Kesehatan,
 dan Perbekalan Kesehatan lainnya yang ditetapkan
-oleh Menteri sebagaimana dimaksud pada ayat (21.
-(41 Standar, sistem, dan tata kelola Sediaan Farmasi,
+oleh Menteri sebagaimana dimaksud pada ayat (2) .
+(4) Standar, sistem, dan tata kelola Sediaan Farmasi,
 Alat Kesehatan, dan Perbekalan Kesehatan lainnya
 sebagaimana dimaksud pada ayat (2) diberlakukan
 terhadap perencanaan, pengadaan, penyimpanan,
@@ -16524,6 +16394,7 @@ pencatatan dan pelaporan.
 ayat (4) dilakukan dengan menggunakan Sistem Informasi
 Kesehatan yang terintegrasi dengan Sistem Informasi
 Kesehatan Nasional.
+
 Pasal 943
 (1) Dalam rangka mitigasi risiko sebagaimana dimaksud
 dalam Pasal 942 ayat (1) dilakukan upaya pemetaan
@@ -16540,26 +16411,20 @@ ketersediaan di dalam negeri.
 (3) Upaya pemenuhan kebutuhan Sediaan Farmasi,
 Alat Kesehatan, dan Perbekalan Kesehatan lainnya
 sebagaimana dimaksud pada ayat (1) dapat berupa:
-a. penugasan terhadap industri Sediaan Farmasi dan
-Alat Kesehatan dalam negeri;
-b. penunjukan langsung badan usaha penyedia;
-c. kerja sama dengan lembaga/badan internasional
-atau pemerintah negara lain;
-d. fasilitasi pelaksanaan impor;
-e
-SK No 230879 A
-pendanaan
-
-PRESIDEN
-REFUBLIK INDONESIA
-- 379
-e. pendanaan riset khusus;
-f. penerapan persetujuan penggunaan darurat;
-g. lisensi sukarela, lisensi wajib, atau pelaksanaan
-paten oleh pemerintah;
-h. penerap€rn pemasukan melalui mekanisme jalur
-khusus;
-i. pembatasan ekspor; dan/atau j. upaya lain sesuai dengan kebutuhan.
+  a. penugasan terhadap industri Sediaan Farmasi dan
+  Alat Kesehatan dalam negeri;
+  b. penunjukan langsung badan usaha penyedia;
+  c. kerja sama dengan lembaga/badan internasional
+  atau pemerintah negara lain;
+  d. fasilitasi pelaksanaan impor;
+  e. pendanaan riset khusus;
+  f. penerapan persetujuan penggunaan darurat;
+  g. lisensi sukarela, lisensi wajib, atau pelaksanaan
+  paten oleh pemerintah;
+  h. penerapan pemasukan melalui mekanisme jalur
+  khusus;
+  i. pembatasan ekspor; dan/atau
+  j. upaya lain sesuai dengan kebutuhan.
 (4) Upaya pemenuhan kebutuhan Sediaan Farmasi,
 Alat Kesehatan dan Perbekalan Kesehatan lainnya
 sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai
@@ -16569,6 +16434,7 @@ standar, sistem, dan tata kelola Sediaan Farmasi,
 Alat Kesehatan, dan Perbekalan Kesehatan lainnya pada
 kondisi darurat, bencana, KLB, atau Wabah diatur dengan
 Peraturan Menteri.
+
 Pasal 944
 (1) Pemerintah hrsat dan Pemerintah Daerah melakukan
 mitigasi risiko terhadap Sediaan Farmasi, Alat Kesehatan,
@@ -16603,23 +16469,23 @@ Penyelenggara Sistem Informasi Kesehatan
 
 Pasal 946
 (1) Sistem Informasi Kesehatan diselenggarakan oleh:
-a. Pemerintah hrsat;
-b. Pemerintah Daerah;
-c. Fasilitas Pelayanan Kesehatan; dan
-d. masyarakat, baik perseorangan maupun kelompok.
+  a. Pemerintah Pusat;
+  b. Pemerintah Daerah;
+  c. Fasilitas Pelayanan Kesehatan; dan
+  d. masyarakat, baik perseorangan maupun kelompok.
 (2) Penyelenggaraan Sistem Informasi Kesehatan oleh
 Pemerintah Pusat sebagaimana dimaksud pada ayat (1)
 huruf a dilaksanakan melalui pengelolaan:
-a. Sistem Informasi Kesehatan Nasional
-diselenggarakan oleh kementerian yang
-menyelenggarakan urusan pemerintahan di bidang
-kesehatan; dan/atau
-b. Sistem Informasi Kesehatan yang diselenggarakan
-oleh kementerian yang menyelenggarakan urusan
-pemerintahan di bidang kesehatan, kementeianl
-lembaga yang menyelenggarakan kegiatan di bidang
-Kesehatan, dan badan/lembaga yang
-menyelenggarakan program jaminan sosial nasional.
+  a. Sistem Informasi Kesehatan Nasional
+  diselenggarakan oleh kementerian yang
+  menyelenggarakan urusan pemerintahan di bidang
+  kesehatan; dan/atau
+  b. Sistem Informasi Kesehatan yang diselenggarakan
+  oleh kementerian yang menyelenggarakan urusan
+  pemerintahan di bidang kesehatan, kementeianl
+  lembaga yang menyelenggarakan kegiatan di bidang
+  Kesehatan, dan badan/lembaga yang
+  menyelenggarakan program jaminan sosial nasional.
 (3) Penyelenggara Sistem Informasi Kesehatan Nasional
 sebagaimana dimaksud pada ayat (2) huruf a,
 mengintegrasikan dan menstandardisasi Data Kesehatan
@@ -16642,14 +16508,15 @@ Fasilitas Pelayanan Kesehatan.
 masyarakat, baik perseorangan maupun kelompok,
 sebagaimana dimaksud pada ayat (1) huruf d
 dilaksanakan melalui pengelolaan:
-a. Sistem lnformasi Kesehatan yang dikembangkan oleh
-komunitas, kader Kesehatan, atau sukarelawan;
-b. Sistem Informasi Kesehatan yang dikembangkan oleh
-perseorangan; dan I atau
-c. Sistem Informasi Kesehatan yang dikembangkan oleh
-korporasi,
-untuk kepentingan pemanfaatan di wilayah Indonesia
-dan/atau oleh warga negara Indonesia
+  a. Sistem lnformasi Kesehatan yang dikembangkan oleh
+  komunitas, kader Kesehatan, atau sukarelawan;
+  b. Sistem Informasi Kesehatan yang dikembangkan oleh
+  perseorangan; dan I atau
+  c. Sistem Informasi Kesehatan yang dikembangkan oleh
+  korporasi,
+  untuk kepentingan pemanfaatan di wilayah Indonesia
+  dan/atau oleh warga negara Indonesia.
+
 Pasal 947
 (1) Penyelenggara Sistem Informasi Kesehatan sebagaimana
 dimaksud dalam Pasal 946 ayat (1) wajib
@@ -16662,25 +16529,26 @@ yang ditetapkan oleh Menteri dengan melibatkan
 kementerian / lembaga terkait.
 (3) Dalam menetapkan standar data, Menteri dapat
 menggunakan:
-a. standar nasional;
-b. standarinternasional; dan/atau
-c. standar yang dipublikasikan oleh organisasi
-pengembang standar lainnya.
+  a. standar nasional;
+  b. standarinternasional; dan/atau
+  c. standar yang dipublikasikan oleh organisasi
+  pengembang standar lainnya.
+
 Pasal 948
 Penyelenggara Sistem Informasi Kesehatan Nasional
 berwenang untuk:
-a. melakukan pemrosesan Data Kesehatan dan Informasi
-Kesehatan;
-b. menetapkan standar data dan standar interoperabilitas
-Sistem Informasi Kesehatan;
-c. memberikan akses data induk dan kode referensi kepada
-penyelenggara Sistem Informasi Kesehatan untuk tujuan
-menjamin akurasi dan validitas Data Kesehatan dan
-Informasi Kesehatan; dan
-d. memberikan hak akses terhadap Data Kesehatan dan
-Informasi Kesehatan kepada penyelenggara Sistem
-Informasi Kesehatan dan masyarakat sesuai dengan
-klasifikasi dan kewenangan.
+  a. melakukan pemrosesan Data Kesehatan dan Informasi
+  Kesehatan;
+  b. menetapkan standar data dan standar interoperabilitas
+  Sistem Informasi Kesehatan;
+  c. memberikan akses data induk dan kode referensi kepada
+  penyelenggara Sistem Informasi Kesehatan untuk tujuan
+  menjamin akurasi dan validitas Data Kesehatan dan
+  Informasi Kesehatan; dan
+  d. memberikan hak akses terhadap Data Kesehatan dan
+  Informasi Kesehatan kepada penyelenggara Sistem
+  Informasi Kesehatan dan masyarakat sesuai dengan
+  klasifikasi dan kewenangan.
 
 Pasal 949
 (1) Penyelenggara Sistem Informasi Kesehatan melakukan
@@ -16691,7 +16559,8 @@ Sistem Informasi Kesehatan yang ditetapkan oleh Menteri.
 dimaksud pada ayat (1) wajib melakukan pembinaan dan
 fasilitasi pengembangan Sistem lnformasi Kesehatan
 sesuai dengan lingkup kewenangannya.
-Pasal 95O
+
+Pasal 950
 (1) Penyelenggara Sistem Informasi Kesehatan melaksanakan
 tata kelola Sistem Informasi Kesehatan yang mendukung
 pelayanan di bidang Kesehatan dengan mengacu pada
@@ -16709,7 +16578,7 @@ dalam pelaksanaan integrasi layanan Kesehatan.
 (3) Arsitektur Sistem Informasi Kesehatan Nasional
 sebagaimana dimaksud pada ayat (2) ditetapkan oleh
 Menteri.
-(41 Arsitektur Sistem Informasi Kesehatan sebagaimana
+(4) Arsitektur Sistem Informasi Kesehatan sebagaimana
 dimaksud pada ayat (3) disusun untuk jangka waktu
 5 (lima) tahun.
 
@@ -16723,16 +16592,15 @@ pembangunan Kesehatan, setiap penyelenggara.
 Sistem Informasi Kesehatan wajib melakukan pengelolaan
 Data Kesehatan, Informasi Kesehatan, dan indikator
 Kesehatan.
-(2) Data Kesehatan, Informasi Kesehatan, dan
-Kesehatan sebagaimana dimaksud pada
-harus terinci dan terklasifikasi.
-indikator
-ayat (1)
+(2) Data Kesehatan, Informasi Kesehatan, dan indikator
+Kesehatan sebagaimana dimaksud pada ayat (1) harus terinci
+dan terklasifikasi.
+
 Pasal 952
 (1) Data Kesehatan sebagaimana dimaksud dalam Pasal 951
 terdiri atas:
-a. data rutin; dan
-b. data nonrutin.
+  a. data rutin; dan
+  b. data nonrutin.
 (2) Data rutin sebagaimana dimaksud pada ayat (1) huruf a
 harus dikumpulkan secara teratur oleh penyelenggara
 Sistem Informasi Kesehatan melalui pencatatan dan
@@ -16744,8 +16612,8 @@ dan prioritas pembangunan Kesehatan yang ditetapkan
 oleh Pemerintah hrsat.
 (4) Data nonrutin sebagaimana dimaksud pada ayat (3)
 terdiri atas:
-a. data khusus; dan
-b. data luar biasa.
+  a. data khusus; dan
+  b. data luar biasa.
 (5) Data khusus sebagaimana dimaksud pada ayat (4)
 huruf a meliputi data faktor risiko, data lingkungan, dan
 data lainnya yang mendukung program pembangunan
@@ -16753,11 +16621,13 @@ Kesehatan.
 (6) Data luar biasa sebagaimana dimaksud pada ayat (4)
 huruf b meliputi data yang dikumpulkan dalam KLB,
 Wabah, dan bencana.
+
 Pasal 953
 Data Kesehatan harus terbuka untuk diakses oleh
 penyelenggara Sistem Informasi Kesehatan yang mengelola
 Sistem Informasi Kesehatan sesuai dengan kewenangan
 masing-masing.
+
 Pasal 954
 Data Kesehatan harus memenuhi standar yang meliputi:
 a. data sesuai dengan indikator Kesehatan;
@@ -16767,20 +16637,22 @@ c. akurat, jelas, dan dapat dipertanggungjawabkan; dan
 d mampu rekam pada alat/sarana pencatatan, pengolahan,
 dan penyimpanan data yang andal, aman, dan mudah
 dioperasikan.
+
 Pasal 955
 Informasi Kesehatan sebagaimana dimaksud dalam Pasal 951
 terdiri atas:
-a. informasi Upaya Kesehatan;
-b. informasi Sumber Daya Kesehatan;
-c. informasi penelitian dan pengembangan Kesehatan;
-d. informasi manajemen dan regulasi Kesehatan;
-e. informasi pemberdayaan masyarakat; dan
-f. informasi lainnya di bidang Kesehatan.
+  a. informasi Upaya Kesehatan;
+  b. informasi Sumber Daya Kesehatan;
+  c. informasi penelitian dan pengembangan Kesehatan;
+  d. informasi manajemen dan regulasi Kesehatan;
+  e. informasi pemberdayaan masyarakat; dan
+  f. informasi lainnya di bidang Kesehatan.
+
 Pasal 956
 (1) Data Kesehatan dan lnformasi Kesehatan sebagaimana
 dimaksud dalam Pasal 951 diklasifikasikan menjadi:
-a. data dan informasi publik; dan
-b. data dan informasi rahasia.
+  a. data dan informasi publik; dan
+  b. data dan informasi rahasia.
 (2) Data dan informasi publik sebagaimana dimaksud pada
 ayat (1) huruf a merupakan data dan Informasi Kesehatan
 yang disediakan penyelenggara Sistem Informasi
@@ -16792,12 +16664,13 @@ ayat (1) huruf b merupakan data dan informasi yang
 harus dirahasiakan sesuai dengaq etika, kontraktual,
 dan/atau sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 957
 (1) Indikator Kesehatan sebagaimana dimaksud dalam
 Pasal 951 mencakup:
-a. indikator Kesehatan nasional;
-b. indikator Kesehatan provinsi; dan
-c. indikator Kesehatan kabupaten/kota.
+  a. indikator Kesehatan nasional;
+  b. indikator Kesehatan provinsi; dan
+  c. indikator Kesehatan kabupaten/kota.
 (2) Indikator Kesehatan nasional ditetapkan oleh Menteri
 dengan mengacu pada indikator Kesehatan global.
 (3) Indikator Kesehatan provinsi ditetapkan oleh gubernur
@@ -16810,19 +16683,20 @@ indikator Kesehatan tambahan yang bersifat spesifik
 sesuai dengan keadaan dan kebutuhan daerah.
 (6) Perumusan setiap indikator Kesehatan sebagaimana
 dimaksud pada ayat (1) dilaksanakan untuk tujuan:
-a. mendukung prioritas pembangunan nasional dan
-sesuai dengan rencana pembangunan dan prioritas
-' Presiden dalam rencana pembangunan jangka
-menengah nasional dan/atau rencana kerja
-pemerintah;
-b. mendukung prioritas pembangunan Kesehatan
-sesuai dengan rencana strategis dan rencana induk
-bidang Kesehatan;
-c. mendukung pencapaian tujuan pembangunan
-Kesehatan berkelanjutan;
-d. mendukung pencapaian standar pelayanan minimal
-bidang Kesehatan; dan
-e. memenuhi kebutuhan program Kesehatan lainnya.
+  a. mendukung prioritas pembangunan nasional dan
+  sesuai dengan rencana pembangunan dan prioritas
+  Presiden dalam rencana pembangunan jangka
+  menengah nasional dan/atau rencana kerja
+  pemerintah;
+  b. mendukung prioritas pembangunan Kesehatan
+  sesuai dengan rencana strategis dan rencana induk
+  bidang Kesehatan;
+  c. mendukung pencapaian tujuan pembangunan
+  Kesehatan berkelanjutan;
+  d. mendukung pencapaian standar pelayanan minimal
+  bidang Kesehatan; dan
+  e. memenuhi kebutuhan program Kesehatan lainnya.
+
 Pasal 958
 (1) Sistem Informasi Kesehatan memuat Data Kesehatan dan
 Informasi Kesehatan yang bersumber dari:
@@ -16898,9 +16772,10 @@ ob.
 h.
 i.
 J
-(71 Menteri menetapkan sumber data Sistem Informasi
+(7) Menteri menetapkan sumber data Sistem Informasi
 Kesehatan sebagaimana dimaksud pada ayat (1) sebagai
 data rutin dan data nonrutin.
+
 Pasal 959
 (1) Penyelenggaraan Sistem Informasi Kesehatan
 mendapatkan dukungan akses dan pemanfaatan data
@@ -16909,6 +16784,7 @@ Kesehatan.
 (2) Dukungan akses dan pemanfaatan data layanan publik
 sebagaimana dimaksud pada ayat (1) dapat berasal dari
 sektor layanan publik.
+
 Pasal 960
 Dalam rangka efektivitas penyelenggaraan Sistem Informasi
 Kesehatan, Menteri mengembangkan data induk dan
@@ -16923,33 +16799,36 @@ Pasal 961
 (1) Penyelenggara Sistem Informasi Kesehatan wajib
 melaksanakan pemrosesan Data Kesehatan dan Informasi
 Kesehatan yang meliputi:
-a. perencanaan;
-b. pengumpulan;
-c. penyimpanan;
-d. pemeriksaan;
-e. transfer;
-f. pemanfaatan; dan
-g. pemusnahan.
+  a. perencanaan;
+  b. pengumpulan;
+  c. penyimpanan;
+  d. pemeriksaan;
+  e. transfer;
+  f. pemanfaatan; dan
+  g. pemusnahan.
 (2) Pemrosesan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud pada ayat (1) mencakup:
-a. data pribadi;
-b. data yang tidak dapat ditelusuri identitasnya atau
-berupa data agregat;
-c. informasi publik; dan/atau
-d. informasi rahasia. (3) Pemrosesan Data Kesehatan dan Informasi Kesehatan
-berupa data pribadi sebagaimana dimaksud pada ayat (21
+  a. data pribadi;
+  b. data yang tidak dapat ditelusuri identitasnya atau
+  berupa data agregat;
+  c. informasi publik; dan/atau
+  d. informasi rahasia. 
+(3) Pemrosesan Data Kesehatan dan Informasi Kesehatan
+berupa data pribadi sebagaimana dimaksud pada ayat (2)
 huruf a dilakukan sesuai dengan prinsip pelindungan
 data pribadi berdasarkan ketentuan peraturan
 perundang-undangan.
 (4) Pemrosesan data yang tidak dapat ditelusuri identitasnya
 atau berupa data agregat, informasi publik, dan/atau
-informasi rahasia sebagaimana dimaksud pada ayat (21
+informasi rahasia sebagaimana dimaksud pada ayat (2)
 huruf b, huruf c, dan huruf d dilaksanakan sesuai dengan
-ketentuan peraturan perLrndang-undangan.
+ketentuan peraturan perundang-undangan.
+
 Pasal 962
 Setiap penyelenggara Sistem Informasi Kesehatan merupakan
 pengendali data pribadi sesuai dengan ketentuan peraturan
 perundang-undangan di bidang pelindungan data pribadi.
+
 Pasal 963
 (1) Pemrosesan Data Kesehatan dan Informasi Kesehatan
 yang menggunakan Data Kesehatan individu wajib
@@ -16965,6 +16844,7 @@ pemrosesan data pribadinya.
 pribadinya wajib menyampaikan pernyataan tertulis atau
 secara elektronik kepada Penyelenggara Sistem Informasi
 Kesehatan.
+
 Pasal 964
 (1) Perencanaan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 961 ayat (1) huruf a
@@ -16973,6 +16853,7 @@ Informasi Kesehatan yang akan dikumpulkan.
 (2) Perencanaan Data Kesehatan dan Informasi Kesehatan
 didasarkan pada arsitektur Sistem Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 950.
+
 Pasal 965
 (1) Pengumpulan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 961 ayat (1) huruf b
@@ -16981,17 +16862,18 @@ Data Kesehatan dan Informasi Kesehatan.
 (2) Pengumpulan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud pada ayat (1) dilaksanakan
 melalui kegiatan:
-a. Pelayanan Kesehatan;
-b. penyelenggaraan rekam medis elektronik;
-c. surveilans Kesehatan;
-d. sensus dan survei;
-e. penelitian dan pengembangan Kesehatan;
-f. layanan Telekesehatan;
-g. pemanfaatan teknologi dan sumber lain yang sesuai
-perkembangan ilmu pengetahuan dan teknologi serta
-dapat dipertanggungjawabkan ; dan / atau
-h. cara lain sesuai dengan ketentuan peraturan
-perundang-undangan.
+  a. Pelayanan Kesehatan;
+  b. penyelenggaraan rekam medis elektronik;
+  c. surveilans Kesehatan;
+  d. sensus dan survei;
+  e. penelitian dan pengembangan Kesehatan;
+  f. layanan Telekesehatan;
+  g. pemanfaatan teknologi dan sumber lain yang sesuai
+  perkembangan ilmu pengetahuan dan teknologi serta
+  dapat dipertanggungjawabkan ; dan / atau
+  h. cara lain sesuai dengan ketentuan peraturan
+  perundang-undangan.
+
 Pasal 966
 (1) Penyimpanan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 961 ayat (1) huruf c
@@ -17005,10 +16887,10 @@ lndonesia.
 (3) Pusat data sebagaimana dimaksud pada ayat (2)
 menggunakan media penyimpanan elektronik dan/atau
 nonelektronik berupa:
-a. server;
-b. sistem komputasi awan; dan/atau
-c. media penyimpanan lain sesuai dengan
-perkembangan teknologi.
+  a. server;
+  b. sistem komputasi awan; dan/atau
+  c. media penyimpanan lain sesuai dengan
+  perkembangan teknologi.
 (4) Penyimpanan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud pada ayat (1) wajib memiliki
 cadangan data.
@@ -17016,30 +16898,20 @@ cadangan data.
 dapat dilakukan dengan menggunakan jasa dan fasilitas
 selain milik penyelenggara Sistem Informasi Kesehatan,
 dengan ketentuan:
-a. dilaksanakan di dalam wilayah negara Indonesia;
-b. berdasarkan perjanjian kerja sama yang memuat
-paling sedikit ketentuan mengenai kerahasiaan,
-tingkat layanan, dan target tingkat layanan;
-c. Data. . .
-SK No230890A
-
-PRESIDEN
-REPUBLTK INDONESIA
--390-
-c. Data Kesehatan dan Informasi Kesehatan dimiliki
-dan dikendalikan secara penuh oleh penyelenggara
-Sistem Informasi Kesehatan; dan
-d. memenuhi kewajiban prosesor data sesuai dengan
-ketentuan peraturan perundang-undangan.
-(6) Pusat data sebagaimana dimaksud pada ayat (21memiliki
+  a. dilaksanakan di dalam wilayah negara Indonesia;
+  b. berdasarkan perjanjian kerja sama yang memuat
+  paling sedikit ketentuan mengenai kerahasiaan,
+  tingkat layanan, dan target tingkat layanan;
+(6) Pusat data sebagaimana dimaksud pada ayat (2) memiliki
 keterhubungan dengan pusat data nasional sesuai
 dengan ketentuan peraturan perundang-undangan.
-(71 Penyelenggara Sistem lnformasi Kesehatan wajib
+(7) Penyelenggara Sistem lnformasi Kesehatan wajib
 mencatat riwayat pengelolaan Data Kesehatan dan
 lnformasi Kesehatan, termasuk data yang dimusnahkan.
-Pasal967
+
+Pasal 967
 (1) Pemeriksaan Data Kesehatan dan Informasi Kesehatan
-sebagaimana dimaksud dalam Pasal 96L ayat (1) huruf d
+sebagaimana dimaksud dalam Pasal 966 ayat (1) huruf d
 dilaksanakan dalam rangka menjamin kualitas data dan
 informasi.
 (2) Pemeriksaan Data Kesehatan dan Informasi Kesehatan
@@ -17056,6 +16928,7 @@ sebagaimana dimaksud pada ayat (2) termasuk
 melakukan pemeriksaan kesesuaian Data Kesehatan dan
 lnformasi Kesehatan dengan standar Data Kesehatan
 yang ditetapkan oleh Menteri.
+
 Pasal 968
 (1) Pemeriksaan Data Kesehatan dan Informasi Kesehatan
 dilaksanakan oleh unit dan/atau perseorangan
@@ -17068,7 +16941,8 @@ dari kegiatan secara rutin atau sewaktu-waktu dan
 berjenjang sesuai pedoman pemeriksaan.
 (3) Pemeriksaan Data Kesehatan dan Informasi Kesehatan
 secara sewaktu-waktu sebagaimana dimaksud pada
-ayat (21dilakukan berdasarkan permintaan pemilik data.
+ayat (2) dilakukan berdasarkan permintaan pemilik data.
+
 Pasal 969
 Dalam pemeriksaan Data Kesehatan dan Informasi Kesehatan,
 penyelenggara Sistem Informasi Kesehatan melakukan:
@@ -17079,6 +16953,7 @@ b. verifikasi, perbaikan, dan/atau klarifikasi dalam hal
 terdapat kesalahan dan/atau ketidakakuratan
 Data Kesehatan dan Informasi Kesehatan sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 970
 (1) Transfer Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 961 ayat (1) huruf e
@@ -17089,7 +16964,7 @@ dilaksanakan antarpenyelenggara Sistem Informasi
 Kesehatan, juga dapat dilakukan dengan pihak lain.
 (3) Transfer Data Kesehatan dan Informasi Kesehatan antara
 penyelenggara Sistem Informasi Kesehatan dengan pihak
-lain sebagaimana dimaksud pada ayat (21dilaksanakan:
+lain sebagaimana dimaksud pada ayat (2) dilaksanakan:
 a. berdasarkan perjanjian keda sErma; dan/atau
 b. melalui portal bagi pakai data bidang Kesehatan.
 (4) Perjanjian kerja sama sebagaimana dimaksud pada
@@ -17108,12 +16983,7 @@ Kesehatan sebagaimana dimaksud pada ayat (3) huruf b
 tidak memerlukan pe{anjian kerja sEuna dan dilakukan
 terhadap Data Kesehatan yang bersifat agregat dan
 Informasi Kesehatan yang terbuka.
-Pasal97l...
-SK No 230892 A
 
-PRESIDEN
-REPLIBLIK INDONESIA
--392-
 Pasal 971
 (1) Dalam rangka melaksanakan transfer Data Kesehatan
 dan Informasi Kesehatan sebagaimana dimaksud dalam
@@ -17139,7 +17009,8 @@ a. pemanfaatan Data Kesehatan dan Informasi
 Kesehatan;
 b. keamanan sistem informasi; dan/atau
 c. penerapan pelindungan data pribadi.
-Pasal972
+
+Pasal 972
 (1) Penyelenggara Sistem lnformasi Kesehatan dapat
 melakukan transfer Data Kesehatan dan Informasi
 Kesehatan ke luar wilayah hukum negara Republik
@@ -17156,18 +17027,14 @@ d. perjanjian alih material;
 e. kerja sama internasional di bidang Kesehatan; atau
 f. tujuan penggunaan Data Kesehatan dan Informasi
 Kesehatan lainnya.
-SK No 230893 A
-(3) Transfer
 
-FRESIDEN
-REPUBUK INDONESIA
--393-
 (3) Transfer Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud pada ayat (1) harus:
 a. mendapatkan izin dari Menteri; dan
 b. memenuhi persyaratan transfer data pribadi ke luar
 wilayah hukum Negara Kesatuan Republik Indonesia
-sesuai dengan ketentuan peraturan perundangundangan.
+sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 973
 (1) Pemanfaatan Data Kesehatan dan lnformasi Kesehatan
 sebagaimana dimaksud dalam Pasal 961 ayat (1) huruf f
@@ -17181,7 +17048,7 @@ dilaksanakan berdasarkan:
 a. klasifikasi Data Kesehatan dan Informasi Kesehatan;
 dan
 b. hak akses.
-(3) Hak akses sebagaimana dimaksud pada ayat (21
+(3) Hak akses sebagaimana dimaksud pada ayat (2) 
 huruf b ditetapkan oleh penyelenggara Sistem Informasi
 Kesehatan sesuai dengan ketentuan peraturan
 perundang-undangan.
@@ -17194,7 +17061,8 @@ Kesehatan dengan bentuk atau format yang dapat
 dipahami dan mudah diakses oleh masyarakat dalam
 rangka memperoleh Data Kesehatan dan Informasi
 Kesehatan miliknya.
-Pasal974
+
+Pasal 974
 (1) Pemusnahan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 961 ayat (1) huruf g
 dilakukan oleh penyelenggara Sistem Informasi Kesehatan
@@ -17216,6 +17084,7 @@ dan
 b. paling singkat 10 (sepuluh) tahun, untuk
 Data Kesehatan dan lnformasi Kesehatan
 nonelektronik.
+
 Pasal 975
 (1) Pemusnahan Data Kesehatan dan Informasi Kesehatan
 berdasarkan permintaan dari pemilik data sebagaimana
@@ -17230,7 +17099,8 @@ Data Kesehatan dan Informasi Kesehatan dalam waktu
 paling lama 7x24 (tujuh kali dua puluh empat)jam setelah
 menerima permintaan pemusnahan Data Kesehatan dan
 lnformasi Kesehatan dari pemilik data.
-Pasal976
+
+Pasal 976
 (1) Pemusnahan Data Kesehatan dan Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 975 dikecualikan
 untuk Data Kesehatan dan Informasi Kesehatan terkait:
@@ -17241,12 +17111,7 @@ d. proses penegakan hukum.
 (2) Pemusnahan Data Kesehatan dan Informasi Kesehatan
 yang terkait dengan data pribadi dilakukan sesuai dengan
 ketentuan peraturan perurndang-undangan.
-SK No 230895 A
-Pasal977...
 
-PRESIDEN
-REPLIBLIK INDONESIA
--395-
 Pasal 977
 (1) Penyelenggara Sistem Informasi Kesehatan wajib
 mencatat riwayat pemrosesan Data Kesehatan dan
@@ -17275,6 +17140,7 @@ dimaksud pada ayat (1) meliputi:
 a. infrastruktur;
 b. layanan; dan
 c. sumber daya manusia.
+
 Pasal 979
 (1) Infrastruktur Sistem Informasi Kesehatan sebagaimana
 dimaksud dalam Pasal 978 ayat (2) huruf a terdiri atas:
@@ -17297,16 +17163,18 @@ b. memiliki jaminan keberlanjutan layanan;
 c. menyesuaikan dengan kebutuhan dan
 perkembangan teknologi informasi;
 d. menjamin kepemilikan hak kekayaan intelektual
-sesuai dengan ketentuan peraturan perundangundangan;
+sesuai dengan ketentuan peraturan perundang-undangan;
 e. mudah diperbaiki dengan cepat jika mengalami
 gangguan, kerusakan, atau insiden yang tidak
 diinginkan dalam masa pengoperasiannya; dan
 f. adaptif atau mudah terhubung dengan Sistem
 Informasi Kesehatan Nasional.
+
 Pasal 980
 Penyediaan infrastruktur Sistem Informasi Kesehatan dapat
 dilaksanakan melalui kerja sarna dengan pihak ketiga sesuai
 dengan ketentuan peratur€rn perundang-undangan.
+
 Pasal 981
 (1) Penyelenggara Sistem Informasi Kesehatan wajib
 melakukan uji kelaikan sebelum pemanfaatan
@@ -17320,6 +17188,7 @@ yang pembiayaannya bersumber dari anggaran
 pendapatan dan belanja negara atau anggaran
 pendapatan dan belanja daerah dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan.
+
 Pasal 982
 (1) Menteri dapat memberikan dukungan pengelolaan Sistem
 Informasi Kesehatan dalam penyediaan infrastruktur
@@ -17332,17 +17201,13 @@ a. keterbatasan sumber daya Sistem Informasi
 Kesehatan; dan/atau
 b. kepentingan pengembangan Sistem Informasi
 Kesehatan lainnya.
-SK No 230897 A
-(3) Dukungan...
 
-PRESIDEN
-REPUBLTK INDONESIA
--397 -
 (3) Dukungan pengelolaan Sistem Informasi Kesehatan
 sebagaimana dimaksud pada ayat (1) diberikan
 paling sedikit dalam bentuk:
 a. pelatihan atau bimbingan teknis; dan/atau
 b. fasilitasi perangkat lunak.
+
 Pasal 983
 (1) Layanan Sistem Informasi Kesehatan sebagaimana
 dimaksud dalam Pasal 978 ayat (2) huruf b dilaksanakan
@@ -17366,6 +17231,7 @@ e. pelaksana.
 (5) Pimpinan penyelenggara Sistem Informasi Kesehatan
 melakukan evaluasi berkala terhadap penerapan standar
 Iayanan Sistem Informasi Kesehatan.
+
 Pasal 984
 (1) Sumber daya manusia Sistem Informasi Kesehatan
 sebagaimana dimaksud dalam Pasal 978 ayat (2) huruf c
@@ -17376,18 +17242,12 @@ peningkatan mutu layanan Sistem Informasi Kesehatan.
 sebagaimana dimaksud pada ayat (1) terdiri atas:
 a. tenaga pengelola; dan
 b. tenaga khusus.
-(3) Tenaga pengelola sebagaimana dimaksud pada ayat (21
+(3) Tenaga pengelola sebagaimana dimaksud pada ayat (2) 
 huruf a merupakan sumber daya manusia yang mengelola
-penyelenggaraan Sistem Informasi Kesehatan. (4) Tenaga khusus sebagaimana dimaksud pada ayat (21
+penyelenggaraan Sistem Informasi Kesehatan. (4) Tenaga khusus sebagaimana dimaksud pada ayat (2) 
 huruf b merupakan sumber daya manusia yang memiliki
 keahlian tertentu untuk mendukung penyelenggaraan
 Sistem Informasi Kesehatan.
-SK No 230898 A
-Bagian
-
-PRESIDEN
-REPUBLIK TNDONESIA
--398-
 
 Bagian Keenam
 Keandalan Sistem Informasi Kesehatan
@@ -17419,14 +17279,15 @@ merupakan upaya untuk memastikan setiap Sistem
 Informasi Kesehatan terhubung dengan Sistem Informasi
 Kesehatan Nasional sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 986
 (1) Keandalan Sistem Informasi Kesehatan sebagaimana
 dimaksud dalam Pasal 985 dilaksanakan dengan upaya:
-a. menguji kelaikan sistem;
-b. menjaga kerahasiaan data;
-c. menentukan kebijakan hak akses data;
-d. memiliki sertifikasi keandalan sistem; dan
-e. melakukan audit secara berkala.
+  a. menguji kelaikan sistem;
+  b. menjaga kerahasiaan data;
+  c. menentukan kebijakan hak akses data;
+  d. memiliki sertifikasi keandalan sistem; dan
+  e. melakukan audit secara berkala.
 (2) Upaya menguji kelaikan sistem sebagaimana dimaksud
 pada ayat (1) huruf a merLrpakan upaya untuk menilai
 secara objektif terhadap penyelenggaraan Sistem
@@ -17447,35 +17308,29 @@ pengendalian keamanan lainnya.
 (5) Dalam upaya menjaga kerahasiaan data sebagaimana
 dimaksud pada ayat (4), penyelenggara Sistem Informasi
 Kesehatan menerapkan pelindungan dalam:
-a. aspek teknologi;
-b. aspek organisasi; dan
-c. aspek sumber daya manusia.
+  a. aspek teknologi;
+  b. aspek organisasi; dan
+  c. aspek sumber daya manusia.
 (6) Pelindungan dalam aspek teknologi sebagaimana
 dimaksud pada ayat (5) huruf a dilaksanakan dengan
 memastikan Sistem Informasi Kesehatan telah
 menerapkan pemeliharaan dan pengamanan berlapis
 untuk memastikan keamanan dan keandalan sistem serta
 pelindungan data pribadi.
-(71 Pelindungan dalam aspek organisasi sebagaimana
+(7) Pelindungan dalam aspek organisasi sebagaimana
 dimaksud pada ayat (5) huruf b dilaksanakan melalui:
-a. analisis penilaian dampak teknologi;
-b. analisis penilaian dampak pelindungan data pribadi;
-c. penunjukan pejabat atau petugas yang
-melaksanakan fungsi pelindungan data pribadi;
-d. penanganan insiden siber; dan
-e. penJrusunan standar operasional prosedur
-keamanan Sistem Informasi Kesehatan.
+  a. analisis penilaian dampak teknologi;
+  b. analisis penilaian dampak pelindungan data pribadi;
+  c. penunjukan pejabat atau petugas yang
+  melaksanakan fungsi pelindungan data pribadi;
+  d. penanganan insiden siber; dan
+  e. penJrusunan standar operasional prosedur
+  keamanan Sistem Informasi Kesehatan.
 (8) Pelindungan dalam aspek sumber daya manusia
 sebagaimana dimaksud pada ayat (5) huruf c
 dilaksanakan dalam bentuk peningkatan kompetensi di
 bidang Sistem Informasi Kesehatan melalui kegiatan
 pelatihan dan sosialisasi.
-SK No2309004
-(9) Upaya
-
-PRESIDEN
-ITEPUBLIK INDONESIA
--400-
 (9) Upaya menentukan kebijakan hak akses data
 sebagaimana dimaksud pada ayat (1) huruf c
 dilaksanakan dalam bentuk penetapan kriteria, batasan,
@@ -17491,15 +17346,16 @@ perundang-undangan.
 (11) Upaya melakukan audit secara berkala sebagaimana
 dimaksud pada ayat (1) huruf e ditujukan paling sedikit
 terhadap:
-a. penerapan tata kelola Sistem Informasi Kesehatan;
-b. fungsionalitas infrastruktur Sistem Informasi
-Kesehatan; dan/atau
-c. aspek Sistem Informasi Kesehatan lainnya.
+  a. penerapan tata kelola Sistem Informasi Kesehatan;
+  b. fungsionalitas infrastruktur Sistem Informasi
+  Kesehatan; dan/atau
+  c. aspek Sistem Informasi Kesehatan lainnya.
 (12) Audit sebagaimana dimaksud pada ayat (11) dapat
 dilaksanakan oleh kementerian/lembaga yang berwenang
 atau lembaga pelaksana audit teknologi informasi yang
 terakreditasi sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 987
 (1) Penyelenggara Sistem Informasi Kesehatan wajib
 melakukan evaluasi berkala terhadap efisiensi dan
@@ -17529,18 +17385,20 @@ data pribadi warga negara Indonesia yang dilakukan oleh
 penyelenggara Sistem Informasi Kesehatan berbadan hukum
 asing atau beroperasi secara internasional sesuai dengan
 ketentuan peraturan peralndang-undangan.
+
 Pasal 989
 (1) Menteri melakukan pengendalian terhadap penyedia
 Sistem Informasi Kesehatan.
 (2) Pengendalian sebagaimana dimaksud pada ayat (1)
 dilaksanakan meliputi:
-a. pendataan;
-b. standardisasi data; dan
-c. integrasi sistem yang dikembangkan oleh penyedia
-Sistem Informasi Kesehatan.
+  a. pendataan;
+  b. standardisasi data; dan
+  c. integrasi sistem yang dikembangkan oleh penyedia
+  Sistem Informasi Kesehatan.
 (3) Pengendalian sebagaimana dimaksud pada ayat (2)
 dilaksanakan melalui Sistem Informasi Kesehatan
 Nasional.
+
 Pasal 990
 Ketentuan lebih lanjut mengenai teknis penyelenggaraan
 Sistem Informasi Kesehatan sebagaimana dimaksud dalam
@@ -17550,7 +17408,7 @@ Menteri.
 Bagian Kedelapan
 Pembinaan dan Pengawasan
 
-Pasal 99 1
+Pasal 991
 (1) Pemerintah Pusat dan Pemerintah Daerah melakukan
 pembinaan dan pengawasan penyelenggaraan Sistem
 Informasi Kesehatan sesuai tugas, fungsi, dan
@@ -17589,6 +17447,7 @@ dan teknologi bagi Pelayanan Kesehatan.
 (3) Teknologi Kesehatan sebagaimana dimaksud pada ayat (1)
 dapat dilaksanakan oleh Pemerintah Pusat,
 Pemerintah Daerah, dan/ atau masyarakat.
+
 Pasal 993
 Teknologi Kesehatan dilakukan dengan cara:
 a. penelitian, pengembangan, dan pengkajian;
@@ -17606,6 +17465,7 @@ tahapan:
 a. perencanaan;
 b. pelaksanaan; dan
 c. pemantauan dan evaluasi.
+
 Pasal 995
 (1) Perencanaan penelitian, pengembangan, dan pengkajian
 Teknologi Kesehatan sebagaimana dimaksud dalam
@@ -17627,11 +17487,12 @@ e. perkembangan ilmu pengetahuan dan Teknologi
 Kesehatan dan kedokteran. (3) Perencanaan sebagaimana dimaksud pada ayat (1)
 disusun untuk jangka waktu 5 (lima) tahun dan dapat
 dievaluasi setiap tahun.
-(41 Perencanaan sebagaimana dimaksud pada ayat (1) paling
+(4) Perencanaan sebagaimana dimaksud pada ayat (1) paling
 sedikit memuat:
 a. tujuan dan arah kebijakan;
 b. sasaran, strategi, dan program kerja; dan
 c. rincian kegiatan.
+
 Pasal 996
 (1) Pelaksanaan penelitian, pengembangan, dan pengkajian
 Teknologi Kesehatan sebagaimana dimaksud dalam
@@ -17640,12 +17501,14 @@ Pemerintah Pusat, Pemerintah Daerah, dan/atau
 masyarakat.
 (2) Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan
 dengan cara kerja sama atau bentuk lainnya.
+
 Pasal 997
 Dalam rangka pelaksanaan penelitian, pengembangan, dan
 pengkajian sebagaimana dimaksud dalam Pasal 996,
 Pemerintah Pusat, Pemerintah Daerah, danlatau masyarakat
 dapat menetapkan pusat unggulan sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 998
 (1) Pelaksanaan penelitian, pengembangan, dan pengkajian
 dapat memanfaatkan hewan coba, tumbuhan,
@@ -17660,15 +17523,17 @@ d. izin dari pihak yang berwenang. (3) Selain memenuhi kaidah atau ketentuan seb
 dimaksud pada ayat (2) pelaksanaan penelitian,
 pengembangan, dan pengkajian juga memperhatikan
 aspek pelindungan data.
+
 Pasal 999
 (1) Setiap penelitian, pengembangan, dan pengkajian yang
 memanfaatkan hewan coba, tumbuhan, mikroorganisme,
 dan bahan biologi tersimpan, atau mengikutsertakan
 manusia sebagai subjek sebagaimana dimaksud dalam
 Pasal 998 wajib mendapat persetujuan etik penelitian
-sesuai dengan ketentuan peraturan perundangundangan.
+sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Persetujuan etik penelitian sebagaimana dimaksud pada
 ayat (1) wajib diperoleh sebelum penelitian dilaksanakan.
+
 Pasal 1000
 Persetujuan etik penelitian yang mengikutsertakan manusia
 sebagai subjek sebagaimana dimaksud dalam Pasal 999
@@ -17676,12 +17541,7 @@ diberikan berdasarkan prinsip:
 a. menghormati harkat martabat manusia;
 b. berbuat baik dan tidak merugikan; dan
 c. berkeadilan.
-SK No 230905 A
-Pasal 1001 ...
 
-PRESIDEN
-REPUBLTK INDONESIA
--405-
 Pasal 1001
 (1) Penelitian yang mengikutsertakan manusia sebagai subjek
 sebagaimana dimaksud dalam Pasal 998 ayat (1)
@@ -17708,7 +17568,7 @@ vidio dan rekaman suara yang didokumentasikan.
 dimaksud pada ayat (1) sampai dengan ayat (4) berhak
 mendapat informasi terlebih dahulu dari pelaksana
 penelitian sebelum memberikan persetujuan.
-(8) Informasi sebagaimana dimaksud pada ayat (71 berupa
+(8) Informasi sebagaimana dimaksud pada ayat (7) berupa
 informasi mengenai:
 a. tujuan penelitian serta penggunaan hasil penelitian;
 b. jaminan kerahasiaan tentang identitas dan data
@@ -17717,7 +17577,8 @@ c. metode yang digunakan;
 d. risiko yang mungkin timbul; dan
 e. hal lain yang perlu diketahui dalam rangka
 penelitian.
-Pasal LOO2
+
+Pasal 1002
 Penyelenggara Penelitian yang mengikutsertakan manusia
 sebagai subjek sebagaimana dimaksud dalam Pasal 1001
 tidak membebankan biaya apa pun kepada subjek penelitian.
@@ -17734,13 +17595,15 @@ sebagaimana dimaksud pada ayat (1) harus
 memperhatikan kesejahteraan hewan tersebut dan
 mencegah dampak burtrk yang tidak langsung bagi
 Kesehatan manusia.
-Pasal 1OO4
+
+Pasal 1004
 Persetujuan etik penelitian dengan memanfaatkan hewan coba
 sebagaimana dimaksud dalam Pasal 999 diberikan
 berdasarkan prinsip:
 a. penggantian hewan dengan alternatif lain;
 b. jumlah sesedikit mungkin; dan
 c. kesejahteraan hewan.
+
 Pasal 1005
 Persetujuan etik penelitian yang memanfaatkan tumbuhan
 sebagaimana dimaksud dalam Pasal 999 diberikan dengan
@@ -17748,6 +17611,7 @@ memperhatikan prinsip:
 a. menjaga kelestarian sumber daya alam dan lingkungan
 hidup; dan
 b. manfaat bagi Kesehatan masyarakat.
+
 Pasal 1006
 Persetujuan etik penelitian yang memanfaatkan
 mikroorganisme sebagaimana dimaksud dalam Pasal 999
@@ -17756,37 +17620,31 @@ a. keselamatan dan keamanan hayati;
 b. menjaga kelestarian sumber daya alam dan lingkungan
 hidup; dan
 c. manfaat bagi Kesehatan masyarakat.
-Pasal IOOT
+
+Pasal 1007
 Persetujuan etik penelitian yang memanfaatkan bahan biologi
 tersimpan sebagaimana dimaksud dalam Pasal 999 diberikan
 dengan memperhatikan prinsip persetujuan etik penelitian bagi
 sumber bahan biologi tersimpan.
-SK No 230907 A
-Pasal 1008. . .
 
-PRESIDEN
-REPUBLTK INDONESIA
--407-
 Pasal 1008
 Pelaksanaan etik penelitian Kesehatan diselenggarakan sesuai
 dengan ketentuan peraturan perulndang-undangan.
-(1)
-(21
-(3)
-(4)
+
 Pasal 1009
-Penelitian yang mengikutsertakan manusia sebagai subjek
+(1) Penelitian yang mengikutsertakan manusia sebagai subjek
 sebagaimana dimaksud dalam Pasal 998 ayat (1) dapat
 dilaksanakan dalam bentuk uji klinik.
-Uji klinik sebagaimana dimaksud pada ayat (1)
+(2) Uji klinik sebagaimana dimaksud pada ayat (1)
 dilaksanakan oleh penyelenggara uji klinik.
-Penyelenggara uji klinik sebagaimana dimaksud pada
+(3) Penyelenggara uji klinik sebagaimana dimaksud pada
 ayat (2) harus melaksanakan uji klinik di Fasilitas
 Pelayanan Kesehatan atau fasilitas lainnya di bawah
 pengawasan Fasilitas Pelayanan Kesehatan.
-Penyelenggaraan uji klinik sebagaimana dimaksud pada
+(4) Penyelenggaraan uji klinik sebagaimana dimaksud pada
 ayat (1) harus memenuhi cara uji klinik yang baik sesuai
 dengan ketentuan peraturan perundang-undangan.
+
 Pasal 1010
 (1) Dalam penyelenggaraan uji klinik sebagaimana dimaksud
 dalam Pasal 1009 dapat menggunakan material, muatan
@@ -17806,6 +17664,7 @@ ditetapkan oleh Menteri.
 data pembangunan Kesehatan atau tujuan lain
 sebagaimana dimaksud pada ayat (4) dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan.
+
 Pasal 1011
 (1) Penyelenggara uji klinik wajib melakukan registrasi
 uji klinik.
@@ -17815,13 +17674,15 @@ diselenggarakan oleh Menteri.
 terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 Ketentuan mengenai registrasi penyelenggara uji klinik
 diatur dengan Peraturan Menteri.
+
 Pasal 1012
 Pemerintah Pusat dan Pemerintah Daerah secara
 terkooordinasi melaksanakan pemantauan dan evaluasi
 terhadap pelaksanaan penelitian, pengembangan, dan
 pengkajian.
+
 Pasal 1013
-(1) Pemantauan sebagaimana dimaksud dalam Pasal IOl2
+(1) Pemantauan sebagaimana dimaksud dalam Pasal 1012
 dilaksanakan dalam rangka pengendalian dan menjamin
 mutu pelaksanaan penelitian, pengembangan dan
 pengkajian sesuai dengan ketentuan sebagaimana
@@ -17831,8 +17692,9 @@ sedikit dalam bentuk:
 a. sistem pencatatan;
 b. verifikasi lapangan; atau
 c. bentuk pemantauan lainnya.
+
 Pasal 1014
-(1) Evaluasi sebagaimana dimaksud dalam Pasal lol2
+(1) Evaluasi sebagaimana dimaksud dalam Pasal 1012
 dilaksanakan untuk perbaikan pelaksanaan penelitian,
 pengembangan, dan pengkajian di masa yang akan
 datang.
@@ -17856,6 +17718,7 @@ Sumber Daya Kesehatan dan Upaya Kesehatan.
 sebagaimana dimaksud pada ayat (1) dapat dilaksanakan
 oleh Pemerintah Pusat, Pemerintah Daerah, dan/atau
 masyarakat.
+
 Pasal 1016
 (1) Pemerintah Pusat menyelenggarakan kebijakan untuk
 memastikan keberlanjutan dan kemanfaatan inovasi
@@ -17867,17 +17730,17 @@ Teknologi Kesehatan.
 (2) Pengujian skala terbatas sebagaimana dimaksud pada
 ayat (1) dilaksanakan melalui pendekatan kolaborasi lintas
 pemangku kebijakan untuk mendorong:
-a. pengembangan inovasi;
-b. perluasan pemanfaatan produkllayanan; dan
-c. pembentukan kebijakan berbasis inovasi.
+  a. pengembangan inovasi;
+  b. perluasan pemanfaatan produkllayanan; dan
+  c. pembentukan kebijakan berbasis inovasi.
 (3) Lingkup pengujian skala terbatas meliputi:
-a. mutu tata kelola;
-b. jaminan manfaat dan keamanan teknologi;
-c. perizinan dan pelindungan konsumen; dan
-d. Tenaga Medis, Tenaga Kesehatan, dan masyarakat
-yang terlibat dalam ekosistem inovasi Teknologi
-Kesehatan.
-(41 Pemerintah Pusat dalam mengembangkan ekosistem
+  a. mutu tata kelola;
+  b. jaminan manfaat dan keamanan teknologi;
+  c. perizinan dan pelindungan konsumen; dan
+  d. Tenaga Medis, Tenaga Kesehatan, dan masyarakat
+  yang terlibat dalam ekosistem inovasi Teknologi
+  Kesehatan.
+(4) Pemerintah Pusat dalam mengembangkan ekosistem
 inovasi Teknologi Kesehatan sebagaimana dimaksud pada
 ayat (1) dilaksanakan dengan mengutamakan sumber
 daya lokal serta memanfaatkan kerja sama dalam negeri
@@ -17889,7 +17752,7 @@ Menteri.
 Bagian Keempat
 Penilaian Teknologi Kesehatan
 
-Pasal lOlT
+Pasal 1017
 (1) Setiap pemanfaatan Teknologi Kesehatan harus
 mempertimbangkan potensi risiko dan manfaatnya
 terhadap Kesehatan masyarakat.
@@ -17899,51 +17762,47 @@ penilaian Teknologi Kesehatan.
 (3) Penilaian Teknologi Kesehatan sebagaimana dimaksud
 pada ayat (1) merupakan evaluasi sistematik dan
 multidisiplin terhadap hasil Teknologi Kesehatan.
+
 Pasal 1018
 (1) Penilaian Teknologi Kesehatan sebagaimana
-dimaksud dalam Pasal lOlT dilakukan pada Teknologi
+dimaksud dalam Pasal 1017 dilakukan pada Teknologi
 Kesehatan yang digunakan dalam penyelenggaraan
 Upaya Kesehatan.
 (2) Penilaian Teknologi Kesehatan dilakukan terhadap
 Teknologi Kesehatan dengan kriteria:
-a. volume tinggi;
-b. risiko tinggi;
-c. biaya tinggi;
-d. variabilitas tinggi;
-e. memiliki urgensi dalam penyelenggaraan Upaya
-Kesehatan;
-f. memiliki dampak untuk memperbaiki akses, kualitas,
-dan Kesehatan bagi masyarakat;
-g. memiliki potensi penghematan biaya atau
-keterjangkauan biaya; dan/ atau
-h. memiliki penerimaan dari aspek sosial, budaya,
-etika, politik, dan agama terhadap penerapan
-Teknologi Kesehatan. (3) Penilaian Teknologi Kesehatan sebagaimana
+  a. volume tinggi;
+  b. risiko tinggi;
+  c. biaya tinggi;
+  d. variabilitas tinggi;
+  e. memiliki urgensi dalam penyelenggaraan Upaya
+  Kesehatan;
+  f. memiliki dampak untuk memperbaiki akses, kualitas,
+  dan Kesehatan bagi masyarakat;
+  g. memiliki potensi penghematan biaya atau
+  keterjangkauan biaya; dan/ atau
+  h. memiliki penerimaan dari aspek sosial, budaya,
+  etika, politik, dan agama terhadap penerapan
+  Teknologi Kesehatan.
+(3) Penilaian Teknologi Kesehatan sebagaimana
 dimaksud pada ayat (1) harus dilakukan sebelum
 Teknologi Kesehatan dimanfaatkan.
-(1)
-(2t
-(3)
+
 Pasal 1019
-Permohonan Penilaian Teknologi Kesehatan sebagaimana
+(1) Permohonan Penilaian Teknologi Kesehatan sebagaimana
 dimaksud dalam Pasal 1018 dilakukan oleh pelaksana
 penelitian, pengembangan, dan pengkajian.
-Penilaian Teknologi Kesehatan dilaksanakan oleh Menteri.
+(2) Penilaian Teknologi Kesehatan dilaksanakan oleh Menteri.
 Ketentuan lebih lanjut mengenai penilaian Teknologi
 Kesehatan diatur dengan Peraturan Menteri.
-Pasal lO2O
+
+Pasal 1020
 (1) Menteri melakukan pemantauan dan evaluasi secara
 berkala terhadap:
 a. hasil pengujian skala terbatas sebagaimana
 dimaksud dalam Pasal 1016; dan
 b. hasil penilaian Teknologi Kesehatan sebagaimana
-dimaksud dalam Pasal IOl7.
-SK No2309ll A
-(2) Ketentuan
+dimaksud dalam Pasal 1017.
 
-PRESIDEN
-REPUELIK INDONESIA
--4LL-
 (2) Ketentuan lebih lanjut mengenai Pelaksanaan
 pemantauan dan evaluasi sebagaimana dimaksud pada
 ayat (1) diatur dengan Peraturan Menteri.
@@ -17951,37 +17810,33 @@ ayat (1) diatur dengan Peraturan Menteri.
 Bagian Kelima
 Pemanfaatan Teknologi Kesehatan
 
-(1)
-(2)
-(3)
-(4)
-(s)
-Pasal LO2l
-Pemerintah Pusat dan Pemerintah Daerah mendorong
+Pasal 1021
+(1) Pemerintah Pusat dan Pemerintah Daerah mendorong
 pemanfaatan Teknologi Kesehatan yang dihasilkan dari
 penelitian, pengembangan, dan pengkajian dalam negeri
 dalam rangka mendukung Pelayanan Kesehatan.
-Pemanfaatan Teknologi Kesehatan sebagaimana dimaksud
+(2) Pemanfaatan Teknologi Kesehatan sebagaimana dimaksud
 pada ayat (1) digunakan untuk membantu menegakkan
 diagnostik, pencegahan, pengobatan, peningkatan
 kualitas hidup, dan penanganan masalah Kesehatan.
-Pemanfaatan Teknologi Kesehatan sebagaimana dimaksud
+(3) Pemanfaatan Teknologi Kesehatan sebagaimana dimaksud
 pada ayat (1) meliputi:
-a. pemanfaatan teknologi Informasi Kesehatan dalam
-Sistem Informasi Kesehatan Nasional;
-b. teknologi biomedis; dan
-c. teknologi lainnya.
-Pemanfaatan teknologi Informasi Kesehatan dalam
+  a. pemanfaatan teknologi Informasi Kesehatan dalam
+  Sistem Informasi Kesehatan Nasional;
+  b. teknologi biomedis; dan
+  c. teknologi lainnya.
+(4) Pemanfaatan teknologi Informasi Kesehatan dalam
 Sistem Informasi Kesehatan Nasional sebagaimana
 dimaksud pada ayat (3) huruf a dapat berupa penerapan
 rekam medis elektronik, Telemedisin, Telekesehatan,
 robotik, dan kecerdasan buatan.
-Pemanfaatan teknologi biomedis sebagaimana dimaksud
-pada ayat (3) hurr.f b, dapat berupa penggunaan vaksin,
+(5) Pemanfaatan teknologi biomedis sebagaimana dimaksud
+pada ayat (3) huruf b, dapat berupa penggunaan vaksin,
 Obat, produk biologi, diagnostik, kedokteran presisi, dan
 terapi berdasarkan identifikasi genetik dan biomarker
 lainnya.
-Pasal lO22
+
+Pasal 1022
 (1) Pemanfaatan teknologi biomedis dilaksanakan mulai dari
 kegiatan pengambilan, penyimpanan jangka panjang,
 serta pengelolaan dan pemanfaatan material dalam bentuk
@@ -18005,7 +17860,8 @@ Pelayanan Kesehatan setelah mendapatkan izin Menteri.
 (5) Ketentuan lebih lanjut mengenai tata cara mendapatkan
 izin sebagaimana dimaksud pada ayat (4) diatur dengan
 Peraturan Menteri.
-Pasal lO23
+
+Pasal 1023
 (1) Pengambilan, penyimpanan jangka panjang, serta
 pengelolaan dan pemanfaatan material dalam bentuk
 spesimen klinik dan materi biologi, muatan informasi, dan
@@ -18039,13 +17895,8 @@ c. material dalam bentuk spesimen klinik dan materi
 biologi, muatan informasi, dan data untuk
 kepentingan umum sesuai dengan ketentuan
 peraturan perundang-undangan.
-SK No 230913 A
-PasallO24...
 
-FRESIDEN
-REPUBLIK INDONESIA
--4t3-
-Pasal tO24
+Pasal 1024
 (1) Penyimpanan dan pengelolaan material dalam bentuk
 spesimen klinik dan materi biologi, muatan informasi, dan
 data untuk jangka panjang harus dilakukan oleh biobank
@@ -18056,16 +17907,18 @@ Kesehatan, institusi pendidikan, dan/atau lembaga
 penelitian dan pengembangan Kesehatan, baik milik
 Pemerintah Pusat, Pemerintah Daerah, maupun swasta.
 (3) Penyelenggaraan biobank dan/atau biorepositori
-sebagaimana dimaksud pada ayat (21harus mendapatkan
+sebagaimana dimaksud pada ayat (2) harus mendapatkan
 penetapan dari Menteri.
 (4) Ketentuan lebih lanjut mengenai mekanisme penetapan
 sebagaimana dimaksud pada ayat (3) diatur dengan
 Peraturan Menteri.
+
 Pasal 1025
 Material dalam bentuk spesimen klinik dan materi biologi,
 muatan informasi, dan data dapat dimanfaatkan dalam
 kegiatan penelitian dan pengembanga.n baik untuk tujuan
 komersial maupun nonkomersial.
+
 Pasal 1026
 (1) Material dalam bentuk spesimen klinik dan materi biologi,
 muatan informasi dan/atau data biomedis dapat
@@ -18092,7 +17945,8 @@ persetujuan donor.
 (5) Ketentuan lebih lanjut mengenai tata cara perizinan
 penggunaan oleh industri atau untuk kepentingan
 komersial diatur dengan Peraturan Menteri.
-Pasal lO27
+
+Pasal 1027
 (1) Penyelenggara biobank dan/atau biorepositori wajib
 menyimpan spesimen dan data di dalam negeri.
 (2) Data dan informasi dalam penyelenggaraan biobank
@@ -18102,34 +17956,29 @@ Sistem Informasi Kesehatan Nasional.
 dapat diakses dan dimanfaatkan oleh Pemerintah Pusat,
 Pemerintah Daerah, dan masyarakat untuk kepentingan
 penelitian dan pengembangan.
-(41 Ketentuan sebagaimana dimaksud pada ayat (21
+(4) Ketentuan sebagaimana dimaksud pada ayat (2) 
 dikecualikan untuk:
-a. data identitas subjek, baik individu maupun
-kelompok;
-b. data dan informasi yang jika dibuka untuk umum
-dapat meresahkan masyaiakat dan/ atau mengancam
-keamanan negara;
-c. data dan informasi yang secara etika atau hasil
-kesepakatan dengan subjek bersifat rahasia atau
-dirahasiakan;
-d. data dan informasi yang masih dalam proses
-penelitian dan pengembangan, pengolahan dan/atau
-penyelesaian;
-e. data dan informasi yang masih dalam proses
-pengajuan hak kekayaan intelektual; dan
-f. data dan informasi lainnya yang
-dikecualikan berdasarkan ketentuan peraturan
-perundang-undangan.
-(5) Data dan informasi sebagaimana dimaksud pada ayat (21
+  a. data identitas subjek, baik individu maupun
+  kelompok;
+  b. data dan informasi yang jika dibuka untuk umum
+  dapat meresahkan masyaiakat dan/ atau mengancam
+  keamanan negara;
+  c. data dan informasi yang secara etika atau hasil
+  kesepakatan dengan subjek bersifat rahasia atau
+  dirahasiakan;
+  d. data dan informasi yang masih dalam proses
+  penelitian dan pengembangan, pengolahan dan/atau
+  penyelesaian;
+  e. data dan informasi yang masih dalam proses
+  pengajuan hak kekayaan intelektual; dan
+  f. data dan informasi lainnya yang
+  dikecualikan berdasarkan ketentuan peraturan
+  perundang-undangan.
+(5) Data dan informasi sebagaimana dimaksud pada ayat (2) 
 harus dijaga keamanannya untuk mencegah terjadi
 penyalahgunaan.
-Pasal1028...
-SK No 230915 A
 
-PR.ESIDEN
-REPUBLIK INDONESIA
--415-
-Pasal lO28
+Pasal 1028
 (1) Dalam rangka mendukung pelaksanaan penelitian,
 pengembangan, dan pengkajian, dapat dilakukan
 pengalihan dan pengguna€rn material dalam bentuk
@@ -18140,15 +17989,15 @@ serta antarwilayah di Indonesia.
 spesimen klinik dan materi biologi, muatan informasi,
 dan/atau data ke luar wilayah Indonesia sebagaimana
 dimaksud pada ayat (1) hanya dapat dilakukan apabila:
-a. cara mencapai maksud dan tujuan pemeriksaan tidak
-dapat dilakukan di Indonesia;
-b. pemeriksaan dapat dilakukan di Indonesia tetapi
-untuk mencapai tujuan utama penelitian, perlu
-dilakukan pemeriksaan di luar wilayah Indonesia;
-dan/atau
-c. untuk kepentingan kendali mutu dalam rangka
-pemutakhiran akurasi kemampuan standar
-diagnostik dan terapi.
+  a. cara mencapai maksud dan tujuan pemeriksaan tidak
+  dapat dilakukan di Indonesia;
+  b. pemeriksaan dapat dilakukan di Indonesia tetapi
+  untuk mencapai tujuan utama penelitian, perlu
+  dilakukan pemeriksaan di luar wilayah Indonesia;
+  dan/atau
+  c. untuk kepentingan kendali mutu dalam rangka
+  pemutakhiran akurasi kemampuan standar
+  diagnostik dan terapi.
 (3) Pengalihan dan penggunaan material dalam bentuk
 spesimen klinik dan materi biologi, muatan informasi,
 dan/atau data sebagaimana dimaksud pada ayat (1)
@@ -18174,18 +18023,13 @@ spesimen klinik dan materi biologi, muatan informasi,
 dan/atau data ke luar wilayah Indonesia sebagaimana
 dimaksud pada ayat (1) hanya dapat dilakukan setelah
 mendapatkan persetujuan Menteri.
-SK No 230916 A
-(7) Pengalihan
-
-PRESIDEN
-REPUBLTK INDONESIA
--4t6-
-(71 Pengalihan dan penggunaan material dalam bentuk
+(7) Pengalihan dan penggunaan material dalam bentuk
 spesimen klinik dan materi biologi, muatan informasi,
 dan/atau data tertentu ke dalam wilayah Indonesia
 sebagaimana dimaksud pada ayat (1) hanya dapat
 dilakukan setelah mendapatkan persetujuan Menteri.
-Pasal lO29
+
+Pasal 1029
 Selain digunakan untuk kepentingan penelitian,
 pengembangan, dan pengkajian, pengalihan dan penggunaan
 material dalam bentuk spesimen klinik dan materi biologi,
@@ -18194,6 +18038,7 @@ Indonesia serta antarwilayah di Indonesia juga dapat
 digunakan untuk kepentingan Pelayanan Kesehatan dengan
 tetap memenuhi tata cara pengalihan dan penggunaan
 sebagaimana dimaksud dalam Pasal 1028.
+
 Pasal 1030
 Pengawasan terhadap kegiatan pengalihan material dalam
 rangka penelitian, pengembangan, dan pengkajian dilakukan
@@ -18201,12 +18046,14 @@ oleh Menteri berkoordinasi dengan kepala lembaga pemerintah
 yang menyelenggarakan tugas pemerintahan di bidang
 penelitian, pengembangan, pengkajian, dan penerapan serta
 invensi dan inovasi.
+
 Pasal 1031
 Ketentuan lebih lanjut mengenai persetujuan pengalihan dan
 penggunaan material dalam bentuk spesimen klinik dan materi
 biologi, muatan informasi, dan/atau data diatur dengan
 Peraturan Menteri.
-Pasal lO32
+
+Pasal 1032
 (1) Pengambilan dan pengiriman material dalam bentuk
 spesimen klinik dan materi biologi hanya dapat dilakukan
 oleh Tenaga Medis, Tenaga Kesehatan, dan
@@ -18221,12 +18068,7 @@ Tenaga Pendukung atau Penunjang Kesehatan.
 dalam bentuk spesimen klinik dan materi biologi
 sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai
 dengan ketentr:an peraturan perurndang-undangan.
-SK No 226965 A
-Pasal 1033 .
 
-PRESIDEN
-REPUBLTK INDONESIA
--4t7-
 Pasal 1033
 (1) Pemanfaatan Teknologi Kesehatan dapat dipergunakan
 untuk melakukan pemeriksaan dan analisis genetika
@@ -18239,7 +18081,7 @@ dipergunakan secara terbatas.
 pada ayat (1) dapat dilaksanakan oleh laboratorium
 Kesehatan yang memiliki kapasitas dan kompetensi dalam
 pemeriksaan dan analisis genetika.
-(41 Pengelolaan hasil pemeriksaan dan analisis genetika
+(4) Pengelolaan hasil pemeriksaan dan analisis genetika
 terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 (5) Pemeriksaan dan analisis genetika sebagaimana dimaksud
 pada ayat (3) hanya dapat dilakukan setelah mendapatkan
@@ -18247,6 +18089,7 @@ izin dari Menteri.
 (6) Ketentuan lebih lanjut mengenai syarat dan tata cara
 pemberian izin sebagaimana dimaksud pada ayat (5)
 diatur dengan Peraturan Menteri.
+
 Pasal 1034
 (1) Setiap Orang dilarang melakukan diskriminasi atas hasil
 pemeriksaan dan analisis genetik seseorang.
@@ -18266,15 +18109,10 @@ administratif oleh Pemerintah Pusat atau
 Pemerintah Daerah sesuai dengan kewenangannya berupa
 pengenaan denda administratif sampai dengan
 pencabutan izin.
-SK No 230918 A
-Pasal 1035. . .
 
-FRESIDEN
-REPUBLIK TNDONESIA
--4t8-
 Pasal 1035
 (1) Dalam hal terjadi dugaan diskriminasi sebagaimana
-dimaksud dalam Pasal LO34, Setiap Orang dapat
+dimaksud dalam Pasal 1034, Setiap Orang dapat
 menyampaikan pengaduan kepada lembaga mandiri yang
 berfungsi melaksanakan pengkajian, penelitian,
 penyuluhan, pemantauan, dan mediasi hak asasi
@@ -18288,6 +18126,7 @@ peraturan perundang-undangan.
 ayat (2l', Pemerintah Pusat atau Pemerintah Daerah
 memberikan sanksi administratif kepada pelaku
 diskriminasi.
+
 Pasal 1036
 Pemerintah Pusat dan Pemerintah Daerah memberikan:
 a. kemudahan perizinan;
@@ -18296,7 +18135,8 @@ c. hilirisasi,
 terhadap penelitian, pengembangan, dan pengkajian
 Teknologi Kesehatan sesuai dengan ketentuan peraturan
 perundang-undangan.
-Pasal LO37
+
+Pasal 1037
 Pencatatan dan pelaporan terhadap pemanfaatan
 Teknologi Kesehatan dilakukan oleh Fasilitas Pelayanan
 Kesehatan, Pemerintah Daerah, Pemerintah Pusat, dan
@@ -18350,6 +18190,7 @@ d. penguatan Sumber Daya Kesehatan; dan/atau
 e. pengembangan rencana tanggap darurat untuk
 kesiapan menghadapi KLB dan sebagai upaya
 meminimalisasi terjadinya KLB berulang.
+
 Pasal 1040
 (1) Pemerintah hrsat melaksanakan kewaspadaan KLB di
 Pintu Masuk dan pelabuhan atau bandar udara yang
@@ -18357,18 +18198,13 @@ melayani lalu lintas domestik. (2) Kewaspadaan sebagaimana dimaksud pada ayat (1
 melalui kegiatan:
 a. pengamatan penyakit, faktor risiko penyakit,
 dan/ atau masalah Kesehatan;
-SK No 230920 A
-b. tindakan
 
-PRESIDEN
-REPUBLIK TNDONESIA
--420-
 b. tindakan penanggulangan dalam rangka
 kewaspadaan KLB; dan
 c. pemeriksaan dan/atau penerbitan Dokumen
 Karantina Kesehatan.
 (3) Pengamatan penyakit, faktor risiko penyakit, dan/atau
-masalah Kesehatan sebagaimana dimaksud pada ayat (21
+masalah Kesehatan sebagaimana dimaksud pada ayat (2) 
 huruf a dilakukan terhadap alat angkut, orang, barang,
 dan/atau lingkungan.
 (4) Tindakan penanggulangan dalam rangka kewaspadaan
@@ -18378,7 +18214,7 @@ penyakit, dan/atau masalah Kesehatan pada alat angkut,
 orang, barang, dan/atau lingkungan berkoordinasi
 dengan kementerian/ lembaga terkait.
 (5) Tindakan penanggulangan dalam rangka kewaspadaan
-KLB sebagaimana dimaksud pada ayat (41dapat berupa:
+KLB sebagaimana dimaksud pada ayat (4) dapat berupa:
 a. karantina, isolasi, pelaksanaan imunisasi atau
 pemberian profilaksis, rujukan, disinfeksi, dan/atau
 dekontaminasi terhadap orang sesuai indikasi;
@@ -18394,6 +18230,7 @@ bertujuan untuk mengawasi dan mencegah masuk
 dan/atau keluarnya penyakit, faktor risiko penyakit,
 dan/atau masalah Kesehatan yang berpotensi dibawa oleh
 alat angkut, orang, danf atau barang.
+
 Pasal 1041
 Ketentuan lebih lanjut mengenai pedoman pelaksanaan
 kegiatan kewaspadaan KLB di wilayah, Pintu Masuk, dan
@@ -18403,17 +18240,12 @@ domestik diatur dengan Peraturan Menteri.
 Paragraf 2
 Penanggulangan Kejadian Luar Biasa
 
-Pasal lO42
+Pasal 1042
 (1) Bupati/wali kota, gubernur, atau Menteri harus
 menetapkan KLB jika pada suatu daerah tertentu terdapat
 penyakit atau masalah Kesehatan yang memenuhi
 kriteria KLB.
-SK No 230921 A
-(2) Dalam
 
-PRESIDEN
-REPUBLIK TNDONESIA
--42r-
 (2) Dalam penetapan status KLB oleh bupati/wali kota,
 gubernur, atau Menteri sebagaimana dimaksud pada
 ayat (1) dilakukan pada suatu daerah tertentu yang
@@ -18449,7 +18281,7 @@ dari hewan ke manusia;
 b. berpotensi menimbulkan sakit yang parah,
 kedisabilitasan, dan/atau kematian; dan
 c. berpotensi meningkat dan menyebar secara cepat.
-(5) Masalah Kesehatan sebagaimana dimaksud pada ayat (21
+(5) Masalah Kesehatan sebagaimana dimaksud pada ayat (2) 
 yang berpotensi menimbulkan KLB meliputi:
 a. paparan radiasi, lepasan, dan/atau kontaminasi zat
 radioaktif dari instalasi nuklir dan/atau kegiatan
@@ -18477,76 +18309,73 @@ kejadian keamanan nuklir sebagaimana dimaksud pada
 ayat (5) hurtrf a harus memenuhi kriteria, volume, dan
 konsentrasi sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 1043
 Menteri dalam menetapkan kriteria KLB lainnya sebagaimana
-dimaksud dalam Pasal lO42 ayat (3) huruf g harus
+dimaksud dalam Pasal 1042 ayat (3) huruf g harus
 memperhatikan dan mempertimbangkan aspek epidemiologi,
 perkembangan ilmu pengetahuan dan teknologi di bidang
 Kesehatan, danf atau berkoordinasi dengan Pemerintah Daerah
 dan kementerian/lembaga terkait.
-Pasal lO44
+
+Pasal 1044
 (1) Penetapan status KLB oleh bupati/wali kota dilakukan
 dalam hal luas wilayah terdampak KLB terjadi di sebagian
 atau seluruh wilayah kabupaten I kota setempat.
 (2) Penetapan KLB oleh gubernur dilakukan dalam hal:
-a. jika terdapat penyakit atau masalah Kesehatan yang
-memenuhi kriteria KLB di wilayah kabupaten/kota
-dan bupati/wali kota belum menetapkan status KLB
-dalam jangka waktu 1 (satu) kali masa inkubasi
-untuk penyakit menular atau 14 (empat belas) hari
-untuk masalah Kesehatan; dan/atau
-b. luas wilayah terdampak KLB sedikitnya meliputi
-2 (dua) wilayah kabupaten/kota dalam suatu wilayah
-kerja administratif.
+  a. jika terdapat penyakit atau masalah Kesehatan yang
+  memenuhi kriteria KLB di wilayah kabupaten/kota
+  dan bupati/wali kota belum menetapkan status KLB
+  dalam jangka waktu 1 (satu) kali masa inkubasi
+  untuk penyakit menular atau 14 (empat belas) hari
+  untuk masalah Kesehatan; dan/atau
+  b. luas wilayah terdampak KLB sedikitnya meliputi
+  2 (dua) wilayah kabupaten/kota dalam suatu wilayah
+  kerja administratif.
 (3) Penetapan KLB oleh Menteri dapat dilakukan dalam hal:
-a. jika terdapat penyakit atau masalah Kesehatan yang
-memenuhi kriteria KLB di suatu wilayah terjadi
-peningkatan kasus secara signifikan, dan Pemerintah
-Daerah belum menetapkan status KLB dalam jangka
-waktu 1 (satu) kali masa inkubasi untuk penyakit
-menular atau 14 (empat belas) hari untuk masalah
-Kesehatan; dan/atau
-b. luas wilayah terdampak KLB meliputi lintas provinsi.
-(1)
-(2t
-(3)
+  a. jika terdapat penyakit atau masalah Kesehatan yang
+  memenuhi kriteria KLB di suatu wilayah terjadi
+  peningkatan kasus secara signifikan, dan Pemerintah
+  Daerah belum menetapkan status KLB dalam jangka
+  waktu 1 (satu) kali masa inkubasi untuk penyakit
+  menular atau 14 (empat belas) hari untuk masalah
+  Kesehatan; dan/atau
+  b. luas wilayah terdampak KLB meliputi lintas provinsi.
+
 Pasal 1045
-Bupati/wali kota, gubernur, atau Menteri yang
+(1) Bupati/wali kota, gubernur, atau Menteri yang
 menetapkan KLB wajib segera melaksanakan kegiatan
 penanggulangan KLB.
-Penanggulangan KLB dilaksanakan sesuai dengan jenis
+(2) Penanggulangan KLB dilaksanakan sesuai dengan jenis
 penyakit dan masalah Kesehatan yang menyebabkan KLB.
-Penanggulangan KLB sebagaimana dimaksud pada
+(3) Penanggulangan KLB sebagaimana dimaksud pada
 ayat (1) dilakukan kegiatan:
-a. penyelidikan epidemiologis;
-b. pelaksanaansurveilans;
-c. pengendalian faktor risiko;
-d. pemusnahan penyebab KLB;
-e. pencegahan dan pengebalan;
-f. promosi Kesehatan;
-g. komunikasi risiko;
-h. penatalaksanaan kasus;
-i. penanganan jenazah akibat KLB; dan
-j. upaya penanggulangan lainnya yang diperlukan
-sesuai dengan penyebab KLB.
-Penyelidikan epidemiologis sebagaimana dimaksud pada
+  a. penyelidikan epidemiologis;
+  b. pelaksanaansurveilans;
+  c. pengendalian faktor risiko;
+  d. pemusnahan penyebab KLB;
+  e. pencegahan dan pengebalan;
+  f. promosi Kesehatan;
+  g. komunikasi risiko;
+  h. penatalaksanaan kasus;
+  i. penanganan jenazah akibat KLB; dan
+  j. upaya penanggulangan lainnya yang diperlukan
+  sesuai dengan penyebab KLB.
+(4) Penyelidikan epidemiologis sebagaimana dimaksud pada
 ayat (3) huruf a dilakukan untuk mengetahui atau
 menentukan sebab dan faktor risiko KLB, mengetahui
 kelompok masyarakat yang berisiko terdampak KLB, serta
 menentukan cara penanggulangan.
-Penyelidikan epidemiologis sebagaimana dimaksud pada
+(5) Penyelidikan epidemiologis sebagaimana dimaksud pada
 ayat (4) dilakukan melalui:
-a. pengumpulan data kesakitan dan kematian
-penduduk;
-b. pemeriksaan klinis, fisik, laboratorium dan
-penegakan diagnosis; dan
-c. pengamatan terhadap penduduk serta pemeriksaan
-terhadap makhluk hidup lain dan benda yang ada di
-suatu wilayah yang diduga mengandung penyebab
-KLB.
-(4)
-(s)
-
+  a. pengumpulan data kesakitan dan kematian
+  penduduk;
+  b. pemeriksaan klinis, fisik, laboratorium dan
+  penegakan diagnosis; dan
+  c. pengamatan terhadap penduduk serta pemeriksaan
+  terhadap makhluk hidup lain dan benda yang ada di
+  suatu wilayah yang diduga mengandung penyebab
+  KLB.
 (6) Pelaksanaan surweilans sebagaimana dimaksud pada
 ayat (3) huruf b dilakukan melalui surveilans kasus dan
 surveilans faktor risiko secara intensif untuk mengetahui
@@ -18585,13 +18414,14 @@ pada ayat (3) huruf i dilakukan melalui penanga.nan secara
 khusus menurut jenis penyakit dan masalah Kesehatan
 dengan memperhatikan norma agama atau kepercayaan
 dan peraturan perundang-undangan.
+
 Pasal 1046
 Penanggulangan KLB yang merupakan respon terhadap
 masalah Kesehatan berupa kejadian paparan radiasi, lepasan,
 dan/atau kontaminasi zat radioaktif dilakukan sesuai dengan
 ketentuan peraturan perundang-undangan.
 
-Pasal lO47
+Pasal 1047
 Ketentuan lebih lanjut mengenai pedoman pelaksanaan
 kegiatan penanggulangan KLB sebagaimana dimaksud dalam
 Pasal 1045 diatur dengan Peraturan Menteri.
@@ -18608,21 +18438,22 @@ memenuhi kriteria KLB yang digunakan pada saat
 penetapan KLB.
 (3) Pencabutan penetapan status KLB sebagaimana
 dimaksud pada ayat (1) harus mempertimbangkan:
-a. hasil penyelidikan epidemiologis sudah tidak
-ditemukan kasus baru dalam 2 (dua) kali masa
-inkubasi terpanjang untuk penyakit menular; atau
-b. pelaksanaan upaya penanggulangan dan
-pengendalian untuk masalah Kesehatan.
-Pasal IO49
+  a. hasil penyelidikan epidemiologis sudah tidak
+  ditemukan kasus baru dalam 2 (dua) kali masa
+  inkubasi terpanjang untuk penyakit menular; atau
+  b. pelaksanaan upaya penanggulangan dan
+  pengendalian untuk masalah Kesehatan.
+
+Pasal 1049
 (1) Kegiatan pasca-KlB dilakukan untuk pemulihan
 Kesehatan masyarakat di wilayah terjangkit KLB dan
 mencegah KLB berulang.
 (2) Kegiatan pasca-KlB sebagaimana dimaksud pada ayat (1)
 meliputi:
-a. komunikasi risiko;
-b. pelaksanaan surveilans Kesehatan; dan
-c. pemberdayaanmasyarakat.
-(3) Komunikasi risiko sebagaimana dimaksud pada ayat (21
+  a. komunikasi risiko;
+  b. pelaksanaan surveilans Kesehatan; dan
+  c. pemberdayaanmasyarakat.
+(3) Komunikasi risiko sebagaimana dimaksud pada ayat (2) 
 huruf a dilakukan melalui pemberian informasi dan/atau
 edukasi kepada masyarakat.
 (4) Pelaksanaan surveilans Kesehatan sebagaimana
@@ -18630,14 +18461,14 @@ dimaksud pada ayat (2) huruf b dilakukan melalui
 pengamatan, verifikasi, serta analisis data laporan kasus
 dan faktor risiko secara periodik.
 (5) Pemberdayaan masyarakat sebagaimana dimaksud pada
-ayat (21huruf c ditujukan untuk menciptakan kesadaran,
+ayat (2) huruf c ditujukan untuk menciptakan kesadaran,
 kemauan, serta kemampuan individu, keluarga, dan
 kelompok masyarakat.
 (6) Pemberdayaan masyarakat sebagaimana dimaksud pada
 ayat (5) dilakukan melalui fasilitasi proses pemecahan
 masalah dalam bentuk pendekatan edukatif dan
 partisipatif.
-(71 Ketentuan lebih lanjut mengenai pedoman pelaksanaan
+(7) Ketentuan lebih lanjut mengenai pedoman pelaksanaan
 kegiatan pasca-KlB sebagaimana dimaksud pada ayat (1)
 sampai dengan ayat (6) diatur dengan Peraturan Menteri.
 
@@ -18649,28 +18480,30 @@ Rencana Kontingensi Penanggulangan Wabah
 
 Pasal 1050
 (1) Dalam rangka Kewaspadaan Wabah:
-a. Pemerintah Daerah provinsi dan Pemerintah Daerah
-kabupaten/kota men5rusun dan menetapkan rencana
-kontingensi penanggulangan Wabah di wilayah
-sesuai dengan kewenangannya; dan
-b. kementerian yang menyelenggarakan urusan
-pemerintahan di bidang kesehatan men5rusun dan
-menetapkan rencana kontingensi penanggulangan
-Wabah pada Pintu Masuk dan pelabuhan atau
-bandar udara yang melayani lalu lintas domestik.
+  a. Pemerintah Daerah provinsi dan Pemerintah Daerah
+  kabupaten/kota men5rusun dan menetapkan rencana
+  kontingensi penanggulangan Wabah di wilayah
+  sesuai dengan kewenangannya; dan
+  b. kementerian yang menyelenggarakan urusan
+  pemerintahan di bidang kesehatan men5rusun dan
+  menetapkan rencana kontingensi penanggulangan
+  Wabah pada Pintu Masuk dan pelabuhan atau
+  bandar udara yang melayani lalu lintas domestik.
 (2) Penyusunan rencana kontingensi penanggulangan Wabah
 sebagaimana dimaksud pada ayat (1) harus melibatkan
 lintas sektor, lintas program, dan pemangku kepentingan
-terkait. (3) Pemerintah Daerah provinsi dan Pemerintah Daerah
+terkait.
+(3) Pemerintah Daerah provinsi dan Pemerintah Daerah
 kabupaten/kota dalam menJrusun rencana kontingensi
 penanggulangan Wabah sebagaimana dimaksud pada
 ayat (1) huruf a mengacu pada pedoman yang ditetapkan
 oleh Menteri.
+
 Pasal 1051
 Rencana kontingensi penanggulangan Wabah pada Pintu
 Masuk dan pelabuhan atau bandar udara yang melayani lalu
 lintas domestik sebagaimana dimaksud dalam Pasal 1050
-ayat (1) hurrrf b merupakan bagian tidak terpisahkan dari
+ayat (1) huruf b merupakan bagian tidak terpisahkan dari
 rencana kontingensi pada Pintu Masuk dan pelabuhan atau
 bandar udara yang melayani lalu lintas domestik yang
 ditetapkan oleh pejabat yang benvenang pada Pintu Masuk
@@ -18681,18 +18514,19 @@ perundang-undangan.
 Paragraf 2
 Kewaspadaan Wabah di Pintu Masuk
 
-Pasal IO52
+Pasal 1052
 (1) Pemerintah Pusat melaksanakan kegiatan Kewaspadaan
 Wabah di Pintu Masuk dan pelabuhan atau bandar udara
 yang melayani lalu lintas domestik melalui pengamatan
 penyakit dan/atau faktor risiko penyakit yang berpotensi
 menimbulkan Wabah.
-(2') Selain Kewaspadaan Wabah di Pintu Masuk dan
+(2) Selain Kewaspadaan Wabah di Pintu Masuk dan
 pelabuhan atau bandar udara yang melayani 1alu
 lintas domestik sebagaimana dimaksud pada ayat (1),
 Pemerintah Daerah kabupaten/kota dan
 Pemerintah Daerah provinsi melaksanakan kegiatan
 Kewaspadaan Wabah di wilayah.
+
 Pasal 1053
 (1) Dalam rangka pengamatan penyakit dan/atau faktor
 risiko penyakit yang berpotensi menimbulkan Wabah
@@ -18702,17 +18536,18 @@ dan/atau lingkungan oleh Petugas Karantina Kesehatan.
 (2) Pengawasan terhadap alat angkut, orang, dan barang
 sebagaimana dimaksud pada ayat (1) dilakukan pada saat
 kedatangan dan keberangkatan.
+
 Pasal 1054
 (1) Pengawasan terhadap alat angkut pada saat kedatangan
 dilakukan pada kapal, pesawat udara, dan kendaraan
 darat yang:
-a. datang dari luar negeri; atau
-b. datang dari Daerah Terjangkit.
+  a. datang dari luar negeri; atau
+  b. datang dari Daerah Terjangkit.
 (2) Selain yang datang dari luar negeri atau Daerah Terjangkit
 sebagaimana dimaksud pada ayat (1), pengawasan dapat
 dilakukan secara acak terhadap semua kapal,
 pesawat udara, dan kendaraan darat.
-(3) Pengawasan pada kapal, pesawat udara, dan kendaraarL
+(3) Pengawasan pada kapal, pesawat udara, dan kendaraan
 darat sebagaimana dimaksud pada ayat (1) dilakukan
 melalui kegiatan pemeriksaan Dokumen Karantina
 Kesehatan dan dokumen Kesehatan lainnya, serta
@@ -18725,6 +18560,7 @@ ditetapkan oleh pejabat yang berwenang di Pintu Masuk
 dan pelabuhan atau bandar udara yang melayani lalu
 lintas domestik setelah mendapat rekomendasi dari
 Petugas Karantina Kesehatan.
+
 Pasal 1055
 (1) Setiap nakhoda, kapten penerbang, atau pengemudi pada
 saat kedatangan atau melewati pos lintas batas negara
@@ -18739,55 +18575,52 @@ dilakukan dengan menyerahkan dokumen deklarasi
 Kesehatan untuk kapal, pesawat udara, dan kendaraarL
 darat pada saat kedatangan kepada Petugas Karantina
 Kesehatan.
+
 Pasal 1056
 Khusus pada kapal, nakhoda wajib menyampaikan
 permohonan untuk memperoleh persetujuan karantina
 Kesehatan atau memberitahukan suatu keadaan di Kapal
 dengan memakai isyarat sebagai berikut:
-a. pada siang hari berupa:
-1. bendera Q, yang berarti kapal saya sehat atau
-saya minta persetujuan karantina Kesehatan;
-2. bendera Q di atas panji pengganti kesatu, yang berarti
-kapal saya tersangka; dan
-3. bendera Q di atas bendera L, yang berarti kapal saya
-terjangkit; dan
-b. pada malam hari berupa lampu merah di atas lampu putih
-dengan jarak maksimum 1,80 (satu koma delapan nol)
-meter, yang berarti belum mendapat persetujuan
-karantina Kesehatan.
+  a. pada siang hari berupa:
+    1. bendera Q, yang berarti kapal saya sehat atau
+    saya minta persetujuan karantina Kesehatan;
+    2. bendera Q di atas panji pengganti kesatu, yang berarti
+    kapal saya tersangka; dan
+    3. bendera Q di atas bendera L, yang berarti kapal saya
+    terjangkit; dan
+  b. pada malam hari berupa lampu merah di atas lampu putih
+  dengan jarak maksimum 1,80 (satu koma delapan nol)
+  meter, yang berarti belum mendapat persetujuan
+  karantina Kesehatan.
+
 Pasal 1057
 (1) Berdasarkan hasil pengawasan terhadap kedatangan
 kapal, pesawat udara, dan kendaraan darat,
 Petugas Karantina Kesehatan menerbitkan surat
 persetujuan berupa dokumen persetujuan karantina
 Kesehatan.
-(2) Nakhoda...
-SK No 230929 A
-
-FRESIDEN
-REPUBLTK INDONESIA
--429-
 (2) Nakhoda, kapten penerbang, atau pengemudi dilarang
 menurunkan atau menaikkan orang dan/atau barang
 sebelum mendapat dokumen persetujuan karantina
 Kesehatan sebagaimana dimaksud pada ayat (1).
 (3) Dokumen persetujuan karantina Kesehatan sebagaimana
 dimaksud pada ayat (1) berupa:
-a. persetujuan bebas karantina, dalam hal tidak
-ditemukan faktor risiko Kesehatan yang berpotensi
-menimbulkan KLB atau Wabah, dan Dokumen
-Karantina Kesehatan dinyatakan lengkap dan
-berlaku; atau
-b. persetujuan karantina terbatas, dalam hal ditemukan
-faktor risiko Kesehatan yang berpotensi
-menimbulkan KLB atau Wabah, dan/atau Dokumen
-Karantina Kesehatan dinyatakan tidak lengkap
-dan/ atau tidak berlaku.
+  a. persetujuan bebas karantina, dalam hal tidak
+  ditemukan faktor risiko Kesehatan yang berpotensi
+  menimbulkan KLB atau Wabah, dan Dokumen
+  Karantina Kesehatan dinyatakan lengkap dan
+  berlaku; atau
+  b. persetujuan karantina terbatas, dalam hal ditemukan
+  faktor risiko Kesehatan yang berpotensi
+  menimbulkan KLB atau Wabah, dan/atau Dokumen
+  Karantina Kesehatan dinyatakan tidak lengkap
+  dan/ atau tidak berlaku.
 (4) Terhadap kapal, pesawat udara, dan kendaraan darat
 yang mendapat persetujuan karantina terbatas
 sebagaimana dimaksud pada ayat (3) huruf b, Petugas
 Karantina Kesehatan berwenang melakukan tindakan
 penanggulangan.
+
 Pasal 1058
 (1) Pengawasan terhadap alat angkut pada saat
 keberangkatan dilakukan pada kapal, pesawat udara, dan
@@ -18805,96 +18638,108 @@ faktor risiko penyakit yang berpotensi menimbulkan
 Wabah sebagaimana dimaksud pada ayat (2) di pos lintas
 batas negara dilaksanakan sesuai dengan kesepakatan
 dalam perjanjian antara kedua negara.
+
 Pasal 1059
 Sebelum keberangkatan kapal, pesawat udara, atau kendaraan
 darat, nakhoda, kapten penerbang, dan pengemudi wajib
 melengkapi Dokumen Karantina Kesehatan yang masih
 berlaku.
-Pasal 1060. . .
-SK No 230930 A
 
-(1)
-(2t
-PRESIOEN
-REPUBLIK INDONESIA
-430 -
 Pasal 1060
-Berdasarkan hasil pengawasan saat keberangkatan
+(1) Berdasarkan hasil pengawasan saat keberangkatan
 kapal sebagaimana dimaksud dalam Pasal 1058,
 Petugas Karantina Kesehatan:
-a. memerintahkan nakhoda untuk melengkapi
-Dokumen Karantina Kesehatan jika hasil
-pemeriksaan Dokumen Karantina Kesehatan
-ditemukan dokumen tidak lengkap atau tidak valid;
-b. menerbitkan surat persetujuan berlayar karantina
-Kesehatan jika Dokumen Karantina Kesehatan
-lengkap dan valid serta tidak ditemukan faktor risiko
-penyakit yang berpotensi menimbulkan Wabah;
-c. melakukan tindakan penanggulangan yang
-diperlukan sesuai dengan penyakit, masalah
-Kesehatan, dan/atau faktor risiko penyakit yang
-berpotensi menimbulkan Wabah yang ditemukan;
-atau
-d. mengeluarkan rekomendasi untuk dilakukan
-tindakan penanggulangan yang diperlukan sesuai
-dengan penyakit, masalah Kesehatan, dan/atau
-faktor risiko penyakit yang berpotensi menimbulkan
-Wabah yang ditemukan.
-Dalam hal kapal yang akan berangkat tidak dilengkapi
+  a. memerintahkan nakhoda untuk melengkapi
+  Dokumen Karantina Kesehatan jika hasil
+  pemeriksaan Dokumen Karantina Kesehatan
+  ditemukan dokumen tidak lengkap atau tidak valid;
+  b. menerbitkan surat persetujuan berlayar karantina
+  Kesehatan jika Dokumen Karantina Kesehatan
+  lengkap dan valid serta tidak ditemukan faktor risiko
+  penyakit yang berpotensi menimbulkan Wabah;
+  c. melakukan tindakan penanggulangan yang
+  diperlukan sesuai dengan penyakit, masalah
+  Kesehatan, dan/atau faktor risiko penyakit yang
+  berpotensi menimbulkan Wabah yang ditemukan;
+  atau
+  d. mengeluarkan rekomendasi untuk dilakukan
+  tindakan penanggulangan yang diperlukan sesuai
+  dengan penyakit, masalah Kesehatan, dan/atau
+  faktor risiko penyakit yang berpotensi menimbulkan
+  Wabah yang ditemukan.
+(2)Dalam hal kapal yang akan berangkat tidak dilengkapi
 dengan surat persetujuan berlayar karantina Kesehatan
 sebagaimana dimaksud pada ayat (1) huruf b,
 syahbandar dilarang menerbitkan surat persetujuan
 berlayar.
+
 Pasal 1061
 (1) Berdasarkan hasil pengawasan saat keberangkatan
 pesawat udara sebagaimana dimaksud dalam Pasal 1058,
 Petugas Karantina Kesehatan:
-a. memerintahkan kapten penerbang untuk melengkapi
-Dokumen Karantina Kesehatan jika hasil
-pemeriksaan Dokumen Karantina Kesehatan
-ditemukan dokumen tidak lengkap atau tidak valid;
-dan
-b. memerintahkan kapten penerbang untuk melakukan
-tindakan penanggulangan yang diperlukan sesuai
-dengan penyakit, masalah Kesehatan, dan/atau
-faktor risiko penyakit yang berpotensi menimbulkan
-Wabah yang ditemukan.
+  a. memerintahkan kapten penerbang untuk melengkapi
+  Dokumen Karantina Kesehatan jika hasil
+  pemeriksaan Dokumen Karantina Kesehatan
+  ditemukan dokumen tidak lengkap atau tidak valid;
+  dan
+  b. memerintahkan kapten penerbang untuk melakukan
+  tindakan penanggulangan yang diperlukan sesuai
+  dengan penyakit, masalah Kesehatan, dan/atau
+  faktor risiko penyakit yang berpotensi menimbulkan
+  Wabah yang ditemukan.
 (2) Dalam rangka pengawasan pesawat udara, Petugas
 Karantina Kesehatan dapat melakukan pemeriksaan
 faktor risiko Kesehatan terhadap pesawat udarayang akan
 berangkat secara acak.
-SK No 230931 A
-Pasal tO62
 
-REP,iLT[t'355n=r,o
--43LPasal 1062
+Pasal 1062
 (1) Pengawasan terhadap orang dilakukan pada awak,
-personel, dan penumpang yang datang atau berangkat. (2) P.engawasan terhadap orang padi saat kedalangan dilakukan .pad? alat angkul yang datang dari Daerah Terjangkit atau beidasarkan - informas_-i awal
-mengenai deklarasi Kesehatan terdapat orang yang diduga
-terjangkit danf atau terpapar. (3) P.engawasan terhadap orang pada saat keberangkatan
-dilakukan pada alat angkut-berdasarkan informas-i yang
-disampaikan terdapat orang yang diduga terjangkiT
-dan/atau terpapar. (4) Pengawasan terhadap ora.ng dilakukan melalui p_emeriksaan Kesehatan oleh petugas Karantina
-Kesehatan y?ng berwenang di atas alat angkut atau
-tempat yang ditetapkan. (5) Terhadap orang._ yang terjangkit dan/atau terpapar
-berdasarkan hasil pemeriksaan kesehatin sebagaihina dimaksud pada ayat (4) dilakukan tTndakan penanggulangan sesuai indikasi dan prosedur
-penanggulangan. (6) Terhadap orang yang tidak terjangkit dan/atau tidak terpapar berdasarkan hasil pemEriksaan. kesehatan
-sebagaimana dimaksud pada ayat 1+1 dapat melanjutkan
-p_erjalanannya dan diberikan kartu kewasfadaan
+personel, dan penumpang yang datang atau berangkat.
+(2) Pengawasan terhadap orang pada saat kedatangan
+dilakukan pada alat angkut yang datang dari Daerah
+Terjangkit atau berdasarkan informasi awal
+mengenai deklarasi Kesehatan terdapat orang yang
+diduga terjangkit dan/atau terpapar.
+(3) Pengawasan terhadap orang pada saat keberangkatan
+dilakukan pada alat angkut berdasarkan informasi yang
+disampaikan terdapat orang yang diduga terjangkit
+dan/atau terpapar.
+(4) Pengawasan terhadap orang dilakukan melalui pemeriksaan
+Kesehatan oleh petugas Karantina Kesehatan yang
+bewenang di atas alat angkut atau tempat yang
+ditetapkan.
+(5) Terhadap orang yang terjangkit dan/atau terpapar
+berdasarkan hasil pemeriksaan kesehatin sebagaimana
+dimaksud pada ayat (4) dilakukan tindakan
+penanggulangan sesuai indikasi dan prosedur
+penanggulangan.
+(6) Terhadap orang yang tidak terjangkit dan/atau tidak
+terpapar berdasarkan hasil pemeriksaan kesehatan
+sebagaimana dimaksud pada ayat (4) dapat melanjutkan
+perjalanannya dan diberikan kartu kewaspadaan
 Kesehatan.
-(71 Petugas Karantina Kesehatan harus memberikan notifikasi ka_rtu kewaspadaan Kesehatan kepada satuan
-kerja perangkat daerah bidang Kesehatan kabupaten/kota
-setempat. (8) Jik9. hasil pemeriksaan Kesehatan sebagaimana dimaksud padq ?y?! (4) _ditemukan penyakit- yang berpotensi menimbulkan_ Wabah, dah/alau [iaa[ dipenuhi
-pers-yaratan Kesehatan penerbangan atau pelayaran pada
-3ya\, personel, da!/atau penumpang, petirgai Karantina Kesehatan merekomendasikan -liepadi maskapai penerbangan atau agen pelayaran -untuk menunda keberangkatan awak, -personel, dan/atau penumpang tersebut dan harus segera melakukan- tindaka; penanggulangan. (9) Ma.skapai 
-- 
-penerbangan atau agen pelayaran harus
-melaksanakan rekomendasi petugis Kar-antiha Ke sehatan
-sebagaimana dimaksud pada ayat 1S1.
+(7) Petugas Karantina Kesehatan harus memberikan notifikasi
+kartu kewaspadaan Kesehatan kepada satuan kerja
+perangkat daerah bidang Kesehatan kabupaten/kota
+setempat.
+(8) Jika hasil pemeriksaan Kesehatan sebagaimana dimaksud pada ayat (4) ditemukan penyakit yang berpotensi
+menimbulkan Wabah, atau tidak dipenuhi persyaratan
+kesehatan penerbangan atau pelayaran pada ayat (1),
+petugas Karantina Kesehatan merekomendasikan
+kepada maskapai penerbangan atau agen pelayaran untuk
+menunda keberangkatan awak, personel, dan/atau
+penumpang tersebut dan harus segera melakukan
+tindakan penanggulangan.
+(9) Maskapai penerbangan atau agen pelayaran harus
+melaksanakan rekomendasi petugas Karantina Kesehatan
+sebagaimana dimaksud pada ayat (8).
+
 Pasal 1063
-??t?-.hal pada sSat kedatangan terdapat orang yang tidak bersedia dilakukan tindakan ferrangguTa"g"fr s_ebagaimana dimaksud dalam pasal lO62'ayat (S; petulas
-Karantina Kesehatan berwenang mere-komendasilian
-kepada pejabat imigrasi untuk dila[ukan penangkalan-
+(1) Dalam hal pada saat kedatangan terdapat orang yang tidak
+bersedia dilakukan tindakan penanggulangan sebagaimana
+dimaksud dalam Pasal 1062 ayat (5), petugas Karantina
+Kesehatan berwenang merekomendasikan kepada pejabat
+imigrasi untuk dilakukan penangkalan.
 (2) Dalam hal pada saat keberangkatan terdapat orang yang
 tidak bersedia dilakukan tindakan penanggulangan
 sebagaimana dimaksud dalam Pasal 1062 ayat (5), Petugas
@@ -18903,32 +18748,34 @@ kepada maskapai penerbangan, agen pelayaran, atau agen
 kendaraan darat untuk menunda keberangkatan atau
 mengeluarkan rekomendasi kepada pejabat imigrasi
 untuk dilakukan penolakan.
+
 Pasal 1064
 (1) Setiap orang:
-a. yang datang dari negara endemis, negara terjangkit,
-dan/atau negara yang mewajibkan adanya pemberian
-kekebalan atau profilaksis; atau
-b. yang akan berangkat ke negara endemis, negara
-terjangkit, danf atau negara yang mewajibkan adanya
-pemberian kekebalan atau profilaksis,
+  a. yang datang dari negara endemis, negara terjangkit,
+  dan/atau negara yang mewajibkan adanya pemberian
+  kekebalan atau profilaksis; atau
+  b. yang akan berangkat ke negara endemis, negara
+  terjangkit, dan/atau negara yang mewajibkan adanya
+  pemberian kekebalan atau profilaksis,
 wajib memiliki sertifikat vaksinasi internasional yang
 masih berlaku.
 (2) Setiap orang sebagaimana dimaksud pada ayat (1) huruf a yang tidak memiliki sertifikat vaksinasi
 internasional, dilakukan karantina dan pemberian
 kekebalan atau profilaksis oleh Petugas Karantina
 Kesehatan.
-(3) Setiap orang sebagaimana dimaksud pada ayat (1) huruf b yang tidak memiliki sertifikat vaksinasi
-internasional, dilakukan penundaan keberangkatannya
-oleh Petugas Karantina Kesehatan dan diberikan
-kekebalan atau profilaksis sesuai persyaratan dan standar
-yang berlaku.
-(41 Jika setiap orang sebagaimana dimaksud pada ayat (21
+(3) Setiap orang sebagaimana dimaksud pada ayat (1) huruf b
+yang tidak memiliki sertifikat vaksinasi internasional,
+dilakukan penundaan keberangkatannya oleh Petugas
+Karantina Kesehatan dan diberikan kekebalan atau
+profilaksis sesuai persyaratan dan standar yang berlaku.
+(4) Jika setiap orang sebagaimana dimaksud pada ayat (2)
 dan ayat (3) menolak pemberian kekebalan atau
 profilaksis, Petugas Karantina Kesehatan berwenang
 memberikan rekomendasi kepada pejabat imigrasi untuk
 melakukan penangkalan, deportasi, atau penolakan
 keberangkatan sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 1065
 (1) Pengawasan terhadap barang dilakukan pada barang yang
 diduga memiliki faktor risiko penyakit yang berpotensi
@@ -18936,11 +18783,13 @@ menimbulkan Wabah dalam alat angkut baik saat
 kedatangan atau keberangkatan.
 (2) Pengawasan terhadap barang dilakukan melalui
 pemeriksaan dokumen dan pemeriksaan fisik oleh
-Petugas Karantina Kesehatan. (3) Jika ditemukan faktor risiko penyakit yang berpotensi
+Petugas Karantina Kesehatan.
+(3) Jika ditemukan faktor risiko penyakit yang berpotensi
 menimbulkan Wabah pada barang dilakukan tindakan
 penanggulangan.
-(41 Tindakan penanggulangan sebagaimana dimaksud pada
+(4) Tindakan penanggulangan sebagaimana dimaksud pada
 ayat (1) berkoordinasi dengan pihak yang terkait.
+
 Pasal 1066
 (1) Pengawasan barang berupa jenazah dan/atau abu jenazah
 dalam alat angkut dilakukan melalui pemeriksaan
@@ -18965,6 +18814,7 @@ Kesehatan memberikan surat persetujuan keluar atau
 masuk jenazah dan/atau ab:u jenaz,ah dari Pintu Masuk
 dan pelabuhan atau bandar udara yang melayani lalu
 lintas domestik.
+
 Pasal 1067
 (1) Jika terdapat orErng yang meninggal dalam alat angkut
 pada saat kedatangan, Petugas Karantina Kesehatan
@@ -18976,15 +18826,11 @@ pemeriksaan jenazah atau investigasi penyakit
 sebagaimana dimaksud pada ayat (1) merupakan penyakit
 yang memiliki risiko KLB atau Wabah, Petugas Karantina
 Kesehatan melakukan tindakan penanggulangan.
-SK No 230934 A
-(3) Terhadap
 
-FRESIDEN
-REPUBLIK INDONESIA
--434-
 (3) Terhadap jenazah sebagaimana dimaksud pada ayat (1)
 dikirim ke Rumah Sakit untuk dilakukan pemulasaraan
 jenaz,a};^.
+
 Pasal 1068
 (1) Pengawasan terhadap lingkungan dilakukan terhadap
 lingkungan pada Pintu Masuk dan pelabuhan atau bandar
@@ -18995,11 +18841,13 @@ Kesehatan.
 pemeriksaan fisik faktor risiko penyakit atau masalah
 Kesehatan pada media lingkungan oleh Petugas Karantina
 Kesehatan.
+
 Pasal 1069
 Ketentuan lebih lanjut mengenai pedoman pengawasan alat
 angkut, orang, barang, dan lingkungan diatur dengan
 Peraturan Menteri.
-Pasal LOTO
+
+Pasal 1070
 (1) Berdasarkan hasil pengawasan terhadap alat angkut,
 orang, barang, dan/atau lingkungan di Pintu Masuk dan
 pelabuhan atau bandar udara yang melayani lalu lintas
@@ -19007,12 +18855,16 @@ domestik, Petugas Karantina Kesehatan menetapkan dan
 melaksanakan tindakan penanggulangan.
 (2) Dalam pelaksanaan tindakan penanggulangan
 sebagaimana dimaksud pada ayat (1), Petugas Karantina
-Kesehatan berkoordinasi dengan pihak yang terkait. (3) Tindakan penanggulangan tertentu dapat dilakukan oleh:
+Kesehatan berkoordinasi dengan pihak yang terkait.
+(3) Tindakan penanggulangan tertentu dapat dilakukan oleh:
 a. badan usaha yang mempunyai izin sesuai dengan
-ketentuan peraturan perundang-undangan; atau b. instansi terkait yang berwenang. (4) Pelaksanaan tindakan penanggulangan tertentu
+ketentuan peraturan perundang-undangan; atau
+b. instansi terkait yang berwenang.
+(4) Pelaksanaan tindakan penanggulangan tertentu
 sebagaimana dimaksud pada ayat (3) berada dalam
 pengawasan Petugas Karantina Kesehatan.
-Pasal LOTL
+
+Pasal 1071
 (1) Tindakan penanggulangan terhadap alat angkut di Pintu
 Masuk dan pelabuhan atau bandar udara yang melayani
 lalu lintas domestik dapat berupa:
@@ -19020,30 +18872,25 @@ a. disinfeksi;
 b. dekontaminasi;
 c. disinseksi;dan/atau
 d. deratisasi.
-SK No 230935 A
-(2) Tindakan
-
-PRESIDEN
-BLIK TNDONESIA
--435-
 (2) Tindakan penanggulangan terhadap alat angkut
 sebagaimana dimaksud pada ayat (1) dilakukan di zona
 karantina atau area lain yang ditetapkan oleh pejabatyang
 berwenang di Pintu Masuk dan pelabuhan atau bandar
 udara yang melayani lalu lintas domestik setelah
 mendapat rekomendasi dari Petugas Karantina Kesehatan.
-Pasal lO72
+
+Pasal 1072
 (1) Tindakan penanggulangan terhadap orang di Pintu Masuk
 dan pelabuhan atau bandar udara yang melayani lalu
 lintas domestik dapat berupa:
-a. skrining;
-b. rujukan
-c. isolasi;
-d. karantina;
-e. pemberiankekebalan;
-f. pemberian profilaksis;
-g. disinfeksi; dan/atau
-h. dekontaminasi.
+  a. skrining;
+  b. rujukan
+  c. isolasi;
+  d. karantina;
+  e. pemberiankekebalan;
+  f. pemberian profilaksis;
+  g. disinfeksi; dan/atau
+  h. dekontaminasi.
 (2) Skrining sebagaimana dimaksud pada ayat (1) huruf a
 dilakukan terhadap pelaku perjalanan dari luar negeri
 atau Daerah Terjangkit.
@@ -19056,7 +18903,7 @@ menular ke Rumah Sakit atau Fasilitas Pelayanan
 Kesehatan lain yang ditetapkan untuk mendapatkan
 pemeriksaan Kesehatan lanjutan, perawatan, dan/atau
 pengobatan.
-(41 Sebelum dilakukan rujukan sebagaimana dimaksud pada
+(4) Sebelum dilakukan rujukan sebagaimana dimaksud pada
 ayat (3), pelaku pedalanan yang diduga menderita
 penyakit yang berpotensi menimbulkan Wabah dilakukan
 observasi dan tata laksana kasus di ruang isolasi
@@ -19072,7 +18919,7 @@ dan/atau diduga terpapar penyakit atau faktor risiko yang
 berpotensi menimbulkan Wabah selama 1 (satu) kali masa
 inkubasi terpanjang atau berdasarkan waktu yang
 ditetapkan oleh Menteri.
-(71 Dalam hal karantina sebagaimana dimaksud pada ayat (6)
+(7) Dalam hal karantina sebagaimana dimaksud pada ayat (6)
 dilakukan terhadap warga negara asing, Petugas
 Karantina Kesehatan mengeluarkan surat pemberitahuan
 kepada pejabat imigrasi.
@@ -19099,14 +18946,15 @@ dimaksud pada ayat (1) huruf g dan huruf h dilaksanakan
 pada saat kedatangan dan/atau keberangkatan pada
 orang yang terpapar faktor risiko penyakit yang berpotensi
 menimbulkan Wabah.
-Pasal LO73
+
+Pasal 1073
 (1) Tindakan penanggulangan terhadap barang di Pintu
 Masuk dan pelabuhan atau bandar udara yang melayani
 lalu lintas domestik dapat berupa:
-a. disinfeksi;
-b. dekontaminasi;
-c. disinseksi; dan/atau
-d. deratisasi.
+  a. disinfeksi;
+  b. dekontaminasi;
+  c. disinseksi; dan/atau
+  d. deratisasi.
 (2) Tindakan penanggulangan pada barang sebagaimana
 dimaksud pada ayat (1) dapat dilakukan di dalam zorta
 karantina atau area lain yang ditetapkan oleh pejabat yang
@@ -19117,7 +18965,8 @@ mendapat rekomendasi dari Petugas Karantina Kesehatan.
 ayat (1) dilakukan berkoordinasi dengan pihak terkait
 yang berwenang dan/atau berada di bawah pengawasan
 Petugas Karantina Kesehatan.
-Pasal lO74
+
+Pasal 1074
 (1) Tindakan penanggulangan terhadap lingkungan di
 Pintu Masuk dan pelabuhan atau bandar udara yang
 melayani lalu lintas domestik dilakukan melalui upaya
@@ -19127,10 +18976,12 @@ sebagaimana dimaksud pada ayat (1) dilakukan oleh
 Petugas Karantina Kesehatan dan dapat berkoordinasi
 dengan instansi yang benvenang sesuai dengan ketentuan
 peraturan perundang-undangan.
+
 Pasal 1075
 Ketentuan lebih lanjut mengenai penyelenggaraan tindakan
 penanggulangan terhadap alat angkut, orang, barang, dan
 lingkungan diatur dengan Peraturan Menteri.
+
 Pasal 1076
 (1) Setiap alat angkut, orang, dan/atau barang yang:
 a. datang dari atau berangkat ke luar negeri; atau
@@ -19158,16 +19009,17 @@ c. sertifikat Kesehatan untuk Obat, makanan,
 Kosmetik, Alat Kesehatan, bahan adiktif, dan barang
 lainnya yang akan diekspor sesuai dengan
 permintaan negara tujuan.
-Pasal lO77
+
+Pasal 1077
 (1) Deklarasi Kesehatan sebagaimana dimaksud dalam
-Pasal 1076 ayat (21huruf a berupa:
+Pasal 1076 ayat (2) huruf a berupa:
 a. deklarasi Kesehatan maritim untuk kapal;
 b. deklarasi Kesehatan penerbangan untuk pesawat
 udara; dan
 c. deklarasi Kesehatan pelintasan darat untuk
 kendaraan darat.
 (2) Sertifikat persetujuan keberangkatan sebagaimana
-dimaksud dalam Pasal 1076 ayat (21huruf c berupa:
+dimaksud dalam Pasal 1076 ayat (2) huruf c berupa:
 a. surat persetujuan berlayar karantina Kesehatan
 untuk kapal;
 b. surat persetujuan keberangkatan pesawat udara
@@ -19175,23 +19027,18 @@ untuk pesawat udara; dan
 c. surat persetujuan keberangkatan kendaraan darat
 untuk kendaraan darat.
 (3) Sertifikat sanitasi sebagaimana dimaksud dalam
-Pasal 1076 ayat (21huruf d berupa:
+Pasal 1076 ayat (2) huruf d berupa:
 a. sertifikat bebas tindakan sanitasi kapal dan sertifikat
 tindakan sanitasi kapal;
 b. sertifikat bebas tindakan sanitasi pesawat udara dan
 sertifikat tindakan sanitasi pesawat udara; dan
 c. sertifikat bebas tindakan sanitasi kendaraan darat
 dan sertifikat tindakan sanitasi kendaraan darat.
-(41 Buku Kesehatan kapal sebagaimana dimaksud dalam
-Pasal LO76 ayat (2) huruf f diperuntukkan bagi kapal yang
+(4) Buku Kesehatan kapal sebagaimana dimaksud dalam
+Pasal 1076 ayat (2) huruf f diperuntukkan bagi kapal yang
 berlayar antarpelabuhan di wilayah Indonesia.
-Pasal1078...
-SK No 230939 A
 
-PRESIDEN
-REPUBLIK TNDONESIA
--439-
-Pasal LO78
+Pasal 1078
 (1) Menteri dapat menetapkan perubahan Dokumen
 Karantina Kesehatan sebagaimana dimaksud dalam
 Pasal 1076 dan/atau menetapkan Dokumen Karantina
@@ -19202,12 +19049,14 @@ ayat (1) dilakukan dalam hal terdapat perkembangan
 regulasi internasional dan latau mempertimbangkan hasil
 evaluasi serta masukan dari berbagai pemangku
 kepentingan terkait.
-Pasal lO79
+
+Pasal 1079
 Dokumen Karantina Kesehatan dikeluarkan oleh pejabat yang
 benvenang pada kementerian yang menyelenggarakan urusan
 pemerintahan di bidang kesehatan di Pintu Masuk dan
 pelabuhan atau bandar udara yang melayani lalu lintas
 domestik.
+
 Pasal 1080
 (1) Pengajuan penerbitan Dokumen Karantina Kesehatan
 dilakukan kepada Petugas Karantina Kesehatan secara
@@ -19222,18 +19071,20 @@ penanggulangan.
 (4) Penerbitan Dokumen Karantina Kesehatan dapat
 dilakukan secara elektronik atau manual.
 (5) Penerbitan Dokumen Karantina Kesehatan menggunakan
-bentuk atau format yang ditetapkan oleh Menteri. (6) Penerbitan Dokumen Karantina Kesehatan dapat
+bentuk atau format yang ditetapkan oleh Menteri.
+(6) Penerbitan Dokumen Karantina Kesehatan dapat
 dikenakan biaya yang menjadi pendapatan negara bukan
-pajak sesuai dengan ketentuan peraturan perundangundangan.
+pajak sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 1081
 (1) Dokumen Karantina Kesehatan dinyatakan batal atau
 tidak berlaku apabila:
-a. masa berlaku sudah berakhir;
-b. nomor registrasi alat angkut berubah;
-c. tidak terpenuhinya persyaratan yang ditetapkan;
-d. keterangan dalam dokumen tidak sesuai dengan
-keadaan sebenarnya; dan/atau
-e. diperoleh secara tidak sah.
+  a. masa berlaku sudah berakhir;
+  b. nomor registrasi alat angkut berubah;
+  c. tidak terpenuhinya persyaratan yang ditetapkan;
+  d. keterangan dalam dokumen tidak sesuai dengan
+  keadaan sebenarnya; dan/atau
+  e. diperoleh secara tidak sah.
 (2) Pembatalan Dokumen Karantina Kesehatan dilakukan
 oleh pejabat yang berwenang pada kementerian yang
 menyelenggarakan urusan pemerintahan di bidang
@@ -19243,6 +19094,15 @@ Dokumen Karantina Kesehatan yang dinyatakan
 batal atau tidak berlaku, harus dilakukan
 pengawasan dan/atau tindakan penanggulangan oleh
 Petugas Karantina Kesehatan.
+
+Pasal 1082
+(1) Setiap penerbitan dan pembatalan Dokumen Karantina
+Kesehatan wajib dilakukan pencatatan dan pelaporan.
+(2) Pencatatan dan pelaporan sebagaimana dimaksud pada
+ayat (1) dilakukan melalui Sistem Informasi Kesehatan
+yang terintegrasi dengan Sistem Informasi Kesehatan
+Nasional.
+
 Pasal 1083
 Ketentuan lebih lanjut mengenai pedoman teknis pengajuan,
 penerbitan, dan pembatalan, serta bentuk Dokumen Karantina
@@ -19251,51 +19111,41 @@ Kesehatan diatur dengan Peraturan Menteri.
 Paragraf 3
 Penanggulangan Wabah
 
-(1)
-(2)
-(1)
-(2t
-(3)
-Pasal lO82
-Setiap penerbitan dan pembatalan Dokumen Karantina
-Kesehatan wajib dilakukan pencatatan dan pelaporan.
-Pencatatan dan pelaporan sebagaimana dimaksud pada
-ayat (1) dilakukan melalui Sistem Informasi Kesehatan
-yang terintegrasi dengan Sistem Informasi Kesehatan
-Nasional.
 Pasal 1084
-Penanggulangan Wabah dilaksanakan segera setelah
+(1) Penanggulangan Wabah dilaksanakan segera setelah
 penetapan Daerah Terjangkit Wabah dengan
 memperhatikan asas kemanusiaan, sosial, budaya,
 ekonomi, dan lingkungan.
-Menteri menetapkan Daerah Terjangkit Wabah
+(2) Menteri menetapkan Daerah Terjangkit Wabah
 sebagaimana dimaksud pada ayat (1).
-Dalam penetapan Daerah Terjangkit Wabah sebagaimana
-dimaksud pada ayat (2),, Menteri mempertimbangkan
+(3) Dalam penetapan Daerah Terjangkit Wabah sebagaimana
+dimaksud pada ayat (2), Menteri mempertimbangkan
 aspek:
-a. etiologi penyakit;
-b. situasi kasus dan kematian;
-c. kapasitas Pelayanan Kesehatan; dan/atau
-d. kondisi masyarakat.
+  a. etiologi penyakit;
+  b. situasi kasus dan kematian;
+  c. kapasitas Pelayanan Kesehatan; dan/atau
+  d. kondisi masyarakat.
 (4) Selain pertimbangan sebagaimana dimaksud pada
 ayat (3), Menteri dalam menetapkan Daerah Terjangkit
 Wabah mempertimbangkan aspek kedaulatan negara,
 keamanan, ekonomi, sosial, dan budaya dalam penetapan
 Daerah Terjangkit Wabah.
+
 Pasal 1085
 (1) Penetapan Daerah Terjangkit Wabah dapat dilakukan
 pada:
-a. wilayah administratif;
-b. wilayah Pintu Masuk dan bandar udara atau
-pelabuhan yang melayani lalu lintas domestik;
-c. wilayah kepulauan; dan/atau
-d. wilayah tertentu.
+  a. wilayah administratif;
+  b. wilayah Pintu Masuk dan bandar udara atau
+  pelabuhan yang melayani lalu lintas domestik;
+  c. wilayah kepulauan; dan/atau
+  d. wilayah tertentu.
 (2) Penetapan Daerah Terjangkit Wabah pada wilayah
 sebagaimana dimaksud pada ayat (1) dilakukan
 berdasarkan analisis epidemiologi dan/atau usulan dari
 Pemerintah Daerah untuk wilayah administratif dan
 rekomendasi kementerian/lembaga terkait untuk selain
 wilayah administratif.
+
 Pasal 1086
 (1) Dalam hal Wabah berdampak mengancam dan berpotensi
 mengganggu kehidupan dan penghidupan masyarakat
@@ -19308,20 +19158,17 @@ nasional nonalam kepada Presiden.
 pada ayat (1), Presiden menetapkan Wabah sebagai
 bencana nasional nonalam sesuai dengan ketentuan
 peraturan perundang-undangan.
-Pasal lO87
+
+Pasal 1087
 Dalam hal Wabah berpotensi menyebar lintas negara,
 Pemerintah Pusat memberitahukan kepada negara lain
 dan/atau organisasi internasional sesuai dengan ketentuan
 hukum internasional.
+
 Pasal 1088
 (1) Pemerintah hrsat dan Pemerintah Daerah bertanggung
 jawab melaksanakan kegiatan penanggulangan Wabah.
-SK No 226984 A
-(2) Kegiatan...
 
-PRESIDEN
-REPUBLIK INOONESIA
--442-
 (2) Kegiatan penanggulangan Wabah sebagaimana dimaksud
 pada ayat (1) dilaksanakan secara terintegrasi,
 komprehensif, dan tepat sasaran berdasarkan besarnya
@@ -19336,6 +19183,7 @@ Indonesia, Pemerintah Daerah, dan masyarakat.
 (4) Dalam penanggulangan Wabah, Pemerintah Pusat dapat
 bekerja sama dengan negara lain atau badan
 internasional.
+
 Pasal 1089
 Dalam pelaksanaan penanggulangan Wabah, setiap
 Pemerintah Daerah provinsi, Pemerintah Daerah
@@ -19345,6 +19193,7 @@ lintas domestik sesuai kewenangannya dalam wilayah,
 Pintu Masuk dan pelabuhan atau bandar udara yang melayani
 lalu lintas domestik yang terjangkit Wabah harus mengaktivasi
 rencana kontingensi sebagaimana dimaksud dalam Pasal 1050.
+
 Pasal 1090
 Dalam pelaksanaan penanggulangan Wabah, setiap
 Pemerintah Daerah provinsi, Pemerintah Daerah
@@ -19356,6 +19205,7 @@ lalu lintas domestik yang terjangkit Wabah mengoordinasikan
 seluruh pemangku kepentingan untuk melakukan tugas,
 fungsi, dan tanggung jawab sesuai dengan rencana operasional
 penanggulangan Wabah.
+
 Pasal 1091
 (1) Pemerintah Daerah provinsi, Pemerintah Daerah
 kabupatenf kota, serta pejabatyang berwenang pada Pintu
@@ -19364,12 +19214,7 @@ lalu lintas domestik dapat melakukan komunikasi,
 koordinasi, dan keda sama dengan lintas sektor, badan
 usaha, masyarakat, dan pemangku kepentingan terkait
 lainnya dalam rangka penanggulangan Wabah.
-SK No 230943 A
-(2) Komunikasi
 
-PRESIDEN
-REPUBLTK INDONESIA
--443-
 (2) Komunikasi, koordinasi, dan kerja sama sebagaimana
 dimaksud pada ayat (1) dilakukan untuk mengidentifikasi
 penyebab, gejala dan tanda, faktor yang mempengaruhi,
@@ -19380,7 +19225,8 @@ kabupaten/kota dapat melakukan kerja sama dalam
 penanggulangan Wabah dengan negara lain dan/atau
 organisasi internasional melalui Pemerintah Pusat sesuai
 dengan ketentuan peraturan perundang-undangan.
-Pasal IO92
+
+Pasal 1092
 (1) Penanggulangan Wabah dilakukan melalui kegiatan:
 a. investigasi penyakit;
 b. penguatan surveilans;
@@ -19411,12 +19257,7 @@ penularan penyakit dari faktor risiko yang dilaksanakan
 sesuai dengan ketentuan dan perkembangan teknologi
 serta karakteristik dari faktor risiko tersebut, termasuk
 kemungkinan pemusnahan faktor risiko dimaksud.
-SK No 2309M A
-(71 Penanganan
 
-PRESIDEN
-REPUBLTK INDONESIA
--444-
 (7) Penanganan terhadap populasi berisiko sebagaimana
 dimaksud pada ayat (1) huruf e dilakukan untuk
 mencegah dan mengurangi risiko penyebararL penyakit
@@ -19426,6 +19267,7 @@ dan/atau pembatasan kegiatan sosial kemasyarakatan.
 huruf f dilakukan untuk memberikan pemahaman kepada
 masyarakat dan meningkatkan peran masyarakat dalam
 upaya penanggulangan Wabah.
+
 Pasal 1093
 Ketentuan lebih lanjut mengenai pedoman pelaksanaan
 kegiatan penanggulangan Wabah diatur dengan Peraturan
@@ -19435,7 +19277,7 @@ Paragraf 4
 Karantina
 
 Pasal 1094
-(1) Karantina sebagaimana dimaksud dalam Pasal lO92
+(1) Karantina sebagaimana dimaksud dalam Pasal 1092
 ayat (5) dapat dilaksanakan di rumah, Rumah Sakit,
 tempat kerja, alat angkut, hotel, wisma, asrama, dan
 tempat atau wilayah lainnya dengan mempertimbangkan
@@ -19458,12 +19300,7 @@ Menteri.
 gejala dan tanda yang sama, karantina dapat diperpanjang
 selama 1 (satu) kali masa inkubasi terpanjang atau
 berdasarkan waktu yang ditetapkan oleh Menteri.
-SK No 230945 A
-(5) Karantina
 
-PRESIDEN
-REPUBLIK TNDONESIA
--445-
 (5) Karantina yang dilaksanakan di rumah, Rumah Sakit,
 tempat kerja, alat angkut, hotel, wisma, asrama
 sebagaimana dimaksud pada ayat (1) dilaksanakan
@@ -19485,6 +19322,7 @@ epidemiologis; dan
 b. telah terdapat konfirmasi hasil laboratorium
 dan/atau pemeriksaan/pengukuran lainnya yang
 menunjukkan penyebab timbulnya Wabah.
+
 Pasal 1095
 (1) Penetapan dan pencabutan status karantina dilaksanakan
 oleh:
@@ -19511,6 +19349,7 @@ menimbulkan Wabah.
 dari Petugas Karantina Kesehatan sebagaimana dimaksud
 pada ayat (2) berkoordinasi dengan menteri/pimpinan
 lembaga terkait.
+
 Pasal 1096
 (1) Dalam pelaksanaan karantina, ditetapkan akses masuk
 dan keluar bagi Tenaga Medis, Tenaga Kesehatan, dan
@@ -19523,7 +19362,8 @@ kejadian penyakit dan faktor risiko penyakit yang
 menimbulkan Wabah.
 (3) Akses masuk dan keluar sebagaimana dimaksud pada
 ayat (1) harus dijaga oleh petugas keamanan.
-Pasal LO97
+
+Pasal 1097
 (1) Dalam hal karantina dilaksanakan di wilayah yang hanya
 terdapat 1 (satu) akses masuk dan akses keluar,
 kendaraan yang diperbolehkan untuk melintas meliputi:
@@ -19541,18 +19381,14 @@ diberi izin melintas.
 (3) Kendaraan sebagaimana dimaksud pada ayat (1) harus
 menjalani tindakan berupa disinfeksi, dekontaminasi,
 disinseksi, danf atau deratisasi.
+
 Pasal 1098
 (1) Dalam pelaksanaan karantina di wilayah Pintu Masuk dan
 pelabuhan atau bandar udara yang melayani lalu lintas
 domestik, seluruh kegiatan lalu lintas alat angkut, orang,
 dan barang dihentikan, kecuali kegiatan penanggulangan
 Wabah.
-SK No 230947 A
-(2) Setiap...
 
-FRESIDEN
-REPUBLTK INDONESIA
--447-
 l2l Setiap orang yang berada di dalam wilayah Pintu Masuk
 dan pelabuhan atau bandar udara yang melayani lalu
 lintas domestik dimobilisasi dan ditempatkan di asrama
@@ -19576,6 +19412,7 @@ ayat (3) harus dijaga oleh petugas keamanan.
 (6) Setiap alat angkut, orang, dan barang yang keluar dari
 wilayah karantina dilakukan tindakan berrrpa disinfeksi,
 dekontaminasi, disinseksi, dan f atau deratisasi.
+
 Pasal 1099
 (1) Orang yang meninggal selama pelaksanaan karantina
 dilakukan pemulasaraan jenaza}e sesuai dengan penyebab
@@ -19585,6 +19422,7 @@ terpapar penyakit yang menimbulkan Wabah selama
 pelaksanaan karantina, pemakaman dilakukan di
 tempat/lokasi yang ditetapkan oleh gubernur atau
 bupati/wali kota.
+
 Pasal 1100
 Dalam pelaksanaan karantina, masyarakat dapat berperan
 serta untuk:
@@ -19595,6 +19433,7 @@ c. membantupendistribusianlogistik;
 d. memberikan dukungan fasilitasi dalam Pelayanan
 Kesehatan; dan/atau
 e. dukungan lain yang diperlukan.
+
 Pasal 1101
 (1) Dalam melaksanakan karantina, Petugas Karantina
 Kesehatan melibatkan Tenaga Medis, Tenaga Kesehatan,
@@ -19615,7 +19454,8 @@ yang menimbulkan Wabah dan faktor risikonya;
 d. informasi hak dan kewajiban orang yang dikarantina;
 dan
 e. informasi lain yang diperlukan.
-Pasal IIO2
+
+Pasal 1102
 (1) Dalam pelaksanaan karantina, Petugas Karantina
 Kesehatan, Tenaga Medis, Tenaga Kesehatan, dan
 Tenaga Pendukung atau Penunjang Kesehatan harus
@@ -19626,7 +19466,7 @@ Penunjang Kesehatan yang bertugas melaksanakan
 karantina harus dilengkapi dengan alat pelindung diri
 atau alat proteksi lainnya.
 (3) Selain dilengkapi dengan alat pelindung diri atau alat
-proteksi lainnya sebagaimana dimaksud pada ayat (21,
+proteksi lainnya sebagaimana dimaksud pada ayat (2) ,
 Petugas Karantina Kesehatan, Tenaga Medis,
 Tenaga Kesehatan, dan Tenaga Pendukung atau
 Penunjang Kesehatan juga melaksanakan tindakan
@@ -19638,7 +19478,7 @@ Pembatasan Kegiatan Sosial Kemasyarakatan
 
 Pasal 1103
 (1) Pembatasan kegiatan sosial kemasyarakatan sebagaimana
-dimaksud dalam Pasal lO92 ayat (71merupakan tindakan
+dimaksud dalam Pasal 1092 ayat (7) merupakan tindakan
 mitigasi faktor risiko di wilayah pada situasi Wabah yang
 dilakukan dengan membatasi kegiatan tertentu penduduk
 dalam suatu wilayah yang diduga terinfeksi atau terpapar
@@ -19647,19 +19487,20 @@ untuk mencegah kemungkinan penyebaran penyakit.
 (2) Pembatasan kegiatan sosial kemasyarakatan sebagaimana
 dimaksud pada ayat (1) dilaksanakan jika telah memenuhi
 kriteria:
-a. jumlah kasus dan/atau jumlah kematian akibat
-penyakit yang menimbulkan Wabah meningkat dan
-menyebar secara signifikan dan cepat ke beberapa
-wilayah; dan
-b. telah terdapat kaitan epidemiologis dengan kejadian
-serupa di wilayah atau negara lain.
+  a. jumlah kasus dan/atau jumlah kematian akibat
+  penyakit yang menimbulkan Wabah meningkat dan
+  menyebar secara signifikan dan cepat ke beberapa
+  wilayah; dan
+  b. telah terdapat kaitan epidemiologis dengan kejadian
+  serupa di wilayah atau negara lain.
+
 Pasal 1104
 (1) Pembatasan kegiatan sosial kemasyarakatan meliputi:
-a. peliburan sekolah dan tempat kerja;
-b. pembatasan kegiatan keagamaan;
-c. pembatasan kegiatan di tempat atau fasilitas umum;
-dan/atau
-d. pembatasan kegiatan lainnya.
+  a. peliburan sekolah dan tempat kerja;
+  b. pembatasan kegiatan keagamaan;
+  c. pembatasan kegiatan di tempat atau fasilitas umum;
+  dan/atau
+  d. pembatasan kegiatan lainnya.
 (2) Pembatasan kegiatan sebagaimana dimaksud pada
 ayat (1) huruf a dan huruf b harus tetap
 mempertimbangkan kebutuhan pendidikan, produktivitas
@@ -19667,20 +19508,15 @@ kerja, dan ibadah masyarakat.
 (3) Pembatasan kegiatan sebagaimana dimaksud pada
 ayat (1) huruf c dilakukan dengan memperhatikan
 pemenuhan kebutuhan dasar masyarakat.
-(41 Pembatasan kegiatan sosial kemasyarakatan sebagaimana
+(4) Pembatasan kegiatan sosial kemasyarakatan sebagaimana
 dimaksud pada ayat (1) dilaksanakan berkoordinasi dan
 bekerja sama dengan berbagai pihak terkait sesuai dengan
 ketentuan peraturan perundangan-undangan.
+
 Pasal 1105
 (1) Pembatasan kegiatan sosial kemasyarakatan ditetapkan
 dan dicabut oleh Menteri dengan mempertimbangkan
 rekomendasi dari Petugas Karantina Kesehatan.
-SK No230950A
-(2) Dalam
-
-PRESIDEN
-REPUBLTK INDONESIA
--450-
 (2) Dalam menetapkan atau mencabut pembatasan kegiatan
 sosial kemasyarakatan sebagaimana dimaksud pada
 ayat (1), Menteri berkoordinasi dengan menteri dan/atau
@@ -19698,91 +19534,86 @@ Petugas Karantina Kesehatan merupakan aparatur sipil negara
 yang berkedudukan di Pintu Masuk dan pelabuhan atau
 bandar udara yang melayani lalu lintas domestik serta di
 wilayah.
-Pasal LLOT
+
+Pasal 1107
 Petugas Karantina Kesehatan di Pintu Masuk dan pelabuhan
 atau bandar udara yang melayani lalu lintas domestik diangkat
 dan diberhentikan oleh Menteri.
-(1)
-(2t
+
 Pasal 1108
-Petugas Karantina Kesehatan di wilayah diangkat dan
+(1) Petugas Karantina Kesehatan di wilayah diangkat dan
 diberhentikan oleh gubernur atau bupati/wali kota.
-Pengangkatan Petugas Karantina Kesehatan di wilayah
+(2) Pengangkatan Petugas Karantina Kesehatan di wilayah
 sebagaimana dimaksud pada ayat (1) dilakukan setelah
 adanya penetapan Wabah.
-Petugas Karantina Kesehatan di wilayah sebagaimana
+(3) Petugas Karantina Kesehatan di wilayah sebagaimana
 dimaksud pada ayat (2) bertugas selama status
 Wabah masih ditetapkan.
-(3)
+
 Pasal 1109
 Tenaga Medis atau Tenaga Kesehatan yang diangkat sebagai
 Petugas Karantina Kesehatan harus telah mengikuti pelatihan
 karantina Kesehatan dan penanggulangan penyakit dan/atau
-faktor risiko penyakit yang berpotensi menimbulkan Wabah
-Pasal 1 110
+faktor risiko penyakit yang berpotensi menimbulkan Wabah.
+
+Pasal 1110
 (1) Petugas Karantina Kesehatan di Pintu Masuk dan
 pelabuhan atau bandar udara yang melayani lalu lintas
 domestik berwenang:
-SK No 230951 A
-a. melakukan
-
-FRESIDEN
-REPUBLIK INDONESIA
--451-
-a. melakukan dan menetapkan tindakan
-penanggulangan Wabah;
-b. menerbitkan surat rekomendasi penolakan
-kedatangan atau penundaan keberangkatan kepada
-instansi yang berwenang; dan
-c. menerbitkan surat rekomendasi kepada pejabat yang
-berwenang untuk menetapkan karantina di wilayah
-Pintu Masuk dan pelabuhan atau bandar udara yang
-melayani lalu lintas domestik.
+  a. melakukan dan menetapkan tindakan
+  penanggulangan Wabah;
+  b. menerbitkan surat rekomendasi penolakan
+  kedatangan atau penundaan keberangkatan kepada
+  instansi yang berwenang; dan
+  c. menerbitkan surat rekomendasi kepada pejabat yang
+  berwenang untuk menetapkan karantina di wilayah
+  Pintu Masuk dan pelabuhan atau bandar udara yang
+  melayani lalu lintas domestik.
 (2) Petugas Karantina Kesehatan di wilayah berwenang:
-a. melakukan dan menetapkan tindakan
-penanggulangan Wabah;
-b. menerbitkan surat rekomendasi deportasi kepada
-instansi yang berwenang; dan
-c. menerbitkan surat rekomendasi kepada pejabat yang
-berwenang untuk menetapkan karantina yang
-dilaksanakan di mmah, Rumah Sakit, tempat keda,
-alat angkut, hotel, wisma, asrama, dan tempat atau
-wilayah lain di wilayah kerjanya.
+  a. melakukan dan menetapkan tindakan
+  penanggulangan Wabah;
+  b. menerbitkan surat rekomendasi deportasi kepada
+  instansi yang berwenang; dan
+  c. menerbitkan surat rekomendasi kepada pejabat yang
+  berwenang untuk menetapkan karantina yang
+  dilaksanakan di mmah, Rumah Sakit, tempat keda,
+  alat angkut, hotel, wisma, asrama, dan tempat atau
+  wilayah lain di wilayah kerjanya.
 
 Paragraf 7
 Pelaksanaan Kegiatan Pasca-Wabah
 
 Pasal 1111
-Kegiatan pasca-Wabah dilaksanakan setelah Menteri
+(1) Kegiatan pasca-Wabah dilaksanakan setelah Menteri
 mencabut penetapan Daerah Terjangkit Wabah.
-Pencabutan penetapan Daerah Terjangkit Wabah
+(2) Pencabutan penetapan Daerah Terjangkit Wabah
 sebagaimana dimaksud pada ayat (1) dilakukan jika pada
 Daerah Terjangkit Wabah memenuhi kriteria epidemiologis
 meliputi:
-a. penularan penyakit telah berhenti;
-b. perkembangan penyakit dapat dikendalikan;
-dan/atau
-c. kondisi Kesehatan telah kembali seperti keadaan
-sebelum terjadi Wabah.
-Selain kriteria epidomologis sebagaimana dimaksud pada
-ayat (21, Menteri dalam mencabut penetapan Daerah
+  a. penularan penyakit telah berhenti;
+  b. perkembangan penyakit dapat dikendalikan; dan/atau
+  c. kondisi Kesehatan telah kembali seperti keadaan
+  sebelum terjadi Wabah.
+(3) Selain kriteria epidomologis sebagaimana dimaksud pada
+ayat (2), Menteri dalam mencabut penetapan Daerah
 Terjangkit Wabah dapat mempertimbangkan situasi
 Pelayanan Kesehatan masyarakat sudah berfungsi
 kembali seperti situasi sebelum tedadinya Wabah.
-Pasal lLL2
+
+Pasal 1112
 (1) Kegiatan pasca-Wabah dilakukan untuk pemulihan
 Kesehatan masyarakat di Daerah Terjangkit Wabah,
 mencegah Wabah berulang, dan meningkatkan
 pemberdayaan masyarakat.
 (2) Untuk pemulihan pasca-Wabah dilakukan kegiatan
 normalisasi:
-a. Pelayanan Kesehatan; dan
-b. kehidupan sosial, ekonomi, dan budaya masyarakat.
+  a. Pelayanan Kesehatan; dan
+  b. kehidupan sosial, ekonomi, dan budaya masyarakat.
 (3) Selain pemulihan sebagaimana dimaksud pada ayat (1)
 tetap dilakukan upaya pencegahan terulangnya Wabah
 melalui kegiatan:
-a. penguatan surveilans Kesehatan; dan
-b. pengendalian faktor risiko.
+  a. penguatan surveilans Kesehatan; dan
+  b. pengendalian faktor risiko.
 (4) Pemulihan sebagaimana dimaksud pada ayat (3) juga
 dapat dilakukan melalui penguatan pemberian kekebalan
 atau pemberian profilaksis.
@@ -19796,7 +19627,7 @@ kabupatenf kota, Pemerintah Daerah provinsi, dan
 Pemerintah Pusat secara terintegrasi, komprehensif, tepat
 sasaran, dan berkesinambungan sesuai dengan
 kewenangannya.
-(71 Ketentuan lebih lanjut mengenai pedoman pelaksanaan
+(7) Ketentuan lebih lanjut mengenai pedoman pelaksanaan
 kegiatan pasca-Wabah sebagaimana dimaksud pada
 ayat (1) diatur dengan Peraturan Menteri.
 
@@ -19814,18 +19645,12 @@ dan Wabah wajib memenuhi standar pengelolaan.
 dan/atau agen biologi penyebab penyakit dan masalah
 Kesehatan yang berpotensi menimbulkan KLB dan Wabah
 sebagaimana dimaksud pada ayat (1) berrrpa:
-a. batas aman penggunaan unsur bahan kimia;
-b. batas aman penggunaan unsur fisika berupa zat
-radioaktif dari instalasi nuklir dan/atau kegiatan
-yang memanfaatkan zat radioaktif; dan
-c. batas aman penggunaan agen biologi pada media
-lingkungan air, udara, dan tanah.
-SK No 230953 A
-(3) Bahan
-
-PRESIDEN
-REPUBLTK INDONESIA
--453-
+  a. batas aman penggunaan unsur bahan kimia;
+  b. batas aman penggunaan unsur fisika berupa zat
+  radioaktif dari instalasi nuklir dan/atau kegiatan
+  yang memanfaatkan zat radioaktif; dan
+  c. batas aman penggunaan agen biologi pada media
+  lingkungan air, udara, dan tanah.
 (3) Bahan yang mengandung penyebab dan/atau agen biologi
 penyebab penyakit dan masalah Kesehatan sebagaimana
 dimaksud pada ayat (1) dapat berasal dari manusia,
@@ -19835,7 +19660,8 @@ tercemar atau mengandung penyebab penyakit.
 penyebab penyakit dan masalah Kesehatan sebagaimana
 dimaksud pada ayat (3) wajib dikelola sesuai dengan jenis
 dan sifatnya.
-Pasal lll4
+
+Pasal 1114
 (1) Pengelolaan bahan yang mengandung penyebab dan/atau
 agen biologi penyebab penyakit dan masalah Kesehatan
 yang berpotensi menimbulkan KLB dan Wabah meliputi
@@ -19847,7 +19673,8 @@ yang berpotensi menimbulkan KLB dan Wabah
 sebagaimana dimaksud pada ayat (1) dilakukan oleh
 Tenaga Medis, Tenaga Kesehatan, atau tenaga lainnya
 sesuai dengan keahlian, kompetensi, dan kewenangannya.
-Pasal 1 1 15
+
+Pasal 1115
 Ketentuan lebih lanjut mengenai tata cara pengelolaan dan
 batas aman bahan yang mengandung penyebab dan/atau agen
 biologi penyebab penyakit dan masalah Kesehatan yang
@@ -19858,7 +19685,7 @@ lembaga terkait sesuai dengan tugas dan kewenangannya.
 Bagian Kelima
 Pencatatan dan Pelaporan
 
-Pasal 1 1 16
+Pasal 1116
 (1) Setiap kegiatan pelaksanaan kewaspadaan KLB dan
 Wabah, kegiatan penanggulangan KLB dan
 Wabah dan/atau kegiatan pasca-KlB dan pasca-Wabah
@@ -19871,7 +19698,7 @@ secara cepat, tepat, akurat, dan bertanggung jawab.
 Bagian Keenam
 Sanksi Administratif
 
-Pasal lLlT
+Pasal 1117
 (1) Setiap Orang yang mengetahui adanya orang sakit atau
 diduga sakit akibat penyakit atau masalah Kesehatan
 yang berpotensi menimbulkan KLB atau akibat
@@ -19893,36 +19720,36 @@ Fasilitas Pelayanan Kesehatan yang melanggar ketentuan
 sebagaimana dimaksud pada ayat (2) dikenai sanksi
 administratif oleh Pemerintah Daerah atau Pemerintah
 Pusat sesuai dengan kewenangannya berupa:
-a. teguran lisan;
-b. teguran tertulis; dan/atau
-c. usulan pemberhentian dari jabatannya.
+  a. teguran lisan;
+  b. teguran tertulis; dan/atau
+  c. usulan pemberhentian dari jabatannya.
 (4) Sanksi administratif berupa teguran lisan sebagaimana
 dimaksud pada ayat (3) huruf a disampaikan secara
 langung dan dituangkan dalam berita acara.
 (5) Sanksi administratif berupa teguran tertulis sebagaimana
 dimaksud pada ayat (3) huruf b diberikan dalam bentuk
 keputusan, dengan ketentuan:
-a. telah mendapatkan sanksi administratif berrrpa
-teguran lisan dan masih melakukan pelanggaran
-yang sama; atau
-b. dampak yang ditimbulkan dari pelanggaran
-menyebabkan meningkatnya jumlah kesakitan.
+  a. telah mendapatkan sanksi administratif berrrpa
+  teguran lisan dan masih melakukan pelanggaran
+  yang sama; atau
+  b. dampak yang ditimbulkan dari pelanggaran
+  menyebabkan meningkatnya jumlah kesakitan.
 (6) Pengenaan sanksi administratif berupa usulan
 pemberhentian dari jabatannya sebagaimana dimaksud
 pada ayat (3) huruf c diberikan dalam bentuk keputusan,
 dengan ketentuan:
-
-a. telah mendapatkan sanksi administratif berupa
-teguran tertulis dan masih melakukan pelanggaran
-yang sErma; atau
-b. dampak yang ditimbulkan dari pelanggaran
-menyebabkan meningkatnya jumlah kedisabilitasan
-dan/atau kematian.
-(71 Pengenaan sanksi administratif sebagaimana dimaksud
+  a. telah mendapatkan sanksi administratif berupa
+  teguran tertulis dan masih melakukan pelanggaran
+  yang sErma; atau
+  b. dampak yang ditimbulkan dari pelanggaran
+  menyebabkan meningkatnya jumlah kedisabilitasan
+  dan/atau kematian.
+(7) Pengenaan sanksi administratif sebagaimana dimaksud
 pada ayat (3) dilakukan berdasarkan hasil verifikasi,
 klarifikasi, dan kajian terhadap pelanggaran yang
 ditemukan dan I atau dilaporkan.
-Pasal 1 1 18
+
+Pasal 1118
 (1) Fasilitas Pelayanan Kesehatan wajib memberikan
 Pelayanan Kesehatan terhadap orang sakit atau diduga
 sakit akibat penyakit atau masalah Kesehatan yang
@@ -19938,47 +19765,47 @@ sebagaimana dimaksud dalam Pasal 1113 ayat (1) dikenai
 sanksi administratif oleh Pemerintah Pusat atau
 Pemerintah Daerah sesuai dengan kewenangannya
 berupa:
-a. teguran lisan;
-b. teguran tertulis; dan/atau
-c. denda administratif.
+  a. teguran lisan;
+  b. teguran tertulis; dan/atau
+  c. denda administratif.
 (3) Sanksi administratif berupa teguran lisan sebagaimana
 dimaksud pada ayat (2) huruf a disampaikan secara
 langsung dan dituangkan dalam berita acara.
-(41 Sanksi administratif berupa teguran tertulis sebagaimana
+(4) Sanksi administratif berupa teguran tertulis sebagaimana
 dimaksud pada ayat (2) huruf b diberikan dalam bentuk
 keputusan, dengan ketentuan:
-a. telah mendapatkan sanksi administratif berupa
-teguran lisan dan masih melakukan pelanggaran
-yang sama; atau
-b. dampak yang ditimbulkan dari pelanggaran
-menyebabkan meningkatnya jumlah kesakitan.
-
+  a. telah mendapatkan sanksi administratif berupa
+  teguran lisan dan masih melakukan pelanggaran
+  yang sama; atau
+  b. dampak yang ditimbulkan dari pelanggaran
+  menyebabkan meningkatnya jumlah kesakitan.
 (5) Sanksi administratif berupa denda administratif
 sebagaimana dimaksud pada ayat (2) huruf c diberikan
 dalam bentuk keputusan, dengan ketentuan:
-a. telah mendapatkan sanksi administratif berupa
-teguran tertulis dan masih melakukan pelanggaran
-yang sama; atau
-b. dampak yang ditimbulkan dari pelanggaran
-menyebabkan meningkatnya jumlah kedisabilitasan
-dan/atau kematian.
+  a. telah mendapatkan sanksi administratif berupa
+  teguran tertulis dan masih melakukan pelanggaran
+  yang sama; atau
+  b. dampak yang ditimbulkan dari pelanggaran
+  menyebabkan meningkatnya jumlah kedisabilitasan
+  dan/atau kematian.
 (6) Denda administratif sebagaimana dimaksud pada ayat (5)
 dikenakan sesuai dengan besaran yang telah ditetapkan
 sebagai penerimaan negara bukan pajak atau pendapatan
-daerah sesuai dengan ketentuan peratur€rn perundangundangan.
-(71 Pengenaan sanksi administratif sebagaimana dimaksud
+daerah sesuai dengan ketentuan peratur€rn perundang-undangan.
+(7) Pengenaan sanksi administratif sebagaimana dimaksud
 pada ayat (2) dilakukan berdasarkan hasil verifikasi,
 klarifikasi, dan kajian terhadap pelanggaran yang
 ditemukan dan/atau dilaporkan.
-Pasal 1 1 19
+
+Pasal 1119
 (1) Setiap nakhoda, kapten penerbang, dan pengemudi
 kendaraan darat yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 1055 ayat (1) dan nakhoda yang
 melanggar ketentuan sebagaimana dimaksud dalam
 Pasal 1056 dikenai sanksi administratif oleh Pemerintah
 Pusat sesuai dengan kewenangannya berupa:
-a. teguran tertulis; dan/atau
-b. denda administratif.
+  a. teguran tertulis; dan/atau
+  b. denda administratif.
 (2) Setiap nakhoda, kapten penerbang, dan pengemudi
 kendaraan darat yang tidak melengkapi Dokumen
 Karantina Kesehatan sehingga dikeluarkan persetujuan
@@ -19996,8 +19823,9 @@ sanksi administratif berupa teguran tertulis dan masih
 melakukan pelanggaran yang sama.
 (5) Pengenaan sanksi administratif berupa denda
 administratif sebagaimana dimaksud pada ayat (1)
-huruf b dan ayat (21diberikan dalam bentuk keputusan. (6) Denda administratif sebagaimana dimaksud pada ayat
-pada ayat (1) huruf b dan ayat(21dikenakan sesuai dengan
+huruf b dan ayat (2) diberikan dalam bentuk keputusan.
+(6) Denda administratif sebagaimana dimaksud pada ayat
+pada ayat (1) huruf b dan ayat (2) dikenakan sesuai dengan
 besaran yang telah ditetapkan sebagai penerimaan negara
 bukan pajak sesuai dengan ketentuan peraturan
 perrrndang-undangan.
@@ -20005,14 +19833,16 @@ perrrndang-undangan.
 pada ayat (1) dan ayat (2) dilakukan berdasarkan hasil
 verifikasi, klarifikasi, dan kajian terhadap pelanggaran
 yang ditemukan dan/atau dilaporkan.
-Pasal ll20
+
+Pasal 1120
 Setiap Orang, aparatur pemerintahan desa/kelurahan,
 Fasilitas Pelayanan Kesehatan, nakhoda, kapten penerbang,
 dan/atau pengemudi kendaraan darat yang mendapat sanksi
 administratif berhak mengajukan keberatan kepada pejabat
 yang memberikan sanksi administratif atau pengadilan tata
-usaha negara sesuai dengan ketentuan peraturan perundangundangan.
-Pasal ll2l
+usaha negara sesuai dengan ketentuan peraturan perundang-undangan.
+
+Pasal 1121
 Ketentuan lebih lanjut mengenai teknis pengenaan sanksi
 administratif dan pengajuan keberatan atas sanksi
 administratif diatur dengan Peraturan Menteri.
@@ -20020,21 +19850,23 @@ administratif diatur dengan Peraturan Menteri.
 BAB IX
 PENDANAAN KESEHATAN
 
-Pasal lL22
+Pasal 1122
 Pendanaan Kesehatan bertujuan untuk mendanai
 pembangunan Kesehatan secara berkesinambungan dengan jumlah yang mencukupi, teralokasi secara adil, dan
 termanfaatkan secara berhasil guna dan berdaya guna
 untuk meningkatkan derajat Kesehatan masyarakat
 setinggi-tingginya.
-Pasal ll23
+
+Pasal 1123
 Pendanaan Kesehatan diselenggarakan berdasarkan prinsip:
 a. kecukupan;
 b. kemanfaatan;
 c. keadilan;
 d. efektif dan efisien;
-e. berkesinambungan; dan f. transparan dan akuntabel.
+e. berkesinambungan; dan 
+f. transparan dan akuntabel.
 
-Pasal ll24
+Pasal 1124
 (1) Sumber pendanaan Kesehatan berasal dari Pemerintah
 Pusat, Pemerintah Daerah, dan sumber lain yang
 sah sesuai dengan ketentuan peraturan
@@ -20045,7 +19877,8 @@ bersumber dari anggaran pendapatan dan belanja negara.
 (3) Sumber pendanaan Kesehatan yang berasal dari
 Pemerintah Daerah sebagaimana dimaksud pada ayat (1)
 bersumber dari anggaran pendapatan dan belanja daerah.
-Pasal lL25
+
+Pasal 1125
 Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab
 menyediakan dana yang dimanfaatkan untuk seluruh kegiatan:
 a. Upaya Kesehatan;
@@ -20057,9 +19890,10 @@ e. penelitian, pengembangan, dan inovasi bidang Kesehatan;
 dan
 f. program Kesehatan strategis lainnya sesuai dengan
 prioritas pembangunan nasional di sektor Kesehatan.
-Pasal lL26
+
+Pasal 1126
 (1) Pemanfaatan pendanaan untuk Upaya Kesehatan
-sebagaimana dimaksud dalam Pasal lL25 huruf a
+sebagaimana dimaksud dalam Pasal 1125 huruf a
 mencakup upaya promotif, preventif termasuk skrining,
 kuratif, rehabilitatif, dan/atau paliatif dalam rangka
 meningkatkan derajat Kesehatan masyarakat yang
@@ -20069,18 +19903,18 @@ sebagaimana dimaksud ayat (1) terdiri atas:
 a. kegiatan Upaya Kesehatan masyarakat; dan
 b. kegiatan Upaya Kesehatan perseorangan.
 (3) Pemanfaatan pendanaan untuk Upaya Kesehatan
-Perseorangan sebagaimana dimaksud pada ayat (21
+Perseorangan sebagaimana dimaksud pada ayat (2) 
 huruf b melalui pembayaran penuh atau sebagian iuran
 jaminan kesehatan nasional dan jaminan kesehatan
-lainnya sesuai dengan ketentuan peraturan perundangundangan.
+lainnya sesuai dengan ketentuan peraturan perundang-undangan.
 
-Pasal ll27
+Pasal 1127
 (1) Pemanfaatan pendanaan untuk penanggulangan bencana,
 KLB, dan/atau Wabah sebagaimana dimaksud dalam
-Pasal ll25 huruf b mencakup kegiatan Pelayanan
+Pasal 1125 huruf b mencakup kegiatan Pelayanan
 Kesehatan pada bencana termasuk penanggulangan krisis
 Kesehatan akibat bencana, kewaspadaan KLB dan Wabah,
-penanggulangan KLB dan Wabah, serta kegiatan pascaKLB dan pasca-Wabah.
+penanggulangan KLB dan Wabah, serta kegiatan pasca-KLB dan pasca-Wabah.
 (2) Selain untuk kegiatan sebagaimana dimaksud pada
 ayat (1) pemanfaatan pendanaan untuk bencana, KLB,
 dan/atau Wabah termasuk kegiatan:
@@ -20094,7 +19928,8 @@ ayat (2) huruf b dilaksanakan sesuai dengan ketentuan
 peraturan perundang-undangan dengan memperhatikan
 kemampuan keuangan negara dan/atau keuangan
 daerah.
-Pasal LL28
+
+Pasal 1128
 Pemanfaatan pendanaan untuk penguatan Sumber Daya
 Kesehatan dan pemberdayaan masyarakat sebagaimana
 dimaksud dalam Pasal 1125 huruf c mencakup:
@@ -20104,9 +19939,10 @@ Daya Kesehatan; dan
 b. advokasi, peningkatan, serta pembinaan dan pengawasan
 pelaksanaan peran serta masyarakat termasuk swasta
 dalam kegiatan dan program Kesehatan.
-Pasal LL29
+
+Pasal 1129
 Pemanfaatan pendanaan untuk penguatan pengelolaan
-Kesehatan sebagaimana dimaksud dalam Pasal LL25 huruf d
+Kesehatan sebagaimana dimaksud dalam Pasal 1125 huruf d
 mencakup penguatan sistem Kesehatan untuk:
 a. Upaya Kesehatan;
 b. penelitian dan pengembangan Kesehatan;
@@ -20120,7 +19956,7 @@ g. pemberdayaan masyarakat.
 Pasal 1130
 (1) Pemanfaatan pendanaan untuk penelitian,
 pengembangan, dan inovasi bidang Kesehatan
-sebagaimana dimaksud dalam Pasal LL25 huruf e
+sebagaimana dimaksud dalam Pasal 1125 huruf e
 mencakup seluruh kegiatan penelitian, pengembangan,
 dan inovasi yang ditujukan untuk peningkatan Upaya
 Kesehatan, peningkatan Pelayanan Kesehatan,
@@ -20135,13 +19971,15 @@ mengalokasikan anggaran pendanaan penelitian dan
 pengembangan Sediaan Farmasi dan Alat Kesehatan
 sesuai kebutuhan dan kemampuan industri Sediaan
 Farmasi dan Alat Kesehatan.
+
 Pasal 1131
 Pemanfaatan pendanaan untuk program Kesehatan strategis
-lainnya sebagaimana dimaksud dalam Pasal ll25 huruf f
+lainnya sebagaimana dimaksud dalam Pasal 1125 huruf f
 mencakup program dan kegiatan Kesehatan yang menjadi
 prioritas pembangunan nasional di sektor Kesehatan yang
 ditetapkan oleh Menteri.
-Pasal lL32
+
+Pasal 1132
 (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab atas pendanaan pemeriksaan dan Pelayanan
 Kesehatan terhadap korban tindak pidana dan/atau
@@ -20158,16 +19996,12 @@ hukum.
 hukum sebagaimana dimaksud pada ayat (1) mencakup
 tindakan pemeriksaan dalam rangka visum untuk
 kepentingan hukum.
-SK No 230961 A
-Pasal 1133. ..
 
-PRESIDEN
-REPUBLIK TNDONESIA
--46tPasal 1 133
+Pasal 1133
 (1) Pemerintah Pusat, Pemerintah Daerah provinsi, dan
 Pemerintah Daerah kabupaten/kota memprioritaskan
 anggaran Kesehatan untuk program dan kegiatan dalam
-penJrusunan anggaran pendapatan dan belanja negara
+penyusunan anggaran pendapatan dan belanja negara
 dan anggaran pendapatan dan belanja daerah.
 (2) Anggaran Kesehatan untuk program dan kegiatan
 sebagaimana dimaksud pada ayat (1) merupakan
@@ -20187,7 +20021,7 @@ program Kesehatan nasional yang dituangkan dalam
 rencana induk bidang Kesehatan dengan memperhatikan
 penganggaran berbasis kinerja.
 (5) Pengalokasian anggaran Kesehatan sebagaimana
-dimaksud pada ayat (3) dan ayat (4l,, termasuk
+dimaksud pada ayat (3) dan ayat (4), termasuk
 memperhatikan penyelesaian permasalahan Kesehatan
 berdasarkan beban penyakit atau epidemiologi.
 (6) Rencana induk bidang Kesehatan sebagaimana dimaksud
@@ -20202,13 +20036,8 @@ pada ayat (6) dapat dilakukan evaluasi setiap tahun.
 (8) Rencana induk bidang Kesehatan sebagaimana dimaksud
 pada ayat (6) menjadi acuan bagi kementerian/lembaga
 dan Pemerintah Daerah serta masyarakat untuk
-men5rusun rencana lima tahunan di bidang Kesehatan.
-Pasal 1134. ..
-SK No 230962 A
+menyusun rencana lima tahunan di bidang Kesehatan.
 
-FRESIDEN
-REPUBLTK INDONESIA
--462-
 Pasal 1134
 (1) Alokasi anggaran Kesehatan oleh Pemerintah Daerah
 sebagaimana dimaksud dalam Pasal 1133 pada ayat (1)
@@ -20219,10 +20048,11 @@ Kesehatan lainnya yang menjadi prioritas nasional.
 Daerah, Pemerintah Pusat berwenang untuk
 menyinkronkan kebutuhan alokasi anggaran untuk
 kegiatan sebagaimana dimaksud pada ayat (1).
+
 Pasal 1135
 (1) Rencana induk bidang Kesehatan ditetapkan oleh
 Presiden.
-(2) Pen5rusunan rencana induk bidang Kesehatan
+(2) Penyusunan rencana induk bidang Kesehatan
 dikoordinasikan oleh Menteri dengan melibatkan menteri
 yang menyelenggarakan urusan pemerintahan di bidang
 keuangan negara, menteri yang menyelenggarakan urusan
@@ -20232,28 +20062,23 @@ pemerintahan dalam negeri, dan kementerian/lembaga
 yang mendukung program Kesehatan.
 (3) Sebelum ditetapkan oleh Presiden, rencana induk bidang
 Kesehatan harus dikonsultasikan dengan alat
-kelengkapan Dewan Perwakilan Ralryat Republik
+kelengkapan Dewan Perwakilan Rakyat Republik
 Indonesia yang membidangi Kesehatan.
-(41 Pen5rusunan rencana induk bidang Kesehatan
+(4) Penyusunan rencana induk bidang Kesehatan
 sebagaimana dimaksud pada ayat (2) harus
 memperhatikan prinsip:
-a. penguatan tata kelola perencanaan dan
-penganggaran;
-b. penganggaran berbasis kinerja;
-c. penerapan penganggaran jangka pendek dan
-menengah;
-d. sinkronisasi perencanaan dan penganggaran antara
-Pemerintah Pusat dan Pemerintah Daerah; dan
-e. mobilisasi sumber pendanaan lain.
+  a. penguatan tata kelola perencanaan dan
+  penganggaran;
+  b. penganggaran berbasis kinerja;
+  c. penerapan penganggaran jangka pendek dan
+  menengah;
+  d. sinkronisasi perencanaan dan penganggaran antara
+  Pemerintah Pusat dan Pemerintah Daerah; dan
+  e. mobilisasi sumber pendanaan lain.
 (5) Ketentuan lebih lanjut mengenai rencana induk bidang
 Kesehatan sebagaimana dimaksud pada ayat (1) diatur
 dengan Peraturan Presiden.
-Pasal 1136. . .
-SK No 230963 A
 
-PRESIDEN
-REPUBLTK INDONESIA
--463-
 Pasal 1136
 (1) Dalam melaksanakan penganggaran berbasis kinerja
 sebagaimana dimaksud dalam Pasal 1133, Menteri
@@ -20266,7 +20091,8 @@ Pelayanan Kesehatan sebagaimana dimaksud pada
 ayat (1) huruf a mengacu pada rencana pembangunan
 jangka panjang nasional dan rencana pembangunan
 jangka menengah nasional.
-Pasal ll37
+
+Pasal 1137
 (1) Menteri melakukan pemantauan dan evaluasi pendanaan
 Kesehatan secara nasional dan regional untuk
 memastikan tercapainya tujuan pendanaan Kesehatan.
@@ -20282,27 +20108,23 @@ pemerintahan dalam negeri, dan menteri terkait lainnya.
 Kesehatan, Menteri mengembangkan Sistem Informasi
 Kesehatan mengenai pendanaan Kesehatan yang
 terintegrasi dengan Sistem lnformasi Kesehatan Nasional.
-(41 Pengembangan Sistem Informasi Kesehatan mengenai
+(4) Pengembangan Sistem Informasi Kesehatan mengenai
 pendanaan Kesehatan dilakukan secara bertahap sesuai
-dengan arsitektur sistem informasi yang ditetapkan. (5) Sistem Informasi Kesehatan mengenai pendanaan
+dengan arsitektur sistem informasi yang ditetapkan.
+(5) Sistem Informasi Kesehatan mengenai pendanaan
 Kesehatan sebagaimana dimaksud pada ayat (3)
 merupakan seperangkat tatanan yang terintegrasi
 meliputi data, informasi, indikator, dan capaian kinerja
-pendanaan Kesehatan yang dikelola secara terpadu. (6) Dalam melaksanakan pemantauan dan evaluasi
+pendanaan Kesehatan yang dikelola secara terpadu.
+(6) Dalam melaksanakan pemantauan dan evaluasi
 pendanaan Kesehatan sebagaimana dimaksud pada
 ayat (1), Menteri dapat melibatkan kementerian/lembaga
 dan/atau pihak lain.
-(71 Pemantauan dan evaluasi pendanaan Kesehatan
+(7) Pemantauan dan evaluasi pendanaan Kesehatan
 sebagaimana dimaksud pada ayat (1) dilakukan terhadap:
-a. pelaksanaan penganggaran berbasis kinerja; dan
-b. peningkatan akses, pemerataan, dan kualitas
-Pelayanan Kesehatan.
-(8) Pemantauan...
-SK No 230964 A
-
-FRESIDEN
-REPUBLIK INDONESIA
--464-
+  a. pelaksanaan penganggaran berbasis kinerja; dan
+  b. peningkatan akses, pemerataan, dan kualitas
+  Pelayanan Kesehatan.
 (8) Pemantauan dan evaluasi pendanaan Kesehatan
 sebagaimana dimaksud pada ayat (1) dilakukan paling
 sedikit 1 (satu) dalam 1 (satu) tahun.
@@ -20310,13 +20132,14 @@ sedikit 1 (satu) dalam 1 (satu) tahun.
 sebagaimana dimaksud pada ayat (1) dipublikasikan
 melalui Sistem Informasi Kesehatan mengenai pendanaan
 Kesehatan dalam bentuk:
-a. akun belanja Kesehatan nasional;
-b. akun belanja Kesehatan provinsi; dan
-c. akun belanja Kesehatan kabupaten/kota.
+  a. akun belanja Kesehatan nasional;
+  b. akun belanja Kesehatan provinsi; dan
+  c. akun belanja Kesehatan kabupaten/kota.
 (10) Hasil pemantauan dan evaluasi pendanaan Kesehatan
 sebagaimana dimaksud pada ayat (1) digunakan untuk
 perencanaan serta penJrusunan kebijakan pendanaan
 Kesehatan secara umum.
+
 Pasal 1138
 (1) Dalam rangka upaya peningkatan kinerja pendanaan
 Kesehatan, Pemerintah Pusat dapat memberikan insentif
@@ -20327,15 +20150,17 @@ ditetapkan oleh Pemerintah Pusat.
 dimaksud pada ayat (1) didasarkan pada hasil penilaian
 dan/atau hasil pemantauan dan evaluasi pendanaan
 Kesehatan melalui akun belanja sebagaimana dimaksud
-dalam Pasal ll37 ayat (9).
+dalam Pasal 1137 ayat (9).
 (3) Pemberian insentif dan disinsentif sebagaimana dimaksud
 pada ayat (1) dan ayat (2) dilaksanakan dalam bentuk
 fiskal dan nonfiskal sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 1139
 Ketentuan lebih lanjut mengenai pelaksanaan pemantauan
 dan evaluasi pendanaan Kesehatan diatur dengan
 Peraturan Menteri.
+
 Pasal 1140
 (1) Setiap Fasilitas Pelayanan Kesehatan, instansi pusat dan
 instansi daerah, badan yang menyelenggarakan program jaminan sosial di bidang kesehatan, badan yang
@@ -20358,7 +20183,8 @@ interoperabilitas sistem informasi.
 (4) Ketentuan lebih lanjut mengenai penyampaian laporan
 realisasi sebagaimana dimaksud pada ayat (2) diatur
 dengan Peraturan Menteri.
-Pasal lL4I
+
+Pasal 1141
 (1) Untuk meningkatkan efektivitas dan efisiensi pendanaan
 Kesehatan, kementerian/lembaga terkait dapat
 melakukan kajian pendanaan Kesehatan.
@@ -20369,7 +20195,7 @@ dengan Peraturan Menteri.
 BAB X
 PARTISIPASI MASYARAKAT
 
-Pasal IL42
+Pasal 1142
 (1) Masyarakat berpartisipasi, baik secara perseorangan
 maupun terorganisasi dalam segala bentuk dan tahapan
 pembangunan Kesehatan dalam rangka membantu
@@ -20389,13 +20215,8 @@ c. ketahanan Kesehatan;
 d. pendanaan Kesehatan;
 e. Sumber Daya Manusia Kesehatan; dan
 f. Teknologi Kesehatan.
-SK No 230966 A
-Pasal 1 143
 
-FRESIDEN
-REPUBLTK TNDONESIA
--466-
-Pasal ll43
+Pasal 1143
 (1) Partisipasi masyarakat diselenggarakan dalam mekanisme
 keikutsertaan pada setiap tahapan pembangunan
 Kesehatan mulai dari perencanaan, pelaksanaan,
@@ -20438,7 +20259,7 @@ ayat (1) diselenggarakan melalui pelaporan, pemantauan
 dan evaluasi, koordinasi, konsultasi, supervisi terhadap
 penyelenggaraan Kesehatan, serta mekanisme lainnya.
 
-Pasal lL44
+Pasal 1144
 (1) Partisipasi masyarakat dapat dilakukan oleh akademisi,
 swasta atau badan usaha, organisasi masyarakat, individu
 atau komunitas, dan media.
@@ -20477,12 +20298,11 @@ sehat;
 c. pengembangan tatanan atau lingkungan sehat;
 d. pengembangan pesantren sehat;
 e. penerapan perilaku hidup bersih dan sehat di tempat
-ibadah'
-f. p"rr"r"p"n perilaku hidup bersih dan sehat di tempattempat umum;
+ibadah;
+f. penerapan perilaku hidup bersih dan sehat di tempat-tempat umum;
 g. menggalang gerakan masyarakat;
 h. inovasi model gerakan masyarakat; dan/atau
 i. penanggulangan KLB, Wabah, dan bencana.
-
 (5) Partisipasi masyarakat oleh individu atau komunitas dapat
 berupa:
 a. kesediaan menjadi pelopor atau agen perubahan
@@ -20500,10 +20320,12 @@ cetak, media elektronik, dan/atau media sosial;
 c. temu wicara dan/atau konferensi pers mengenai isu
 Kesehatan; dan/atau
 d. penanggulangan KLB, Wabah, dan bencana.
+
 Pasal 1145
 Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab
 mengoordinasikan dan memfasilitasi terlaksananya partisipasi
 masyarakat dalam pembangunan Kesehatan.
+
 Pasal 1146
 (1) Pemerintah Daerah provinsi bertanggung jawab:
 a. membuat kebijakan partisipasi masyarakat
@@ -20527,20 +20349,14 @@ masyarakat di bidang Kesehatan.
 dan melaksanakan kebijakan partisipasi masyarakat
 sesuai kebijakan dan norma, standar, prosedur, dan
 kriteria partisipasi masyarakat di bidang Kesehatan.
-BABXI...
-SK No 226972 A
-
-PRESIDEN
-REPUBLIK TNDONESIA
--469-
 
 BAB XI
 PEMBINAAN DAN PENGAWASAN
 
-Pasal ll47
+Pasal 1147
 (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung
 jawab melakukan pembinaan dan pengawasan terhadap
-penyelenggaraan Ke sehatan.
+penyelenggaraan Kesehatan.
 (2) Penyelenggaraan Kesehatan sebagaimana dimaksud pada
 ayat (1) terdiri atas:
 a. Upaya Kesehatan;
@@ -20552,6 +20368,7 @@ berkesinambungan.
 (4) Pembinaan dan pengawasan penyelenggaraan Kesehatan
 dapat dilakukan secara berkala atau sewaktu-waktu
 dibutuhkan.
+
 Pasal 1148
 (1) Pembinaan terhadap penyelenggaraan Kesehatan
 bertujuan untuk:
@@ -20585,9 +20402,10 @@ c. pemberian penghargaan.
 melibatkan Konsil, Kolegium, Majelis Disiplin Profesi,
 organisasi profesi, organisasi kemasyarakatan terkait,
 akademisi, dan I atau pakar.
-Pasal ll49
+
+Pasal 1149
 (1) Pengawasan terhadap penyelenggaraan Kesehatan
-sebagaimana dimaksud dalam Pasal ll47 bertujuan
+sebagaimana dimaksud dalam Pasal 1147 bertujuan
 untuk:
 a. mengendalikan penyelenggara€rn Pelayanan
 Kesehatan agar berjalan efektif dan efisien; dan
@@ -20598,7 +20416,7 @@ setiap penyelenggara kegiatan dan masyarakat terkait
 penyelenggaraan Ke sehatan.
 (2) Lingkup pengawasan bidang Kesehatan sebagaimana
 dimaksud pada ayat (1) meliputi pengawasan terhadap:
-a. ketaatan terhadap ketentuan peraturan perundangundangan, termasuk ketaatan pelaksanaan norma,
+a. ketaatan terhadap ketentuan peraturan perundang-undangan, termasuk ketaatan pelaksanaan norma,
 standar, prosedur, dan kriteria yang ditetapkan oleh
 Pemerintah Pusat;
 b. ketaatan terhadap standar profesi, standar
@@ -20610,36 +20428,32 @@ d. evaluasi penilaian kepuasan masyarakat;
 e. akuntabilitas dan kelayakan penyelenggaraan Upaya
 Kesehatan dan Sumber Daya Kesehatan; dan
 f. objek pengawasan lain sesuai dengan kebutuhan.
-(3) Pengawasan sebagaimana dimaksud pada ayat (21
+(3) Pengawasan sebagaimana dimaksud pada ayat (2) 
 dilaksanakan melalui:
 a. pemantauan dan evaluasi;
 b. pemeriksaan;
 c. reviu atau audit; dan
 d. bentuk pengawasan lainnya.
-SK No 230971 A
-(4) Dalam
 
-PRESIDEN
-REPUBLIK TNDONESIA
--471 -
 (4) Dalam rangka pengawasan penyelenggaraan Kesehatan,
 Menteri, gubernur, atau bupati/wali kota dapat dibantu
 tenaga pengawas bidang Kesehatan.
 (5) Tenaga pengawas bidang Kesehatan sebagaimana
-dimaksud pada ayat (41 diangkat oleh Menteri, gubernur,
+dimaksud pada ayat (4) diangkat oleh Menteri, gubernur,
 atau bupati/wali kota.
 (6) Pengawasan sebagaimana dimaksud pada ayat (1) dapat
 melibatkan Konsil, Kolegium, majelis disiplin profesi,
 organisasi profesi, organisasi kemasyarakatan terkait,
 akademisi, dan I atau pakar.
-(71 Pengawasan sebagaimana dimaksud pada ayat (1) dapat
+(7) Pengawasan sebagaimana dimaksud pada ayat (1) dapat
 mengikutsertakan masyarakat.
 (8) Ketentuan lebih lanjut mengenai tata cara pengawasan
 dan tenaga pengawas bidang Kesehatan diatur dengan
 Peraturan Menteri.
+
 Pasal 1150
 (1) Selain tenaga pengawas bidang Kesehatan sebagaimana
-dimaksud dalam Pasal lL49 ayat (5), kepala
+dimaksud dalam Pasal 1149 ayat (5), kepala
 lembaga pemerintah nonkementerian yang
 menyelenggarakan urusan pemerintahan di bidang
 pengawasan obat dan makanan dapat mengangkat tenaga
@@ -20653,9 +20467,10 @@ tertentu diatur dengan peraturan kepala lembaga
 pemerintah nonkementerian yang menyelenggarakan
 urusan pemerintahan di bidang pengawasan obat dan
 makanan.
-Pasal 1 151
+
+Pasal 1151
 (1) Dalam melaksanakan tugas sebagaimana dimaksud
-dalam Pasal LI49 ayat (5) dan Pasal 1150 ayat (2),
+dalam Pasal 1149 ayat (5) dan Pasal 1150 ayat (2),
 tenaga pengawas bidang Kesehatan dan tenaga pengawas
 tertentu berwenang:
 a. memeriksa setiap dokumen;
@@ -20681,7 +20496,7 @@ dan/atau
 d. tindakan pengamanan lainnya yang diperlukan. (3) Tindakan pengamanan setempat sebagaimana dimaksud
 pada ayat (1) huruf f dituangkan dalam berita acara
 pengamanan setempat.
-(41 Paling lama dalam waktu 14 (empat belas) hari kerja
+(4) Paling lama dalam waktu 14 (empat belas) hari kerja
 setelah ditandatanganinya berita acara pengamanan
 setempat sebagaimana dimaksud pada ayat (3), tenaga
 pengawas Kesehatan wajib menetapkan status
@@ -20692,6 +20507,7 @@ adanya tindak pidana di bidang Kesehatan,
 tenaga pengawas Kesehatan dan tenaga pengawas tertentu
 harus segera berkoordinasi dengan tenaga penyidik sesuai
 dengan ketentuan peraturan peramdang-undangan.
+
 Pasal 1152
 Selain kewenangan sebagaimana dimaksud dalam Pasal 1151
 tenaga pengawas tertentu berwenang:
@@ -20710,7 +20526,7 @@ edukasi di bidang Sediaan Farmasi dan pangan olahan.
 Pasal 1153
 Dalam rangka pengawasan, masyarakat dapat berperan serta
 melalui pemberian informasi dan/atau pelaporan dugaan
-pelanggaran sesuai dengan ketentuan peraturan perundangundangan.
+pelanggaran sesuai dengan ketentuan peraturan perundang-undangan.
 
 BAB XII
 KETENTUAN PERALIHAN
@@ -20723,34 +20539,32 @@ dilaksanakan berdasarkan Pasal 31 Peraturan Pemerintah
 Nomor 61 Tahun 2OL4 tentang Kesehatan Reproduksi sampai
 dengan Undang-Undang Nomor 1 Tahun 2023 tentang
 Kitab Undang-Undang Hukum Pidana mulai berlaku.
+
 Pasal 1155
 Pada saat Peraturan Pemerintah ini mulai berlaku, setiap unit
 transfusi darah yang telah ada harus menyesuaikan dengan
 ketentuan pelayanan darah sebagaimana diatur dalam
 Peraturan Pemerintah ini dalam jangka waktu paling lama
 1 (satu) tahun.
+
 Pasal 1156
 Ketentuan pengendalian konsumsi gula, garam, dan lemak
-sebagaimana dimaksud dalam Pasal L94 dan pasal 19S
+sebagaimana dimaksud dalam Pasal 194 dan pasal 195
 dilaksanakan setelah 2 (dua) tahun terhitung sejak penetapan
 batas maksimal kandungan gula, gararn, dan lemak.
-Pasal 1 157
-(1) Setiap Orang yang memproduksi, mengimpor, dan/atau
-mengedarkan produk tembakau dan rokok elektronik harus menyesuaikan dengan ketentuan pasal 4gl,
-Pasal 432,Pasal 433, Pasal 437, Pasal 438, dan pasaL 441
-setelah 2 (dua) tahun terhitung sejak peraturan
-Pemerintah ini diundangkan.
-(2) Setiap Orang yang memproduksi, mengimpor, dan/atau
-mengedarkan produk tembakau dan rokok elektronik
-harus menyesuaikan dengan ketentuan pasal 446 ayat (ll
-dan Pasal 448 setelah 2 (dua) tahun terhitung sejak
-Peraturan Pemerintah ini diundangkan.
-Pasal 1158. . .
-SK No 230974 A
 
-PRES!DEN
-REPUBLIK INDONESIA
--474-
+Pasal 1157
+(1) Setiap Orang yang memproduksi, mengimpor, dan/atau
+mengedarkan produk tembakau dan rokok elektronik harus
+menyesuaikan dengan ketentuan Pasal 431, Pasal 432, Pasal
+433, Pasal 437, Pasal 438, dan Pasal 441 setelah 2 (dua) tahun
+terhitung sejak peraturan Pemerintah ini diundangkan.
+(2) Setiap Orang yang memproduksi, mengimpor, dan/atau
+mengedarkan produk tembakau dan rokok elektronik harus
+menyesuaikan dengan ketentuan Pasal 446 ayat (1) dan Pasal 448
+setelah 2 (dua) tahun terhitung sejak Peraturan Pemerintah
+ini diundangkan.
+
 Pasal 1158
 Fasilitas Pelayanan Kesehatan yang telah menyelenggarakan
 transplantasi organ dan/atau jaringan tubuh sebelum
@@ -20759,6 +20573,7 @@ penyelenggaraan transplantasi organ dan/atau jaringan tubuh
 berdasarkan ketentuan Peraturan Pemerintah ini dalam jangka
 waktu paling lama 1 (satu) tahun sejak Peraturan Pemerintah
 ini diundangkan.
+
 Pasal 1159
 Jenis Pelayanan Kesehatan tradisional empiris, komplementer,
 dan integrasi yang telah dilaksanakan sebelum
@@ -20766,12 +20581,14 @@ Peraturan Pemerintah ini mulai berlaku harus disesuaikan
 dengan ketentuan dalam Peraturan Pemerintah ini dalam
 jangka waktu paling lama 2 (dua) tahun terhitung sejak
 Peraturan Pemerintah ini diundangkan.
+
 Pasal 1160
 Penyelenggaraan Sistem Informasi Kesehatan yang telah
 beroperasi sebelum Peraturan Pemerintah ini mulai berlaku
 harus disesuaikan dengan ketentuan dalam Peraturan
 Pemerintah ini dalam jangka waktu paling lama 1 (satu) tahun
 terhitung sejak Peraturan Pemerintah ini diundangkan.
+
 Pasal 1161
 (1) Untuk pertama kali paling lama 30 (tiga puluh) hari
 terhitung sejak Peraturan Pemerintah ini diundangkan:
@@ -20797,11 +20614,13 @@ pendidikan melaksanakan evaluasi terhadap pemenuhan
 persyaratan oleh RSPPU sebagaimana dimaksud pada
 ayat (3) dan menindaklanjuti hasil evaluasi sesuai dengan
 ketentuan peraturan perundang-undangan.
+
 Pasal 1162
 Tenaga Medis dan Tenaga Kesehatan yang memiliki STR yang
 masih berlaku dapat mengajukan pembaharuan menjadi STR
 yang berlaku seumur hidup sesuai dengan ketentuan
 Peraturan Pemerintah ini.
+
 Pasal 1163
 (1) Tenaga Kesehatan lulusan pendidikan vokasi atau
 pendidikan profesi yang penyelenggara pendidikannya
@@ -20816,6 +20635,7 @@ sebagaimana dimaksud pada ayat (1) harus
 menyelenggarakan uji kompetensi paling lama
 1 (satu) tahun terhitung sejak Peraturan Pemerintah ini
 mulai berlaku.
+
 Pasal 1164
 Tenaga Kesehatan lulusan pendidikan akademik dan telah
 memberikan Pelayanan Kesehatan serta memiliki STR sebelum
@@ -20824,16 +20644,19 @@ memberikan Pelayanan Kesehatan dan harus menyesuaikan
 dengan kualifikasi pendidikan profesi paling lama dalam jangka
 waktu 5 (lima) tahun terhitung sejak Peraturan Pemerintah ini
 diundangkan.
+
 Pasal 1165
 Satuan kredit profesi Tenaga Medis dan Tenaga Kesehatan yang
 diperoleh sebelum Peraturan Pemerintah ini mulai berlaku,
 tetap berlaku dan dapat dihitung untuk kebutuhan
 perpanjangan SIP.
+
 Pasal 1166
 Dokter spesialis yang sedang melaksanakan tugas berdasarkan
 ketentuan Peraturan Presiden Nomor 31 Tahun 2Ol9 tentang
 Pendayagunaan Dokter Spesialis, tetap melaksanakan tugas
 sampai dengan selesai masa penempatan.
+
 Pasal 1167
 Konsil Kedokteran Indonesia, Majelis Kehormatan Disiplin
 Kedokteran Indonesia, Konsil Tenaga Kesehatan Indonesia,
@@ -20844,6 +20667,7 @@ Kesehatan Indonesia, Kolegium Kesehatan Indonesia, dan
 Majelis Disiplin Profesi, serta sekretariat Konsil Kesehatan
 Indonesia, Kolegium Kesehatan Indonesia, dan Majelis Disiplin
 Profesi berdasarkan Peraturan Pemerintah ini.
+
 Pasal 1168
 Pada saat Peraturan Pemerintah ini mulai berlaku:
 a. penyelenggaraarL Rumah Sakit harus disesuaikan dengan
@@ -20901,21 +20725,6 @@ Negara Republik Indonesia Tahun 1995 Nomor 67,
 Tambahan Lembaran Negara Republik Indonesia
 Nomor 3609);
 i. Peraturan
-SK No 230978 A
-
-m.
-1.
-n.
-r
-j
-k.
-1.
-o
-p
-q
-PRESIDEN
-REPUBLIK TNDONESIA
-478 -
 Peraturan Pemerintah Nomor 72 Tahun 1998 tentang
 Pengamanan Sediaan Farmasi dan Alat Kesehatan
 (Lembaran Negara Republik lndonesia Tahun 1998
@@ -20958,12 +20767,6 @@ Peraturan Pemerintah Nomor 103 Tahun 2Ol4 tentang
 Pelayanan Kesehatan Tradisional (Lembaran Negara
 Republik Indonesia Tahun 2Ol4 Nomor 369, Tambahan
 Lembaran Negara Republik Indonesia Nomor 5643);
-s. Peraturan
-SK No 230979 A
-
-FRESIDEN
-REPUBLTK TNDONESIA
--479-
 s. Peraturan Pemerintah Nomor 93 Tahun 2015 tentang
 Rumah Sakit Pendidikan (Lembaran Negara Republik
 Indonesia Tahun 2015 Nomor 295, Tarnbahan Lembaran
@@ -21005,12 +20808,6 @@ Nomor 6665);
 aa. Peraturan Presiden Nomor 35 Tahun 2008 tentang Tata
 Cara Pengangkatan dan Pemberhentian Keanggotaan
 Konsil Kedokteran lndonesia;
-bb. Peraturan. . .
-SK No 230980A
-
-PRESIDEN
-REPUBLIK INOONESIA
--480-
 bb. Peraturan Presiden Nomor 77 Tahun 2015 tentang
 Pedoman Organisasi Rumah Sakit (Lembaran Negara
 Republik Indonesia Tahun 2015 Nomor 159);
@@ -21026,7 +20823,8 @@ tentang Konsil Tenaga Kesehatan Indonesia (Lembaran
 Negara Republik Indonesia Tahun 2Ol9 Nomor 2541,
 dinyatakan masih tetap berlaku sepanjang tidak bertentangan
 dengan ketentuan dalam Peraturan Pemerintah ini.
-Pasal llTO
+
+Pasal 1170
 Pada saat Peraturan Pemerintah ini mulai berlaku:
 a. Peraturan Pemerintah Nomor 26 Tahun 1960 tentang Lafal
 Sumpah Dokter (Lembaran Negara Republik Indonesia
@@ -21162,7 +20960,8 @@ Perubahan atas Peraturan Presiden Nomor 90 Tahun 2017
 tentang Konsil Tenaga Kesehatan lndonesia (Lembaran
 Negara Republik Indonesia Tahun 2Ol9 Nomor 254),
 dicabut dan dinyatakan tidak berlaku.
-Pasal ll7l
+
+Pasal 1171
 Ketentuan Pasal 31 Peraturan Pemerintah Nomor 61
 Tahun 2Ol4 tentang Kesehatan Reproduksi (Lembaran Negara
 Republik Indonesia Tahun 2Ol4 Nomor 169, Tambahan
@@ -21171,15 +20970,12 @@ sampai dengan diberlakukannya Undang-Undang Nomor 1
 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
 (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1,
 Tambahan Lembaran Negara Republik Indonesia Nomor 68421
-Pasal tl72
+
+Pasal 1172
 Peraturan Pemerintah ini mulai berlaku pada tanggal
 diundangkan.
-Agar. . .
-SK No230984A
 
-PRESIOEN
-REPUBLIK INDONESIA
--484-
+
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Pemerintah ini dengan
 penempatannya dalam lembaran Negara Republik Indonesia.
@@ -21286,14 +21082,7 @@ Pemerintah Pusat dan Pemerintah Daerah, dan pengendalian;
 f. penyelenggaraan Teknologi Kesehatan, meliputi penelitian,
 pengembangan, dan pengkajian, pelaksanaan inovasi, penilaian, dan
 pemanfaatan;
-SK No 230987 A
-g. penanggulangan
 
-ob.
-h.
-PRESIDEN
-TIEPUBLIK INDONESIA
--3-
 penanggulangan KLB dan Wabah, meliputi kewaspadaan,
 pena.nggulangan, dan kegiatan pasca-KlB, rencana kontingensi
 penanggulangan Wabah, Kewaspadaan Wabah di Pintu Masuk,
@@ -21326,22 +21115,22 @@ tenaga pengawas bidang Kesehatan.
 1.
 J
 II. PASAL DEMI PASAL
+
 Pasal 1
 Cukup jelas.
+
 Pasal 2
 Cukup jelas.
+
 Pasal 3
 Cukup jelas.
+
 Pasal 4
 Cukupjelas.
-SK No 230988 A
-Pasal 5. . .
 
-PR,ESIDEN
-REPUBLIK INDONESIA
--4-
 Pasal 5
 Cukup jelas.
+
 Pasal 6
 Ayat (1)
 Cukup jelas.
@@ -21355,14 +21144,19 @@ Yang dimaksud dengan "sasaran' meliputi ibu, bayi dan anak,
 remaja, dewasa, dan lanjut usia.
 Ayat (a)
 Cukup jelas.
+
 Pasal 7
 Cukup jelas.
+
 Pasal 8
 Cukup jelas.
+
 Pasal 9
 Cukup jelas.
+
 Pasal 10
 Cukup jelas.
+
 Pasal 1 1
 Ayat (1)
 Huruf a
@@ -21379,57 +21173,7 @@ Huruf e
 Cukup jelas.
 Huruf f
 Cukup jelas.
-SK No 230989 A
-Huruf g
-Cukup jelas.
-Huruf h
-Cukup jelas.
-Ayat {21
-Yang dimaksud dengan "pelayanan antenatal" adalah Pelayanan
-Kesehatan oleh Tenaga Medis dan Tenaga Kesehatan untuk ibu
-selama masa kehamilannya.
-Ayat (3)
-Humf a
-Cukup jelas.
-Huruf b
-Pelayanan konseling dalam ketentuan ini antara lain
-konseling terkait Kesehatan jiwa ibu.
-Huruf c
-Pelayanan skrining faktor risiko dalam ketentuan ini antara
-lain pemeriksaan kadar hemoglobin (Hb), tekanan darah,
-status $zi, penyakit infeksi, dan penyakit lainnya.
-Yang dimaksud dengan "komplikasi kehamilan" adalah
-kesakitan (morbiditas) pada ibu hamil yang dapat mengErncerm
-nyawa ibu dan/atau janin.
-Huruf d
-Pendampingan ibu hamil dengan risiko tinggi dalam
-ketentuan ini dilakukan dengan melihat tanda bahaya pada
-ibu hamil.
-Huruf e
-Cukup jelas.
-Huruf f
-Cukup jelas.
-Huruf g
-Cukup jelas.
-Huruf h
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Ayat (6)
-Huruf a
-Cukup jelas.
-Huruf b
-Pelayanan konseling dalam ketentuan ini antara lain
-pelayanan konseling terkait Kesehatan jiwa ibu dan pelayanan
-konseling pemberian air susu ibu.
-Huruf c. . .
-SK No 230990 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--6-
 Huruf c
 Yang dimaksud dengan "pelayanan skrining komplikasi"
 adalah pelayanan pascapersalinan yang dilakukan melalui
@@ -21440,10 +21184,13 @@ Huruf e
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 12
 Cukup jelas
+
 Pasal 13
 Cukup jelas
+
 Pasal 14
 Ayat (1)
 Peran keluarga dalam ketentuan ini merupakan keluarga sebagai
@@ -21468,22 +21215,22 @@ kebutuhan ibu dan menciptakan lingkungan yang nyaman
 dan aman.
 Ayat (2)
 Cukup jelas.
+
 Pasal 15
 Cukup jelas.
-SK No 230991 A
-Pasal 16. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--7-
 Pasal 16
 Cukup jelas.
+
 Pasal 17
 Cukup jelas.
+
 Pasal 18
 Cukup jelas.
+
 Pasal 19
 Cukup jelas.
+
 Pasal 20
 Ayat (1)
 Pelindungan bayi dan anak dilakukan dalam ketentuan ini antara
@@ -21513,18 +21260,16 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 2 1
 Cukup jelas.
-SK No 230992 A
-Pasal22...
 
-PRESIDEN
-REPUBLIK INDONESIA
--8-
 Pasal22
 Cukup jelas.
+
 Pasal 23
 Cukup jelas.
+
 Pasal 24
 Ayat (1)
 Yang dimaksud dengan "air susu ibu eksklusif" adalah air susu
@@ -21539,32 +21284,35 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 25
 Cukup jelas.
+
 Pasal 26
 Ayat (1)
 Dukungan untuk memberikan air susu ibu eksklusif kepada bayi
 yang dilahirkannya dalam ketentuan ini antara lain
 pendampingan suami untuk membantu ibu dalam memberikan
 air susu ibu eksklusif kepada bayi yang dilahirkannya.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal27
 Cukup jelas
+
 Pasal 28
 Cukup jelas
+
 Pasal 29
 Cukup jelas
-Pasal 30. . .
-SK No 230993 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--9-
+Pasal 30. . .
+
 Pasal 30
 Cukup jelas.
+
 Pasal 31
 Ayat (1)
 Produk pengganti air susu ibu lainnya dalam ketentuan ini
@@ -21577,34 +21325,40 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Distributor dalam ketentuan ini termasuk tenaga pemasaran.
+
 Pasal 32
 Cukup jelas.
+
 Pasal 33
 Cukup jelas.
+
 Pasal 34
 Cukup jelas.
+
 Pasal 35
 Cukup jelas.
+
 Pasal 36
 Cukup jelas.
+
 Pasal 37
 Cukup jelas.
+
 Pasal 38
 Cukup jelas.
+
 Pasal 39
 Cukup jelas.
+
 Pasal 40
 Cukup jelas.
+
 Pasal 41
 Cukup jelas.
-SK No 230994 A
-Pasal42...
 
-PRESIDEN
-REPUBLIK INDONESIA
--10-
 Pasal42
 Cukup jelas.
+
 Pasal 43
 Ayat (1)
 Tempat kerja dalam ketentuan ini antara lain perusahaan dan
@@ -21626,25 +21380,26 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 44
 Cukup jelas.
+
 Pasal 45
 Cukup jelas.
+
 Pasal 46
 Cukup jelas.
+
 Pasal 47
 Cukup jelas.
+
 Pasal 48
 Cukup jelas.
+
 Pasal 49
 Yang dimaksud dengan "remaj{ adalah orang dengan kelompok usia
 10 (sepuluh) tahun sampai sebelum berusia 18 (delapan belas) tahun.
-SK No 230995 A
-Pasal 50. . .
 
-FRESIDEN
-REPUBLIK INDONESIA
--11-
 Pasal 50
 Ayat (1)
 Cukup jelas.
@@ -21672,30 +21427,32 @@ Cukup jelas.
 Ayat (7)
 Yang dimaksud dengan "orang tua atau pengasuh" adalah orang
 tua atau pengasuh bagi remaja.
+
 Pasal 51
 Cukup jelas.
+
 Pasal 52
 Cukup jelas.
+
 Pasal 53
 Cukup je1as.
+
 Pasal 54
 Cukup jelas.
+
 Pasal 55
 Cukup jelas.
+
 Pasal 56
 Cukup jelas.
-SK No 230996 A
-Pasal 57
 
-PRESIDEN
-REPUBLIK INDONESIA
--t2-
 Pasal 57
 Cukup jelas.
+
 Pasal 58
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Huruf a
 Cukup jelas.
 Huruf b
@@ -21732,28 +21489,30 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
-SK No 230997 A
-Ayat(6) ...
 
-FRESIDEN
-REPUBLIK INDONESIA
--13-
 Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 59
 Cukup jelas.
+
 Pasal 60
 Cukup jelas.
+
 Pasal 61
 Cukup jelas
+
 Pasal 62
 Cukup jelas.
+
 Pasal 63
 Cukup jelas
+
 Pasal 64
 Cukup jelas.
+
 Pasal 65
 Ayat (1)
 Cukup jelas.
@@ -21774,12 +21533,7 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
-SK No 230998 A
-Pasal66...
 
-PRESIDEN
-REPUBLIK INDONESIA
--t4-
 Pasal 66
 Ayat (1)
 Huruf a
@@ -21789,21 +21543,27 @@ Huruf b
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
+
 Pasal 67
 Cukup jelas.
+
 Pasal 68
 Upaya Kesehatan lanjut usia yang bersifat rehabilitatif dalam
 ketentuan ini antara lain pelayanan fisioterapi, psikoterapi, dan
 pemberian Obat.
+
 Pasal 69
 Yang dimaksud dengan "penyakit terminal" adalah penyakit yang tidak
 lagi respon terhadap terapi kuratif dengan harapan hidup terbatas dan
 perburukan yang tidak dapat dikembalikan seperti adanya metastasis,
 penurunan fungsi organ, dan kualitas hidup.
+
 Pasal 70
 Cukup jelas.
+
 Pasal 71
 Cukup jelas
+
 Pasal 72
 Ayat (1)
 huruf a
@@ -21820,14 +21580,12 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-Pasal73...
-SK No 230999 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--15-
+Pasal73...
+
 Pasal 73
 Cukup jelas.
+
 Pasal74
 Ayat (1)
 Yang dimaksud dengan "kunjungan rumah" adalah kegiatan yang
@@ -21847,30 +21605,34 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 75
 Cukup jelas.
+
 Pasal 76
 Cukup jelas
+
 Pasal77
 Cukup jelas
+
 Pasal 78
 Cukup jelas.
+
 Pasal 79
 Cukup jelas.
+
 Pasal 80
 Cukup jelas.
+
 Pasal 81
 Cukup jelas
+
 Pasal 82
 Cukup jelas
-SK No231000A
-Pasal 83
 
-PRESIDEN
-REPUBLIK INDONESIA
--16-
 Pasal 83
 Cukup jelas.
+
 Pasal 84
 Huruf a
 Akses dalam ketentuan ini termasuk tersedianya
@@ -21898,8 +21660,10 @@ Huruf h
 Cukup jelas.
 Huruf i
 Cukup jelas.
+
 Pasal 85
 Cukup jelas.
+
 Pasal 86
 Ayat (1)
 Huruf a
@@ -21913,11 +21677,7 @@ faktor risiko dalam ketentuan ini termasuk faktor bahaya
 radiasi dan substansi yang membahayakan sel telur dan/atau
 janin dalam kandungan.
 Huruf e. . .
-SK No 227001 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--r7-
 Huruf e
 Cukup jelas.
 Huruf f
@@ -21934,6 +21694,7 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 87
 Ayat (1)
 Penyediaan akses atas Fasilitas Pelayanan Kesehatan dan
@@ -21943,8 +21704,10 @@ standar prosedur operasional sesuai dengan pendekatan ragam
 disabilitas.
 Ayat (2)
 Cukup jelas.
+
 Pasal 88
 Cukup jelas
+
 Pasal 89
 Ayat (1)
 Cukup jelas.
@@ -21960,12 +21723,7 @@ multi profesi secara terpadu sesuai dengan kebutuhan
 Kesehatan penyandang disabilitas.
 Huruf d
 Cukup jelas.
-SK No 227002 A
-Huruf e. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--18-
 Huruf e
 Cukup jelas.
 Hurlf f
@@ -21986,38 +21744,46 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 90
 Cukup jelas
+
 Pasal 9 1
 Cukup jelas.
+
 Pasal 92
 Cukup jelas.
+
 Pasal 93
 Cukup jelas.
+
 Pasal 94
 Cukup jelas
+
 Pasal 95
 Cukup jelas
+
 Pasal 96
 Cukup jelas.
+
 Pasal 97
 Cukup jelas.
-SK No 227003 A
-Pasal 98 . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--t9-
 Pasal 98
 Cukup jelas.
+
 Pasal 99
 Cukup jelas.
+
 Pasal 100
 Cukup jelas
+
 Pasal 101
 Cukup jelas.
+
 Pasal 102
 Cukup jelas.
+
 Pasal 103
 Ayat (1)
 Cukup jelas.
@@ -22042,15 +21808,11 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 104
 Ayat (1)
 Cukup jelas.
-SK No 227004 A
-Ayat(2) ...
 
-FRESIDEN
-REPUBLIK INDONESIA
--20-
 Ayat (2)
 Huruf a
 Cukup jelas.
@@ -22072,6 +21834,7 @@ Hurlf h
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 105
 Ayat (1)
 Cukup jelas.
@@ -22096,55 +21859,7 @@ mengambil keputusan mengenai Kesehatan reproduksi
 mereka antara lain alat kontrasepsi serta jumlah dan jarak
 kelahiran anak.
 Ayat(3) ...
-SK No 227005 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--2LAyat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Pasal 106
-Ayat (1)
-Cukup jelas.
-Ayat (21
-Yang dimaksud dengan "menopause" adalah berakhirnya siklus
-menstruasi secara alami pada perempuan.
-Menopause disebut juga klimaterik atau perubahan hidup yang
-merupakan pertanda berakhirnya bagian kehidupan reproduksi
-pada diri seorang perempuan.
-Yang dimaksud dengan "andropause" adalah penurunan fungsi
-hormon androgen pada laki-laki.
-Pasal 107
-Cukup jelas.
-Pasal 108
-Cukup jelas.
-Pasal 109
-Cukup jelas.
-Pasal 110
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat (4)
-Cukup jelas.
-Ayat (5)
-Huruf a
-Cukup jelas.
-Huruf b
-Cukup jelas.
-Huruf c
-Cukup jelas.
-SK No 227006 A
-Huruf d. . .
-
-FRESIDEN
-REPUBLIK INDONESIA
--22-
 Huruf d
 Pelayanan kontrasepsi di fasilitas pelayanan kefarmasian
 berupa penyerahan Obat dan/atau alat kontrasepsi sesuai
@@ -22155,34 +21870,40 @@ Huruf f
 Yang dimaksud dengan "unit pelayanan kontrasepsi"
 merupakan unit yang dibentuk untuk menjangkau daerah
 yang sulit diakses guna mendapatkan pelayanan kontrasepsi.
+
 Pasal 1 1 1
 Cukup jelas.
+
 Pasal 1 12
 Cukup jelas.
+
 Pasal 113
 Cukup jelas
+
 Pasal 114
 Cukup jelas.
+
 Pasal 1 15
 Cukup jelas.
+
 Pasal 1 16
 Cukup jelas.
+
 Pasal 1 17
 Cukup jelas.
+
 Pasal 118
 Cukup jelas.
+
 Pasal 1 19
 Cukup jelas.
+
 Pasal 120
 Cukup jelas.
+
 Pasal 121
 Cukup jelas.
-SK No 227007 A
-Pasall22...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--23-
 Pasal L22
 Ayat (1)
 Cukup jelas.
@@ -22194,8 +21915,10 @@ dalam ketentuan ini antara lain anak dan penyandang disabilitas
 mental dan intelektual.
 Yang dimaksud dengan "keluarga lainnya" adalah keluarga yang
 sedarah maupun keluarga yang tidak sedarah selain suami.
+
 Pasal 123
 Cukup jelas.
+
 Pasal 124
 Ayat (1)
 Yang dimaksud dengan "masa pascapersalinan" adalah masa
@@ -22204,30 +21927,36 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 125
 Cukup jelas.
+
 Pasal 126
 Cukup jelas.
+
 Pasal 127
 Cukup jelas
+
 Pasal 128
 Cukup jelas.
+
 Pasal 129
 Cukup jelas.
+
 Pasal 130
 Cukup jelas.
+
 Pasal 131
 Cukup jelas.
-Pasall32...
-SK No 227008 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--24-
+Pasall32...
+
 Pasal 132
 Cukup jelas.
+
 Pasal 133
 Cukup jelas.
+
 Pasal 134
 Ayat (1)
 Cukup jelas.
@@ -22248,6 +21977,7 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 135
 Ayat (1)
 Cukup jelas.
@@ -22262,20 +21992,18 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
-SK No 227009 A
-Ayat (5) .
 
-PR.ESIDEN
-REPUBLIK INDONESIA
--25-
 Ayat (5)
 Informasi tentang pemanfaatan pangan terkait dengan konsumsi
 merupakan informasi mengenai kandung€rn zat gizi dari makanan
 yang dikonsumsi.
+
 Pasal 136
 Cukup jelas.
+
 Pasal 137
 Cukup jelas.
+
 Pasal 138
 Ayat (1)
 Cukup jelas.
@@ -22286,39 +22014,45 @@ Kelompok masyarakat yang terlatih dalam ketentuan ini antara
 lain meliputi guru, tokoh masyarakat, atau komponen
 masyarakat lainnya yang mendapatkan peningkatan kapasitas
 terkait gizi.
+
 Pasal 139
 Cukup jelas.
+
 Pasal 140
 Cukup jelas.
+
 Pasal 141
 Cukup jelas.
+
 Pasal 142
 Cukup jelas
+
 Pasal 143
 Cukup jelas.
+
 Pasal 144
 Cukup jelas.
+
 Pasal 145
 Ayat (1)
 Komunitas dalam ketentuan ini termasuk masyarakat umum.
-Ayat (21
+Ayat (2) 
 Huruf a
 Cukup jelas.
 Huruf b. . .
-SK No 227010 A
 
-PRESIDEN
-REPUBLTK INDONESIA
--26-
 Huruf b
 Yang dimaksud dengan "potensi psikologis lainnya" antara
 lain bakat, kecakapan dalam pekerjaan, kompetensi
 kepribadian, minat di bidang pendidikan, dan minat di
 bidang pekerjaan.
+
 Pasal 146
 Cukup jelas.
+
 Pasal 147
 Cukup jelas.
+
 Pasal 148
 Huruf a
 Cukup jelas.
@@ -22344,19 +22078,16 @@ Huruf f
 Cukup jelas.
 Huruf g
 Cukup jelas.
+
 Pasal 149
 Hak yang sama sebagai warga negara dalam ketentuan ini antara lain
 berupa hak bekerja, berkeluarga, memilih dan dipilih,
 hak memperolah pendidikan, dan hak lainnya yang sama sebagai
 warga negara.
-SK No 227011 A
-Pasal 150. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--27 -
 Pasal 150
 Cukup jelas
+
 Pasal 151
 Ayat (1)
 Cukup jelas.
@@ -22380,8 +22111,10 @@ Media komunikasi dalam ketentuan ini antara lain, media
 cetak, media elektronik, dan media sosial, termasuk
 penyiaran yang memuat program pemberitaan, artikel,
 dan/atau materi.
+
 Pasal 152
 Cukup jelas
+
 Pasal 153
 Ayat (1)
 Cukup jelas.
@@ -22397,12 +22130,7 @@ berupa bencana, konflik sosial, maupun kondisi dimana
 seseorang mengalami penderitaan dan hendaya (distress),
 memerlukan penanganan segera, tidak dapat merawat diri,
 dapat melukai diri sendiri maupun orang lain.
-SK No 227012 A
-Ayat(6) ...
 
-FRESIDEN
-REPUBLIK INDONESIA
--28-
 Ayat (6)
 Tenaga Pendukung atau Penunjang Kesehatan dalam ketentuan
 ini antara lain, berupa kader atau tenaga lain yang terlatih di
@@ -22414,6 +22142,7 @@ Ayat (7)
 Cukup jelas.
 Ayat (8)
 Cukup jelas.
+
 Pasal 154
 Ayat (1)
 Cukup jelas.
@@ -22436,8 +22165,10 @@ Huruf d
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 155
 Cukup jelas.
+
 Pasal 156
 Huruf a
 Cukup jelas.
@@ -22446,13 +22177,10 @@ Lembaga/institusi dalam ketentuan ini antara lain lembaga
 pendidikan, lembaga sosial, lembaga keagamaan, lembaga
 pemasyarakatan dan rumah tahanan, lingkungan tempat kerja,
 dan Fasilitas Pelayanan Kesehatan.
-SK No 227013 A
-Huruf c. . .
 
-TIEPUBLTK INDONESIA
--29-
 Huruf c
 Cukup jelas.
+
 Pasal 157
 Ayat (1)
 Cukup jelas.
@@ -22474,6 +22202,7 @@ psikoterapi, asuhan keperawatan, dan kegiatan lain.
 Yang dimaksud dengan "rujukan dan rujuk balik" adalah
 pelimpahan tugas dan tanggung jawab Pelayanan Kesehatan
 secara timbal balik baik vertikal maupun horizontal.
+
 Pasal 158
 Ayat (1)
 Cukup jelas.
@@ -22483,27 +22212,25 @@ dalam membuat keputusan secara mandiri dengan menyadari
 segala risikonya.
 Ayat (3)
 Cukup jelas.
+
 Pasal 159
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
 Ayat(s) ...
-SK No 227014 A
 
-FRESIDEN
-NEPUBLTK INDONESIA
--30-
 Ayat (5)
 Yang dimaksud dengan "sistem dukungan sosial" adalah
 dukungan keluarga, lingkungan, dan masyarakat terhadap
 ODGJ, pecandu, penyalahguna, dan korban penyalahgunaan
 narkotika, psikotropika, dan zat adiktif lainnya setelah
 menyelesaikan perawatan di Fasilitas Pelayanan Kesehatan.
+
 Pasal 160
 Ayat (1)
 Huruf a
@@ -22516,34 +22243,42 @@ Hurtrf b
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
+
 Pasal 161
 Cukup jelas.
+
 Pasal 162
 Cukup jelas.
+
 Pasal 163
 Cukup jelas.
+
 Pasal 164
 Cukup jelas.
+
 Pasal 165
 Cukup jelas.
+
 Pasal 166
 Cukup jelas.
+
 Pasal 167
 Cukup jelas.
+
 Pasal 168
 Cukup jelas.
-Pasal169...
-SK No 227015 A
 
-PFESIDEN
-REPUELIK INDONESIA
--31-
+Pasal169...
+
 Pasal 169
 Cukup jelas.
+
 Pasal 170
 Cukup jelas.
+
 Pasal 171
 Cukup jelas.
+
 Pasal 172
 Ayat (1)
 Cukup jelas.
@@ -22568,6 +22303,7 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 173
 Ayat (1)
 Koordinasi lintas sektor dalam ketentuan ini mencakup
@@ -22577,24 +22313,23 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-SK No 227016 A
-Pasall74...
 
-PRESIDEN
-REPUBUK INDONESIA
--32-
 Pasal 174
 Cukup jelas
+
 Pasal 175
 Cukup jelas.
+
 Pasal 176
 Cukup jelas
+
 Pasal 177
 Cukup jelas.
+
 Pasal 178
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Mikroorganisme yang menyebabkan penyakit menular dalam
 ketentuan ini antara lain, virus, bakteri, jamur, dan parasit.
 Ayat (3)
@@ -22607,10 +22342,12 @@ penular penyakit.
 Yang dimaksud dengan "binatang pembawa penyakit" adalah
 binatang selain artropoda yang dapat menularkan,
 memindahkan, dan/atau menjadi sumber penular penyakit.
+
 Pasal 179
 Melindungi masyarakat dari tertularnya penyakit dalam ketentuan ini
 termasuk dilakukan dengan mencegah penyebaran penyakit agar tidak
 meluas antar wilayah maupun antar negara.
+
 Pasal 18O
 Ayat (1)
 Cukup jelas.
@@ -22621,11 +22358,7 @@ Cukup jelas.
 Ayat (a)
 Cukup jelas.
 Ayat(s) ...
-SK No 227017 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--33-
 Ayat (5)
 Surveilans penyakit menular dalam ketentuan ini antara lain
 berupa surveilans berbasis indikator, surveilans berbasis
@@ -22663,24 +22396,25 @@ Yang dimaksud dengan "kelompok masyarakat tertentu" adalah
 masyarakat yang berisiko tinggi untuk tertular penyakit.
 Ayat (13)
 Cukup jelas.
+
 Pasal 181
 Cukup jelas.
+
 Pasal 182
 Cukup jelas.
-SK No 227018 A
-Pasal183...
 
-PRESIDEN
-BUK INDONESIA
--34-
 Pasal 183
 Cukup jelas.
+
 Pasal 184
 Cukup jelas.
+
 Pasal 185
 Cukup jelas.
+
 Pasal 186
 Cukup jelas.
+
 Pasal 187
 Huruf a
 Pengetahuan terhadap penyakit menular dalam ketentuan ini
@@ -22695,25 +22429,25 @@ Huruf d
 Cukup jelas.
 Huruf e
 Cukup jelas.
+
 Pasal 188
 Cukup jelas
+
 Pasal 189
 Cukup jelas.
+
 Pasal 190
 Cukup jelas.
+
 Pasal 191
 Cukup jelas.
+
 Pasal 192
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
-SK No 227019 A
-Ayat (3)
 
-I'RESIDEN
-REPUBLIK INDONESIA
--35-
 Ayat (3)
 Cukup jelas.
 Ayat (a)
@@ -22757,14 +22491,10 @@ dalam ketentuan ini antara lain kolesterol tinggi, tekanan darah
 tinggi, dan kadar gula darah tinggi.
 Ayat (9)
 Cukup jelas.
-SK No 227020 A
-Pasal193...
 
-PRESIDEN
-ITEPUBLIK INDONESIA
--36-
 Pasal 193
 Cukup jelas
+
 Pasal 194
 Ayat (1)
 Yang dimaksud dengan "pangan olahan" adalah makanan atau
@@ -22792,6 +22522,7 @@ negara dan/atau organisasi internasional bidang Kesehatan
 dan/atau pangan.
 Ayat (4)
 Cukup jelas.
+
 Pasal 195
 Ayat (1)
 Huruf a
@@ -22806,15 +22537,13 @@ Kawasan tertentu dalam ketentuan ini antara lain sarana
 pendidikan, Fasilitas Pelayanan Kesehatan, dan tempat bermain
 anak.
 Ayat(4) ...
-SK No 227021 A
 
-PRESIDEN
-REPUBUK INDONESIA
--37-
 Ayat (4)
 Cukup jelas
+
 Pasal 196
 Cukup jelas.
+
 Pasal 197
 Ayat (1)
 Cukup jelas.
@@ -22833,14 +22562,19 @@ Ayat (7)
 Cukup jelas.
 Ayat (8)
 Cukup jelas.
+
 Pasal 198
 Cukup jelas.
+
 Pasal 199
 Cukup jelas.
+
 Pasal 200
 Cukup jelas.
+
 Pasal 201
 Cukup jelas.
+
 Pasal2O2
 Huruf a
 Cukup jelas.
@@ -22849,11 +22583,7 @@ Cukup jelas.
 Huruf c
 Cukup jelas.
 Huruf d. . .
-SK No 227022 A
 
-PRESIDEN
-REPUELIK INDONESIA
--38-
 Huruf d
 Cukup jelas.
 Huruf e
@@ -22867,16 +22597,20 @@ Huruf h
 Cukup jelas.
 Huruf i
 Cukup jelas.
+
 Pasal 203
 Huruf a
 Pengendalian faktor risiko dalam ketentuan ini antara lain melalui
 penggunaan alat makan yang aman.
 Huruf b
 Cukup jelas.
+
 Pasal 2O4
 Cukup jelas.
+
 Pasal 2O5
 Cukup jelas.
+
 Pasal 206
 Ayat (1)
 Cukup jelas.
@@ -22890,13 +22624,9 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
-Ayat(71 ...
-SK No 227023 A
+Ayat(7) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--39-
-Ayat (71
+Ayat (7) 
 Cukup jelas.
 Ayat (8)
 Cukup jelas.
@@ -22915,6 +22645,7 @@ Rehabilitasi dalam ketentuan ini antara lain operasi dan
 penggunaan alat bantu.
 Ayat (10)
 Cukup jelas.
+
 Pasal 2O7
 Ayat (1)
 Cukup jelas.
@@ -22931,18 +22662,16 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 208
 Cukup jelas.
+
 Pasal 209
 Cukup jelas.
-SK No 227024 A
-Pasal2LO...
 
-PRESIDEN
-BLIK INDONESIA
--40-
 Pasal 210
 Cukup jelas.
+
 Pasal 211
 Ayat (1)
 Cukup jelas.
@@ -22959,6 +22688,7 @@ menggantikan peran sebagai ayah atau ibu dan keluarga
 pengganti melalui proses pengangkatan anak, perkawinan, atau
 pengasuhan seperti ayah atau ibu angkat, ayah atau ibu tiri, atau
 ayah atau ibu asuh.
+
 Pasal2l2
 Ayat (1) - 
 Cut<up jelas.
@@ -22975,71 +22705,30 @@ menyangkut waktu dan tenaga, kemampuan, pendidikan, dan
 keterampilan.
 Ayat (5)
 Cukup jelas.
+
 Pasal 213
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Huruf a
 Yang dimaksud "pengasuhan positif" adalah pengasuhan
 dengan tujuan untuk memenuhi hak anak dan
 mengoptimalkan tumbuh kembang anak yang sehat secara
 fisik, emosional, dan sosial.
 Huruf b. . .
-SK No 227025 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--4LHuruf b
-Cukup jelas.
-Huruf c
-Cukup jelas.
-Huruf d
-Cukup jelas.
-Huruf e
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Pasal 214
-Cukup jelas.
-Pasal 2 15
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Huruf a
-Cukup jelas.
-Huruf b
-Cukup jelas.
-Huruf c
-Cukup jelas.
-Huruf d
-Cukup jelas.
-Huruf e
-Cukup jelas.
-Huruf f
-Perilaku lainnya dalam ketentuan ini antara lain perilaku
-sesuai norma agama dan sosial.
-Pasal 216
-Cukup jelas.
-Pasal2lT
-Cukup jelas.
-Pasal 218
-Cukup jelas.
-Pasal 219
-Cukup jelas.
-SK No 227026 A
-Pasal22O...
-
-PRESIDEN
-REPUBLIK INDONESIA
--42-
 Pasal 22O
 Cukup jelas.
+
 Pasal221
 Cukup jelas.
+
 Pasal 222
 Cukup jelas.
+
 Pasal223
 Cukup jelas.
+
 Pasal224
 Ayat (1)
 Satuan pendidikan dalam melaksanakan pelayanan promotif
@@ -23054,6 +22743,7 @@ Yang dimaksud dengan "kader Kesehatan sekolah" adalah
 setiap orang yang dilatih untuk menggerakkan orang lain agar
 aktif dan berpartisipasi dalam melaksanakan kegiatan bidang
 Kesehatan di sekolah.
+
 Pasal 225
 Ayat (1)
 Cukup jelas.
@@ -23068,16 +22758,15 @@ Pihak lain dalam ketentuan ini antara lain swasta, mitra
 pembangunEln, dan tenaga profesional yang berkompeten.
 Ayat (6)
 Cukup jelas.
+
 Pasal 226
 Cukup jelas.
-Pasal 227 .. .
-SK No 227027 A
 
-PRESIDEN
-REPUBLIK TNDONESIA
--43-
+Pasal 227 .. .
+
 Pasal 227
 Cukup jelas.
+
 Pasal228
 Ayat (1)
 Yang dimaksud dengan "penyelenggaraan sekolah sehat dan
@@ -23091,12 +22780,16 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 229
 Cukup jelas.
+
 Pasal 230
 Cukup jelas.
+
 Pasal 231
 Cukup jelas.
+
 Pasal 232
 Ayat (1)
 Yang dimaksud dengan npekerja" adalah pekerja/buruh sesuai
@@ -23110,12 +22803,7 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-SK No 227028 A
-Pasal233...
 
-PRESIDEN
-REPUBLIK INDONESIA
--44-
 Pasal 233
 Ayat (1)
 Cukup jelas.
@@ -23152,36 +22840,42 @@ Ayat (9)
 Cukup jelas.
 Ayat (10)
 Cukup jelas.
+
 Pasal 234
 Cukup jelas
-SK No 227029 A
-Pasal 235 . .
 
-FRESIDEN
-REPUBLIK INDONESIA
--45-
 Pasal 235
 Cukup jelas
+
 Pasal 236
 Cukup jelas.
+
 Pasal 237
 Cukup jelas.
+
 Pasal 238
 Cukup jelas.
+
 Pasal 239
 Cukup jelas.
+
 Pasal 24O
 Cukup jelas.
+
 Pasal 241
 Cukup jelas.
+
 Pasal 242
 Cukup jelas.
+
 Pasal 243
 Cukup jelas.
 Pasat 244
 Cukup jelas.
+
 Pasal 245
 Cukup jelas.
+
 Pasal 246
 Ayat (1)
 Cukup jelas.
@@ -23191,58 +22885,10 @@ Ayat (3)
 Media air dalam ketentuan ini tidak termasuk badan air sesuai
 dengan ketentuan peraturan perundang-undangan.
 Huruf a. . .
-SK No 227030 A
 
-FRESIDEN
-TIEPUBLIK INDONESIA
-_46_
-Huruf a
-Yang dimaksud dengan "air minum" adalah air yang merarui
-pengolahan atau tanpa pengolahan yang memenuhi syarat
-Kesehatan dan dapat langsung diminum.
-Huruf b
-Yang dimaksud dengan "kolam renang" adalah tempat umum
-berupa kolam berisi air yang telah diolah, baik yang terletak
-di dalam maupun di luar bangunan yang digunakan untuk
-berenang, rekreasi, atau olahraga air lainnya, termasuk
-kolam bermain dan kolam whirlpool.
-Yang dimaksud dengan "solus per aqua" adalah perawatan
-secara tradisional yang menggunakan air sebagai medianya.
-Yang dimaksud dengan "pemandian umum" adalah tempat
-umum dengan menggunakan air alam tanpa pengolahan
-terlebih dahulu yang digunakan untuk kegiatan mandi,
-relaksasi, rekreasi, atau olahraga, yang dilengkapi fasilitas
-lainnya.
-Ayat (4)
-Huruf a
-Cukup jelas.
-Huruf b
-Yang dimaksud dengan "udara ambien" adalah udara bebas
-di permukaan bumi pada lapisan troposfir yang berada
-di dalam wilayah yurisdiksi Republik Indonesia yang
-dibutuhkan dan berpengaruh terhadap Kesehatan manusia,
-makhluk hidup, dan unsur lingkungan hidup lainnya.
-Yang dimaksud dengan "udara ambien yang memajan
-langsung pada manusia dan memiliki risiko Kesehatan"
-adalah udara luar ruanga.n yang terhirup oreh atau terpapar
-pada manusia yang berpotensi menimbulkan dampak pada
-Kesehatan manusia.
-Ayat (5)
-Cukup jelas.
-Ayat (6)
-Cukup jelas.
-Ayat (7)
-Cukup jelas.
-Ayat (8)
-Cukup jelas.
-SK No 227031 A
-Pasal 247
-
-PRESIDEN
-REPUBLIK INDONESIA
--47-
 Pasal 247
 Cukup jelas.
+
 Pasal 248
 Ayat (1)
 Cukup jelas.
@@ -23260,6 +22906,7 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 249
 Ayat (1)
 Huruf a
@@ -23283,16 +22930,12 @@ Huruf g
 Cukup jelas.
 Huruf h
 Cukup jelas.
-SK No 227032 A
-Ayat(2)...
 
-PRESIDEN
-UBLIK TNDONESIA
--48-
 Ayat (2)
 Cukup jelas
 Ayat (3)
 Cukup jelas
+
 Pasal 25O
 Ayat (1)
 Cukup jelas.
@@ -23322,20 +22965,19 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas
+
 Pasal 251
 Cukup jelas.
+
 Pasal 252
 Cukup jelas.
+
 Pasal 253
 Cukup jelas.
-SK No 227033 A
-Pasal254...
 
-PRESIDEN
-REPUBLIK INDONESIA
--49-
 Pasal 254
 Cukup jelas.
+
 Pasal 255
 Ayat (1)
 Cukup jelas.
@@ -23353,12 +22995,16 @@ lingkungan Fasilitas Pelayanan Kesehatan.
 Ayat (6)
 Kerja sama dengan pihak lain dalam ketentuan ini diutamakan
 pada tahapan pengangkutan, pengolahan, dan pemrosesan akhir.
+
 Pasal 256
 Cukup jelas.
+
 Pasal 257
 Cukup jelas.
+
 Pasal 258
 Cukup jelas.
+
 Pasal 259
 Ayat (1)
 Cukup jelas.
@@ -23372,12 +23018,7 @@ c. arus mudik dan arus balik;
 d. kegiatan bawah tanah;
 e. kejadian bencana atau kejadian gangguan keamanan dan
 ketertiban masyarakat;
-SK No 227034 A
-f. penugasan. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--50-
 f. penugasan operasi dan latihan Tentara Nasional Indonesia di
 darat;
 g. kegiatan, operasi, dan latihan kepolisian;
@@ -23400,6 +23041,7 @@ a. penerbangan;
 b. tugas operasi dan latihan Tentara Nasional Indonesia di udara;
 c. kegiatan, operasi, dan latihan kepolisian; dan
 d. Kesehatan matra udara lainnya.
+
 Pasal 260
 Huruf a
 Cukup jelas.
@@ -23416,12 +23058,9 @@ perawatan, termasuk perawatan rehabilitatif dan/atau paliatif,
 serta rujukan.
 Huruf f
 Cukup jelas.
-Pasal26I...
-SK No 227035 A
 
-PRESIDEN
-REPUBLIK TNDONESIA
--51-
+Pasal26I...
+
 Pasal 261
 Ayat (1)
 Cukup jelas.
@@ -23445,24 +23084,25 @@ d. Kepala Kepolisian Negara Republik Indonesia untuk standar
 dan persyaratan penyelenggaraan gangguan keamanan dan
 ketertiban masyarakat, dan kegiatan, operasi, dan latihan
 kepolisian.
+
 Pasal 262
 Cukup jelas.
+
 Pasal 263
 Cukup jelas.
+
 Pasal 264
 Cukup jelas.
+
 Pasal 265
 Cukup jelas
+
 Pasal 266
 Cukup jelas.
+
 Pasal 267
 Cukup jelas
-SK No 226985 A
-Pasal268...
 
-PRESIDEN
-REPUBLIK INDONESIA
--52-
 Pasal 268
 Yang dimaksud dengan "sistem Kesehatan yang tangguh" adalah
 sistem Kesehatan yang mampu mempersiapkan diri menghadapi
@@ -23471,6 +23111,7 @@ terjadi, dapat pulih secepatnya, dan terus memperkuat upaya
 kesiapsiagaan berdasarkan pembelajaran dari pengalaman yang
 terjadi serta mampu mempersiapkan diri beradaptasi dengan
 perubahan lingkun gan (re silientl .
+
 Pasal 269
 Ayat (1)
 Cukup jelas.
@@ -23495,65 +23136,14 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 270
 Cukup jelas
+
 Pasal 27L
 Ayat (1)
 Cukup jelas
-SK No 226983 A
-Ayat (2)
 
-FRESTDEN
-REPUBLIK INDONESIA
-_53_
-Ayat (2)
-Yang dimaksud dengan "Fasilitas Pelayanan Kesehatan aman
-bencana" adalah fasilitas yang pelayanannya tetap dapat diakses
-dan berfungsi pada kapasitas maksimum, sebelum, selama, dan
-segera setelah situasi darurat dan bencana.
-Ayat (3)
-Cukup jelas.
-Pasal 272
-Ayat (1)
-Cukup jelas.
-Ayat (21
-Yang dimaksud dengan "klaster Kesehatan" adalah kelompok
-pelaku penanggulangan Kesehatan bencana atau darurat
-Kesehatan lainnya, yang berkoordinasi, berkolaborasi, dan
-integrasi untuk memenuhi kebutuhan Pelayanan Kesehatan,
-yang berasal dari Pemerintah Pusat atau Pemerintah Daerah,
-termasuk Tentara Nasional Indonesia dan Kepolisian Negara
-Republik Indonesia, masyarakat, dan pemangku kepentingan
-yang lain.
-Ayat (3)
-Cukup jelas.
-Ayat (4)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Pasal273
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Ayat (5)
-Yang dimaksud dengan "kajian risiko" adalah sebuah pendekatan untuk memperlihatkan potensi dampak negatif terhadap
-Kesehatan masyarakat yang mungkin timbul akibat suatu potensi
-bencana atau bahaya yang melanda.
-Perencanaan dalam ketentuan ini meliputi perencanaan
-penanggulangan Kesehatan bencana untuk semua ancaman
-bahaya dan rencana kontingensi atau perencanaan berdasarkan
-skenario tertentu, termasuk perencanaan klaster Kesehatan.
-SK No 227038 A
-Perencanaan
-
-PRESIDEN
-REPUBLIK INDONESIA
--54-
 Perencanaan klaster Kesehatan terintegrasi dengan perencanaan
 Fasilitas Pelayanan Kesehatan dalam menghadapi kedaruratan
 bencana serta merupakan bagian dari perencanaan klaster
@@ -23583,7 +23173,7 @@ yang dipergunakan untuk mewujudkan serangkaian kegiatan
 pemberian peringatan sesegera mungkin kepada masyarakat
 tentang kemungkinan terjadinya bencana atau darurat Kesehatan
 lainnya pada suatu tempat oleh kementerian/lembaga yang
-berwenang sesuai dengan ketentuan peraturan perundangundangan.
+berwenang sesuai dengan ketentuan peraturan perundang-undangan.
 sistem penanggulangan Gawat Darurat terpadu dalam ketentuan
 ini antara lain menyiapkan sistem rujukan bila terjadi Kesehatan
 bencana atau darurat Kesehatan lainnya serta menyiapkan
@@ -23591,18 +23181,14 @@ sistem koordinasi lintas program maupun lintas sektor bila terjadi
 situasi bencana atau darurat Kesehatan lainnya.
 Ayat (6)
 Cukup jelas.
-SK No 227039 A
-Pasal 274
 
-PRESIDEN
-REPUBLTK INDONESIA
--55-
 Pasal 274
 Cukup jelas.
+
 Pasal 275
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Huruf a
 Cukup jelas.
 Huruf b
@@ -23615,8 +23201,10 @@ Huruf d
 PembelajararL dan evaluasi dalam ketentuan ini
 diselenggarakan berdasarkan respons Kesehatan yang telah
 dilakukan saat dan pascabencana.
+
 Pasal 276
 Cukup jelas.
+
 Pasal 277
 Ayat (1)
 Yang dimaksud dengan "krisis Kesehatan" adalah peristiwa akibat
@@ -23630,20 +23218,19 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 278
 Cukup jelas.
+
 Pasal 279
 Cukup jelas.
+
 Pasal 280
 Cukup jelas.
-SK No 227040 A
-Pasal28l...
 
-PRESIDEN
-REPUBLIK INDONESIA
--56-
 Pasal 281
 Cukup jelas.
+
 Pasal282
 Ayat (1)
 Pengelolaan darah dalam
@@ -23655,24 +23242,34 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
+
 Pasal 283
 Cukup jelas.
+
 Pasal 284
 Cukup jelas.
+
 Pasal 285
 Cukup jelas.
+
 Pasal 286
 Cukup jelas
+
 Pasal 287
 Cukup jelas.
+
 Pasal 288
 Cukup jelas.
+
 Pasal 289
 Cukup jelas.
+
 Pasal 290
 Cukup jelas.
+
 Pasal 291
 Cukup jelas.
+
 Pasal 292
 Cukup jelas.
 ketentuan
@@ -23681,38 +23278,44 @@ ini dapat
 ketentuan
 dilakukan
 peraturan
-SK No 227041 A
-Pasal 293
 
-PRES!DEN
-REPUBLTK INDONESIA
--57-
 Pasal 293
 Cukup jelas.
+
 Pasal294
 Cukup jelas
+
 Pasal 295
 Cukup jelas.
+
 Pasal 296
 Cukup jelas.
+
 Pasal 297
 Cukup jelas.
+
 Pasal 298
 Cukup jelas.
+
 Pasal 299
 Cukup jelas.
+
 Pasal 300
 Cukup jelas.
+
 Pasal 301
 Cukup jelas.
+
 Pasal 302
 Cukup jelas.
+
 Pasal 303
 Cukup jelas.
+
 Pasal 304
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Plasma yang dikumpulkan dari donor untuk kepentingan
 memproduksi produk Obat derivat plasma didapatkan secara
 langsung dari donor plasma dengan metode apheresis.
@@ -23720,28 +23323,27 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-SK No 227042 A
-Ayat (5)
 
-PRESIDEN
-REPUBLIK INDONESIA
--58-
 Ayat (5)
 Cukup jelas
+
 Pasal 305
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
 Ayat (4)
 Yang dimaksud dengan "kompensasi" antara lain penggantian
 biaya transportasi dan/atau biaya pemeliharaan Kesehatan.
+
 Pasal 306
 Cukup jelas.
+
 Pasal 307
 Cukup jelas.
+
 Pasal 308
 Ayat (1)
 Cukup jelas.
@@ -23749,46 +23351,58 @@ Ayat (2)
 Yang dimaksud dengan "sukarela" adalah tanpa adanya paksaan.
 Ayat (3)
 Cukup jelas.
+
 Pasal 309
 Cukup jelas.
+
 Pasal 310
 Cukup jelas.
+
 Pasal 31 1
 Cukup jelas.
+
 Pasal 312
 Cukup jelas.
+
 Pasal 313
 Cukup jelas.
+
 Pasal 314
 Cukup jelas.
-SK No 227043 A
-Pasal 315...
 
-PRESIDEN
-REPUBLIK INDONESIA
--59-
 Pasal 315
 Cukup jelas.
+
 Pasal 316
 Cukup jelas.
+
 Pasal 317
 Cukup jelas.
+
 Pasal 318
 Cukup jelas.
+
 Pasal 319
 Cukup jelas.
+
 Pasal 320
 Cukup jelas
+
 Pasal 32 1
 Cukup jelas.
+
 Pasal 322
 Cukup jelas.
+
 Pasal 323
 Cukup jelas
+
 Pasal 324
 Cukup jelas
+
 Pasal 325
 Cukup jelas
+
 Pasal 326
 Ayat (1)
 Yang dimaksud dengan "transplantasi" adalah pemindahan organ
@@ -23804,12 +23418,9 @@ Yang dimaksud dengan "diperjualbelikan" adalah tindakan
 menjual atau memperdagangkan organ dan/atau jaringan tubuh
 untuk mendapatkan keuntungan finansial atau nilai tukar
 lainnya.
-Pasal 327 ...
-SK No 226986 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--60-
+Pasal 327 ...
+
 Pasal 327
 Ayat (1)
 Cukup jelas.
@@ -23822,8 +23433,10 @@ Yang dimaksud dengan "menyatakan dirinya bersedia sebagai
 donor" adalah pernyataan Pasien bersedia menjadi donor yang
 didokumentasikan dalam bentuk tertulis atau rekaman audio
 visual.
+
 Pasal 328
 Cukup jelas.
+
 Pasal 329
 Ayat (1)
 Cukup jelas.
@@ -23838,10 +23451,13 @@ Pembuatan wasiat medik difasilitasi oleh Fasilitas Pelayanan
 Kesehatan bagi calon donoryang pada saat dilakukan pengerahan
 masih hidup namun yang bersangkutan bersedia menjadi donor
 saat dinyatakan mati batang otak/mati otak.
+
 Pasal 330
 Cukup jelas.
+
 Pasal 331
 Cukup jelas.
+
 Pasal 332
 Ayat (1)
 Huruf a
@@ -23851,11 +23467,7 @@ indikasi untuk dilakukan transplantasi organ.
 Huruf b
 Cukup jelas.
 Ayat(2) ...
-SK No 227045 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--6 1-
 Ayat (2)
 Cukup jelas.
 Ayat (3)
@@ -23866,14 +23478,19 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 333
 Cukup jelas.
+
 Pasal 334
 Cukup jelas.
+
 Pasal 335
 Cukup jelas.
+
 Pasal 336
 Cukup jelas.
+
 Pasal 337
 Ayat (1)
 Huruf a
@@ -23892,31 +23509,35 @@ Huruf e
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
-SK No 227046 A
-Ayat (3)
 
-PRESIDEN
-REPUBLTK INDONESIA
--62-
 Ayat (3)
 Cukup jelas.
+
 Pasal 338
 Yang dimaksud dengan "keterangan hubungan darah atau suami atau
 istri dengan resipien" antara lain kutipan akta pencatatan sipil.
+
 Pasal 339
 Cukup jelas.
+
 Pasal 340
 Cukup jelas.
+
 Pasal 341
 Cukup jelas.
+
 Pasal 342
 Cukup jelas.
+
 Pasal 343
 Cukup jelas
+
 Pasal 344
 Cukup jelas
+
 Pasal 345
 Cukup jelas.
+
 Pasal 346
 Ayat (1)
 Cukup jelas.
@@ -23928,20 +23549,17 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 347
 Cukup jelas.
+
 Pasal 348
 Cukup jelas.
-SK No 227047 A
-Pasal349...
 
-PRESIOEN
-REPUBLIK INDONESIA
--63-
 Pasal 349
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
@@ -23958,32 +23576,37 @@ Yang dimaksud dengan "terapi bantuan hidup" antara lain
 ventilator.
 Ayat (9)
 Cukup jelas.
+
 Pasal 350
 Cukup jelas.
+
 Pasal 351
 Cukup jelas.
+
 Pasal 352
 Cukup jelas.
+
 Pasal 353
 Cukup jelas.
+
 Pasal 354
 Cukup jelas.
+
 Pasal 355
 Cukup jelas.
+
 Pasal 356
 Cukup jelas.
-SK No 221048 A
-Pasal 357 .
 
-PRESIDEN
-REPUBLIK INDONESIA
--64-
 Pasal 357
 Cukup jelas.
+
 Pasal 358
 Cukup jelas.
+
 Pasal 359
 Cukup jelas.
+
 Pasal 360
 Ayat (1)
 Cukup jelas.
@@ -23993,92 +23616,115 @@ lain yang sudah tidak dibutuhkan lagi oleh donor" antara lain
 jaringan tulang, jaringan kulit, dan jaringan plasenta.
 Ayat (3)
 Cukup jelas.
+
 Pasal 361
 Cukup jelas.
+
 Pasal 362
 Cukup jelas.
+
 Pasal 363
 Cukup jelas
+
 Pasal 364
 Cukup jelas
+
 Pasal 365
 Cukup jelas.
+
 Pasal 366
 Cukup jelas.
+
 Pasal 367
 Cukup jelas.
+
 Pasal 368
 Cukup jelas.
+
 Pasal 369
 Cukup jelas.
-Pasal37O...
-SK No 227049 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--65-
+Pasal37O...
+
 Pasal 370
 Cukup jelas.
+
 Pasal 371
 Cukup jelas.
+
 Pasal 372
 Cukup jelas.
+
 Pasal 373
 Cukup jelas.
+
 Pasal 374
 Cukup jelas.
+
 Pasal 375
 Cukup jelas.
+
 Pasal 376
 Cukup jelas.
+
 Pasal 377
 Cukup jelas.
+
 Pasal 378
 Cukup jelas.
+
 Pasal 379
 Cukup jelas.
+
 Pasal 380
 Cukup jelas.
+
 Pasal 381
 Cukup jelas.
+
 Pasal 382
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Yang dimaksud dengan "reproduksi" adalah untuk pembuatan
 individu baru atau kloning.
 Ayat(4) ...
-SK No 227050 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--66-
 Ayat (4)
 Cukup jelas.
+
 Pasal 383
 Cukup jelas.
+
 Pasal 384
 Cukup jelas.
+
 Pasal 385
 Cukup jelas.
+
 Pasal 386
 Cukup jelas.
+
 Pasal 387
 Ayat (1)
 Yang dimaksud dengan "tempat penyimpanan lainnya di Fasilitas
 Pelayanan Kesehatan" adalah tempat penyimpanan sementara
 yang diperuntukkan bagi sel dan/atau sel punca sebelum
 dimanfaatkan untuk terapi kepada Pasien.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
+
 Pasal 388
 Cukup jelas.
+
 Pasal 389
 Cukup jelas.
+
 Pasal 390
 Cukup jelas.
+
 Pasal 391
 Ayat (1)
 Cukup jelas.
@@ -24088,28 +23734,28 @@ dapat ditetapkan sebagai pelayanan terapi terstandar' termasuk
 penelitian yang dilakukan di luar negeri.
 Ayat (3)
 Cukup jelas.
-SK No 227051 A
-Ayat(41 ...
 
-PRESIDEN
-REPUBLTK INDONESIA
--67 -
 Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 392
 Ayat (1)
 Yang dimaksud dengan "pemilik produk" antara lain
 laboratorium, peneliti, Rumah Sakit, atau industri farmasi.
 Ayat (2)
 Cukup jelas.
+
 Pasal 393
 Cukup jelas.
+
 Pasal 394
 Cukup jelas.
+
 Pasal 395
 Cukup jelas.
+
 Pasal 396
 Ayat (1)
 Cukup jelas.
@@ -24119,32 +23765,37 @@ mengubah wajah, jenis kelamin, dan/atau sidik jari, sehingga
 mengakibatkan perubahan identitas dan menghilangkan jejak jati
 diri, serta digunakan untuk melawan hukum atau melakukan
 kejahatan.
+
 Pasal 397
 Cukup jelas
+
 Pasal 398
 Cukup jelas.
+
 Pasal 399
 Cukup jelas.
+
 Pasal 400
 Cukup jelas.
+
 Pasal 401
 Cukup jelas.
-SK No 227052 A
-Pasal 402
 
-FRESIDEN
-REPUBLIK INDONESIA
--68-
 Pasal 402
 Cukup jelas.
+
 Pasal 403
 Cukup jelas.
+
 Pasal 404
 Cukup jelas.
+
 Pasal 405
 Cukup jelas.
+
 Pasal 406
 Cukup jelas.
+
 Pasal 4OT
 Ayat (1)
 Pemastian mutu dan keamanan dalam ketentuan ini dilakukan
@@ -24162,27 +23813,27 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 408
 Cukup jelas
+
 Pasal 409
 Cukup jelas.
+
 Pasal 410
 Cukup jelas.
-SK No 227053 A
-Pasal4ll...
 
-PRESIDEN
-REPUBLIK INDONESIA
--69-
 Pasal 41 1
 Ayat (1)
 Yang dimaksud dengan "tidak sesuai dengan penandaan" adalah
 penandaan yang tidak sesuai dengan ketentuan, tidak objektif,
 tidak lengkap, menyesatkan, dan/atau merugikan masyarakat.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
-PasaL 412
+
+Pasal 412
 Cukup jelas.
+
 Pasal 413
 Ayat (1)
 Fasilitas produksi Sediaan Farmasi, Alat Kesehatan, dan/atau
@@ -24195,10 +23846,13 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 414
 Cukup jelas.
+
 Pasal 415
 Cukup jelas.
+
 Pasal 416
 Ayat (1)
 Produsen Sediaan Farmasi dan Alat Kesehatan antara lain
@@ -24214,15 +23868,12 @@ didistribusikan.
 Ayat (2)
 Cukup jelas.
 Ayat(3) ...
-SK No 227054 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--70-
 Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 417
 Ayat (1)
 Fasilitas pelayanan kefarmasian berupa instalasi farmasi Rumah
@@ -24245,10 +23896,13 @@ Yang dimaksud dengan "standar pelayanan kefarmasian" adalah
 standar yang meliputi pengelolaan dan pelayanan farmasi klinis.
 Ayat (a)
 Cukup jelas.
+
 Pasal 418
 Cukup jelas.
+
 Pasal 419
 Cukup jelas
+
 Pasal 420
 Ayat (1)
 Cukup jelas.
@@ -24256,99 +23910,8 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-SK No 227055 A
-Ayat(41 ...
 
-PRESIDEN
-REPUBLTK INDONESIA
--7 tAyat (a)
-Yang dimaksud dengan "organisasi riset kontrak" adalah suatu
-organisasi yang bergerak di bidang Kesehatan dan dikontrak oleh
-institusi pemerintah atau institusi swasta yang memiliki tugas
-dan fungsi penelitian dan pengembangan, atau perusahaan
-Sediaan Farmasi atau Alat Kesehatan untuk melaksanakan satu
-atau lebih tugas dan fungsi pemohon dalam uji klinik.
-Ayat (5)
-Cukup jelas.
-Pasal 42 1
-Cukup jelas.
-Pasal 422
-Cukup jelas.
-Pasal 423
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Bentuk lain antara lain logo penggolongan Obat atau Obat Bahan
-Alam.
-Pasal 424
-Cukup jelas.
-Pasal 425
-Cukup jelas.
-Pasal 426
-Cukup jelas
-Pasal 427
-Peran serta masyarakat diarahkan untuk meningkatkan dan
-memberdayakan kemampuan yang ada pada masyarakat dalam
-rangka pengamanan Sediaan Farmasi dan Alat Kesehatan. Peran serta
-masyarakat antara lain dalam bentuk:
-a. pemberian informasi dan laporan dugaan penyalahgunaan Sediaan
-Farmasi dan Alat Kesehatan kepada Menteri atau kepala lembaga
-pemerintah nonkementerian yang menyelenggarakan urusan
-pemerintahan di bidang pengawasan obat dan makanan;
-SK No 227056 A
-b.pemberian...
-
-PRESIDEN
-REPUBLIK INDONESIA
-_72_
-b. pemberian informasi dan laporan dugaan Sediaan Farmasi dan Alat
-Kesehatan yang tidak memenuhi standar danf atau persyaratan
-keamanan, khasiat/kemanfaatan dan mutu kepada Menteri
-atau kepala lembaga pemerintah nonkementerian yang
-menyelenggarakan urusan pemerintahan di bidang pengawasan
-obat dan makanan;
-c. pelaporan terhadap efek samping/kejadian yang tidak diinginkan
-karena penggunaan Sediaan Farmasi dan Alat Kesehatan kepada
-Menteri atau kepala lembaga pemerintah nonkementerian yang
-menyelenggarakan urusan pemerintah di bidang pengawasan obat
-dan makanan; dan
-d. keikutsertaan dalam penyebaran informasi pada masyarakat
-terkait penggunaan Sediaan Farmasi dan Alat Kesehatan yang tepat
-serta memenuhi standar danlatau persyaratan.
-Pasal 428
-Cukup jelas.
-Pasal 429
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Yang dimaksud dengan "bentuk lain yang bersifat adiktif" antara
-lain rokok elektronik dan/atau nikotin dalam berbagai bentuk
-dan kemasan, termasuk perrnen nikotin dan kantung nikotin.
-Ayat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Ayat (6)
-Cukup jelas.
-Pasal 430
-Cukup jelas.
-Pasal 43 1
-Cukup jelas.
-Pasal 432
-Ayat (1)
-Bahan tambahan antara lain perisa (flauour), aroma, dan
-pewErrna.
-Cengkeh, kelembak, atau kemenyan tidak termasuk bahan
-tambahan, melainkan sebagai bahan baku.
-SK No 227057 A
-Ayat(2) ...
-
-PRESIDEN
-REPUBLTK INDONESIA
--73-
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
@@ -24358,6 +23921,7 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 433
 Ayat (1)
 Dalam ketentuan ini, pelarangan membuat kemasan rokok
@@ -24367,7 +23931,7 @@ Ayat (2)
 Yang dimaksud dengan "produk tembakau selain rokok putih
 mesin" antara lain rokok kretek tangan, rokok kretek mesin,
 rokok klobot, rokok kelembak menya.n, cerutu, dan tembakau iris
-dikemas sesuai dengan ketentuan peraturan perundangundangan.
+dikemas sesuai dengan ketentuan peraturan perundang-undangan.
 Ayat (3)
 Cukup jelas.
 Ayat (a)
@@ -24378,6 +23942,7 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 434
 Ayat (1)
 Huruf a
@@ -24387,11 +23952,7 @@ Cukup jelas.
 Huruf c
 Cukup jelas.
 Huruf d. . .
-SK No 227058 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--74-
 Hurr.f d
 Yang dimasud dengan "tempat yang sering dilalui" adalah
 tempat berlalu-lalangnya orang, antara lain area
@@ -24403,33 +23964,37 @@ Huruf f
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
+
 Pasal 435
 Cukup jelas.
+
 Pasal 436
 Cukup jelas.
+
 Pasal 437
 Cukup jelas.
+
 Pasal 438
 Cukup jelas.
+
 Pasal 439
 Cukup jelas.
+
 Pasal 44O
 Cukup jelas.
+
 Pasal 44 1
 Cukup jelas.
+
 Pasal 442
 Cukup jelas
+
 Pasal 443
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
-SK No 227059 A
-Ayat(3) ...
 
-PRESIDEN
-REPUBLTK INDONESIA
--75-
 Ayat (3)
 Tempat kerja dalam ketentuan ini antara lain tiap ruangan atau
 lapangan tertutup atau terbuka, bergerak atau tetap dimana
@@ -24449,32 +24014,37 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 444
 Cukup jelas.
+
 Pasal 445
 Cukup jelas.
+
 Pasal 446
 Cukup jelas.
+
 Pasal 447
 Cukup jelas.
+
 Pasal 448
 Cukup jelas.
+
 Pasal 449
 Cukup jelas.
+
 Pasal 450
 Cukup jelas.
+
 Pasal 451
 Cukup jelas
-SK No 227060 A
-Pasal452...
 
-PRESIDEN
-REPUBLIK INDONESIA
--76-
 Pasal 452
 Cukup jelas.
+
 Pasal 453
 Cukup jelas.
+
 Pasal 454
 Ayat (1)
 Huruf a
@@ -24488,31 +24058,33 @@ Ayat (2)
 Yang dimaksud dengan "kegiatan lembaga dan/atau
 perseorangla", antara lain kegiatan sosial, pendidikan, olahraga,
 musik, kepemudaan, dan kebudayaan.
+
 Pasal 455
 Cukup jelas.
+
 Pasal 456
 Media teknologi informasi antara lain seluruh media online yang
 menggunakan fasilitas inteinet.
+
 Pasal 457
 Cukup jelas.
+
 Pasal 458
 Cukup jelas.
+
 Pasal 459
 Cukup jelas.
+
 Pasal 460
 Cukup jelas.
+
 Pasal 461
 Ayat (1)
 Huruf a
 Cukup jelas.
 Huruf b
 Cukup jelas.
-SK No 226987 A
-Huruf c. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--77-
 Huruf c
 Cukup jelas.
 Huruf d
@@ -24550,24 +24122,27 @@ Huruf g
 Cukup jelas.
 Huruf h
 Cukup jelas.
+
 Pasal 462
 Cukup jelas.
-Pasal463...
-SK No 227062 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--78-
+Pasal463...
+
 Pasal 463
 Cukup jelas.
+
 Pasal 464
 Cukup jelas.
+
 Pasal 465
 Cukup jelas.
+
 Pasal 466
 Cukup jelas.
+
 Pasal 467
 Cukup jelas.
+
 Pasal 468
 Ayat (1)
 Cukup jelas.
@@ -24580,10 +24155,13 @@ Tempat lain yang memenuhi persyaratan antara lain di tempat
 kejadian peristiwa atau tempat pemakaman yang lingkungannya
 menunjang proses pelayanan kedokteran untuk kepentingan
 hukum.
+
 Pasal 469
 Cukup jelas.
+
 Pasal 470
 Cukup jelas.
+
 Pasal 471
 Huruf a
 Cukup jelas.
@@ -24594,51 +24172,7 @@ Cukup jelas.
 Huruf d
 Cukup jelas.
 Huruf e. . .
-SK No 227063 A
 
-PRESIDEN
-REPUBLTK INDONESIA
-_79_
-Huruf e
-Kasus lain antara lain korban bencana yang disebabkan oleh
-perbuatan manusia, pemeriksaan asam deoksiribonukleat untuk
-penentuan paternitas, penentuan kecakapan untuk ditahan atau
-kecakapan untuk diwawancara, atau kasus yang memiliki
-dimensi hukum yang membutuhkan pelayanan kedokteran.
-Pasal 472
-Cukup jelas.
-Pasal 473
-Cukup jelas.
-Pasal 474
-Cukup jelas.
-Pasal 475
-Cukup jelas.
-Pasal 476
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Huruf a
-Yang dimaksud dengan "mayat yang tidak dikenal" adalah
-jasad atau tubuh manusia yang ditemukan tanpa identitas
-yang jelas atau tanpa ada informasi mengenai identitasnya.
-Huruf b
-Cukup jelas.
-Huruf c
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Pasal 477
-Cukup jelas
-Pasal 478
-Cukup jelas
-SK No 227064 A
-Pasal 479
-
-FRES!DEN
-REPUBLIK INDONESIA
--80-
 Pasal 479
 Yang dimaksud dengan "pengetahuan' adalah segala sesuatu yang
 diketahui berkenaan dengan Kesehatan tradisional yang mengacu
@@ -24651,12 +24185,14 @@ sesuai dengan norma yang berlaku di masyarakat.
 Yang dimaksud dengan "kearifan lokal" adalah kearifan baik dari
 Indonesia maupun dari luar Indonesia, serta Pelayanan Kesehatan
 nonkonvensional.
+
 Pasal 480
 Cukup jelas
+
 Pasal 481
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Huruf a
 Yang dimaksud dengan "teknik manual" adalah teknik
 pengobatan yang berdasarkan manipulasi dan gerakan dari
@@ -24675,18 +24211,16 @@ Produk Obat Bahan Alam berupa produk Obat Bahan Alam yang
 telah mendapatkan izin edar dari lembaga pemerintah
 nonkementerian yang menyelenggarakan urusan pemerintahan di
 bidang pengawasan obat dan makanan.
-SK No 226991 A
-Pasal 482
 
-PRESIDEN
-REPUBLTK INDONESIA
--81-
 Pasal 482
 Cukup jelas
+
 Pasal 483
 Cukup jelas.
+
 Pasal 484
 Cukup jelas.
+
 Pasal 485
 Huruf a
 Cukup jelas.
@@ -24699,12 +24233,16 @@ Yang dimaksud "Fasilitas Pelayanan Kesehatan tradisional" antara
 lain berupa Griya Sehat.
 Huruf e
 Cukup jelas.
+
 Pasal 486
 Cukup jelas.
+
 Pasal 487
 Cukup jelas.
+
 Pasal 488
 Cukup jelas
+
 Pasal 489
 Ayat (1)
 Huruf a
@@ -24719,32 +24257,35 @@ Yang dimaksud dengan "kewenangan" adalah hak
 menggunakan wewenang yang dimiliki seseorang
 berdasarkan kompetensinya sesuai dengan ketentuan
 peraturan perundang-undangan.
-SK No 227066 A
-Ayat(2) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--82-
 Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
+
 Pasal 490
 Cukup je1as.
+
 Pasal 49 1
 Cukup jelas.
+
 Pasal 492
 Cukup jelas.
+
 Pasal 493
 Cukup jelas.
+
 Pasal 494
 Cukup jelas.
+
 Pasal 495
 Cukup jelas.
+
 Pasal 496
 Cukup jelas.
+
 Pasal 497
 Ayat (1)
 Huruf a
@@ -24762,12 +24303,9 @@ sistematis yang didasarkan pada bukti ilmiah
 Tenaga Kesehatan dalam pemberian Pelayanan Kesehatan.
 Ayat (2)
 Cukup jelas.
-Pasal498...
-SK No 226962 A
 
-PRESIDEN
-REPUBLTK INDONESIA
--83-
+Pasal498...
+
 Pasal 498
 Ayat (1)
 Cukup jelas.
@@ -24788,6 +24326,7 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 499
 Ayat (1)
 Cukup jelas.
@@ -24812,16 +24351,13 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
-SK No 227068 A
-Pasal5OO...
 
-PRESIDEN
-REPUBLTK INDONESIA
--84-
 Pasal 500
 Cukup jelas.
+
 Pasal 501
 Cukup jelas.
+
 Pasal 502
 Ayat (1)
 Cukup jelas.
@@ -24838,14 +24374,18 @@ Yang dimaksud dengan "kemandirian hidup sehat" adalah
 kemampuan setiap individu, keluarga, dan masyarakat secara
 sadar dan tanpa bantuan orang lain untuk hidup sehat secara
 fisik dan jiwa tanpa ada permasalahan Kesehatan.
-Ayat (71
+Ayat (7) 
 Cukup jelas.
+
 Pasal 503
 Cukup jelas.
+
 Pasal 504
 Cukup jelas.
+
 Pasal 505
 Cukup jelas.
+
 Pasal 506
 Ayat (1)
 Upaya Kesehatan masyarakat yang bersifat preventif dapat
@@ -24856,27 +24396,26 @@ Kesehatan lingkungan, termasuk pencegahan pencemaran
 lingkungan dan pengendalian vektor.
 Ayat (2)
 Cukup jelas.
-SK No 227069 A
-Pasal5O7...
 
-FRESIDEN
-REPUBLIK INDONESIA
--85-
 Pasal 507
 Upaya Kesehatan masyarakat yang bersifat kuratif dapat bempa
 pemberian Obat massal, pemberian Obat presumtif, dan pemberian
 Obat penyakit menular serta kepastian adanya sistem yang efektif
 untuk ketersediaan akses yang berkeadilan terhadap Upaya Kesehatan
 perseorangan yang bersifat kuratif.
+
 Pasal 508
 Upaya Kesehatan masyarakat yang bersifat rehabilitatif dapat berupa
 pelatihan sosial untuk penderita spektrum autisme, disabilitas
 intelektual, atau skizofrenia.
+
 Pasal 509
 Upaya Kesehatan masyarakat yang bersifat paliatif dapat berupa
 pembentukan komunitas yang saling mendukung.
+
 Pasal 510
 Cukup jelas.
+
 Pasal 511
 Huruf a
 Cukup jelas.
@@ -24886,41 +24425,45 @@ Huruf c
 Upaya Kesehatan bersumber daya masyarakat termasuk pos
 pelayanan terpadu sebagai lembaga kemasyarakatan desa atau
 lembaga kemasyarakatan kelurahan.
+
 Pasal 512
 Cukup jelas
+
 Pasal 513
 Cukup jelas
+
 Pasal 514
 Cukup jelas.
+
 Pasal 515
 Cukup jelas.
+
 Pasal 516
 Cukup jelas.
+
 Pasal 517
 Cukup jelas.
-SK No 227070 A
-Pasal 518...
 
-PRESIDEN
-REPUBLTK TNDONESIA
--86-
 Pasal 518
 Ayat (1)
 Satuan pendidikan antara lain pendidikan anak usia dini,
 sekolah/madrasah, pesantren, perguruan tinggi, atau nama lain
 yang sejenis dengan pendidikan formal.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
+
 Pasal 519
 Ayat (1)
 Tempat kerja dalam ketentuan ini antara lain industri
 besar-menengah, industri kecil, perkantoran, sektor informal,
 Fasilitas Pelayanan Kesehatan, dan pekerjaan di lingkungan
 matra.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
+
 Pasal 52O
 Cukup jelas.
+
 Pasal 521
 Ayat (1)
 Jejaring mitra Kesehatan antara lain lembaga swadaya
@@ -24929,23 +24472,23 @@ tokoh perempuan, komunitas peduli Kesehatan, dan badan
 usaha.
 Ayat (2)
 Cukup jelas.
+
 Pasal 522
 Cukup jelas
+
 Pasal 523
 Cukup jelas.
+
 Pasal 524
 Cukup jelas.
+
 Pasal 525
 Cukup jelas.
+
 Pasal 526
 Ayat (1)
 Cukup jelas
-SK No 227071 A
-Ayat (21
 
-PRESIDEN
-REFUBUK INDONESIA
--87 -
 Ayat (2)
 Huruf a
 Cukup jelas.
@@ -24956,6 +24499,7 @@ Yang dimaksud dengan "laboratorium lainnya yang
 ditetapkan oleh Menteri" adalah laboratorium Kesehatan
 yang disesuaikan dengan perkembangan kebutuhan
 Kesehatan dan Teknologi Kesehatan.
+
 Pasal 527
 Ayat (1)
 Yang dimaksud dengan "prognosis" adalah gambaran
@@ -24964,8 +24508,10 @@ Pasien dalam jangka waktu tertentu yang didasarkan pada
 kondisi Pasien, hasil tes, dan respon terhadap pengobatan.
 Ayat (2)
 Cukup jelas.
+
 Pasal 528
 Cukup jelas.
+
 Pasal 529
 Ayat (1)
 Yang dimaksud dengan "spesimen klinik" adalah bahan yang
@@ -24979,19 +24525,17 @@ tujuan pengujian dalam rangka penetapan penyakit dan faktor
 risiko Kesehatan lain berbasis laboratorium.
 Ayat (2)
 Cukup jelas.
+
 Pasal 530
 Cukup jelas.
+
 Pasal 531
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
 Ayat(3) ...
-SK No 227072 A
 
-PRESIDEN
-REPUBUK INDONESIA
--88-
 Ayat (3)
 Cukup jelas.
 Ayat (4)
@@ -25009,14 +24553,19 @@ nasional" adalah unit pelaksana teknis pada kementerian yang
 menyelenggarakan urusan pemerintahan di bidang kesehatan,
 yang mempunyai ruang lingkup tugas yang bersifat strategis dan
 berskala nasional serta internasional.
+
 Pasal 532
 Cukup jelas.
+
 Pasal 533
 Cukup jelas.
+
 Pasal 534
 Cukup jelas.
+
 Pasal 535
 Cukup jelas.
+
 Pasal 536
 Ayat (1)
 Tenaga teknis antara lain Sumber Daya Manusia Kesehatan dan
@@ -25027,26 +24576,26 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 537
 Cukup jelas.
+
 Pasal 538
 Cukup jelas
-SK No 227073 A
-Pasal539...
 
-FRESIDEH
-REPUBUK INDONESIA
--89-
 Pasal 539
 Cukup jelas.
+
 Pasal 540
 Cukup jelas
+
 Pasal 541
 Cukup jelas
+
 Pasal 542
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Huruf a
@@ -25072,107 +24621,70 @@ Kesehatan, serta ilmu pengetahuan dan teknologi,
 transportasi, dan komunikasi.
 Ayat (4)
 Cukup jelas
+
 Pasal 543
 Cukup jelas
+
 Pasal 544
 Cukup jelas
-SK No 227074 A
-Pasal 545. . .
 
-PRESIDEN
-REPUBUK INDONESIA
--90-
 Pasal 545
 Cukup jelas.
+
 Pasal 546
 Cukup jelas.
+
 Pasal 547
 Cukup jelas.
+
 Pasal 548
 Cukup jelas.
+
 Pasal 549
 Cukup jelas.
+
 Pasal 550
 Cukup jelas.
+
 Pasal 551
 Cukup jelas.
+
 Pasal 552
 Cukup jelas.
+
 Pasal 553
 Cukup jelas
+
 Pasal 554
 Cukup jelas
+
 Pasal 555
 Cukup jelas.
+
 Pasal 556
 Cukup jelas.
+
 Pasal 557
 Cukup jelas.
+
 Pasal 558
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
-SK No 227075 A
-Ayat(3) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--9LAyat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Ayat (5)
-Huruf a
-Cukup jelas.
-Huruf b
-Cukup jelas.
-Huruf c
-Yang dimaksud dengan "klinik" adalah Fasilitas Pelayanan
-Kesehatan yang menyelenggarakan Pelayanan Kesehatan
-perseorangan yang menyediakan pelayanan medis dasar
-dan/ atau spesialistik.
-Huruf d
-Cukup jelas.
-Huruf e
-Cukup jelas.
-Huruf f
-Cukup jelas.
-Ayat (6)
-Cukup jelas.
-Pasal 559
-Cukup jelas.
-Pasal 560
-Cukup jelas.
-Pasal 561
-Ayat (1)
-Cukup jelas.
-Ayat (21
-Cukup jelas.
-Ayat (3)
-Pelayanan kefarmasian melalui telefarmasi antara lain pengkajian
-resep, dispensing, pelayanan informasi Obat konseling,
-pemantauan terapi Obat dan monitoring efek samping Obat.
-Ayat (a)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Pasal 562
-Cukup jelas
-SK No 227076 A
-Pasal 563. . .
-
-PRESIDEN
-REPUBLIK TNDONESIA
--92-
 Pasal 563
 Cukup jelas.
+
 Pasal 564
 Cukup jelas.
+
 Pasal 565
 Cukup jelas.
+
 Pasal 566
 Cukup jelas.
+
 Pasal 567
 Ayat (1)
 Cukup jelas.
@@ -25182,20 +24694,26 @@ dan asosiasi institusi pendidikan Kesehatan serta pihak lainnya
 sesuai dengan kebutuhan.
 Ayat (3)
 Cukup jelas.
+
 Pasal 568
 Cukup jelas.
+
 Pasal 569
 Cukup jelas.
+
 Pasal 57O
 Cukup jelas.
+
 Pasal 571
 Cukup jelas.
+
 Pasal 572
 Cukup jelas.
+
 Pasal 573
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Yang dimaksud dengan "peninjauan kembali" adalah upaya
@@ -25203,16 +24721,13 @@ penyesuaian perencanaan Tenaga Medis dan Tenaga Kesehatan
 yang disesuaikan dengan perubahan demografi dan epidemiologi
 serta politik, ekonomi, sosial, dan budaya di wilayah
 masing-masing.
-SK No 227077 A
-Pasal574...
 
-PRESIDEN
-REPUBLIK INDONESIA
--93-
 Pasal 574
 Cukup jelas.
+
 Pasal 575
 Cukup jelas.
+
 Pasal 576
 Ayat (1)
 Fasilitas Pelayanan Kesehatan dalam ketentuan ini antara lain
@@ -25222,6 +24737,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 577
 Ayat (1)
 Cukup jelas.
@@ -25246,31 +24762,32 @@ sarana dan prasarana secara bersama dan/atau bergantian.
 Kerja sama bidang pendanaan contohnya pendanaan pada
 kegiatan penelitian untuk menunjang pembangunan bidang
 Kesehatan.
+
 Pasal 578
 Cukup jelas
-SK No 227078 A
-Pasal579...
 
-PRESIDEN
-REPUBLIK INDONESIA
--94-
 Pasal 579
 Cukup jelas.
+
 Pasal 580
 Cukup jelas.
+
 Pasal 581
 Cukup jelas.
+
 Pasal 582
 Cukup jelas.
+
 Pasal 583
 Cukup jelas.
+
 Pasal 584
 Ayat (1)
 Yang dimaksud dengan "pegawai pada Fasilitas Pelayanan
 Kesehatan" adalah peserta didik yang mendapatkan penetapan
 sebagai pegawai oleh pejabat yang berwenang serta memiliki hak
 dan kewajiban sebagai pegawai sesuai penetapan yang diberikan.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
@@ -25282,24 +24799,25 @@ menyelenggarakan pendidikan yang telah memiliki izin dan
 terakreditasi sebagai penyelenggara Pelayanan Kesehatan.
 Ayat (5)
 Cukup jelas.
+
 Pasal 585
 Cukup jelas.
+
 Pasal 586
 Cukup jelas.
+
 Pasal 587
 Cukup jelas.
+
 Pasal 588
 Cukup jelas
-SK No 227079 A
-Pasal589...
 
-PRESIDEN
-REPUBLIK INDONESIA
--95-
 Pasal 589
 Cukup jelas
+
 Pasal 590
 Cukup jelas.
+
 Pasal 591
 Ayat (1)
 Uji kompetensi secara nasional dilaksanakan untuk melihat
@@ -25317,28 +24835,31 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 592
 Cukup jelas.
+
 Pasal 593
 Cukup jelas.
+
 Pasal 594
 Cukup jelas.
+
 Pasal 595
 Cukup jelas.
+
 Pasal 596
 Cukup jelas.
+
 Pasal 597
 Cukup jelas.
+
 Pasal 598
 Cukup jelas.
-SK No 227080 A
-Pasa1599...
 
-PRESTDEN
-REPUBLIK INDONESIA
--96-
 Pasal 599
 Cukup jelas.
+
 Pasal 600
 Huruf a
 Cukup jelas.
@@ -25349,14 +24870,19 @@ Cukup jelas.
 Huruf d
 Fasilitas tempat tinggal dapat berupa tempat tinggal atau bantuan
 biaya tempat tinggal.
+
 Pasal 601
 Cukup jelas.
+
 Pasal 602
 Cukup jelas.
+
 Pasal 6O3
 Cukup jelas.
+
 Pasal 6O4
 Cukup jelas.
+
 Pasal 605
 Ayat (1)
 Huruf a
@@ -25371,58 +24897,65 @@ kebutuhan" adalah tenaga yang dilibatkan dalam proses
 pendidikan Tenaga Medis dan Tenaga Kesehatan antara lain
 tenaga di bidang administrasi, kearsipan, komputer, dan
 kehumasan.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
 Ayat(4) ...
-SK No 227081 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--97-
 Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 606
 Cukup jelas.
+
 Pasal 607
 Cukup jelas.
+
 Pasal 6O8
 Cukup jelas.
+
 Pasal 609
 Cukup jelas.
+
 Pasal 610
 Cukup jelas.
+
 Pasal 611
 Cukup jelas.
+
 Pasal 612
 Cukup jelas.
+
 Pasal 613
 Cukup jelas.
+
 Pasal 614
 Cukup jelas.
+
 Pasal 615
 Cukup jelas.
+
 Pasal 616
 Cukup jelas.
+
 Pasal 617
 Cukup jelas.
+
 Pasal 618
 Cukup jelas.
-SK No 227082 A
-Pasal 619...
 
-PRESIDEN
-REPUBLIK INDONESIA
--98-
 Pasal 619
 Cukup jelas.
+
 Pasal 620
 Cukup jelas.
+
 Pasal 62 1
 Cukup jelas.
+
 Pasal 622
 Ayat (1)
 Cukup jelas.
@@ -25436,38 +24969,40 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 623
 Ayat (1)
 Fasilitas lainnya antara lain tempat tinggal dan alat transportasi.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Pasat624
 Cukup jelas
+
 Pasal 625
 Cukup jelas.
+
 Pasal 626
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Jangka waktu tertentu antara lain penempatan pada penugasan
 khusus untuk waktu yang ditentukan sesuai dengan kebutuhan
 Pelayanan Kesehatan.
 Ayat(4) ...
-SK No 227083 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--99-
 Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 627
 Cukup jelas
+
 Pasal 628
 Cukup jelas.
+
 Pasal 629
 Ayat (1)
 Cukup jelas.
@@ -25479,12 +25014,16 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal 630
 Cukup jelas.
+
 Pasal 63 1
 Cukup jelas.
+
 Pasal 632
 Cukup jelas.
+
 Pasal 633
 Ayat (1)
 Cukup jelas.
@@ -25492,12 +25031,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-SK No 221084 A
-Ayat(4) ...
 
-PRESIDEN
-REPUBLTK INDONESIA
--100-
 Ayat (a)
 Tenaga cadangan Kesehatan berupa non-Tenaga Kesehatan yang
 telah mendapatkan pelatihan terkait dengan penanggulangan
@@ -25509,34 +25043,40 @@ Yang dimaksud dengan "kedaruratan Kesehatan lainnya" adalah
 kondisi di luar bencana yang memenuhi kriteria krisis Kesehatan.
 Ayat (6)
 Cukup jelas.
+
 Pasal 634
 Cukup jelas.
+
 Pasal 635
 Cukup jelas.
+
 Pasal 636
 Cukup jelas.
+
 Pasal 637
 Cukup jelas.
+
 Pasal 638
 Cukup jelas
+
 Pasal 639
 Cukup jelas.
+
 Pasal 640
 Cukup jelas.
+
 Pasal 641
 Cukup jelas.
+
 Pasal 642
 Cukup jelas.
+
 Pasal 643
 Cukup jelas.
+
 Pasal 644
 Cukup jelas.
-SK No 227085 A
-Pasal645...
 
-PRESIDEN
-REPUBLIK INDONESIA
--101-
 Pasal 645
 Huruf a
 Penyiapan sebelum didayagunakan antara lain kemampuan
@@ -25546,46 +25086,56 @@ Huruf b
 Cukup jelas.
 Huruf c
 Cukup jelas.
+
 Pasal 646
 Yang dimaksud dengan "pelindungan kepada Tenaga Medis
 dan Tenaga Kesehatan yang didayagunakan ke luar negeri"
 adalah pelindungan terhadap keselamatan, keamanan, dan
 bentuk pelindungan lain sesuai dengan ketentuan peraturan
 perundang-undangan.
+
 Pasal 647
 Cukup jelas.
+
 Pasal 648
 Cukup jelas
+
 Pasal 649
 Cukup jelas
+
 Pasal 650
 Cukup jelas.
+
 Pasal 651
 Cukup jelas.
+
 Pasal 652
 Cukup jelas.
+
 Pasal 653
 Cukup jelas.
+
 Pasal 654
 Cukup jelas.
+
 Pasal 655
 Cukup jelas.
-SK No 227086 A
-Pasal 656
 
-PRESIDEN
-REPUBLIK INDONESIA
--to2-
 Pasal 656
 Cukup jelas.
+
 Pasal 657
 Cukup jelas.
+
 Pasal 658
 Cukup jelas.
+
 Pasal 659
 Cukup jelas.
+
 Pasal 660
 Cukup jelas.
+
 Pasal 661
 Ayat (1)
 Cukup jelas.
@@ -25595,62 +25145,73 @@ Ayat (3)
 Kondisi tertentu antara lain pendayagunaan pada kawasan
 ekonomi khusus, pendayagunaan untuk kegiatan bakti sosial,
 dan pendayagunaan dalam kondisi bencana.
+
 Pasal 662
 Cukup jelas.
+
 Pasal 663
 Cukup jelas.
+
 Pasal 664
 Cukup jelas.
+
 Pasal 665
 Cukup jelas.
+
 Pasal 666
 Cukup jelas.
+
 Pasal 667
 Cukup jelas.
+
 Pasal 668
 Cukup jelas.
-SK No 226966 A
-Pasal669...
 
-PRESIDEN
-REPUBLTK INDONESIA
--103-
 Pasal 669
 Cukup jelas.
+
 Pasal 670
 Cukup jelas.
+
 Pasal 671
 Cukup jelas.
+
 Pasal 672
 Cukup jelas.
+
 Pasal 673
 Cukup jelas.
+
 Pasal 674
 Cukup jelas.
+
 Pasal 675
 Cukup jelas.
+
 Pasal 676
 Cukup jelas.
+
 Pasal 677
 Cukup jelas.
+
 Pasal 678
 Cukup jelas.
+
 Pasal 679
 Cukup jelas.
+
 Pasal 68O
 Cukup jelas.
+
 Pasal 681
 Cukup jelas
+
 Pasal 682
 Cukup jelas.
+
 Pasal 683
 Cukup jelas.
-SK No 227088 A
-Pasal 684
 
-PRESIDEN
-REPUBLIK INDONESIA
--LO4-
 Pasal 684
 Ayat (1)
 Kondisi tertentu antara lain berupa keadaan yang membutuhkan
@@ -25658,6 +25219,7 @@ percepatan pemenuhan Tenaga Medis dan Tenaga Kesehatan
 pada Pelayanan Kesehatan.
 Ayat (2)
 Cukup jelas.
+
 Pasal 685
 Ayat (1)
 Kondisi tertentu antara lain bakti sosial/kemanusiaan, tugas
@@ -25671,19 +25233,23 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
+
 Pasal 686
 Cukup jelas.
+
 Pasal 687
 Cukup jelas.
+
 Pasal 688
 Cukup jelas.
+
 Pasal 689
 Ayat (1)
 Yang dimaksud dengan "surat tugas" adalah izinyang diberikan
 oleh Menteri kepada dokter/dokter grgi spesialis yang telah
 memiliki SIP dengan jumlah maksimal, untuk memberikan
 pelayanan spesialistik di daerah yang membutuhkan.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
@@ -25692,95 +25258,115 @@ Cukup jelas.
 Ayat (5)
 Cukup jelas.
 Ayat(6) ...
-SK No 227A89 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--105-
 Ayat (6)
 Cukup jelas.
+
 Pasal 69O
 Cukup jelas.
+
 Pasal 69 1
 Cukup jelas.
+
 Pasal 692
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Memiliki hak dan kewajiban yang sama termasuk hak atas jasa
 Pelayanan Kesehatan dan hak atas pelindungan hukum.
+
 Pasal 693
 Cukup jelas.
+
 Pasal 694
 Cukup jelas.
+
 Pasal 695
 Cukup jelas.
+
 Pasal 696
 Cukup jelas.
+
 Pasal 697
 Cukup jelas.
+
 Pasal 698
 Cukup jelas
+
 Pasal 699
 Cukup jelas
+
 Pasal 700
 Cukup jelas
+
 Pasal 701
 Cukup jelas.
+
 Pasal 702
 Cukup jelas.
-SK No 227090 A
-Pasal7O3...
 
-FRESIDEN
-REPUBLTK INDONESIA
--106-
 Pasal 703
 Cukup jelas.
+
 Pasal 704
 Cukup jelas.
+
 Pasal 705
 Cukup jelas.
+
 Pasal 706
 Cukup jelas.
+
 Pasal 707
 Cukup jelas.
+
 Pasal 708
 Cukup jelas.
+
 Pasal 709
 Cukup jelas.
+
 Pasal 710
 Cukup jelas.
+
 Pasal 711
 Cukup jelas.
+
 Pasal 7 12
 Cukup jelas.
+
 Pasal 713
 Cukup jelas.
+
 Pasal 714
 Cukup jelas.
+
 Pasal 715
 Cukup jelas.
+
 Pasal 716
 Cukup jelas.
+
 Pasal717
 Cukup jelas.
-Pasal7L8...
-SK No 227091 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--to7-
+Pasal7L8...
+
 Pasal 718
 Cukup jelas.
+
 Pasal 719
 Cukup jelas.
+
 Pasal 72O
 Cukup jelas.
+
 Pasal 721
 Cukup jelas.
+
 Pasal 722
 Cukup jelas.
+
 Pasal 723
 Ayat (1)
 Huruf a
@@ -25806,78 +25392,33 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 724
 Cukup jelas.
-SK No 226988 A
-Pasal 725
 
-PRESIDEN
-REPUBLTK INDONESIA
-.108-
-Pasal 725
-Ayat (1)
-Yang dimaksud dengan "gajilupah, imbalan jasa, dan tunjangan
-kinerja yang layak" adalah jumlah penghasilan atau pendapatan
-dari gaji/upah, imbalan jasa, dan tunjangan kinerja yang diterima
-Tenaga Medis dan Tenaga Kesehatan dari hasil pekerjaannya
-mampu memenuhi kebutuhan hidup Tenaga Medis dan
-Tenaga Kesehatan serta keluarganya secara wajar untuk
-mencapai derajat penghidupan yang layak bagi kemanusiaan.
-Ayat (2)
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Pasal726
-Huruf a
-Cukup jelas.
-Huruf b
-Cukup jelas.
-Huruf c
-Cukup jelas.
-Huruf d
-Cukup jelas.
-Huruf e
-Cukup jelas.
-Huruf f
-Cukup jelas.
-Huruf g
-Cukup jelas.
-Huruf h
-Cukup jelas.
-Huruf i
-Pertimbangan objektif dilaksanakan sesuai dengan kewenangan
-Pemerintah Daerah provinsi dan Pemerintah Daerah
-kabupaten/kota serta pimpinan Fasilitas Pelayanan Kesehatan.
-Pasal 727
-Cukup jelas
-Pasal728
-Cukup jelas
-SK No 227093 A
-Pasal 729
-
-PRESIDEN
-REPUBLTK INDONESIA
--109-
 Pasal 729
 Cukup jelas
+
 Pasal 730
 Cukup jelas.
+
 Pasal 731
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Pelindungan dalam ketentuan ini antara lain pelindungan hukum
 serta pelindungan keamanan dan keselamatan.
 Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
+
 Pasal 732
 Cukup jelas
+
 Pasal 733
 Cukup jelas.
+
 Pasal 734
 Ayat (1)
 Huruf a
@@ -25901,29 +25442,34 @@ Waud).
 Huruf f
 Cukup jelas.
 Ayat(2) ...
-SK No 227094 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--1 10-
 Ayat (2)
 Cukup jelas.
+
 Pasal 735
 Cukup jelas.
+
 Pasal 736
 Cukup jelas
+
 Pasal 737
 Cukup jelas.
+
 Pasal 738
 Cukup jelas
+
 Pasal 739
 Cukup jelas.
+
 Pasal 740
 Cukup jelas
+
 Pasal 741
 Cukup jelas.
+
 Pasal 742
 Cukup jelas
+
 Pasal 743
 Ayat (1)
 Yang dimaksud dengan "kewenangan klinis" adalah hak khusus
@@ -25940,18 +25486,14 @@ menentukan kelayakan diberikan kewenangan klinis
 (clinical priuilegel.
 Ayat (4)
 Cukup jelas.
-SK No 227095 A
-Ayat (5)
 
-PRESTDEN
-REPUBLIK INDONESIA
--111-
 Ayat (5)
 Cukup jelas.
+
 Pasal 744
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Yang dim_aksud dengan "wilayah tempat Tenaga Medis atau
@@ -25969,32 +25511,37 @@ Ayat (8)
 Cukup jelas.
 Ayat (9)
 Cukup jelas.
+
 Pasal 745
 Cukup jelas
+
 Pasal 746
 Cukup jelas.
+
 Pasal 747
 Cukup jelas.
+
 Pasal 748
 Cukup jelas
+
 Pasal 749
 Cukup jelas
+
 Pasal 750
 Cukup jelas.
-SK No 2269G7 A
-Pasal75I...
 
-PRESIDEN
-REPUBLTK INDONESIA
--tt2-
 Pasal 751
 Cukup jelas.
+
 Pasal 752
 Cukup jelas.
+
 Pasal 753
 Cukup jelas.
+
 Pasal 754
 Cukup jelas.
+
 Pasal 755
 Huruf a
 Yang dimaksud dengan "tenaga pendukung atau penunjang
@@ -26011,22 +25558,22 @@ Yang dimaksud dengan "tenaga pendukung atau penunjang
 sarana dan prasarana Fasilitas Pelayanan Kesehatan" antara lain
 petugas instalasi listrik, pemeliharaan bangunan, dan
 petugas kebersihan.
+
 Pasal 756
 Cukup jelas.
+
 Pasal 757
 Cukup jelas.
+
 Pasal 758
 Cukup jelas.
+
 Pasal 759
 Cukup jelas.
+
 Pasal 760
 Cukup jelas.
-SK No 221097 A
-Pasal76l...
 
-PRESIDEN
-REPUBLIK INDONESIA
--1 13-
 Pasal 761
 Cukup jelas.
 Pasat762
@@ -26050,6 +25597,7 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 763
 Ayat (1)
 Cukup jelas.
@@ -26066,15 +25614,11 @@ berupa praktik mandiri dokter spesialis/subspesialis atau
 dokter gigi spesialis/ subspesialis.
 Ayat (3)
 Cukup jelas.
+
 Pasal 764
 Ayat (1)
 Cukup jelas.
-SK No 227098 A
-Ayat(2)...
 
-FRESIDEN
-REPUBLIK INDONESIA
--tt4-
 Ayat (2)
 Cukup jelas.
 Ayat (3)
@@ -26097,6 +25641,7 @@ Huruf g
 Cukup jelas.
 Huruf h
 Cukup jelas.
+
 Pasal 765
 Ayat (1)
 Cukup jelas.
@@ -26108,40 +25653,48 @@ antara lain berbentuk bus, pesawat, kapal, karavan, gerbong
 kereta api, tenda, atau kontainer.
 Ayat (4)
 Cukup jelas.
+
 Pasal 766
 Cukup jelas.
+
 Pasal 767
 Cukup je1as.
+
 Pasal 768
 Cukup jelas.
-SK No 227099 A
-Pasal 769
 
-PRESIDEN
-REPUBLIK INDONESIA
--1 15-
 Pasal 769
 Cukup jelas.
+
 Pasal 770
 Cukup jelas.
+
 Pasal771
 Cukup jelas.
+
 Pasal 772
 Cukup jelas
+
 Pasal 773
 Cukup jelas.
+
 Pasal 774
 Cukup jelas.
+
 Pasal 775
 Cukup jelas
+
 Pasal 776
 Penyelenggaraan Fasilitas Pelayanan Kesehatan di kawasan ekonomi
 khusus termasuk mengatur pendayagunaan Sumber Daya Manusia
 Kesehatan serta pemasukan dan penggunaan Perbekalan Kesehatan.
+
 Pasal 777
 Cukup jelas
+
 Pasal 778
 Cukup jelas.
+
 Pasal 779
 Ayat (1)
 Yang dimaksud dengan "sesuai dengan ketentuan
@@ -26149,18 +25702,16 @@ peraturan perundang-undangan" adalah ketentuan peraturan
 perundang-undangan mengenai penggunaan sistem elektronik.
 Ayat (2)
 Cukup jelas.
+
 Pasal 780
 Cukup jelas.
-SK No 226989 A
-Pasal78l...
 
-PRESIDEN
-REPUBLIK INDONESIA
--116-
 Pasal 781
 Cukup jelas.
+
 Pasal 782
 Cukup jelas.
+
 Pasal 783
 Ayat (1)
 Cukup jelas.
@@ -26197,30 +25748,30 @@ secara terbatas" adalah tanpa membuka identitas Pasien
 atau data yang dapat ditelusuri identitasnya.
 Huruf d
 Cukup jelas.
-SK No 227101 A
-Huruf e. . .
 
-PRESIDEN
-REFUBLIK INDONESIA
--tt7-
 Huruf e
 Cukup jelas.
 Ayat (12)
 Cukup jelas.
+
 Pasal 784
 Cukup jelas.
+
 Pasal 785
 Cukup jelas.
+
 Pasal 786
 Cukup jelas.
+
 Pasal 787
 Cukup jelas.
+
 Pasal 788
 Ayat (1)
 Yang dimaksud dengan "rahasia Kesehatan pribadi Pasien"
 adalah riwayat, kondisi dan perawatan, pengobatan Kesehatan
 fisik, serta psikis seseorang, termasuk data pribadi Pasien.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Huruf a
@@ -26233,32 +25784,37 @@ Pasien" antara lain meliputi data sistem pembayaran dan
 informasi dan data sosial Pasien.
 Ayat (a)
 Cukup jelas.
+
 Pasal 789
 Cukup jelas.
+
 Pasal 790
 Cukup jelas.
+
 Pasal 791
 Cukup jelas.
-SK No 227102 A
-Pasal792...
 
-PRESIDEN
-R.EPUBLIK INDONESIA
--1 18-
 Pasal 792
 Cukup jelas
+
 Pasal 793
 Cukup jelas.
+
 Pasal 794
 Cukup jelas.
+
 Pasal 795
 Cukup jelas.
+
 Pasal 796
 Cukup jelas.
+
 Pasal 797
 Cukup jelas.
+
 Pasal 798
 Cukup jelas.
+
 Pasal 799
 Ayat (1)
 Cukup jelas.
@@ -26267,23 +25823,22 @@ Cukup jelas.
 Ayat (3)
 Yang dimaksud dengan "Upaya Kesehatan bersumber daya
 masyarakat" arrttara lain pos Upaya Kesehatan kerja.
+
 Pasal 8OO
 Cukup jelas.
+
 Pasal 801
 Cukup jelas.
+
 Pasal 802
 Cukup jelas.
+
 Pasal 8O3
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
-SK No 226990 A
-Ayat (3)
 
-PRESIDEN
-REPUBLIK INDONESIA
--1 19-
 Ayat (3)
 Cukup jelas.
 Ayat (4)
@@ -26302,41 +25857,48 @@ dari pendidikan pelatihan dan/atau rekognisi pembelajaran
 lampau di bidang Kesehatan komunitas.
 Ayat (9)
 Cukup jelas.
+
 Pasal 8O4
 Cukup jelas.
+
 Pasal 805
 Cukup jelas.
+
 Pasal 806
 Cukup jelas.
+
 Pasal 807
 Cukup jelas
+
 Pasal 808
 Cukup jelas.
+
 Pasal 8O9
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Pelayanan Kesehatan dasar antara lain dilakukan dalam kondisi
 kegawatdaruratan atau dukungan terhadap program pemerintah
 selain program jaminan kesehatan.
+
 Pasal 810
 Cukup jelas.
-SK No 227104 A
-Pasal811...
 
-FRESIDEN
-REPUBLIK INDONESIA
--t20-
 Pasal 811
 Cukup jelas.
+
 Pasal 812
 Cukup jelas.
+
 Pasal 813
 Cukup jelas.
+
 Pasal 814
 Cukup jelas
+
 Pasal 815
 Cukup jelas.
+
 Pasal 816
 Ayat (1)
 Cukup jelas.
@@ -26353,6 +25915,7 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 817
 Ayat (1)
 Cukup jelas.
@@ -26366,58 +25929,7 @@ bidang yang memberikan Pelayanan Kesehatan langsung kepada
 masyarakat, antara lain berupa klinik, apotek, dan laboratorium.
 Ayat (5)
 Cukup jelas.
-SK No 227105 A
-Pasal 818...
 
-PRESIDEN
-REPUBLIK INDONESIA
--r2rPasal 818
-Cukup jelas.
-Pasal 819
-Cukup jelas.
-Pasal 820
-Ayat (1)
-Cukup jelas.
-Ayat (21
-Yang dimaksud dengan "jenis pelayanan" adalah pelayanan medik
-spesialistik/ subspesialistik yang diberikan.
-Pasal 82 1
-Huruf a
-Cukup jelas.
-Huruf b
-Cukup jelas.
-Huruf c
-Cukup jelas.
-Huruf d
-Cukup jelas.
-Huruf e
-pelayanan kefarmasian dilaksanakan melalui sistem satu pintu.
-Huruf f
-Cukup jelas.
-Huruf g
-Cukup jelas.
-Huruf h
-Cukup jelas.
-Huruf i
-Cukup jelas.
-Huruf j
-Cukup jelas.
-Huruf k
-Cukup jelas.
-Huruf I
-Cukup jelas.
-Pasal 822
-Ayat (1)
-Yang dimaksud dengan "tata kelola Rumah Sakit yang baik"
-adalah penerapan fungsi manajemen Rumah Sakit yang
-berdasarkan prinsip tranparansi, akuntabilitas, independensi,
-responsibilitas, kesetaraan, dan kewajaran.
-Yang. . .
-SK No 221106 A
-
-PRESIDEN
-REPUBLTK INDONESIA
--L22-
 Yang dimaksud dengan "tata kelola klinis yang baik" adalah
 penerapan fungsi manajemen klinis yang meliputi kepemimpinan
 klinis, audit klinis, data klinis, risiko klinis berbasis bukti,
@@ -26426,14 +25938,19 @@ hasil pelayanan, pengembangan profesional, dan akreditasi
 Rumah Sakit.
 Ayat (2)
 Cukup jelas.
+
 Pasal 823
 Cukup jelas.
+
 Pasal 824
 Cukup jelas
+
 Pasal 825
 Cukup jelas
+
 Pasal 826
 Cukup jelas
+
 Pasal 827
 Ayat (1)
 Kompetensi manajemen Rumah Sakit dapat diperoleh melalui
@@ -26443,24 +25960,25 @@ Cukup jelas.
 Ayat (3)
 Pemilik Rumah Sakit antara lain pemegang saham mayoritas,
 komisaris pertrsahaan, pendiri yayasan, atau Pemerintah Daerah.
+
 Pasal 828
 Cukup jelas.
+
 Pasal 829
 Cukup jelas.
+
 Pasal 830
 Cukup jelas.
+
 Pasal 831
 Cukup jelas.
+
 Pasal 832
 Cukup jelas.
-SK No 227107 A
-Pasal 833
 
-PRESIDEN
-REPUBLIK TNDONESIA
--L23-
 Pasal 833
 Cukup jelas.
+
 Pasal 834
 Ayat (1)
 Huruf a
@@ -26480,36 +25998,43 @@ Pelayanan Kesehatan di Rumah Sakit yang ditetapkan sesuai
 dengan ketentuan peraturan perundang-undangan.
 Ayat (2)
 Cukup jelas.
+
 Pasal 835
 Cukup jelas.
+
 Pasal 836
 Cukup jelas.
+
 Pasal 837
 Cukup jelas.
+
 Pasal 838
 Cukup jelas.
+
 Pasal 839
 Cukup jelas.
+
 Pasal 840
 Cukup jelas
+
 Pasal 841
 Cukup jelas.
-SK No 227108 A
-Pasal842...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--L24-
 Pasal 842
 Cukup jelas.
+
 Pasal 843
 Cukup jelas.
+
 Pasal 844
 Cukup jelas.
+
 Pasal 845
 Cukup jelas.
+
 Pasal 846
 Cukup jelas
+
 Pasal 847
 Ayat (1)
 Cukup jelas.
@@ -26528,6 +26053,7 @@ lingkungan kerja yang tidak sesuai dengan standar
 keselamatan dan Kesehatan kerja.
 Ayat (3)
 Cukup jelas.
+
 Pasal 848
 Ayat (1)
 Huruf a
@@ -26540,11 +26066,7 @@ Cukup jelas.
 Huruf d
 Cukup jelas.
 Huruf e. . .
-SK No 227109 A
 
-PRESIDEN
-REPUELIK TNDONESIA
--t25-
 Huruf e
 Cukup jelas.
 Huruf f
@@ -26557,56 +26079,73 @@ Huruf i
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
+
 Pasal 849
 Cukup jelas.
+
 Pasal 850
 Cukup jelas.
+
 Pasal 851
 Cukup jelas.
+
 Pasal 852
 Cukup jelas.
+
 Pasal 853
 Cukup jelas.
+
 Pasal 854
 Cukup jelas.
+
 Pasal 855
 Cukup jelas.
+
 Pasal 856
 Cukup jelas.
+
 Pasal 857
 Cukup jelas.
+
 Pasal 858
 Cukup jelas.
+
 Pasal 859
 Cukup jelas.
-SK No 227110 A
-Pasal 860. . .
 
-PRESIDEN
-REPUBLTK INDONESTA
--126-
 Pasal 860
 Cukup jelas
+
 Pasal 861
 Cukup jelas.
+
 Pasal 862
 Cukup jelas.
+
 Pasal 863
 Cukup jelas.
+
 Pasal 864
 Cukup jelas
+
 Pasal 865
 Cukup jelas.
+
 Pasal 866
 Cukup jelas.
+
 Pasal 867
 Cukup jelas.
+
 Pasal 868
 Cukup jelas.
+
 Pasal 869
 Cukup jelas.
+
 Pasal 870
 Cukup jelas.
+
 Pasal 871
 Ayat (1)
 Cukup jelas.
@@ -26617,100 +26156,67 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
-SK No 227lll A
-Pasal 872 .
 
-PRESIDEN
-REPUBLIK INDONESIA
--L27-
 Pasal 872
 Cukup jelas.
+
 Pasal 873
 Cukup jelas.
+
 Pasal 874
 Cukup jelas.
+
 Pasal 875
 Cukup jelas.
+
 Pasal 876
 Cukup jelas
+
 Pasal 877
 Cukup jelas.
+
 Pasal 878
 Cukup jelas.
+
 Pasal 879
 Cukup jelas.
+
 Pasal 880
 Cukup jelas
+
 Pasal 881
 Cukup jelas.
+
 Pasal 882
 Cukup jelas.
+
 Pasal 883
 Cukup jelas.
+
 Pasal 884
 Cukup jelas.
+
 Pasal 885
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
-SK No 227112 A
-Ayat(3) .".
 
-PRESIDEN
-REPUBLIK INDONESIA
--t28_
-Ayat (3)
-Cukup jelas.
-Ayat (4)
-Tata kelola di Fasilitas Pelayanan Kesehatan antara lain audit,
-pencegahan dan pengendalian infeksi, serta program
-pengendalian resistensi antimikroba.
-Pasal 886
-Cukup jelas.
-Pasal 887
-Cukup jelas
-Pasal 888
-Cukup jelas.
-Pasal 889
-Cukup jelas.
-Pasal 890
-Cukup jelas.
-Pasal 891
-Ayat (1)
-Cukup jelas.
-Ayat (21
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat (4)
-Cukup jelas.
-Ayat (5)
-Risiko nonklinis antara lain risiko keuangan, risiko tuntutan
-hukum, risiko perbuatan curang Waud), dan risiko pelayanan
-nonklinis lain.
-Ayat (6)
-Cukup jelas.
-Pasal 892
-Cukup jelas.
-Pasal 893
-Cukup jelas.
-SK No 227115 A
-Pasal894...
-
-PRESIDEN
-REPUBLIK INDONESIA
--r29-
 Pasal 894
 Cukup jelas
+
 Pasal 895
 Cukup jelas.
+
 Pasal 896
 Cukup jelas.
+
 Pasal 897
 Cukup jelas
+
 Pasal 898
 Cukup jelas
+
 Pasal 899
 Ayat (1)
 Kompetensi Fasilitas Pelayanan Kesehatan antara lain
@@ -26719,28 +26225,31 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 900
 Cukup jelas.
+
 Pasal 901
 Cukup jelas.
+
 Pasal 902
 Cukup jelas
+
 Pasal 903
 Cukup jelas.
+
 Pasal 904
 Cukup jelas.
+
 Pasal 905
 Cukup jelas.
+
 Pasal 9O6
 Cukup jelas.
-SK No 227116 A
-Pasal 907
 
-PRESIDEN
-REPUBLIK INDONESIA
--130-
 Pasal 907
 Cukup jelas.
+
 Pasal 908
 Ayat (1)
 Perbekalan Kesehatan lain dalam ketentuan ini antara lain
@@ -26756,32 +26265,35 @@ meningkatkan kecepatan akses dalam penggunaan dan
 penyerahan Obat kepada Pasien yang disesuaikan dengan
 kompetensi Tenaga Kesehatan dan tingkat fasilitas Kesehatan
 yang ada.
+
 Pasal 909
 Cukup jelas.
+
 Pasal 910
 Cukup jelas.
+
 Pasal 911
 Cukup jelas.
+
 Pasal 912
 Cukup jelas
+
 Pasal 913
 Cukup jelas.
+
 Pasal 914
 Ayat (1)
 Perbekalan Kesehatan tertentu antara lain obat program,
 Obat untuk penyakit langka, dan alat bantu pendengaran.
 Ayat (2)
 Cukup jelas.
+
 Pasal 915
 Cukup jelas.
-SK No 227117 A
-Pasal9L6...
 
-PRESIDEN
-REPUBLIK INDONESIA
--131-
 Pasal 916
 Cukup jelas.
+
 Pasal 917
 Ayat (1)
 Cukup jelas.
@@ -26795,12 +26307,15 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
-Ayat (71
+Ayat (7) 
 Cukup jelas.
+
 Pasal 918
 Cukup jelas
+
 Pasal 9 19
 Cukup jelas.
+
 Pasal 920
 Ayat (1)
 Huruf a
@@ -26810,18 +26325,15 @@ Cukup jelas.
 Huruf c
 Profil keamanan antara lain kontra indikasi, efek samping,
 dan perin gatan I perhatian.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
+
 Pasal 921
 Cukup jelas
+
 Pasal 922
 Cukup jelas.
-SK No 227118 A
-Pasal 923
 
-PRESIDEN
-REPUBLIK INDONESIA
--L32-
 Pasal 923
 Ayat (1)
 Cukup jelas.
@@ -26831,12 +26343,16 @@ nyeri, maag, diare, kecatingan, luka iris, kurap, panu/kadas,
 kudis, dan biang keringat, dengan gejala ringan.
 Ayat (3)
 Cukup jelas.
+
 Pasal924
 Cukup jelas.
+
 Pasal 925
 Cukup jelas.
+
 Pasal 926
 Cukup jelas.
+
 Pasal 927
 Ayat (1)
 Cukup jelas.
@@ -26848,20 +26364,19 @@ Ayat (4)
 Produk Obat Bahan Alam inovasi baru antara lain Obat Bahan
 Alam yang keamanan dan khasiatnya telah dibuktikan minimal
 melalui uji praklinik namun tidak memiliki data empiris.
+
 Pasal 928
 Cukup jelas.
+
 Pasal 929
 Cukup jelas.
+
 Pasal 930
 Cukup jelas.
+
 Pasal 93 1
 Cukup jelas.
-SK No 227119 A
-Pasal 932 .
 
-PRESIDEN
-REPUBLIK TNDONESIA
--133-
 Pasal 932
 Ayat (1)
 Cukup jelas.
@@ -26887,14 +26402,17 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal 933
 Cukup jelas.
+
 Pasal 934
 Cukup jelas.
+
 Pasal 935
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Yang dimaksud den gan " penentuan kelayakan / ke se suaian Lrar ga"
 adalah penentuan kewajaran harga yang mempertimbangkan
 biaya pokok produksi bahan Obat Bahan Alam dari petani.
@@ -26902,20 +26420,17 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
-SK No 227120 A
-Pasal 936. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--t34-
 Pasal 936
 Cukup jelas
+
 Pasal 937
 Cukup jelas
+
 Pasal 938
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Data yang mendukung tata kelola rantai pasok Sediaan Farmasi
@@ -26940,19 +26455,15 @@ g. data riset Alat Kesehatan dari perguruan tinggi/lembaga riset;
 dan
 h. data uji klinik Alat Kesehatan dari data persetujuan
 permohonan uji klinik.
+
 Pasal 939
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-SK No 227121 A
-Ayat (a)
 
-PRESIDEN
-REPUBLIK INDONESIA
--135-
 Ayat (a)
 Huruf a
 Kontribusi dalam ketentuan ini antara lain produksi dan
@@ -26975,26 +26486,29 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 940
 Cukup jelas.
+
 Pasal 94 1
 Cukup jelas.
+
 Pasal942
 Cukup jelas.
+
 Pasal 943
 Cukup jelas.
+
 Pasal 944
 Cukup jelas.
+
 Pasal 945
 Cukup jelas.
+
 Pasal 946
 Cukup jelas.
 Pasa1947...
-SK No 227122 A
 
-FRESIDEN
-REPUBLIK INDONESIA
--136-
 Pasal 947
 Ayat (1)
 Cukup jelas.
@@ -27013,18 +26527,25 @@ Standar yang dipublikasikan oleh organisasi pengembang
 standar lainnya antara lain standar data yang dikembangkan
 organisasi pengembang yang diakui dan digunakan secara
 luas di berbagai negara.
+
 Pasal 948
 Cukup jelas.
+
 Pasal 949
 Cukup jelas.
+
 Pasal 950
 Cukup jelas.
+
 Pasal 951
 Cukup jelas
+
 Pasal 952
 Cukup jelas
+
 Pasal 953
 Cukup jelas
+
 Pasal 954
 Huruf a
 Cukup jelas.
@@ -27034,11 +26555,7 @@ Huruf c
 Yang dimaksud dengan "akurat" adalah ukuran sejauh mana
 suatu data merepresentasikan objek sebenarnya.
 Yang. . .
-SK No 227123 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--L37-
 Yang dimaksud dengan "jelas" adalah kualitas suatu data untuk
 dibaca dan dipahami.
 Yang dimaksud dengan "dapat dipertanggungjawabkan" adalah
@@ -27048,12 +26565,16 @@ Huruf d
 Yang dimaksud dengan "mampu rekam" adalah kompatibilitas
 data untuk dapat direkam atau disimpan pada suatu media
 penyimpanan tertentu.
+
 Pasal 955
 Cukup jelas
+
 Pasal 956
 Cukup jelas
+
 Pasal 957
 Cukup jelas.
+
 Pasal 958
 Ayat (1)
 Huruf a
@@ -27071,14 +26592,9 @@ Huruf f
 Cukup jelas.
 Huruf g
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
-SK No 227124 A
-Ayat(3) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--138-
 Ayat (3)
 Data Kesehatan dan Informasi Kesehatan yang bersumber dari
 instansi Pemerintah Pusat dan Pemerintah Daerah,
@@ -27117,33 +26633,37 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 959
 Ayat (1)
 Data layanan publik antara lain data keuangan negara,
 data administrasi kependudukan, data lalu lintas penduduk, atau
 data terpadu kesejahteraan sosial.
-SK No 227125 A
-Ayat(2) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--139-
-Ayat (21
+Ayat (2) 
 Cukup jelas.
+
 Pasal 960
 Cukup jelas.
+
 Pasal 961
 Cukup jelas.
+
 Pasal 962
 Cukup jelas.
+
 Pasal 963
 Cukup jelas.
+
 Pasal 964
 Cukup jelas
+
 Pasal 965
 Cukup jelas.
+
 Pasal 966
 Cukup jelas.
+
 Pasal 967
 Ayat (1)
 Cukup jelas.
@@ -27164,11 +26684,7 @@ upaya pemeriksaan untuk memastikan tidak terdapat
 duplikasi Data Kesehatan dan lnformasi Kesehatan yang
 telah dikumpulkan.
 Huruf d. . .
-SK No 227126 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--140-
 Huruf d
 Yang dimaksud dengan "menilai aspek konsistensi" adalah
 upaya pemeriksaan untuk memastikan tidak terjadinya
@@ -27185,6 +26701,7 @@ dan Informasi Kesehatan telah sesuai dengan format
 Data Kesehatan dan Informasi Kesehatan yang ditentukan.
 Ayat (3)
 Cukup jelas.
+
 Pasal 968
 Ayat (1)
 Yang dimaksud dengan "perseorangan yang memiliki kompetensi
@@ -27195,8 +26712,10 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 969
 Cukup jelas.
+
 Pasal 970
 Ayat (1)
 Cukup jelas.
@@ -27210,92 +26729,61 @@ Yang dimaksud dengan "portal bagi pakai data bidang
 Kesehatan" adalah portal satu data bidang Kesehatan yang
 dikelola oleh Menteri yang terintegrasi dengan portal satu
 data Indonesia.
-SK No 227127 A
-Ayat(4) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--14rAyat (a)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Pasal 971
-Cukup jelas.
-Pasal 972
-Cukup jelas.
-Pasal 973
-Cukup jelas
-Pasal 974
-Cukup jelas.
-Pasal 975
-Cukup jelas.
-Pasal 976
-Cukup jelas
-Pasal 977
-Ayat (1)
-Data Kesehatan dan Informasi Kesehatan dalam ketentuan ini
-termasuk Data Kesehatan dan Informasi Kesehatan yang
-dimusnahkan.
-Ayat (2)
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat (a)
-Cukup jelas.
-Pasal 978
-Cukup jelas.
-Pasal 979
-Cukup jelas.
-Pasal 980
-Cukup jelas
-SK No 227128 A
-Pasal981...
-
-PRESTDEN
-REPUBLIK INDONESIA
--t42-
 Pasal 98 1
 Cukup jelas
+
 Pasal 982
 Cukup jelas.
+
 Pasal 983
 Cukup jelas.
+
 Pasal 984
 Cukup jelas
+
 Pasal 985
 Cukup jelas.
+
 Pasal 986
 Cukup jelas.
+
 Pasal 987
 Cukup jelas
+
 Pasal 988
 Cukup jelas.
+
 Pasal 989
 Cukup jelas.
+
 Pasal 990
 Cukup jelas
+
 Pasal 991
 Cukup jelas.
+
 Pasal 992
 Cukup jelas
+
 Pasal 993
 Cukup jelas.
+
 Pasal 994
 Cukup jelas
-SK No 227129 A
-Pasal 995. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--t43-
 Pasal 995
 Cukup jelas
+
 Pasal 996
 Cukup jelas
+
 Pasal 997
 Cukup jelas.
+
 Pasal 998
 Cukup jelas.
+
 Pasal 999
 Ayat (1)
 Bahan biologi tersimpan antara lain material biologis beserta data
@@ -27303,6 +26791,7 @@ dan muatan informasi terkait yang disimpan untuk dimanfaatkan
 lebih lanjut di masa depan.
 Ayat (2)
 Cukup jelas.
+
 Pasal 1000
 Huruf a
 Yang dimaksud dengan "menghormati harkat martabat manusia"
@@ -27324,16 +26813,12 @@ Yang dimaksud dengan "berkeadilan" adalah mengacu pada
 kewajiban etik untuk memperlakukan setiap orang sebagai
 pribadi otonom sama dengan moral yang benar dan layak dalam
 memperoleh haknya.
-SK No 227130 A
-Prinsip. . .
 
-FRESIDEN
-REPUBLIK INDONESIA
--t44-
 Prinsip berkeadilan terutama menyangkut keadilan yang merata
 (distributiue justice) yang mensyaratkan pembagian seimbang
 (eqtitable) dalam hal beban dan manfaat yang diperoleh subjek
 dari keikutsertaan dalam penelitian.
+
 Pasal 1OO1
 Ayat (1)
 Cukup jelas.
@@ -27354,22 +26839,22 @@ Ayat (7)
 Cukup jelas.
 Ayat (8)
 Cukup jelas.
+
 Pasal 1002
 Cukup jelas.
+
 Pasal 1OO3
 Cukup jelas.
+
 Pasal 1OO4
 Cukup jelas.
+
 Pasal 1005
 Cukup jelas.
+
 Pasal 1006
 Cukup jelas
-SK No 227131 A
-Pasal 1007. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--145-
 Pasal 1007
 Yang dimaksud dengan "prinsip persetujuan etik penelitian bagi
 sumber bahan biologi tersimpan" adalah pemberian persetujuan etik
@@ -27377,8 +26862,10 @@ untuk bahan biologi tersimpan yang menjadi subjek penelitian
 misalnya mikroorganisme yang ada dalam bahan biologi tersimpan
 yang berasal dari manusia akan mengacu pada prinsip persetujuan
 etik penelitian bagi mikroorganisme.
+
 Pasal 1008
 Cukup jelas
+
 Pasal 1009
 Ayat (1)
 Cukup jelas.
@@ -27392,8 +26879,10 @@ yang memadai sesuai cara uji klinik yang baik antara lain
 posyandu, sekolah, atau balai pertemuan masyarakat.
 Ayat (a)
 Cukup jelas.
+
 Pasal 1010
 Cukup jelas
+
 Pasal 1011
 Ayat (1)
 Yang dimaksud dengan "registrasi uji klinilC adalah pencatatan
@@ -27404,24 +26893,25 @@ Ayat (3)
 Cukup jelas.
 Ayat (a)
 Cukup jelas.
+
 Pasal l0l2
 Cukup jelas.
+
 Pasal 1013
 Cukup jelas.
-SK No 227132 A
-Pasal 1014
 
-PRESIDEN
-REPUBLIK INDONESIA
--t46-
 Pasal 1014
 Cukup jelas.
+
 Pasal 1015
 Cukup jelas.
+
 Pasal 1016
 Cukup jelas.
+
 Pasal lOlT
 Cukup jelas.
+
 Pasal 1018
 Ayat (1)
 Cukup jelas.
@@ -27448,18 +26938,18 @@ Huruf h
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 1019
 Cukup jelas.
+
 Pasal lO2O
 Cukup jelas.
-Pasallo2l...
-SK No 227133 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--t47-
+Pasallo2l...
+
 Pasal LO2l
 Cukup jelas.
+
 Pasal lO22
 Ayat (1)
 Yang dimaksud dengan "pelayanan kedokteran presisi" adalah
@@ -27480,6 +26970,7 @@ Ayat (a)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
+
 Pasal lO23
 Ayat (1)
 Cukup jelas.
@@ -27494,24 +26985,23 @@ muatan informasi, dan data yang merupakan bagian dan milik
 Pasien dan/atau donor yang masih tersimpan.
 Ayat (5)
 Cukup jelas.
+
 Pasal lO24
 Cukup jelas.
+
 Pasal 1025
 Cukup jelas.
-SK No 227134 A
-Pasal1026...
 
-PRESIDEN
-REPUBLIK INDONESIA
--148-
 Pasal 1026
 Cukup jelas.
+
 Pasal lO27
 Cukup jelas.
+
 Pasal lO28
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
@@ -27543,36 +27033,41 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal lO29
 Cukup jelas.
-SK No 227135 A
-Pasal 1030. . .
 
-PRESIDEN
-REPUBLIK INDONESIA
--t49-
 Pasal 1O3O
 Cukup jelas.
+
 Pasal 1031
 Cukup jelas
+
 Pasal lO32
 Cukup jelas
+
 Pasal 1033
 Cukup jelas.
+
 Pasal 1034
 Cukup jelas.
+
 Pasal 1035
 Cukup jelas.
+
 Pasal 1036
 Cukup jelas.
+
 Pasal lO37
 Cukup jelas.
+
 Pasal 1038
 Cukup jelas.
+
 Pasal 1039
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Huruf a
 Yang dimaksud dengan "surveilans" adalah kegiatan
 pengamatan yang sistematis dan terus menerus terhadap
@@ -27587,18 +27082,14 @@ berbasis indikator, surveilans berbasis kejadian, surveilans
 berbasis laboratorium, dan surveilans berbasis masyarakat.
 Huruf b
 Cukup jelas.
-SK No 227136 A
-Huruf c
 
-PRESIDEN
-REPUBLIK INDONESIA
--150-
 Huruf c
 Cukup jelas.
 Huruf d
 Cukup jelas.
 Huruf e
 Cukup jelas.
+
 Pasal 1040
 Ayat (1)
 Cukup jelas.
@@ -27630,17 +27121,15 @@ Huruf d
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 1041
 Cukup jelas.
+
 Pasal IO42
 Ayat (1)
 Cukup jelas
 Ayat(2)...
-SK No 227137 A
 
-PRESIDEN
-REPUBLIK TNDONESIA
--151-
 Ayat (2)
 Cukup jelas.
 Ayat (3)
@@ -27665,10 +27154,13 @@ Huruf f
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
+
 Pasal 1043
 Cukup jelas.
+
 Pasal LO44
 Cukup jelas.
+
 Pasal 1045
 Ayat (1)
 Cukup jelas.
@@ -27680,15 +27172,10 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
-SK No 227138 A
-Ayat(6) ...
 
-PRESIDEN
-REPUBLIK INDONESIA
--L52-
 Ayat (6)
 Cukup jelas.
-Ayat (71
+Ayat (7) 
 Cukup jelas.
 Ayat (8)
 Bibit penyakit antara lain pathogen, bakteri, basil, kuman,
@@ -27709,31 +27196,33 @@ Pelayanan Kesehatan dan ditetapkan oleh pejabat yang
 berwenang.
 Ayat (1a)
 Cukup jelas.
+
 Pasal 1046
 Cukup jelas
+
 Pasal lO47
 Cukup jelas.
+
 Pasal 1048
 Cukup jelas.
+
 Pasal lO49
 Cukup jelas.
+
 Pasal 1050
 Cukup jelas.
+
 Pasal 1051
 Cukup jelas.
+
 Pasal 1052
 Cukup jelas.
-SK No 227139 A
-Pasal1053...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--153-
 Pasal 1053
 Ayat (1)
 Yang dimaksud dengan "alat angkut" adalah kapal, pesawat
 udara, dan kendaraan darat yang digunakan dalam melakukan
-perjalanan sesuai dengan ketentuan peraturan perundangundangan.
+perjalanan sesuai dengan ketentuan peraturan perundang-undangan.
 Orang dalam ketentuan ini antara lain awak atau personel alat
 angkut, penumpang, pelaku perjalanan, dan masyarakat lainnya
 di sekitar pelabuhan, bandar udara, pos lintas batas negara.
@@ -27746,6 +27235,7 @@ kawasan di sekitar wilayah kerja pelabuhan, bandar udara, dan
 pos lintas batas negara.
 Ayat (2)
 Cukup jelas.
+
 Pasal 1054
 Ayat (1)
 Cukup jelas.
@@ -27765,16 +27255,13 @@ lain di tuar zorta karantina yang berada di sekitar pelabuhan,
 bandar udara, dan pos lintas batas negara yang secara
 epidemiologi memungkinkan untuk dilakukan pengawasan
 dan/atau tindakan penanggulangan.
+
 Pasal 1055
 Cukup jelas
+
 Pasal 1056
 Cukup jelas
-SK No 227140 A
-Pasal1057...
 
-PRESIDEN
-BLIK INDONESIA
--154-
 Pasal 1057
 Ayat (1)
 Cukup jelas.
@@ -27789,10 +27276,13 @@ Dokumen persetujuan karantina terbatas dalam hukum
 internasional dikenal dengan sebuta n re sticted pratique.
 Ayat (a)
 Cukup jelas.
+
 Pasal 1058
 Cukup jelas.
+
 Pasal 1059
 Cukup jelas.
+
 Pasal 1060
 Ayat (1)
 Huruf a
@@ -27807,81 +27297,36 @@ Hurrf d
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
+
 Pasal 1061
 Cukup jelas.
+
 Pasal 1062
 Ayat (1)
 Cukup jelas.
-SK No 227141 A
-Ayat(2)...
 
-PRESIDEN
-REPUBLIK INDONESIA
-_155_
-Ayat (21
-Yang dimaksud dengan "terjangkit" adalah kondisi seseorErng
-yang menderita penyakit yang dapat menjadi sumber penular
-penyakit yang berpotensi menyebabkan KLB atau Wabah.
-Yang dimaksud dengan "terpapaf adalah kondisi orang, barang,
-atau alat angkut yang terpajan, terkontaminasi, dalam masa
-inkubasi, insektasi, pestasi, ratisasi, temasuk kimia dan radiasi.
-Ayat (3)
-Cukup jelas.
-Ayat (4)
-Cukup jelas.
-Ayat (5)
-Cukup jelas.
-Ayat (6)
-Yang dimaksud dengan "kartu kewaspadaan Kesehatan" adalah
-kartu dalam bentuk nonelektronik atau elektronik yang memuat
-keterangan yang diberikan kepada pelaku perjalanan dengan
-tujuan untuk memperrnudah pelacakan kasus penyakit.
-Kartu kewaspadaan Kesehatan dalam hukum internasional
-dikenal dengan sebutan health alert card.
-Ayat (71
-Cukup jelas.
-Ayat (8)
-Cukup jelas.
-Ayat (9)
-Cukup jelas.
-Pasal 1063
-Ayat (1)
-Cukup jelas.
-Ayat (2)
-Yang dimaksud dengan "penolakan" adalah tidak
-diikutsertakannya orang tersebut sebagai penumpang dalam alat
-angkut yang akan diberangkatkan.
-Pasal 1064
-Ayat (1)
-Sertifikat vaksinasi internasional dalam hukum internasional
-dikenal dengan sebutan internationat ceftificate of uaccination or
-prophylaxis.
-Ayat (2)
-Cukup jelas.
-Ayat (3)
-Cukup jelas.
-Ayat(41 ...
-SK No 227142 A
-
-PRESIDEN
-REPUBLIK INDONESIA
--156-
 Ayat (a)
 Cukup jelas.
+
 Pasal 1065
 Cukup jelas.
+
 Pasal 1066
 Cukup jelas.
+
 Pasal 1067
 Cukup jelas.
+
 Pasal 1068
 Cukup jelas.
+
 Pasal 1069
 Cukup jelas.
+
 Pasal |OTO
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Tindakan penanggulangan
@@ -27889,26 +27334,26 @@ dekontaminasi, disinseksi,
 alat angkut.
 Ayat (a)
 Cukup jelas.
+
 Pasal IOTL
 Cukup jelas.
+
 Pasal lO72
 Cukup jelas.
+
 Pasal 1073
 Cukup jelas.
+
 Pasal lO74
 Cukup jelas.
+
 Pasal 1075
 Cukup jelas.
 tertentu antara
 disinfeksi, dan
 lain fumigasi,
 deratisasi pada
-SK No 227143 A
-Pasal 1076
 
-PRESIDEN
-IIEPUBLIK INDONESIA
--r57-
 Pasal 1076
 Ayat (1)
 Cukup jelas.
@@ -27933,6 +27378,7 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
+
 Pasal lO77
 Ayat (1)
 Huruf a
@@ -28005,10 +27451,13 @@ REPUBLIK INDONESIA
 -159-
 Pasal IO82
 Cukup jelas.
+
 Pasal 1083
 Cukup jelas.
+
 Pasal 1084
 Cukup jelas.
+
 Pasal 1085
 Ayat (1)
 Huruf a
@@ -28024,30 +27473,34 @@ Wilayah tertentu antara lain kawasan industri dan kawasan
 ekonomi eksklusif.
 Ayat (2)
 Cukup jelas.
+
 Pasal 1086
 Cukup jelas.
+
 Pasal LO87
 Cukup jelas.
+
 Pasal 1088
 Cukup jelas.
+
 Pasal 1089
 Cukup jelas.
+
 Pasal 1O9O
 Cukup jelas.
+
 Pasal 1091
 Cukup jelas.
+
 Pasal LO92
 Cukup jelas.
-SK No 227146 A
-Pasal1093...
 
-PRESIDEN
-REPUBLIK INDONESIA
--160-
 Pasal 1093
 Cukup jelas.
+
 Pasal LO94
 Cukup jelas
+
 Pasal 1095
 Ayat (1)
 Huruf a
@@ -28061,8 +27514,10 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 1096
 Cukup jelas.
+
 Pasal lO97
 Ayat (1)
 Huruf a
@@ -28079,26 +27534,26 @@ Huruf d
 Kendaraan yang ditetapkan oleh Petugas Karantina
 Kesehatan antara lain mobil deteksi radiasi dan mobil
 khusus yang didesain untuk tindakan penanggulangan.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-SK No 227147 A
-Pasal 1098. . .
 
-PRESIDEN
-REPUBLTK INDONESIA
-- 161-
 Pasal 1098
 Cukup jelas.
+
 Pasal 1099
 Cukup jelas.
+
 Pasal 110O
 Cukup jelas.
+
 Pasal 1101
 Cukup jelas.
+
 Pasal lLO2
 Cukup jelas.
+
 Pasal 1103
 Ayat (1)
 Yang dimaksud dengan "pembatasan kegiatan sosial
@@ -28108,28 +27563,31 @@ menjadi sumber penyebaran penyakit, seperti kegiatan
 keagamaan, pesta ralryat, upacara adat, dan hajatan.
 Ayat (2)
 Cukup jelas.
+
 Pasal 1104
 Cukup jelas.
+
 Pasal 1105
 Cukup jelas.
+
 Pasal 1106
 Cukup jelas.
+
 Pasal LLOT
 Cukup jelas.
+
 Pasal 1 108
 Cukup jelas.
+
 Pasal 1 1O9
 Cukup jelas.
+
 Pasal 1 1 10
 Cukup jelas.
-SK No 227148 A
-Pasal 1111
 
-PR,ESIDEN
-REPUBLIK TNDONESIA
--t62-
 Pasal 1111
 Cukup jelas.
+
 Pasal lll2
 Ayat (1)
 Cukup jelas.
@@ -28161,53 +27619,14 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
+
 Pasal 1 I 13
 Cukup jelas.
+
 Pasal 1 1 14
 Ayat (1)
 Cukup jelas.
-SK No 227149 A
-Ayat(2)...
 
-PRESIDEN
-REPUBLIK INDONESIA
-_163_
-Ayat (2)
-Yang dimaksud dengan "tenaga lainnya" adalah tenaga nonKesehatan yang memiliki kompetensi untuk pengelolaan bahan
-penyebab penyakit selain agen biologi, seperti tenaga pengawas
-radiasi.
-Pasal 1 1 15
-Peraturan menteri/peraturan kepala lembaga terkait antara lain
-peraturan menteri yang menyelenggarakan urusan pemerintahan di
-bidang lingkungan hidup untuk batas aman penggunaan bahan kimia
-yang dapat menyebabkan masalah Kesehatan yang berpotensi
-menimbulkan KLB dan Wabah dan peraturan kepala lembaga
-pemerintah nonkementerian yang menyelenggarakan urusan
-pemerintahan di bidang pengawasan ketenaganukliran untuk batas
-aman penggunaan bahan yang mengandung unsur fisika berupa zat
-radioaktif dari instalasi nuklir dan/atau kegiatan yang memanfaatkan
-zat radioaktif yang dapat menyebabkan masalah Kesehatan yang
-berpotensi menimbulkan KLB dan Wabah.
-Pasal 1 1 16
-Cukup jelas.
-Pasal lLlT
-Cukup jelas.
-Pasal 1 1 18
-Cukup jelas.
-Pasal 1 1 19
-Cukup jelas.
-Pasal ll2o
-Cukup jelas.
-Pasal lI2I
-Cukup jelas.
-Pasal lI22
-Cukup jelas.
-SK No 227150 A
-Pasal 1123...
-
-PR,ESIDEN
-REPUBUK INDONESIA
--t64-
 Pasal ll23
 Huruf a
 Yang dimaksud dengan "prinsip kecukupan" adalah pendanaan
@@ -28231,43 +27650,49 @@ Huruf e
 Yang dimaksud dengan "prinsip berkesinambungan" adalah
 pendanaan Kesehatan diselenggarakan secara terus menerus
 untuk mendukung pembangunan Kesehatan dalam rangka
-meningkatkan derajat Kesehatan masyarakat yang setinggitingginya.
+meningkatkan derajat Kesehatan masyarakat yang setinggi-tingginya.
 Huruf f
 Yang dimaksud dengan "prinsip transparan dan akuntabel"
 adalah pendanaan Kesehatan diselenggarakan secara terbuka
 sesuai dengan ketentuan keterbukaan informasi publik dan dapat
 dipertanggungj awabkan.
+
 Pasal ll24
 Cukup jelas.
+
 Pasal ll25
 Cukup jelas.
+
 Pasal Ll26
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
 Ayat(3) ...
-SK No 227151 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--165-
 Ayat (3)
 Jaminan kesehatan lainnya antara lain jaminan kesehatan yang
 diperuntukkan untuk pejabat negara baik di dalam maupun di
 luar negeri.
+
 Pasal ll27
 Cukup jelas.
+
 Pasal ll28
 Cukup jelas
+
 Pasal ll29
 Cukup jelas
+
 Pasal 1130
 Cukup jelas.
+
 Pasal 1131
 Cukup jelas.
+
 Pasal II32
 Cukup jelas.
+
 Pasal 1133
 Ayat (1)
 Cukup jelas.
@@ -28287,14 +27712,10 @@ Ayat (8)
 Masyarakat antara lain badan usaha, filantropi, organisasi
 kemasyarakatan, penyelenggara pendidikan, dan individu
 masyarakat.
+
 Pasal 1 134
 Cukup jelas.
-SK No 227152 A
-Pasal 1135. . .
 
-PRESIDEN
-REPUBLTK TNDONESIA
--166-
 Pasal 1135
 Ayat (1)
 Cukup jelas.
@@ -28331,19 +27752,17 @@ adalah penggalian potensi pendanaan lain di luar pendanaan
 Pemerintah Pusat dan/atau Pemerintah Daerah.
 Ayat (5)
 Cukup jelas.
+
 Pasal 1136
 Cukup jelas.
+
 Pasal ll37
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Cukup jelas.
 Ayat(3) ...
-SK No 227153 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--t67-
 Ayat (3)
 Cukup jelas.
 Ayat (4)
@@ -28384,20 +27803,19 @@ pada tingkat kabupaten/kota dalam satu tahun tertentu
 yang dikenal dengan istilah distict health account.
 Ayat (10)
 Cukup jelas.
+
 Pasal 1138
 Cukup jelas.
-SK No 227154 A
-Pasal 1139...
 
-PRESIDEN
-REPUBLIK TNDONESIA
--168-
 Pasal 1139
 Cukup jelas.
+
 Pasal 1140
 Cukup jelas.
+
 Pasal ll4l
 Cukup jelas.
+
 Pasal ll42
 Ayat (1)
 Yang dimaksud dengan "masyarakat" adalah pihak selain
@@ -28415,10 +27833,11 @@ Huruf c
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
+
 Pasal 1143
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Yang dimaksud dengan "kebijakan pembangunan yang
@@ -28432,12 +27851,9 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
-Pasalll44...
-SK No 227155 A
 
-PRESIDEN
-REPUBLIK INDONESIA
--169-
+Pasalll44...
+
 Pasal Ll44
 Ayat (1)
 Cukup jelas.
@@ -28484,25 +27900,26 @@ Cukup jelas.
 Huruf f
 Cukup jelas.
 Ayat(6) ...
-SK No 227156A
 
-PRESIDEN
-REPUBLIK INDONESIA
--170-
 Ayat (6)
 Cukup jelas
+
 Pasal 1 145
 Cukup jelas
+
 Pasal 1146
 Cukup jelas
+
 Pasal ll47
 Cukup jelas.
+
 Pasal 1148
 Cukup jelas.
+
 Pasal ll49
 Ayat (1)
 Cukup jelas.
-Ayat (21
+Ayat (2) 
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
@@ -28517,12 +27934,14 @@ oleh pejabat yang berwenang sesuai dengan ketentuan peraturan
 perundang-undangan.
 Ayat (6)
 Cukup jelas.
-Ayat (71
+Ayat (7) 
 Cukup jelas.
 Ayat (8)
 Cukup jelas.
+
 Pasal 1150
 Cukup jelas
+
 Pasal 1 151
 Cukup jelas.
 SK No 227157 A
@@ -28568,14 +27987,19 @@ REPUBLIK INDONESIA
 -172-
 Pasal 1167
 Cukup jelas.
+
 Pasal 1168
 Cukup jelas.
+
 Pasal 1 169
 Cukup jelas.
+
 Pasal IITO
 Cukup jelas.
+
 Pasal llTl
 Cukup jelas.
+
 Pasal ll72
 Cukup jelas.
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6952
