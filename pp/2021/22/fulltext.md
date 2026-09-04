@@ -3108,8 +3108,6 @@ d. persyari.rtan Lingkungan Hidup; dan
 e. kewajiban pemenuhan standar dan./atau rirrcian teknis l'envimpanan Lrmbah 83.
 (5) Tata cara pengintegrasiarr slandar Penyimpanan Limbah B3 terhaclap nomor induk berusaha sebelgaimana dima,ksuC pada ayat (3) hr.rruf a dilaksanakan sesuai dengan ketentuan pera.Luren perundang-undangan.
 
-
-
 Pasal 286
 'iempat Penyimpanan Linrbah 83 sebagaimana dinlaksud dalam Pasal'285 ayat (4) huruf b harus rnemenuhi persyararan:
 a. lokasj Penv'inrpanan Lirnbah R3;
@@ -5187,7 +5185,6 @@ d. 1)erS|&rs1: ari fasilitas pcnirnbunsn Limbah nonB3 dan tat_a cara penlrttruna
 e. Penanggulangan Penc.m.at'an Lingkungan Hidup danf atans Kcrusakan Lingkungan Hiciup dan pernulihan lungsi Lingku,rrgan l{idup sel-ragaimana rlimaksud daiar. Pasar 4'-oE; dan
 i. tata cara peiaporan kegiatan pengelolaan Limbah nonB3 sebagaimana d.imaksud daiarn Pasal +59,
 diatur dalam Peraturan Menteri.
-
 
 BAB VIII
 DANA PENJAMINAN UNTUK PEMULIHAN FUNGSI LINGKUNGAN HIDUP
