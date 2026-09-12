@@ -2,39 +2,36 @@ PERATURAN PEMERINTAH REPUBLIK INDONESIA
 NOMOR 26 TAHUN 2026
 TENTANG
 PENGADAAN KHUSUS PEGAWAI NEGERI SIPIL DOSEN DARI
-PEGAWAI PEMERINTAH DENGAN PERJANJIAN KER.'A DOSEN
+PEGAWAI PEMERINTAH DENGAN PERJANJIAN KERJA DOSEN
 DI LINGKUNGAN INSTANSI PEMERINTAH
+
 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
 PRESIDEN REPUBLIK INDONESIA,
-Menimbang a. bahwa dosen merupakan tenaga profesional dan
+
+Menimbang :
+a. bahwa dosen merupakan tenaga profesional dan
 ilmuwan yang memiliki fungsi strategis dalam
 pelaksanaan tridharma perguruan tinggi sebagaimana
-diatur dalam Undang-Undang Nomor 14 Tahun 20O5
+diatur dalam Undang-Undang Nomor 14 Tahun 2005
 tentang Guru dan Dosen dan Undang-Undang
-Nomor 12 Tahun 2012 tentang Pendidikan Tinggr,
+Nomor 12 Tahun 2012 tentang Pendidikan Tinggi,
 sehingga diperlukan kepastian status dan
 pengembangan karier yang menjamin profesionatitas
 dan keberlanjutan;
 b. bahwa perguruan tinggi negeri mengalami kekurangan
-formasi dosen yang signifrkan, sehingga
-pada pemenuhan standar nasional pendidikan tinggi,
-rasio dosen dan mahasiswa, serta akreditasi program
-studi, sehingga diperlukan kebijakan strategis untuk
+formasi dosen yang signifikan, sehingga pada pemenuhan
+standar nasional pendidikan tinggi, rasio dosen dan
+mahasiswa, serta akreditasi program studi, sehingga
+diperlukan kebijakan strategis untuk
 mengatasinya;
-bahwa Pegawai Pemerintah dengan Perjanjian Kerja
+c. bahwa Pegawai Pemerintah dengan Perjanjian Kerja
 Dosen telah direkrut melalui seleksi berbasis
-kompetensi dan kualifikasi sesuai dengan ketentuan peraturan perundang-undangan, sehingga pada
+kompetensi dan kualifikasi sesuai dengan ketentuan
+peraturan perundang-undangan, sehingga pada
 prinsipnya telah memenuhi standar kompetensi
 jabatan dosen aparatur sipil negara;
-c
-d. bahwa. . .
-SK No2934llA
-
-d
-PRESIDEN
-REPUBUK INDONESI,A
--2
-bahwa pengangkatan Pegawai Pemerintah dengan
+d. bahwa pengangkatan Pegawai Pemerintah dengan
 Perjanjian Kerja Dosen menjadi Pegawai Negeri Sipil
 Dosen dilaksanakan dalam kerangka sistem merit
 sebagaimana diatur dalam Undang-Undang Nomor 20
@@ -45,104 +42,95 @@ kepastian hukum, serta kebijakan ini tidak
 bertentangan dengan prinsip profesionalitas dosen,
 sistem karier jabatan fungsional, serta tata kelola
 pendidikan tinggi;
-bahwa kebijakan pengangkatan Pegawai Pemerintah
+e. bahwa kebijakan pengangkatan Pegawai Pemerintah
 dengan Perjanjian Kerja Dosen menjadi Pegawai Negeri
 Sipil Dosen yang ditetapkan pengaturannya dengan
 Peraturan Pemerintah didasarkan dalam kerangka
-keselarasan dan kejelasan instrumen hukum pelaksanaan undang-undang sebagaimana
-diamanatkan dalam peraturan perundang-undangan
-di bidang pembentukan peraturan perundang-undangan;
-bahwa berdasarkan pertimbangan sebagaimana
+keselarasan dan kejelasan instrumen hukum pelaksanaan
+undang-undang sebagaimana diamanatkan dalam peraturan
+perundang-undangan di bidang pembentukan peraturan
+perundang-undangan;
+f. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, huruf b, huruf c, huruf d,
 dan huruf e, perlu menetapkan Peraturan Pemerintah
 tentang Pengadaan Khusus Pegawai Negeri Sipil Dosen
 dari Pegawai Pemerintah dengan Perjanjian Kerja
 Dosen di Lingkungan Instansi Pemerintah;
-Pasal 5 ayat (2) Undang-Undang Dasar Negara
+
+Mengingat :
+1. Pasal 5 ayat (2) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
-Undang-Undang Nomor 14 Tahun 2O05 tentang Guru
+2. Undang-Undang Nomor 14 Tahun 2O05 tentang Guru
 dan Dosen (Lembaran Negara Republik Indonesia
 Tahun 2OO5 Nomor 157, Tambahan lembaran Negara
 Republik Indonesia Nomor 4586);
-Undang-Undang Nomor 12 Tah;un 2Ol2 tentang
+3. Undang-Undang Nomor 12 Tah;un 2Ol2 tentang
 Pendidikan Tinggi (kmbaran Negara Republik
 Indonesia Tahun 2Ol2 Nomor 158, Tambahan
 Lembaran Negara Republik Indonesia Nomor 5336);
-Undd.ng-Undang Nomor 2O Tahun 2023 tentang
+4. Undang-Undang Nomor 20 Tahun 2023 tentang
 Aparatur Sipil Negara (Lembaran Negara Republik
-Indonesia Tahun 2023 Nomor L4l, Tambahan
+Indonesia Tahun 2023 Nomor 141, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6897);
-e
-f.
-Mengingat 1
-2
-3
-4
-SK No293416A
-MEMUTUSKAN: ...
 
-PRESIOEN
-REPUBLIK INDONESI,A
-3-
-Menetapkan
 MEMUTUSKAN:
+Menetapkan :
 PERATURAN PEMERINTAH TENTANG PENGADAAN
 KHUSUS PEGAWAI NEGERI SIPIL DOSEN DARI PEGAWAI
-PEMERINTAH DENGAN PERJANJIAN KER.IA DOSEN
+PEMERINTAH DENGAN PERJANJIAN KERJA DOSEN
 DI LINGKUNGAN INSTANSI PEMERINTAH.
+
 BAB I
 KETENTUAN UMUM
-Pasal I
-Dalam Peraturan Pemerintah ini yang dimaksud dengan:
-1. Pegawai Aparatur Sipil Negara yang selanjutnya disebut
-Pegawai ASN adalah Pegawai Negeri Sipil dan Pegawai
-Pemerintah dengan Perjanjian Kerja yang diangkat oleh
-pejabat pembina kepegawaian dan diserahi tugas dalam
-suatu jabatan pemerintahan atau diserahi tugas negara
-lainnya dan diberikan penghasilan berdasarkan
-peraturan perundang-undangan.
-2. Pegawai Negeri Sipil yang selanjutnya disingkat PNS
-adalah warga negara Indonesia yang memenuhi syarat
-tertentu, diangkat sebagai Pegawai ASN secara tetap oleh
-pejabat pembina kepegau'aian untuk menduduki jabata-n
-pemeriniahan.
-3. Pegawai Pemerintah dengan Perjanjian Kerja yang
-selanjutnya disingkat PPPK adalah warga negara
-Indonesia yang memenuhi syarat tertentu, yang diangkat
-berdasarkan perjanjian kerja untuk jangka waktu
-tertentu dalam rangka melaksanakan tugas
-pemerintahan dan/aau menduduki jabatan
-pemer-{ntahan.
-4. Jabatan adalah kedudtrkan yang menunjukkan fungsi,
-tugas, tanggung jawab, wewenang, dan hak seorang
-Pegawai ASN dalam suatu satuan organisasi.
-5. Dosen adalah pendidik profesional dan ilmuwan dengan
-tugas utama mentransformasikan, mengembangkan,
-dan menyebarluaskan ilmu pengetahuan, teknologi, dan
-seni melalui pendidikan, penelitian, dan pengabdian
-kepada masyarakat.
-6.Pengadaan...
-SK No293l7lA
 
-REPUBLIK INDONESI,A
--4-
-6. Pengadaan Khusus PNS Dosen adalah kegiatan untuk
-mengisi kebutuhan PNS Dosen dari PPPK Dosen
-di lingkungan instansi pemerintah.
+Pasal 1
+Dalam Peraturan Pemerintah ini yang dimaksud dengan:
+  1. Pegawai Aparatur Sipil Negara yang selanjutnya disebut
+  Pegawai ASN adalah Pegawai Negeri Sipil dan Pegawai
+  Pemerintah dengan Perjanjian Kerja yang diangkat oleh
+  pejabat pembina kepegawaian dan diserahi tugas dalam
+  suatu jabatan pemerintahan atau diserahi tugas negara
+  lainnya dan diberikan penghasilan berdasarkan
+  peraturan perundang-undangan.
+  2. Pegawai Negeri Sipil yang selanjutnya disingkat PNS
+  adalah warga negara Indonesia yang memenuhi syarat
+  tertentu, diangkat sebagai Pegawai ASN secara tetap oleh
+  pejabat pembina kepegau'aian untuk menduduki jabata-n
+  pemeriniahan.
+  3. Pegawai Pemerintah dengan Perjanjian Kerja yang
+  selanjutnya disingkat PPPK adalah warga negara
+  Indonesia yang memenuhi syarat tertentu, yang diangkat
+  berdasarkan perjanjian kerja untuk jangka waktu
+  tertentu dalam rangka melaksanakan tugas
+  pemerintahan dan/aau menduduki jabatan
+  pemerintahan.
+  4. Jabatan adalah kedudtrkan yang menunjukkan fungsi,
+  tugas, tanggung jawab, wewenang, dan hak seorang
+  Pegawai ASN dalam suatu satuan organisasi.
+  5. Dosen adalah pendidik profesional dan ilmuwan dengan
+  tugas utama mentransformasikan, mengembangkan,
+  dan menyebarluaskan ilmu pengetahuan, teknologi, dan
+  seni melalui pendidikan, penelitian, dan pengabdian
+  kepada masyarakat.
+  6. Pengadaan Khusus PNS Dosen adalah kegiatan untuk
+  mengisi kebutuhan PNS Dosen dari PPPK Dosen
+  di lingkungan instansi pemerintah.
+
 Pasal 2
 Ruang lingkup Peraturan Pemerintah ini meliputi Pengadaan
 Khusus PNS Dosen dari PPPK Dosen di lingkungan instansi
-pemerintah b"g':
-a. perguruan tinggi negeri di lingkungan kementerian yang
-menyelenggarakan suburusan pemerintalran pendidikan
-tingg yang merupakan linglup urusan pemerintahan
-di bidang pendidikan dan urusan pemerintahan di bidang
-ilmu pengetahuan dan teknologi;
-b. perguruan tings negeri keagamaan di lingkungan
-kementerian yang menyelenggarakan urusan
-pemerintahan di bidang agama; dan
-c. perguruan tinggi negeri di lingkungan kementerian
-dan/ atau lembag:.
+pemerintah bagi:
+  a. perguruan tinggi negeri di lingkungan kementerian yang
+  menyelenggarakan suburusan pemerintalran pendidikan
+  tingg yang merupakan linglup urusan pemerintahan
+  di bidang pendidikan dan urusan pemerintahan di bidang
+  ilmu pengetahuan dan teknologi;
+  b. perguruan tings negeri keagamaan di lingkungan
+  kementerian yang menyelenggarakan urusan
+  pemerintahan di bidang agama; dan
+  c. perguruan tinggi negeri di lingkungan kementerian
+  dan/atau lembaga.
+
 Pasal 3
 (1) PPPK Dosen di lingkungan instansi pemerintah yang
 memenuhi kriteria dan persyaratan dapat mengikuti
@@ -150,107 +138,95 @@ Pengadaan Khusus PNS Dosen.
 (2) Pengadaan Khusus PNS Dosen dari PPPK Dosen
 di lingkungan instansi pemerintah dikoordinasikan
 oleh:
-a. menteri yang menyelenggarakan suburusan
-pemerintahan pendidikan tinggi yang merupakan
-lingkup urusan pemerintahan di bidang pendidikan
-dan urusan pemerintahan di bidang ilmu
-pengetahuan dan teknologi;
-b. mcnteri yang menyelenggarakan urusan
-pemerintahan di bidang aparatur negara dan
-suburusan pemerintahan reformasi birokrasi yang
-merupakan lingkup urusan pemerintahan di bidang
-aparatur negara;
-c.merrteri...
-SK No293172A
-
-P
-tN
-c
--5-
-menteri yang urusan
-pemerintahan di bidang keuangan; dan
-d. kepala lembaga pemerintah nonkementerian yang
-diberi kewenangan perumusan dan penetapan
-kebijakan teknis, pembinaan, penyelenggaraan
-pelayanan, pengendalian atas pelaksanaan
-kebijakan teknis manajemen aparatur sipil negara,
-dan pelaksanaan pengawasan penerapan sistem
-merit,
+  a. menteri yang menyelenggarakan suburusan
+  pemerintahan pendidikan tinggi yang merupakan
+  lingkup urusan pemerintahan di bidang pendidikan
+  dan urusan pemerintahan di bidang ilmu
+  pengetahuan dan teknologi;
+  b. menteri yang menyelenggarakan urusan
+  pemerintahan di bidang aparatur negara dan
+  suburusan pemerintahan reformasi birokrasi yang
+  merupakan lingkup urusan pemerintahan di bidang
+  aparatur negara;
+  c. menteri yang menyelenggarakan urusan
+  pemerintahan di bidang keuangan; dan
+  d. kepala lembaga pemerintah nonkementerian yang
+  diberi kewenangan perumusan dan penetapan
+  kebijakan teknis, pembinaan, penyelenggaraan
+  pelayanan, pengendalian atas pelaksanaan
+  kebijakan teknis manajemen aparatur sipil negara,
+  dan pelaksanaan pengawasan penerapan sistem
+  merit,
 sesuai dengan tugas dan fungsinya.
+
 BAB II
 KRITERIA DAN PERSYARATAN
+
 Pasal 4
 Kriteria PPPK Dosen yang dapat mengikuti Pengadaan
 Khusus PNS Dosen sebagaimana dimaksud dalam Pasal 3
-ayat (l) merupakan PPPK Dosen yang diangkat sampai
+ayat (1) merupakan PPPK Dosen yang diangkat sampai
 dengan tahun 2O25.
+
 Pasal 5
 PPPK Dosen yang dapat mengikuti tahapan Pengadaan
 Khusus PNS Dosen sebagaimana dimaksud dalam Pasal 3
 ayat (1) harus memenuhi syarat sebagai berikut:
-a. memiliki keputusan pengangkatan
-"slagai PPPK Dosen;
-b. berusia paling tinggi 1 (satu) tahun sebelum batas usia
-pensiun Jabatan Dosen pada saat melamar;
-c. memiliki surat keterangan sehat jasmani dan rohani;
-d. memiliki surat keterangan tidak mengonsumsi atau
-menggunakan narkotika, psikotropika, prekursor, dan
-zat adiktif lainnya;
-e. tidak pernah dipidana dengan pidana penjara
-berdasarkan putusan pengadilan yang sudah
-mempunyai kekuatan hukum tetap karena melakukan
-tindak pidana dengan prdana penjara 2 (dua) tahun atau
-lebih;
-SK No293l73A
-f. tidak
+  a. memiliki keputusan pengangkatan
+  sebagai PPPK Dosen;
+  b. berusia paling tinggi 1 (satu) tahun sebelum batas usia
+  pensiun Jabatan Dosen pada saat melamar;
+  c. memiliki surat keterangan sehat jasmani dan rohani;
+  d. memiliki surat keterangan tidak mengonsumsi atau
+  menggunakan narkotika, psikotropika, prekursor, dan
+  zat adiktif lainnya;
+  e. tidak pernah dipidana dengan pidana penjara
+  berdasarkan putusan pengadilan yang sudah
+  mempunyai kekuatan hukum tetap karena melakukan
+  tindak pidana dengan prdana penjara 2 (dua) tahun atau
+  lebih;
+  f. tidak pernah diberhentikan dengan hormat tidak atas
+  permintaan sendiri atau tidak dengan hormat sebagai
+  PNS;
+  g. tidak menjadi anggota atau pengurus partai politik atau
+  terlibat politik praktis;
+  h. bersedia ditempatkan di seluruh wilayah Negara
+  Kesatuan Republik Indonesia atau negara lain yang
+  ditentukan oleh instansi pemerintah; dan
+  i. persyaratan lain sesuai kebutuhan Jabatan yang
+  ditetapkan oleh menteri yang menyelenggarakan
+  suburusan pemerintahan pendidikan tinggi yang
+  merupakan lingkup urusan pemerintahan di bidang
+  pendidikan dan urusan pemerintahan di bidang ilmu
+  pengetahuan dan teknologi.
 
-EIIIrNDEIItrSJA
--6-
-f. tidak pernah diberhentikan dengan hormat tidak atas
-permintaan sendiri atau tidak dengan hormat sebagai
-PNS;
-g. tidak menjadi anggota atau pengurus partai politik atau
-terlibat politik praktis;
-h. bersedia ditempatkan di seluruh wilayah Negara
-Kesatuan Republik Indonesia atau negara lain yang
-ditentukan oleh instansi pemerintah; dan
-i. persyaratan lain sesuai kebutuhan Jabatan yang
-ditetapkan oleh menteri yang
-suburusan pemerintahan pendidikan tinggi yang
-merupakan lingkup urusan pemerintahan di bidang
-pendidikan dan urusan pemerintahan di bidang ilmu
-pengetahuan dan teknologi.
 BAB III
-MEKANISME PENGADAAN KH'JSUS
+MEKANISME PENGADAAN KHUSUS
+
 Pasal 6
-(l) Kementerian/lembaga yang terdapat PPPK Dosen dan
+(1) Kementerian/lembaga yang terdapat PPPK Dosen dan
 mengikuti Pengadaan Khusus PNS Dosen berkoordinasi
-dengan menteri yang menyelenggarakan suburusan
-pemerintahan pendidikan tinggi yang merupakan
-lingkup urusan pemerintahan di bidang pendidikan dan
-urusan pemerintahan di bidang ilmu pengetahuan dan
-teknologi.
+  dengan menteri yang menyelenggarakan suburusan
+  pemerintahan pendidikan tinggi yang merupakan
+  lingkup urusan pemerintahan di bidang pendidikan dan
+  urusan pemerintahan di bidang ilmu pengetahuan dan
+  teknologi.
 (2) Koordinasi sebagaimana dimaksud pada ayat (1)
-meliputi:
-a. identilikasi jumlah dan jenjang Jabatan PPPK Dosen;
-b. verifikasi dan validasi jumlah dan jenjang Jabatan
-PPPK Dosen; dan
-c. pelaksanaan seleksi.
+  meliputi:
+  a. identifikasi jumlah dan jenjang Jabatan PPPK Dosen;
+  b. verifikasi dan validasi jumlah dan jenjang Jabatan
+  PPPK Dosen; dan
+  c. pelaksanaan seleksi.
+
 Pasal 7
 (1) Pengadaan Khusus PNS Dosen dilakukan melalui
-tahapan:
-SK No293l74A
-a. perencanaan . . .
-
-PRESIDEN
-REPUBLIK INDONESI,A
--7 -
-a. perencanaan;
-b. pengumuman;
-c. pelamaran;
-d. seleksi;
-e. pengumuman hasil seleksi; dan
-f. pengangkatan.
+  tahapan:
+  a. perencanaan;
+  b. pengumuman;
+  c. pelamaran;
+  d. seleksi;
+  e. pengumuman hasil seleksi; dan
+  f. pengangkatan.
 (2) Pelaksanaan pengadaan sebagaimana dimaksud pada
 ayat (1) dilaksanakan oleh instansi pemerintah setelah
 mendapatkan penetapan kebutuhan Jabatan PNS
@@ -260,131 +236,115 @@ pemerintahan reformasi birokrasi yang merupakan
 lingkup urusan pemerintahan di bidang aparatur negara
 berdasarkan usulan pejabat pembina kepegawaian
 di lingkungan instansi pemerintah.
+
 Pasal 8
 (1) Menteri yang menyelenggarakan suburusan
 pemerintahan pendidikan tinggi yang merupakan
 lingkup urusan pemerintahan di bidang pendidikan dan
-urusan pemerintahan di btdang ilmu pengetahuan dan
+urusan pemerintahan di bidang ilmu pengetahuan dan
 teknologi menyusun pedoman Pengadaan Khusus PNS
 Dosen.
 (2) Pedoman sebagaimana dimaksud pada ayat (1) paling
 sedikit memuat:
-a. persyaratan Jabatan;
-b. persyaratanpelamar;
-c. jenis tes;
-d. pokok substansi yang .dinilai pada setiap jenis tes
-dan kriteria penilaiannya;
-e. kompetensi penguji/lembaga penguji pada setiap
-jenis tes;
-f. bobot penilaian setiap jenis tes;
-SK No293175A
-g.sifat...
-
-EIII=FII'I=N
-tN
--8-
-g. sifat setiap jenis tes yang menggugurkan atau trdak
-menggugurkan; dan
-h. formulir atau aplikasi resmi yang dipergunakan
-untuk tes dan/ atau penilaian.
+  a. persyaratan Jabatan;
+  b. persyaratanpelamar;
+  c. jenis tes;
+  d. pokok substansi yang dinilai pada setiap jenis tes
+  dan kriteria penilaiannya;
+  e. kompetensi penguji/lembaga penguji pada setiap
+  jenis tes;
+  f. bobot penilaian setiap jenis tes;
+  g. sifat setiap jenis tes yang menggugurkan atau tidak
+  menggugurkan; dan
+  h. formulir atau aplikasi resmi yang dipergunakan
+  untuk tes dan/ atau penilaian.
 (3) Pedoman sebagaimana dimaksud pada ayat (1)
 disampaikan kepada menteri yang menyelenggarakan
 urusan pemerintahan di bidang aparatur negara dan
 suburusan pemerintahan reformasi birokrasi yang
 merupakan lingkup urusan pemerintahan di bidang
-aparatur negara untuk mendapatkan persetqiuan.
+aparatur negara untuk mendapatkan persetujuan.
+
 Pasal 9
-(l) Perencanaan Pengadaan Khusus PNS Dosen
-sebagaimana dimaksud dalam Pasal 7 ayal (ll huruf a
+(1) Perencanaan Pengadaan Khusus PNS Dosen
+sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf a
 meliputi:
-a. penJrusunan kebutuhan; dan
-b. pembentukan panitia seleksi.
+  a. penyusunan kebutuhan; dan
+  b. pembentukan panitia seleksi.
 (2) Penyusunan kebutuhan sebagaimana dimaksud pada
 ayat (1) huruf a ditetapkan sesuai dengan PPPK Dosen
 yang telah diangkat sebagaimana dimaksud dalam
 Pasal 4 pada jenjang Jabatan fungsional dan Jabatan
 akademik Dosen.
 (3) Pengadaan Khusus PNS Dosen dilakukan oleh:
-a. panitia seleksi nasional; dan
-b. panitia seleksi instansi.
+  a. panitia seleksi nasional; dan
+  b. panitia seleksi instansi.
 (4) Dalam rangka menjamin objektivitas Pengadaan Khusus
-PNS D<lsen secara nasional, menteri yang
+PNS Dosen secara nasional, menteri yang
 menyelenggarakan urusan pemerintahan di bidang
 aparatur negara dan suburusan pemerintahan
-reforrrrasi birokrasi yang merupakan lingkup urusan
+reformasi birokrasi yang merupakan lingkup urusan
 pemerintahan di bidang aparatur negara membentuk
 panitia seleksi nasional Pengadaan Khusus PNS Dosen.
-(5) Panitia seleksi nasionai Pengadaan Khusus PNS Dosen
+(5) Panitia seleksi nasional Pengadaan Khusus PNS Dosen
 sebagaimana dimaksud pada ayat (4) diketuai oleh
 kepala lembaga pemerintah nonkementerian yang diberi
-kewenangan perumusan dan penetapan kebljakan
-teknis, pembinaaa, penyelenggaraan pelayanan,
-pengendalian atas pelaksanaan kebijakan teknis
-manajemen aparatur sipil negara, dan pelaksanaan
-pengawasan penerapan sistem merit.
-(6) Panitia...
-SK No293176A
-
-':t
-REPUBLIK INDONESI,A
--9 -
-(6) Panitia seleksi nasional Pengadaan Khusus PNS Dosen
-sebagaimana dimaksud pada ayat (3) huruf a terdiri atas
-unsur:
-a. kementerian yang menyelenggarakan urusan
-pemerintahan di bidang aparatur negara dan
-suburusan pemerintahan reformasi birokrasi yang
-merupakari lingkup urusan pemerintahan di bidang
-aparatur negara;
-b. kementerian yang menyelenggarakan suburusan
-pemerintahan pendidikan tinggi yang merupakan
-lingkup urusan pemerintahan di bidang pendidikan
-dan urusan pemerintahan di bidang ilmu
-pengetahuan dan teknologi;
-c. kementerian yang menyelenggarakan urusan
-pemerintahan di bidang keuangan;
-d. lembaga pemerintah nonkementerian yang diberi
-kewenangan perlrmusan dan penetapan kebijakan
+kewenangan perumusan dan penetapan kebijakan
 teknis, pembinaan, penyelenggaraan pelayanan,
 pengendalian atas pelaksanaan kebijakan teknis
 manajemen aparatur sipil negara, dan pelaksanaan
-pengawasan penerapan sistem merit;
-e. badan yang menyelenggarakan urusan
-pemerintahan di bidang pengawasan keuangan
-negara/daerah dan pembangunan nasional;
-dan/atau
-f. kementerian atau lembaga terkait.
+pengawasan penerapan sistem merit.
+(6) Panitia seleksi nasional Pengadaan Khusus PNS Dosen
+sebagaimana dimaksud pada ayat (3) huruf a terdiri atas
+unsur:
+  a. kementerian yang menyelenggarakan urusan
+  pemerintahan di bidang aparatur negara dan
+  suburusan pemerintahan reformasi birokrasi yang
+  merupakari lingkup urusan pemerintahan di bidang
+  aparatur negara;
+  b. kementerian yang menyelenggarakan suburusan
+  pemerintahan pendidikan tinggi yang merupakan
+  lingkup urusan pemerintahan di bidang pendidikan
+  dan urusan pemerintahan di bidang ilmu
+  pengetahuan dan teknologi;
+  c. kementerian yang menyelenggarakan urusan
+  pemerintahan di bidang keuangan;
+  d. lembaga pemerintah nonkementerian yang diberi
+  kewenangan perlrmusan dan penetapan kebijakan
+  teknis, pembinaan, penyelenggaraan pelayanan,
+  pengendalian atas pelaksanaan kebijakan teknis
+  manajemen aparatur sipil negara, dan pelaksanaan
+  pengawasan penerapan sistem merit;
+  e. badan yang menyelenggarakan urusan
+  pemerintahan di bidang pengawasan keuangan
+  negara/daerah dan pembangunan nasional;
+  dan/atau
+  f. kementerian atau lembaga terkait.
 (7) Panitia seleksi nasional Pengadaan Khusus PNS Dosen
 sebagaimana dimaksud pada ayat (3) huruf a
 mempunyai tugas:
-a. mendesain sistem seleksi Pengadaan Khusus PNS
-Dosen;
-b. menyusun soal seleksi kompetensi dasar dan soal
-seleksi kompetensi bidang;
-c. merekomendasikan kepada menteri yang
-menyelenggarakan urusan pemerintahan di bidang
-aparatur negara dan suburusan pemerintahan
-reformasi birokrasi yang mempakan lingkup urusan
-pemerintahan di bidang aparatur negara tentang
-kelulusan seleksi kompetensi dasar dan seleksi
-kompetensi bidang;
-d. melaksanakan . . .
-SK No293177A
-
-n
-IN
-- 10-
-d. melaksanakan seleksi kompetensi dasar dan seleksi
-kompetensi bidang;
-e. mengolah hasil seleksi kompetensi dasar dan hasil
-seleksi kompetensi bidang;
-f. mengawasi pelaksanaan seleksi kompetensi dasar
-dan seleksi kompetensi bidang; dan
-g. menetapkan dan menyampaikan hasil seleksi
-kompetensi dasar dan hasil seleksi kompetensi
-bidang serta mengintegrasikan hasil seleksi
-kompetensi dasar dan hasil seleksi kompetensi
-bidang.
+  a. mendesain sistem seleksi Pengadaan Khusus PNS
+  Dosen;
+  b. menyusun soal seleksi kompetensi dasar dan soal
+  seleksi kompetensi bidang;
+  c. merekomendasikan kepada menteri yang
+  menyelenggarakan urusan pemerintahan di bidang
+  aparatur negara dan suburusan pemerintahan
+  reformasi birokrasi yang mempakan lingkup urusan
+  pemerintahan di bidang aparatur negara tentang
+  kelulusan seleksi kompetensi dasar dan seleksi
+  kompetensi bidang;
+  d. melaksanakan seleksi kompetensi dasar dan seleksi
+  kompetensi bidang;
+  e. mengolah hasil seleksi kompetensi dasar dan hasil
+  seleksi kompetensi bidang;
+  f. mengawasi pelaksanaan seleksi kompetensi dasar
+  dan seleksi kompetensi bidang; dan
+  g. menetapkan dan menyampaikan hasil seleksi
+  kompetensi dasar dan hasil seleksi kompetensi
+  bidang serta mengintegrasikan hasil seleksi
+  kompetensi dasar dan hasil seleksi kompetensi
+  bidang.
 (8) Ketentuan lebih lanjut mengenai kriteria kelulusan
 sebagaimana dimaksud pada ayat (7) huruf c ditetapkan
 oleh menteri yang menyelenggarakan urusan
@@ -395,25 +355,22 @@ negara.
 (9) Panitia seleksi instansi sebagaimana dimaksud pada
 ayat (3) huruf b ditetapkan oleh pejabat pembina
 kepegawaian.
-Pasal 1O
+
+Pasal 10
 Pengumuman sebagaimana dimaksud dalam Pasal 7
 ayat (1) huruf b dilakukan oleh panitia seleksi instansi.
-Pelamaran sslagaimana dimaksud dalam Pasal 7 ayat (l)
+
+Pasal 11
+Pelamaran sslagaimana dimaksud dalam Pasal 7 ayat (1)
 huruf c dilakukan secara elektronik melalui sistem
 informasi Pengadaan Khusus PNS Dosen.
-Pasal 11
-Pasal 12
-(l) Seleksi sebagaimana dimaksud dalam Pasal 7 ayal (ll
-huruf d terdiri atas:
-a. seleksi administrasi;
-b. seleksi kompetensi dasar: dan
-c. seleksi kompetensi bidang.
-SK No293l78A
-(2) Seleksi...
 
-EII{=FIIItril
-tN
-- 11-
+Pasal 12
+(1) Seleksi sebagaimana dimaksud dalam Pasal 7 ayal (1)
+huruf d terdiri atas:
+  a. seleksi administrasi;
+  b. seleksi kompetensi dasar; dan
+  c. seleksi kompetensi bidang.
 (2) Seleksi administrasi sebagaimana dimaksud pada
 ayat (1) huruf a dilakukan untuk memeriksa kesesuaian
 persyaratan administrasi dan kualifikasi dengan
@@ -430,8 +387,9 @@ penyelenggaraan pelayanan, pengendalian atas
 pelaksanaan kebijakan teknis manajemen aparatur sipil
 negara, dan pelaksanaan pengawasan peneraparr sistem
 merit.
+
 Pasal 13
-(l) Pengumuman hasil seleksi sebagaimana dimaksud
+(1) Pengumuman hasil seleksi sebagaimana dimaksud
 dalam Pasal 7 ayat (1) huruf e berdasarkan pengolahan
 nilai yang dilaksanakan oleh lembaga pemerintah
 nonkementerian yang diberi kewenangan perlrmusan
@@ -444,17 +402,12 @@ merit.
 dasar dan nilai seleksi kompetensi bidang disampaikan
 kepada ketua panitia seleksi irrstansi, untuk selanjutnya
 diumumkan sebagai dasar penetapan kelulusan akhir.
+
 Pasal 14
 (1) PPPK Dosen yang telah lulus seleksi Pengadaan Khusus
 PNS Dosen sebagaimana dimaksud dalam Pasal 13
 diangkat menjadi PNS Dosen dan diberikan pangkat dan
 golongan ruang serta masa kerja PNS.
-(2)PNS . . .
-SK No293179A
-
-PRESIDEN
-REPUBUK INDONESI,A
--12-
 (2) PNS Dosen sebagaimana dimaksud pada ayat (1)
 diberikan pangkat dan golongan ruang paling rendah
 pada jenjang jabatannya sesuai dengan ketentuan
@@ -469,75 +422,87 @@ penyelenggaraan pelayanan, pengendalian atas
 pelaksanaan kebijakan teknis manajemen aparatur sipil
 negara, dan pelaksanaan pengawasan penerapan sistem
 merit.
+
 Pasal 15
-(1) PNS Dosen sebagalmana dimaksud dalam Pasal 14
+(1) PNS Dosen sebagaimana dimaksud dalam Pasal 14
 ayat (1) mengikuti pembekalan sebagai PNS.
 (2) Pembekalan sebagaimana dimaksud pada ayat (1)
 dilaksanakan oleh instansi pemerintah yang
 mengangkat PNS Dosen setelah berkoordinasi dengan
 kementerian yang menyelenggarakan suburusan
-pemerintahan pendidikan tinggi yang merupaka.n
+pemerintahan pendidikan tinggi yang merupakan
 lingkup urusan pemerintahan di bidang pendidikan dan
 urusan pemerintahan di bidang ilmu pengetahuan dan
 teknologi dan lembaga pemerintah nonkementerian
 yang diberi kewenangan perumusan dan penetapan
 kebijakan teknis dan pembinaan, penyelenggaraan, dan
-pengendalian atas pelaksanaan keb{jakan teknis
+pengendalian atas pelaksanaan kebijakan teknis
 pengembangan kapasitas dan pembelajaran aparatur
 sipil negara.
+
 BAB IV
 PENGHASILAN DAN HAK LAINNYA
-Pasal 16
-PNS Dosen sebagaimarra dimaksud dalam Pasal 14 ayat (1)
-diberikan penghasilan dan hak lainnya sebagai PNS sesuai
-dengan ketentuan peraturan perundang-undhngan.
-SK No293l80A
-BABV...
 
--13-
+Pasal 16
+PNS Dosen sebagaimana dimaksud dalam Pasal 14 ayat (1)
+diberikan penghasilan dan hak lainnya sebagai PNS sesuai
+dengan ketentuan peraturan perundang-undangan.
+
 BAB V
 KETENTUAN PERALIHAN
+
 Pasal 17
 Pada saat Peraturan Pemerintah ini mulai berlaku:
-a. PPPK Dosen tetap melaksanakan tugas dan fungsinya
-sampai dengan selesainya proses Pengadaan Khusus
-PNS Dosen;
-b. PPPK Dosen yang tidak mengikuti tahapan Pengadaan
-Khusus PNS Dosen karena batas usia pensiun Jabatan
-Dosen, tetap menjalankan tugasnya sampai dengan
-perjanjian keda berakhir; dan
-c. PPPK Dosen yang tidat mengikuti tahapan Pengadaan
-Khusus PNS Dosen, tetap menjalankan tulasnya sampai
-dengan perjanjian kerja berakhir.
+  a. PPPK Dosen tetap melaksanakan tugas dan fungsinya
+  sampai dengan selesainya proses Pengadaan Khusus
+  PNS Dosen;
+  b. PPPK Dosen yang tidak mengikuti tahapan Pengadaan
+  Khusus PNS Dosen karena batas usia pensiun Jabatan
+  Dosen, tetap menjalankan tugasnya sampai dengan
+  perjanjian keda berakhir; dan
+  c. PPPK Dosen yang tidak mengikuti tahapan Pengadaan
+  Khusus PNS Dosen, tetap menjalankan tugasnya sampai
+  dengan perjanjian kerja berakhir.
+
 BAB VI
 KETENTUAN PENUTUP
+
 Pasal 18
 Pengadaan Khusus PNS Dosen berdasarkan Peraturan
 Pemerintah ini dilaksanakan untuk 1 (satu) kali
 pelaksanaan.
+
 Pasal 19
 Peraturan Pemerintah ini mulai berlaku pada tanggal
 diundangkan.
-SK No293199A
-Agar
 
--14-
+
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Pemerintah ini dengan
 penempatannya dalam Lembaran Negara Republik
 Indonesia.
-Ditetapkan di Jakarta
-pada tanggal 25 Juni 2026
-PRESIDEN REPUBLIK INDONESIA,
-ttd
-PRABOWO SUBIANTO
-Diundangkan di Jakarta
-pada tanggal 25 Juni2026
-MENTERI SEKRETARIS NEGARA
-REPUBLIK INDONESIA,
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ditetapkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 25 Juni 2026  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;PRABOWO SUBIANTO
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 25 Juni 2026  
+MENTERI SEKRETARIS NEGARA  
+REPUBLIK INDONESIA,  
+ttd.  
 PRASETYO HADI
+
+<br/>
+
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR 65
-Salinan sesuai dengan aslinya
+<!--Salinan sesuai dengan aslinya
 KEMENTERIAN SEKRETARIAT NEGARA
 REPUBLIK INDONESIA
 Bidang Perundang-undangan
