@@ -1,15 +1,27 @@
- PERATURAN PEMERINTAH REPUBLIK INDONESIA PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 50 TAHUN 2012 TENTANG PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA
-DENGAN RAHMAT TUHAN YANG MAHA ESA PRESIDEN REPUBLIK INDONESIA,
-Menimbang :
- bahwa untuk melaksanakan ketentuan Pasal 87 ayat (2) Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan, perlu menetapkan Peraturan Pemerintah tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja;
-Mengingat :
+PERATURAN PEMERINTAH REPUBLIK INDONESIA
+NOMOR 50 TAHUN 2012
+TENTANG
+PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA
 
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang :
+bahwa untuk melaksanakan ketentuan Pasal 87 ayat (2) Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan, perlu menetapkan Peraturan Pemerintah tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja;
+
+Mengingat :
 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279);
 3. Undang-Undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja (Lembaran Negara Republik Indonesia Tahun 1970 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 2918);
+
 MEMUTUSKAN:
- Menetapkan : PERATURAN PEMERINTAH TENTANG PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA.
-BAB I KETENTUAN UMUM
+Menetapkan :
+PERATURAN PEMERINTAH TENTANG PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA.
+
+BAB I
+KETENTUAN UMUM
+
 Pasal 1
 Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 1. Sistem Manajemen Keselamatan dan Kesehatan Kerja yang selanjutnya disingkat SMK3 adalah bagian dari sistem manajemen perusahaan secara keseluruhan dalam rangka pengendalian risiko yang berkaitan dengan kegiatan kerja guna terciptanya tempat kerja yang aman, efisien dan produktif.
@@ -17,198 +29,269 @@ Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 3. Tenaga Kerja adalah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat.
 4. Pekerja/Buruh adalah setiap orang yang bekerja dengan menerima upah atau imbalan dalam bentuk lain.
 5. Perusahaan adalah:
-a. setiap bentuk usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik persekutuan, atau milik badan hukum, baik milik swasta maupun milik negara yang mempekerjakan pekerja/buruh dengan membayar upah atau imbalan dalam bentuk lain;
-b. usaha-usaha sosial dan usaha-usaha lain yang mempunyai pengurus dan mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.
+  a. setiap bentuk usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik persekutuan, atau milik badan hukum, baik milik swasta maupun milik negara yang mempekerjakan pekerja/buruh dengan membayar upah atau imbalan dalam bentuk lain;
+  b. usaha-usaha sosial dan usaha-usaha lain yang mempunyai pengurus dan mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.
 6. Pengusaha adalah:
-a. orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu perusahaan milik sendiri;
-b. orang perseorangan, persekutuan, atau badan hukum yang secara berdiri sendiri menjalankan perusahaan bukan miliknya;
-c. orang perseorangan, persekutuan, atau badan hukum yang berada di Indonesia mewakili perusahaan sebagaimana dimaksud dalam huruf a dan huruf b yang berkedudukan di luar wilayah Indonesia.
+  a. orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu perusahaan milik sendiri;
+  b. orang perseorangan, persekutuan, atau badan hukum yang secara berdiri sendiri menjalankan perusahaan bukan miliknya;
+  c. orang perseorangan, persekutuan, atau badan hukum yang berada di Indonesia mewakili perusahaan sebagaimana dimaksud dalam huruf a dan huruf b yang berkedudukan di luar wilayah Indonesia.
 7. Audit SMK3 adalah pemeriksaan secara sistematis dan independen terhadap pemenuhan kriteria yang telah ditetapkan untuk mengukur suatu hasil kegiatan yang telah direncanakan dan dilaksanakan dalam penerapan SMK3 di perusahaan.
 8. Menteri adalah Menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan.
+
 Pasal 2
 Penerapan SMK3 bertujuan untuk:
-a. meningkatkan efektifitas perlindungan keselamatan dan kesehatan kerja yang terencana, terukur, terstruktur, dan terintegrasi;
-b. mencegah dan mengurangi kecelakaan kerja dan penyakit akibat kerja dengan melibatkan unsur manajemen, pekerja/buruh, dan/atau serikat pekerja/serikat buruh; serta c. menciptakan tempat kerja yang aman, nyaman, dan efisien untuk mendorong produktivitas.
+  a. meningkatkan efektifitas perlindungan keselamatan dan kesehatan kerja yang terencana, terukur, terstruktur, dan terintegrasi;
+  b. mencegah dan mengurangi kecelakaan kerja dan penyakit akibat kerja dengan melibatkan unsur manajemen, pekerja/buruh, dan/atau serikat pekerja/serikat buruh; serta
+  c. menciptakan tempat kerja yang aman, nyaman, dan efisien untuk mendorong produktivitas.
+
 Pasal 3
 (1) Penerapan SMK3 dilakukan berdasarkan kebijakan nasional tentang SMK3.
 (2) Kebijakan nasional tentang SMK3 sebagaimana dimaksud pada ayat (1) tertuang dalam Lampiran I, Lampiran II, dan Lampiran III sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.
-BAB II SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA
-Bagian Kesatu Umum
+
+BAB II
+SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA
+
+Bagian Kesatu
+Umum
+
 Pasal 4
 (1) Kebijakan nasional tentang SMK3 sebagaimana dimaksud dalam Pasal 3, sebagai pedoman perusahaan dalam menerapkan SMK3.
-(2) Instansi pembina sektor usaha dapat __ mengembangkan pedoman penerapan SMK3 sebagaimana dimaksud pada ayat (1) sesuai dengan kebutuhan berdasarkan ketentuan peraturan perundang-undangan. __
+(2) Instansi pembina sektor usaha dapat mengembangkan pedoman penerapan SMK3 sebagaimana dimaksud pada ayat (1) sesuai dengan kebutuhan berdasarkan ketentuan peraturan perundang-undangan.
+
 Pasal 5
 (1) Setiap perusahaan wajib menerapkan SMK3 di perusahaannya.
 (2) Kewajiban sebagaimana dimaksud pada ayat (1) berlaku bagi perusahaan:
-a. mempekerjakan pekerja/buruh paling sedikit 100 (seratus) orang; atau
-b. mempunyai tingkat potensi bahaya tinggi.
+  a. mempekerjakan pekerja/buruh paling sedikit 100 (seratus) orang; atau
+  b. mempunyai tingkat potensi bahaya tinggi.
 (3) Ketentuan mengenai tingkat potensi bahaya tinggi sebagaimana dimaksud pada ayat (2) huruf b sesuai dengan ketentuan peraturan perundang-undangan.
 (4) Pengusaha dalam menerapkan SMK3 wajib berpedoman pada Peraturan Pemerintah ini dan ketentuan peraturan perundang-undangan serta dapat memperhatikan konvensi atau standar internasional.
+
 Pasal 6
 (1) SMK3 sebagaimana dimaksud dalam Pasal 3 ayat (1) meliputi:
-a. penetapan kebijakan K3;
-b. perencanaan K3;
-c. pelaksanaan rencana K3;
-d. pemantauan dan evaluasi kinerja K3; dan
-e. peninjauan dan peningkatan kinerja SMK3. __ (2) Penerapan SMK3 sebagaimana dimaksud pada ayat (1) tertuang dalam pedoman yang tercantum dalam Lampiran I sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.
-Bagian Kedua Penetapan Kebijakan K3
+  a. penetapan kebijakan K3;
+  b. perencanaan K3;
+  c. pelaksanaan rencana K3;
+  d. pemantauan dan evaluasi kinerja K3; dan
+  e. peninjauan dan peningkatan kinerja SMK3.
+(2) Penerapan SMK3 sebagaimana dimaksud pada ayat (1) tertuang dalam pedoman yang tercantum dalam Lampiran I sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.
+
+Bagian Kedua
+Penetapan Kebijakan K3
+
 Pasal 7
 (1) Penetapan kebijakan K3 sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a dilaksanakan oleh pengusaha.
 (2) Dalam menyusun kebijakan sebagaimana dimaksud pada ayat (1), pengusaha paling sedikit harus:
-a. melakukan tinjauan awal kondisi K3 yang meliputi:
-1. identifikasi potensi bahaya, penilaian dan pengendalian risiko;
-2. perbandingan penerapan K3 dengan perusahaan dan sektor lain yang lebih baik;
-3. peninjauan sebab akibat kejadian yang membahayakan;
-4. kompensasi dan gangguan serta hasil penilaian sebelumnya yang berkaitan dengan keselamatan; dan
-5. penilaian efisiensi dan efektivitas sumber daya yang disediakan.
-b. memperhatikan peningkatan kinerja manajemen K3 secara terus-menerus; dan
-c. memperhatikan masukan dari pekerja/buruh dan/atau serikat pekerja/serikat buruh.
+  a. melakukan tinjauan awal kondisi K3 yang meliputi:
+    1. identifikasi potensi bahaya, penilaian dan pengendalian risiko;
+    2. perbandingan penerapan K3 dengan perusahaan dan sektor lain yang lebih baik;
+    3. peninjauan sebab akibat kejadian yang membahayakan;
+    4. kompensasi dan gangguan serta hasil penilaian sebelumnya yang berkaitan dengan keselamatan; dan
+    5. penilaian efisiensi dan efektivitas sumber daya yang disediakan.
+  b. memperhatikan peningkatan kinerja manajemen K3 secara terus-menerus; dan
+  c. memperhatikan masukan dari pekerja/buruh dan/atau serikat pekerja/serikat buruh.
 (3) Kebijakan K3 sebagaimana dimaksud pada ayat (1) paling sedikit memuat:
-a. visi;
-b. tujuan perusahaan;
-c. komitmen dan tekad melaksanakan kebijakan; dan d. kerangka dan program kerja yang mencakup kegiatan perusahaan secara menyeluruh yang bersifat umum dan/atau operasional.
+  a. visi;
+  b. tujuan perusahaan;
+  c. komitmen dan tekad melaksanakan kebijakan; dan
+  d. kerangka dan program kerja yang mencakup kegiatan perusahaan secara menyeluruh yang bersifat umum dan/atau operasional.
+
 Pasal 8
 Pengusaha harus menyebarluaskan kebijakan K3 yang telah ditetapkan kepada seluruh pekerja/buruh, orang lain selain pekerja/buruh yang berada di perusahaan, dan pihak lain yang terkait.
-Bagian Ketiga Perencanaan K3
+
+Bagian Ketiga
+Perencanaan K3
+
 Pasal 9
 (1) Perencanaan sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b dilakukan untuk menghasilkan rencana K3.
 (2) Rencana K3 disusun dan ditetapkan oleh pengusaha dengan mengacu pada kebijakan K3 yang telah ditetapkan sebagaimana dimaksud dalam Pasal 7 ayat (1).
 (3) Dalam menyusun rencana K3 sebagaimana dimaksud pada ayat (2) pengusaha harus mempertimbangkan:
-a. hasil penelaahan awal;
-b. identifikasi potensi bahaya, penilaian, dan pengendalian risiko;
-c. peraturan perundang-undangan dan persyaratan lainnya; dan
-d. sumber daya yang dimiliki.
+  a. hasil penelaahan awal;
+  b. identifikasi potensi bahaya, penilaian, dan pengendalian risiko;
+  c. peraturan perundang-undangan dan persyaratan lainnya; dan
+  d. sumber daya yang dimiliki.
 (4) Pengusaha dalam menyusun rencana K3 sebagaimana dimaksud pada ayat (2) harus melibatkan Ahli K3, Panitia Pembina K3, wakil pekerja/buruh, dan pihak lain yang terkait di perusahaan.
 (5) Rencana K3 paling sedikit memuat:
-a. tujuan dan sasaran;
-b. skala prioritas;
-c. upaya pengendalian bahaya;
-d. penetapan sumber daya;
-e. jangka waktu pelaksanaan;
-f. indikator pencapaian; dan
-g. sistem pertanggungjawaban.
-Bagian Keempat Pelaksanaan Rencana K3
+  a. tujuan dan sasaran;
+  b. skala prioritas;
+  c. upaya pengendalian bahaya;
+  d. penetapan sumber daya;
+  e. jangka waktu pelaksanaan;
+  f. indikator pencapaian; dan
+  g. sistem pertanggungjawaban.
+
+Bagian Keempat
+Pelaksanaan Rencana K3
+
 Pasal 10
 (1) Pelaksanaan rencana K3 dilakukan oleh pengusaha berdasarkan rencana K3 sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c dan Pasal 9.
 (2) Pengusaha dalam melaksanakan rencana K3 didukung oleh sumber daya manusia di bidang K3, prasarana, dan sarana.
 (3) Sumber daya manusia sebagaimana dimaksud pada ayat (2) harus memiliki:
-a. kompetensi kerja yang dibuktikan dengan sertifikat; dan
-b. kewenangan di bidang K3 yang dibuktikan dengan surat izin kerja/operasi dan/atau surat penunjukkan dari instansi yang berwenang.
+  a. kompetensi kerja yang dibuktikan dengan sertifikat; dan
+  b. kewenangan di bidang K3 yang dibuktikan dengan surat izin kerja/operasi dan/atau surat penunjukkan dari instansi yang berwenang.
 (4) Prasarana dan sarana sebagaimana dimaksud pada ayat (2) paling sedikit terdiri dari:
-a. organisasi/unit yang bertanggung jawab di bidang K3;
-b. anggaran yang memadai;
-c. prosedur operasi/kerja, informasi, dan pelaporan serta pendokumentasian; dan
-d. instruksi kerja.
+  a. organisasi/unit yang bertanggung jawab di bidang K3;
+  b. anggaran yang memadai;
+  c. prosedur operasi/kerja, informasi, dan pelaporan serta pendokumentasian; dan
+  d. instruksi kerja.
+
 Pasal 11
 (1) Pengusaha dalam melaksanakan rencana K3 harus melakukan kegiatan dalam pemenuhan persyaratan K3.
 (2) Kegiatan sebagaimana dimaksud pada ayat (1) paling sedikit meliputi:
-a. tindakan pengendalian;
-b. perancangan ( _design_ ) dan rekayasa;
-c. prosedur dan instruksi kerja;
-d. penyerahan sebagian pelaksanaan pekerjaan;
-e. pembelian/pengadaan barang dan jasa;
-f. produk akhir;
-g. upaya menghadapi keadaan darurat kecelakaan dan bencana industri; dan
-h. rencana dan pemulihan keadaan darurat.
+  a. tindakan pengendalian;
+  b. perancangan ( _design_ ) dan rekayasa;
+  c. prosedur dan instruksi kerja;
+  d. penyerahan sebagian pelaksanaan pekerjaan;
+  e. pembelian/pengadaan barang dan jasa;
+  f. produk akhir;
+  g. upaya menghadapi keadaan darurat kecelakaan dan bencana industri; dan
+  h. rencana dan pemulihan keadaan darurat.
 (3) Kegiatan sebagaimana dimaksud pada ayat (2) huruf a sampai dengan huruf f, dilaksanakan berdasarkan identifikasi bahaya, penilaian, dan pengendalian risiko.
 (4) Kegiatan sebagaimana dimaksud pada ayat (2) huruf g dan huruf h dilaksanakan berdasarkan potensi bahaya, investigasi, dan analisa kecelakaan.
+
 Pasal 12
 (1) Pengusaha dalam melaksanakan kegiatan sebagaimana dimaksud dalam Pasal 11 harus:
-a. menunjuk sumber daya manusia yang mempunyai kompetensi kerja dan kewenangan di bidang K3;
-b. melibatkan seluruh pekerja/buruh;
-c. membuat petunjuk K3 yang harus dipatuhi oleh seluruh pekerja/buruh, orang lain selain pekerja/buruh yang berada di perusahaan, dan pihak lain yang terkait;
-d. membuat prosedur informasi;
-e. membuat prosedur pelaporan; dan
-f. mendokumentasikan seluruh kegiatan.
+  a. menunjuk sumber daya manusia yang mempunyai kompetensi kerja dan kewenangan di bidang K3;
+  b. melibatkan seluruh pekerja/buruh;
+  c. membuat petunjuk K3 yang harus dipatuhi oleh seluruh pekerja/buruh, orang lain selain pekerja/buruh yang berada di perusahaan, dan pihak lain yang terkait;
+  d. membuat prosedur informasi;
+  e. membuat prosedur pelaporan; dan
+  f. mendokumentasikan seluruh kegiatan.
 (2) Pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1) harus diintegrasikan dengan kegiatan manajemen perusahaan.
+
 Pasal 13
 (1) Prosedur informasi sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf d harus memberikan jaminan bahwa informasi K3 dikomunikasikan kepada semua pihak dalam perusahaan dan pihak terkait di luar perusahaan.
 (2) Prosedur pelaporan sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf e terdiri atas pelaporan:
-a. terjadinya kecelakaan di tempat kerja;
-b. ketidaksesuaian terhadap peraturan perundang- undangan dan/atau standar;
-c. kinerja K3;
-d. identifikasi sumber bahaya; dan
-e. yang diwajibkan berdasarkan ketentuan peraturan perundang-undangan.
+  a. terjadinya kecelakaan di tempat kerja;
+  b. ketidaksesuaian terhadap peraturan perundang-undangan dan/atau standar;
+  c. kinerja K3;
+  d. identifikasi sumber bahaya; dan
+  e. yang diwajibkan berdasarkan ketentuan peraturan perundang-undangan.
 (3) Pendokumentasian sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf f paling sedikit dilakukan terhadap:
-a. peraturan perundang-undangan di bidang K3 dan standar di bidang K3;
-b. indikator kinerja K3;
-c. izin kerja;
-d. hasil identifikasi, penilaian, dan pengendalian risiko;
-e. kegiatan pelatihan K3;
-f. kegiatan inspeksi, kalibrasi dan pemeliharaan;
-g. catatan pemantauan data;
-h. hasil pengkajian kecelakaan di tempat kerja dan tindak lanjut;
-i. identifikasi produk termasuk komposisinya;
-j. informasi mengenai pemasok dan kontraktor; dan
-k. audit dan peninjauan ulang SMK3.
-Bagian Kelima Pemantauan dan Evaluasi Kinerja K3
+  a. peraturan perundang-undangan di bidang K3 dan standar di bidang K3;
+  b. indikator kinerja K3;
+  c. izin kerja;
+  d. hasil identifikasi, penilaian, dan pengendalian risiko;
+  e. kegiatan pelatihan K3;
+  f. kegiatan inspeksi, kalibrasi dan pemeliharaan;
+  g. catatan pemantauan data;
+  h. hasil pengkajian kecelakaan di tempat kerja dan tindak lanjut;
+  i. identifikasi produk termasuk komposisinya;
+  j. informasi mengenai pemasok dan kontraktor; dan
+  k. audit dan peninjauan ulang SMK3.
+
+Bagian Kelima
+Pemantauan dan Evaluasi Kinerja K3
+
 Pasal 14
 (1) Pengusaha wajib melakukan pemantauan dan evaluasi kinerja K3.
 (2) Pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (1) melalui pemeriksaan, pengujian, pengukuran, dan audit internal SMK3 dilakukan oleh sumber daya manusia yang kompeten.
 (3) Dalam hal perusahaan tidak memiliki sumber daya untuk melakukan pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dapat menggunakan jasa pihak lain.
 (4) Hasil pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dilaporkan kepada pengusaha.
 (5) Hasil pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) digunakan untuk melakukan tindakan perbaikan.
-(6) Pelaksanaan pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang- undangan dan/atau standar.
-Bagian Keenam Peninjauan dan Peningkatan Kinerja SMK3
+(6) Pelaksanaan pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan dan/atau standar.
+
+Bagian Keenam
+Peninjauan dan Peningkatan Kinerja SMK3
+
 Pasal 15
 (1) Untuk menjamin kesesuaian dan efektifitas penerapan SMK3, pengusaha wajib melakukan peninjauan.
 (2) Peninjauan sebagaimana dimaksud pada ayat (1) dilakukan terhadap kebijakan, perencanaan, pelaksanaan, pemantauan, dan evaluasi.
 (3) Hasil peninjauan sebagaimana dimaksud pada ayat (2) digunakan untuk melakukan perbaikan dan peningkatan kinerja.
 (4) Perbaikan dan peningkatan kinerja sebagaimana dimaksud pada ayat (3) dapat dilaksanakan dalam hal:
-a. terjadi perubahan peraturan perundang- undangan;
-b. adanya tuntutan dari pihak yang terkait dan pasar;
-c. adanya perubahan produk dan kegiatan perusahaan;
-d. terjadi perubahan struktur organisasi perusahaan;
-e. adanya perkembangan ilmu pengetahuan dan teknologi, termasuk epidemiologi;
-f. adanya hasil kajian kecelakaan di tempat kerja;
-g. adanya pelaporan; dan/atau
-h. adanya masukan dari pekerja/buruh.
-BAB III PENILAIAN SMK3
+  a. terjadi perubahan peraturan perundang-undangan;
+  b. adanya tuntutan dari pihak yang terkait dan pasar;
+  c. adanya perubahan produk dan kegiatan perusahaan;
+  d. terjadi perubahan struktur organisasi perusahaan;
+  e. adanya perkembangan ilmu pengetahuan dan teknologi, termasuk epidemiologi;
+  f. adanya hasil kajian kecelakaan di tempat kerja;
+  g. adanya pelaporan; dan/atau
+  h. adanya masukan dari pekerja/buruh.
+
+BAB III
+PENILAIAN SMK3
+
 Pasal 16
 (1) Penilaian penerapan SMK3 dilakukan oleh lembaga audit independen yang ditunjuk oleh Menteri atas permohonan perusahaan.
-(2) Untuk perusahaan yang memiliki potensi bahaya tinggi wajib melakukan penilaian penerapan SMK3 sesuai dengan ketentuan peraturan perundang- undangan.
+(2) Untuk perusahaan yang memiliki potensi bahaya tinggi wajib melakukan penilaian penerapan SMK3 sesuai dengan ketentuan peraturan perundang-undangan.
 (3) Penilaian sebagaimana dimaksud pada ayat (1) dilakukan melalui Audit SMK3 yang meliputi:
-a. pembangunan dan terjaminnya pelaksanaan komitmen;
-b. pembuatan dan pendokumentasian rencana K3;
-c. pengendalian perancangan dan peninjauan kontrak;
-d. pengendalian dokumen;
-e. pembelian dan pengendalian produk;
-f. keamanan bekerja berdasarkan SMK3;
-g. standar pemantauan;
-h. pelaporan dan perbaikan kekurangan;
-i. pengelolaan material dan perpindahannya;
-j. pengumpulan dan penggunaan data;
-k. pemeriksaan SMK3; dan
-l. pengembangan keterampilan dan kemampuan.
+  a. pembangunan dan terjaminnya pelaksanaan komitmen;
+  b. pembuatan dan pendokumentasian rencana K3;
+  c. pengendalian perancangan dan peninjauan kontrak;
+  d. pengendalian dokumen;
+  e. pembelian dan pengendalian produk;
+  f. keamanan bekerja berdasarkan SMK3;
+  g. standar pemantauan;
+  h. pelaporan dan perbaikan kekurangan;
+  i. pengelolaan material dan perpindahannya;
+  j. pengumpulan dan penggunaan data;
+  k. pemeriksaan SMK3; dan
+  l. pengembangan keterampilan dan kemampuan.
 (4) Penilaian penerapan SMK3 sebagaimana dimaksud pada ayat (3) tertuang dalam pedoman yang tercantum dalam Lampiran II sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.
+
 Pasal 17
 (1) Hasil audit sebagaimana dimaksud dalam Pasal 16 dilaporkan kepada Menteri dengan tembusan disampaikan kepada menteri pembina sektor usaha, gubernur, dan bupati/walikota sebagai bahan pertimbangan dalam upaya peningkatan SMK3.
 (2) Bentuk laporan hasil audit sebagaimana dimaksud pada ayat (1) tertuang dalam pedoman yang tercantum dalam Lampiran III sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.
-BAB IV PENGAWASAN
+
+BAB IV
+PENGAWASAN
+
 Pasal 18
 (1) Pengawasan SMK3 dilakukan oleh pengawas ketenagakerjaan pusat, provinsi dan/atau kabupaten/kota sesuai dengan kewenangannya.
 (2) Pengawasan sebagaimana dimaksud pada ayat (1) meliputi:
-a. pembangunan dan terjaminnya pelaksanaan komitmen;
-b. organisasi;
-c. sumber daya manusia;
-d. pelaksanaan peraturan perundang-undangan bidang K3;
-e. keamanan bekerja;
-f. pemeriksaan, pengujian dan pengukuran penerapan SMK3;
-g. pengendalian keadaan darurat dan bahaya industri;
-h. pelaporan dan perbaikan kekurangan; dan
-i. tindak lanjut audit.
+  a. pembangunan dan terjaminnya pelaksanaan komitmen;
+  b. organisasi;
+  c. sumber daya manusia;
+  d. pelaksanaan peraturan perundang-undangan bidang K3;
+  e. keamanan bekerja;
+  f. pemeriksaan, pengujian dan pengukuran penerapan SMK3;
+  g. pengendalian keadaan darurat dan bahaya industri;
+  h. pelaporan dan perbaikan kekurangan; dan
+  i. tindak lanjut audit.
+
 Pasal 19
 (1) Instansi pembina sektor usaha dapat melakukan pengawasan SMK3 terhadap pelaksanaan penerapan SMK3 yang dikembangkan sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dilakukan secara terkoordinasi dengan pengawas ketenagakerjaan sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 20
 Hasil pengawasan sebagaimana dimaksud dalam Pasal 18 dan Pasal 19 digunakan sebagai dasar dalam melakukan pembinaan.
-BAB V KETENTUAN PERALIHAN
+
+BAB V
+KETENTUAN PERALIHAN
+
 Pasal 21
-Pada saat Peraturan Pemerintah ini mulai berlaku, Perusahaan yang telah menerapkan SMK3, wajib menyesuaikan dengan ketentuan Peraturan Pemerintah ini paling lama 1 (satu) tahun. __
-BAB VI KETENTUAN PENUTUP
+Pada saat Peraturan Pemerintah ini mulai berlaku, Perusahaan yang telah menerapkan SMK3, wajib menyesuaikan dengan ketentuan Peraturan Pemerintah ini paling lama 1 (satu) tahun.
+
+BAB VI
+KETENTUAN PENUTUP
+
 Pasal 22
 Peraturan Pemerintah mulai berlaku pada tanggal diundangkan.
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 12 April 2012 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 12 April 2012 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. AMIR SYAMSUDIN LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2012 NOMOR 100 PENJELASAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 50 TAHUN 2012 TENTANG PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA I. UMUM Globalisasi perdagangan saat ini memberikan dampak persaingan sangat ketat dalam segala aspek khususnya ketenagakerjaan yang salah satunya mempersyaratkan adanya perlindungan atas keselamatan dan kesehatan kerja. Untuk meningkatkan efektifitas perlindungan keselamatan dan kesehatan kerja, tidak terlepas dari upaya pelaksanaan keselamatan dan kesehatan kerja yang terencana, terukur, terstruktur, dan terintegrasi melalui SMK3 guna menjamin terciptanya suatu sistem keselamatan dan kesehatan kerja di tempat kerja dengan melibatkan unsur manajemen, pekerja/buruh, dan/atau serikat pekerja/serikat buruh dalam rangka mencegah dan mengurangi kecelakaan kerja dan penyakit akibat kerja serta terciptanya tempat kerja yang nyaman, efisien dan produktif. Penerapan keselamatan dan kesehatan kerja melalui SMK3 telah berkembang di berbagai negara baik melalui pedoman maupun standar. Untuk memberikan keseragaman bagi setiap perusahaan dalam menerapkan SMK3 sehingga perlindungan keselamatan dan kesehatan kerja bagi tenaga kerja, peningkatan efisiensi, dan produktifitas perusahaan dapat terwujud maka perlu ditetapkan Peraturan Pemerintah yang mengatur penerapan SMK3. Peraturan Pemerintah ini memuat: - ketentuan umum; - sistem Manajemen Keselamatan dan Kesehatan Kerja; - penilaian SMK3; - pengawasan; - ketentuan Peralihan; dan - ketentuan Penutup. II. PASAL DEMI PASAL
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ditetapkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 12 April 2012  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;DR. H. SUSILO BAMBANG YUDHOYONO
+
+<br/>
+
+Diundangkan di Jakarta  
+Pada tanggal 12 April 2012  
+MENTERI HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA,  
+ttd.  
+AMIR SYAMSUDIN
+
+<br/>
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2012 NOMOR 100
+
+<!--PENJELASAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 50 TAHUN 2012 TENTANG PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA I. UMUM Globalisasi perdagangan saat ini memberikan dampak persaingan sangat ketat dalam segala aspek khususnya ketenagakerjaan yang salah satunya mempersyaratkan adanya perlindungan atas keselamatan dan kesehatan kerja. Untuk meningkatkan efektifitas perlindungan keselamatan dan kesehatan kerja, tidak terlepas dari upaya pelaksanaan keselamatan dan kesehatan kerja yang terencana, terukur, terstruktur, dan terintegrasi melalui SMK3 guna menjamin terciptanya suatu sistem keselamatan dan kesehatan kerja di tempat kerja dengan melibatkan unsur manajemen, pekerja/buruh, dan/atau serikat pekerja/serikat buruh dalam rangka mencegah dan mengurangi kecelakaan kerja dan penyakit akibat kerja serta terciptanya tempat kerja yang nyaman, efisien dan produktif. Penerapan keselamatan dan kesehatan kerja melalui SMK3 telah berkembang di berbagai negara baik melalui pedoman maupun standar. Untuk memberikan keseragaman bagi setiap perusahaan dalam menerapkan SMK3 sehingga perlindungan keselamatan dan kesehatan kerja bagi tenaga kerja, peningkatan efisiensi, dan produktifitas perusahaan dapat terwujud maka perlu ditetapkan Peraturan Pemerintah yang mengatur penerapan SMK3. Peraturan Pemerintah ini memuat: - ketentuan umum; - sistem Manajemen Keselamatan dan Kesehatan Kerja; - penilaian SMK3; - pengawasan; - ketentuan Peralihan; dan - ketentuan Penutup. II. PASAL DEMI PASAL
 Pasal 1
 Cukup jelas.
 Pasal 2
