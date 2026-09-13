@@ -41,17 +41,17 @@ Pasal 1
 (2) Dalam menetapkan adanya Tindak Pidana dilarang digunakan analogi.
 
 Pasal 2
-(1) Ketentuan sebagaimana dimaksud dalam Pasal 1 ayat (1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat yang menentukan bahwa seseorang patut dipidana walaupun perbuatan tersebut tidak diatur dalam Undang-Undang ini.
-(2) Hukum yang hidup dalam masyarakat sebagaimana dimaksud pada ayat (1) berlaku dalam tempat hukum itu hidup dan sepanjang tidak diatur dalam Undang-Undang ini dan sesuai dengan nilai-nilai yang terkandung dalam Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, hak asasi manusia, dan asas hukum umum yang diakui masyarakat bangsa-bangsa.
+(1) Ketentuan sebagaimana dimaksud dalam [Pasal 1 ayat (1)](/uu/2023/1/pasal-1/ayat-1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat yang menentukan bahwa seseorang patut dipidana walaupun perbuatan tersebut tidak diatur dalam Undang-Undang ini.
+(2) Hukum yang hidup dalam masyarakat sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-2/ayat-1) berlaku dalam tempat hukum itu hidup dan sepanjang tidak diatur dalam Undang-Undang ini dan sesuai dengan nilai-nilai yang terkandung dalam Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, hak asasi manusia, dan asas hukum umum yang diakui masyarakat bangsa-bangsa.
 (3) Ketentuan mengenai tata cara dan kriteria penetapan hukum yang hidup dalam masyarakat diatur dengan Peraturan Pemerintah.
 
 Pasal 3
 (1) Dalam hal terdapat perubahan peraturan perundangundangan sesudah perbuatan terjadi, diberlakukan peraturan perundang-undangan yang baru, kecuali ketentuan peraturan perundang-undangan yang lama menguntungkan bagi pelaku dan pembantu Tindak Pidana.
 (2) Dalam hal perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundangundangan yang baru, proses hukum terhadap tersangka atau terdakwa harus dihentikan demi hukum.
-(3) Dalam hal ketentuan sebagaimana dimaksud pada ayat (2) diterapkan bagi tersangka atau terdakwa yang berada dalam tahanan, tersangka atau terdakwa dibebaskan oleh Pejabat yang berwenang sesuai dengan tingkat pemeriksaan.
+(3) Dalam hal ketentuan sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-3/ayat-2) diterapkan bagi tersangka atau terdakwa yang berada dalam tahanan, tersangka atau terdakwa dibebaskan oleh Pejabat yang berwenang sesuai dengan tingkat pemeriksaan.
 (4) Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan dihapuskan.
-(5) Dalam hal putusan pemidanaan telah berkekuatan hukum tetap sebagaimana dimaksud pada ayat (4), instansi atau Pejabat yang melaksanakan pembebasan merupakan instansi atau Pejabat yang berwenang.
-(6) Pembebasan sebagaimana dimaksud pada ayat (3) dan ayat (5) tidak menimbulkan hak bagi tersangka, terdakwa, atau terpidana menuntut ganti rugi.
+(5) Dalam hal putusan pemidanaan telah berkekuatan hukum tetap sebagaimana dimaksud pada [ayat (4)](/uu/2023/1/pasal-3/ayat-4), instansi atau Pejabat yang melaksanakan pembebasan merupakan instansi atau Pejabat yang berwenang.
+(6) Pembebasan sebagaimana dimaksud pada [ayat (3)](/uu/2023/1/pasal-3/ayat-3) dan [ayat (5)](/uu/2023/1/pasal-3/ayat-5) tidak menimbulkan hak bagi tersangka, terdakwa, atau terpidana menuntut ganti rugi.
 (7) Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi diancam dengan pidana yang lebih ringan menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan disesuaikan dengan batas pidana menurut peraturan perundang-undangan yang baru.
 
 Bagian Kedua
@@ -71,24 +71,24 @@ Asas Pelindungan dan Asas Nasional Pasif
 
 Pasal 5
 Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan:
-a. keamanan negara atau proses kehidupan ketatanegaraan;
-b. martabat Presiden, Wakil Presiden, dan/ atau Pejabat Indonesia di luar negeri;
-c. mata uang, segel, cap negara, meterai, atau Surat
-berharga yang dikeluarkan oleh Pemerintah Indonesia,
-atau kartu kredit yang dikeluarkan oleh perbankan
-Indonesia;
-d. perekonomian, perdagangan, dan perbankan Indonesia;
-e. keselamatan atau keamanan pelayaran dan
-penerbangan;
-f. keselamatan atau keamanan bangunan, peralatan, dan
-aset nasional atau negara Indonesia;
-g. keselamatan atau keamanan sistem komunikasi
-elektronik;
-h. kepentingan nasional Indonesia sebagaimana
-ditetapkan dalam Undang-Undang; atau
-i. warga negara Indonesia berdasarkan perjanjian
-internasional dengan negara tempat terjadinya Tindak
-Pidana.
+  a. keamanan negara atau proses kehidupan ketatanegaraan;
+  b. martabat Presiden, Wakil Presiden, dan/ atau Pejabat Indonesia di luar negeri;
+  c. mata uang, segel, cap negara, meterai, atau Surat
+  berharga yang dikeluarkan oleh Pemerintah Indonesia,
+  atau kartu kredit yang dikeluarkan oleh perbankan
+  Indonesia;
+  d. perekonomian, perdagangan, dan perbankan Indonesia;
+  e. keselamatan atau keamanan pelayaran dan
+  penerbangan;
+  f. keselamatan atau keamanan bangunan, peralatan, dan
+  aset nasional atau negara Indonesia;
+  g. keselamatan atau keamanan sistem komunikasi
+  elektronik;
+  h. kepentingan nasional Indonesia sebagaimana
+  ditetapkan dalam Undang-Undang; atau
+  i. warga negara Indonesia berdasarkan perjanjian
+  internasional dengan negara tempat terjadinya Tindak
+  Pidana.
 
 Paragraf 3
 Asas Universal
@@ -117,21 +117,21 @@ Pasal 8
 setiap warga negara Indonesia yang melakukan Tindak
 Pidana di luar wilayah Negara Kesatuan Republik
 Indonesia.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) berlaku
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-8/ayat-1) berlaku
 jika perbuatan tersebut juga merupakan Tindak Pidana
 di negara tempat Tindak Pidana dilakukan.
-(3) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+(3) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-8/ayat-1) tidak
 berlaku untuk Tindak Pidana yang diancam dengan
 pidana denda paling banyak kategori III.
 (4) Penuntutan terhadap Tindak Pidana sebagaimana
-dimaksud pada ayat (1) dilakukan walaupun tersangka
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-8/ayat-1) dilakukan walaupun tersangka
 menjadi warga negara Indonesia, setelah Tindak Pidana
 tersebut dilakukan sepanjang perbuatan tersebut
 merupakan Tindak Pidana di negara tempat Tindak
 Pidana dilakukan.
 (5) Warga negara Indonesia di luar wilayah Negara
 Kesatuan Republik Indonesia yang melakukan Tindak
-Pidana sebagaimana dimaksud pada ayat (1) tidak dapat
+Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-8/ayat-1) tidak dapat
 dijatuhi pidana mati jika Tindak Pidana tersebut
 menurut hukum negara tempat Tindak Pidana tersebut
 dilakukan tidak diancam dengaa pidana mati.
@@ -140,9 +140,9 @@ Paragraf 5
 Pengecualian
 
 Pasal 9
-Penerapan ketentuan sebagaimana dimaksud dalam Pasal 4
-sampai dengan Pasal 8 dibatasi oleh hal yang dikecualikan
-menurut perjanjian internasional yang berlaku.
+Penerapan ketentuan sebagaimana dimaksud dalam [Pasal 4](/uu/2023/1/pasal-4) sampai
+dengan [Pasal 8](/uu/2023/1/pasal-8) dibatasi oleh hal yang dikecualikan menurut
+perjanjian internasional yang berlaku.
 
 Bagian Ketiga
 Waktu Tindak Pidana
@@ -183,14 +183,14 @@ Paragraf 2
 Permufakatan Jahat
 
 Pasal 13
-(1) Permufalatan jahat terjadi jika 2 (dua) orang atau lebih
+(1) Permufakatan jahat terjadi jika 2 (dua) orang atau lebih
 bersepakat untuk melakukan Tindak Pidana.
 (2) Permufakatan jahat melakukan Tindak Pidana dipidana
 jika ditentukan secara tegas dalam Undang-Undang.
 (3) Pidana untuk permufakatan jahat melakukan Tindak
-Pidana paling banyak I /3 (satu per tiga) dari maksimum
-ancaman pidana pokok untuk Tindak Pidana yang
-bersangkutan.
+Pidana paling banyak 1/3 (satu per tiga) dari
+maksimum ancaman pidana pokok untuk Tindak Pidana
+yang bersangkutan.
 (4) Permufakatan jahat melakukan Tindak Pidana yang
 diancam dengan pidana mati atau pidana penjara
 seumur hidup dipidana dengan pidana penjara paling
@@ -212,7 +212,7 @@ Persiapan
 Pasal 15
 (1) Persiapan melakukan Tindak Pidana terjadi jika pelaku
 berusaha untuk mendapatkan atau menyiapkan sarana
-berupa alat, mengumpulkan informasi atau men5rusun
+berupa alat, mengumpulkan informasi atau menyusun
 perencanaan tindakan, atau melakukan tindakan
 serupa yang dimaksudkan untuk menciptakan kondisi
 untuk dilakukannya suatu perbuatan yang secara
@@ -220,7 +220,7 @@ langsung ditujukan bagi penyelesaian Tindak Pidana.
 (2) Persiapan melakukan Tindak Pidana dipidana, jika
 ditentukan secara tegas dalam Undang-Undang.
 (3) Pidana untuk persiapan melakukan Tindak Pidana
-paling banyak l/2 (satu per dua) dari maksimum
+paling banyak 1/2 (satu per dua) dari maksimum
 ancarnan pidana pokok untuk Tindak Pidana yang
 bersangkutan.
 (4) Persiapan melakukan Tindak Pidana yang diancam
@@ -234,8 +234,7 @@ Pidana yang bersangkutan.
 Pasal 16
 Persiapan melakukan Tindak Pidana tidak dipidana jika
 pelaku menghentikan atau mencegah kemungkinan
-terciptanya kondisi sebagaimana dimaksud dalam Pasal 15
-ayat (1).
+terciptanya kondisi sebagaimana dimaksud dalam [Pasal 15 ayat (1)](/uu/2023/1/pasal-15/ayat-1).
 
 Paragraf 4
 Percobaan
@@ -243,16 +242,16 @@ Percobaan
 Pasal 17
 (1) Percobaan melakukan Tindak Pidana terjadi jika niat
 pelaku telah nyata dari adanya permulaan pelaksanaan
-dari Tindak Pidana yang ditqju, tetapi pelaksanaannya
+dari Tindak Pidana yang dituju, tetapi pelaksanaannya
 tidak selesai, tidak mencapai hasil, atau tidak
 menimbulkan akibat yang dilarang, bukan karena
 semata-mata atas kehendaknya sendiri.
 (2) Permulaan pelaksanaan sebagaimana dimaksud pada
 ayat (1) terjadi jika:
-a. perbuatan yang dilakukan itu diniatkan atau
-ditqiukan untuk te{adinya Tindak Pidana; dan
-b. perbuatan yang dilakukan langsung berpotensi
-menimbulkan Tindak Pidana yang dituju.
+  a. perbuatan yang dilakukan itu diniatkan atau
+  ditujukan untuk terjadinya Tindak Pidana; dan
+  b. perbuatan yang dilakukan langsung berpotensi
+  menimbulkan Tindak Pidana yang dituju.
 (3) Pidana untuk percobaan melakukan Tindak Pidana
 paling banyak 2/3 (dua per tiga) dari maksimum
 ancarnan pidana pokok untuk Tindak Pidana yang
@@ -268,15 +267,15 @@ Pidana yang bersangkutan.
 Pasal 18
 (1) Percobaan melakukan Tindak Pidana tidak dipidana
 jika pelaku setelah melakukan permulaan pelaksanaan
-sebagaimana dimaksud dalam Pasal 17 ayat (1):
-a. tidak menyelesaikan perbuatannya karena
-kehendaknya sendiri secara sukarela; atau
-b. dengan kehendaknya sendiri mencegah tercapainya
-tqiuan atau akibat perbuatannya.
+sebagaimana dimaksud dalam [Pasal 17 ayat (1)](/uu/2023/1/pasal-17/ayat-1):
+  a. tidak menyelesaikan perbuatannya karena
+  kehendaknya sendiri secara sukarela; atau
+  b. dengan kehendaknya sendiri mencegah tercapainya
+  tujuan atau akibat perbuatannya.
 (2) Dalam hal percobaan sebagaimana dimaksud pada
 ayat (1) telah menimbulkan kerugian atau menurut
-peraturan perundang-undangan mempakan Tindak
-Pidana tersendiri, pelaku dapat dipertanggungiawabkan
+peraturan perundang-undangan merupakan Tindak
+Pidana tersendiri, pelaku dapat dipertanggungjawabkan
 untuk Tindak Pidana tersebut.
 
 Pasal 19
@@ -289,32 +288,32 @@ Penyertaan
 
 Pasal 20
 Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:
-a. melakukan sendiri Tindak Pidana;
-b. melakukan Tindak Pidana dengan perantaraan alat
-atau menyuruh orang lain yang tidak dapat
-dipertanggungjawabkan ;
-c. turut serta melakukan Tindak Pidana; atau
-d. menggerakkan orang lain supaya melakukan Tindak
-Pidana dengan cara memberi atau menjanjikan sesuatu,
-menyalahgunakan kekuasaan atau martabat,
-melakukan Kekerasan, menggunakan Ancaman
-Kekerasan, melakukan penyesatan, atau dengan
-memberi kesempatan, sarana, atau keterangan.
+  a. melakukan sendiri Tindak Pidana;
+  b. melakukan Tindak Pidana dengan perantaraan alat
+  atau menyuruh orang lain yang tidak dapat
+  dipertanggungjawabkan;
+  c. turut serta melakukan Tindak Pidana; atau
+  d. menggerakkan orang lain supaya melakukan Tindak
+  Pidana dengan cara memberi atau menjanjikan sesuatu,
+  menyalahgunakan kekuasaan atau martabat,
+  melakukan Kekerasan, menggunakan Ancaman
+  Kekerasan, melakukan penyesatan, atau dengan
+  memberi kesempatan, sarana, atau keterangan.
 
 Pasal 21
 (1) Setiap Orang dipidana sebagai pembantu Tindak Pidana
 jika dengan sengaja:
-a. memberi kesempatan, sar€rna, atau keterangan
-untuk melakukan Tindak Pidana; atau
-b. memberi bantuan pada waktu Tindak Pidana
-dilakukan.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+  a. memberi kesempatan, sarana, atau keterangan
+  untuk melakukan Tindak Pidana; atau
+  b. memberi bantuan pada waktu Tindak Pidana
+  dilakukan.
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-21/ayat-1) tidak
 berlaku untuk pembantuan melakukan Tindak Pidana
 yang hanya diancam dengan pidana denda paling
 banyak kategori II.
 (3) Pidana untuk pembantuan melakukan Tindak Pidana
-paling banyak 213 (dua per tiga) dari maksimum
-ancarnan pidana pokok untuk Tindak Pidana yang
+paling banyak 2/3 (dua per tiga) dari maksimum
+ancaman pidana pokok untuk Tindak Pidana yang
 bersangkutan.
 (4) Pembantuan melakukan Tindak Pidana yang diancam
 dengan pidana mati atau pidana penjara seumur hidup,
@@ -326,8 +325,8 @@ Tindak Pidana yang bersangkutan.
 
 Pasal 22
 Keadaan pribadi pelaku sebagaimana dimaksud dalam
-Pasal 2O atau pembantu sebagaimana dimaksud dalam
-Pasal 21 dapat menghapus, mengurangi, atau memperberat
+[Pasal 20](/uu/2023/1/pasal-20) atau pembantu sebagaimana dimaksud dalam
+[Pasal 21](/uu/2023/1/pasal-21) dapat menghapus, mengurangi, atau memperberat
 pidananya.
 
 Paragraf 6
@@ -335,19 +334,21 @@ Pengulangan
 
 Pasal 23
 (1) Pengulangan Tindak Pidana terjadi jika Setiap Orang:
-a. melakukan Tindak Pidana kembali dalam waktu
-5 (lima) tahun setelah menjalani seluruh atau
-sebagian pidana pokok yang dijatuhkan atau pidana
-pokok yang dijatuhkan telah dihapuskan; atau
-b. pada waktu melakukan Tindak Pidana, kewajiban
-menjalani pidana pokok yang dijatuhkan terdahulu
-belum kedaluwarsa.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
-lnencakup Tindak Pidana yang diancam dengan pidana
-minimum khusus, pidana penjara 4 (empat) tahun atau
-lebih, atau pidana denda paling sedikit kategori III.
-(3) Ketentuan sebagaimana dimaksud pada ayat (1) juga
-berlaku untuk Tindak Pidana mengenai penganiayaan.
+  a. melakukan Tindak Pidana kembali dalam waktu
+  5 (lima) tahun setelah menjalani seluruh atau
+  sebagian pidana pokok yang dijatuhkan atau pidana
+  pokok yang dijatuhkan telah dihapuskan; atau
+  b. pada waktu melakukan Tindak Pidana, kewajiban
+  menjalani pidana pokok yang dijatuhkan terdahulu
+  belum kedaluwarsa.
+(2) Tindak Pidana sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-23/ayat-1) mencakup Tindak Pidana
+yang diancam dengan pidana minimum khusus, pidana
+penjara 4 (empat) tahun atau lebih, atau pidana denda
+paling sedikit kategori III.
+(3) Ketentuan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-23/ayat-1) juga berlaku untuk Tindak Pidana
+mengenai penganiayaan.
 
 Paragraf 7
 Tindak Pidana Aduan
@@ -369,7 +370,7 @@ oleh keluarga sedarah dalam garis lurus.
 (3) Dalam hal keluarga sedarah dalam garis lurus
 sebagaimana dimaksud pada ayat (2) tidak ada,
 pengaduan dilakukan oleh keluarga sedarah dalam
-garis menyamping sampai derqiat ketiga.
+garis menyamping sampai derajat ketiga.
 (4) Dalam hal Korban Tindak Pidana sebagaimana
 dimaksud pada ayat (1) tidak memiliki Orang Tua, wali,
 atau keluarga sedarah dalam garis lurus ke atas
@@ -381,12 +382,15 @@ Pasal 26
 bawah pengampuan, yang berhak mengadu merupakan
 pengampunya, kecuali bagi Korban Tindak Pidana
 aduan yang berada dalam pengampuan karena boros.
-(2) Dalam hal pengampu sebagaimana dimaksud pada ayat (1) tidak ada atau pengampu itu sendiri yang harus
+(2) Dalam hal pengampu sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-26/ayat-1) tidak ada
+atau pengampu itu sendiri yang harus
 diadukan, pengaduan dilakukan oleh suami atau istri
 Korban atau keluarga sedarah dalam garis lurus.
 (3) Dalam hal suami atau istri Korban atau keluarga
 sedarah dalam garis lurus sebagaimana dimaksud pada
-ayat (2) tidak ada, pengaduan dilakukan oleh keluarga
+[ayat (2)](/uu/2023/1/pasal-26/ayat-2) tidak ada,
+pengaduan dilakukan oleh keluarga
 sedarah dalam garis menyamping sampai derajat ketiga.
 
 Pasal 27
@@ -398,24 +402,25 @@ tegas tidak menghendaki adanya penuntutan.
 Pasal 28
 (1) Pengaduan dilakukan dengan cara menyampaikan
 pemberitahuan dan permohonan untuk dituntut.
-(2) Pengaduan sebagaimana dimaksud pada ayat (1)
-diajukan secara lisan atau tertulis kepada Pejabat yang
-berwenang.
+(2) Pengaduan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-28/ayat-1) diajukan secara
+lisan atau tertulis kepada Pejabat yang berwenang.
 
 Pasal 29
 (1) Pengaduan harus diajukan dalam tenggang waktu:
-a. 6 (enam) Bulan terhitung sejak tanggal orang yang
-berhak mengadu mengetahui adanya Tindak Pidana
-jika yang berhak mengadu bertempat tinggal di
-wilayah Negara Kesatuan Republik Indonesia; atau
-b. 9 (sembilan) Bulan terhitung sejak tanggal orang
-yang berhak mengadu mengetahui adanya Tindak
-Pidana jika yang berhak mengadu bertempat tinggal
-di luar wilayah Negara Kesatuan Republik Indonesia.
+  a. 6 (enam) Bulan terhitung sejak tanggal orang yang
+  berhak mengadu mengetahui adanya Tindak Pidana
+  jika yang berhak mengadu bertempat tinggal di
+  wilayah Negara Kesatuan Republik Indonesia; atau
+  b. 9 (sembilan) Bulan terhitung sejak tanggal orang
+  yang berhak mengadu mengetahui adanya Tindak
+  Pidana jika yang berhak mengadu bertempat tinggal
+  di luar wilayah Negara Kesatuan Republik Indonesia.
 (2) Jika yang berhak mengadu lebih dari 1 (satu) orang,
-tenggang waktu sebagaimana dimaksud pada ayat (1)
-dihitung sejak tanggal masing-masing pengadu
-mengetahui adanya Tindak Pidana.
+tenggang waktu sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-29/ayat-1) dihitung sejak
+tanggal masing-masing pengadu mengetahui adanya
+Tindak Pidana.
 
 Pasal 30
 (1) Pengaduan dapat ditarik kembali oleh pengadu dalam
@@ -453,8 +458,8 @@ atau harta benda sendiri atau orang lain.
 
 Pasal 35
 Ketiadaan sifat melawan hukum dari Tindak Pidana
-sebagaimana dimaksud dalam Pasal 12 ayal (2) merupakan
-alasan pembenar.
+sebagaimana dimaksud dalam [Pasal 12 ayat (2)](/uu/2023/1/pasal-12/ayat-2)
+merupakan alasan pembenar.
 
 Bagian Kedua
 Pertanggungjawaban Pidana
@@ -475,10 +480,10 @@ perundang-undangan.
 Pasal 37
 Dalam hal ditentukan oleh Undang-Undang, Setiap Orang
 dapat:
-a. dipidana semata-mata karena telah dipenuhinya unsurunsur Tindak Pidana tanpa memperhatikan adanya
-kesalahan; atau
-b. dimintai pertanggungiawaban atas Tindak Pidana yang
-dilakukan oleh orang lain.
+  a. dipidana semata-mata karena telah dipenuhinya unsur-unsur
+  Tindak Pidana tanpa memperhatikan adanya kesalahan; atau
+  b. dimintai pertanggungjawaban atas Tindak Pidana yang
+  dilakukan oleh orang lain.
 
 Pasal 38
 Setiap Orang yang pada waktu melakukan Tindak Pidana
@@ -506,25 +511,25 @@ Dalam hal anak yang belum berumur 12 (dua belas) tahun
 melakukan atau diduga melakukan Tindak Pidana, penyidik,
 pembimbing kemasyarakatan, dan pekerja sosial profesional
 mengambil keputusan untuk:
-a. menyerahkan kembali kepada Orang Tua/wali; atau
-b. mengikutsertakan dalam program pendidikan,
-pembinaan, dan pembimbingan di instansi pemerintah
-atau lembaga penyelenggaraan kesejahteraan sosial di
-instansi yang menangani bidang kesejahteraan sosial,
-baik pada tingkat pusat maupun daerah, paling lama
-6 (enam) Bulan.
+  a. menyerahkan kembali kepada Orang Tua/wali; atau
+  b. mengikutsertakan dalam program pendidikan,
+  pembinaan, dan pembimbingan di instansi pemerintah
+  atau lembaga penyelenggaraan kesejahteraan sosial di
+  instansi yang menangani bidang kesejahteraan sosial,
+  baik pada tingkat pusat maupun daerah, paling lama
+  6 (enam) Bulan.
 
 Pasal 42
 Setiap Orang yang melakukan Tindak Pidana tidak dipidana
 karena:
-a. dipaksa oleh kekuatan yang tidak dapat ditahan; atau
-b. dipaksa oleh adanya ancarnan, tekanan, atau kekuatan
-yang tidak dapat dihindari.
+  a. dipaksa oleh kekuatan yang tidak dapat ditahan; atau
+  b. dipaksa oleh adanya ancaman, tekanan, atau kekuatan
+  yang tidak dapat dihindari.
 
 Pasal 43
 Setiap Orang yang melakukan pembelaan terpaksa yang
 melampaui batas yang langsung disebabkan keguncangan
-jiwa yang hebat karena serangan atau ancaman ser€rngan
+jiwa yang hebat karena serangan atau ancaman serangan
 seketika yang melawan hukum, tidak dipidana.
 
 Pasal 44
@@ -538,14 +543,14 @@ Paragraf 3
 Pertanggungjawaban Korporasi
 
 Pasal 45
-Korporasi merupakan subjek Tindak Pidana.
-Korporasi sebagaimana dimaksud pada ayat (1)
+(1) Korporasi merupakan subjek Tindak Pidana.
+(2) Korporasi sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-45/ayat-1)
 mencakup badan hukum yang berbentuk perseroan
 terbatas, yayasan, koperasi, badan usaha milik negara,
 badan usaha milik daerah, atau yang disamakan
 dengan itu, serta perkumpulan baik yang berbadan
 hukum maupun tidak berbadan hukum, badan usaha
-yang berbentuk lirma, persekutuan komanditer, atau
+yang berbentuk firma, persekutuan komanditer, atau
 yang disamakan dengan itu sesuai dengan ketentuan
 peraturan perundang-undangan.
 
@@ -560,7 +565,7 @@ lingkup usaha atau kegiatan Korporasi tersebut, baik secara
 sendiri-sendiri maupun bersama-sama.
 
 Pasal 47
-Selain ketentuan sebagaimana dimaksud dalam Pasal 46,
+Selain ketentuan sebagaimana dimaksud dalam [Pasal 46](/uu/2023/1/pasal-46),
 Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi
 perintah, pemegang kendali, atau pemilik manfaat Korporasi
 yang berada di luar struktur organisasi, tetapi dapat
@@ -568,22 +573,23 @@ mengendalikan Korporasi.
 
 Pasal 48
 Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam
-Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:
-a. termasuk dalam lingkup usaha atau kegiatan
-sebagaimana ditentukan dalam anggaran dasar atau
-ketentuan lain yang berlaku bagi Korporasi;
-b. menguntungkan Korporasi secara melawan hukum;
-c. diterima sebagai kebijakan Korporasi;
-d. Korporasi tidak melakukan langkah-langkah yang
-diperlukan untuk melakukan pencegahan, mencegah
-dampak yang lebih besar dan memastikan kepatuhan
-terhadap ketentuan hukum yang berlaku guna
-menghindari terjadinya tindak pidana; dan/ atau
-e. Korporasi membiarkan terjadinya tindak pidana.
+[Pasal 46](/uu/2023/1/pasal-46) dan [Pasal 47](/uu/2023/1/pasal-47)
+dapat dipertanggungjawabkan, jika:
+  a. termasuk dalam lingkup usaha atau kegiatan
+  sebagaimana ditentukan dalam anggaran dasar atau
+  ketentuan lain yang berlaku bagi Korporasi;
+  b. menguntungkan Korporasi secara melawan hukum;
+  c. diterima sebagai kebijakan Korporasi;
+  d. Korporasi tidak melakukan langkah-langkah yang
+  diperlukan untuk melakukan pencegahan, mencegah
+  dampak yang lebih besar dan memastikan kepatuhan
+  terhadap ketentuan hukum yang berlaku guna
+  menghindari terjadinya tindak pidana; dan/ atau
+  e. Korporasi membiarkan terjadinya tindak pidana.
 
 Pasal 49
 Pertanggunglawaban atas Tindak Pidana oleh Korporasi
-sebagaimana dimaksud dalam Pasal 48 dikenakan terhadap
+sebagaimana dimaksud dalam [Pasal 48](/uu/2023/1/pasal-48) dikenakan terhadap
 Korporasi, pengurus yang mempunyai kedudukan
 fungsional, pemberi perintah, pemegang kendali, dan/ atau
 pemilik manfaat Korporasi.
@@ -607,18 +613,18 @@ Tujuan Pemidanaan
 
 Pasal 51
 Pemidanaan bertujuan:
-a. mencegah dilakukannya Tindak Pidana dengan
-menegakkan norma hukum demi pelindungan dan
-pengayoman masyarakat;
-b. memasyaralatkan terpidana dengan mengadalan
-pembinaan dan pembimbingan agar menjadi orang yang
-baik dan berguna;
-c. menyelesaikan konflik yang ditimbulkan akibat Tindak
-Pidana, memulihkan keseimbangan, serta
-mendatangkan rasa arnan dan damai dalam
-masyarakat; dan
-menumbuhkan rasa penyesalan dan membebaskan
-rasa bersalah pada terpidana.
+  a. mencegah dilakukannya Tindak Pidana dengan
+  menegakkan norma hukum demi pelindungan dan
+  pengayoman masyarakat;
+  b. memasyarakatkan terpidana dengan mengadalan
+  pembinaan dan pembimbingan agar menjadi orang yang
+  baik dan berguna;
+  c. menyelesaikan konflik yang ditimbulkan akibat Tindak
+  Pidana, memulihkan keseimbangan, serta
+  mendatangkan rasa arnan dan damai dalam
+  masyarakat; dan
+  d. menumbuhkan rasa penyesalan dan membebaskan
+  rasa bersalah pada terpidana.
 
 Pasal 52
 Pemidanaan tidak dimaksudkan untuk merendahkan
@@ -631,30 +637,30 @@ Pasal 53
 (1) Dalam mengadili suatu perkara pidana, hakim wajib
 menegakkan hukum dan keadilan.
 (2) Jika dalam menegakkan hukum dan keadilan
-sebagaimana dimaksud pada ayat (1) terdapat
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-53/ayat-1) terdapat
 pertentangan antara kepastian hukum dan keadilan,
 hakim wajib mengutamakan keadilan.
 
 Pasal 54
 (1) Dalam pemidanaan wajib dipertimbangkan:
-a. bentuk kesalahan pelaku Tindak Pidana;
-b. motif dan tujuan melakukan Tindak Pidana;
-c. sikap batin pelaku Tindak Pidana;
-d. Tindak Pidana dilakukan dengan direncanakan atau
-tidak direncanakan;
-e. cara melakukan Tindak Pidana;
-f. sikap dan tindakan pelaku sesudah melakukan
-Tindak Pidana;
-g. riwayat hidup, keadaan sosial, dan keadaan
-ekonomi pelalu Tindak Pidana;
-h. pengaruh pidana terhadap masa depan pelaku
-Tindak Pidana;
-i. pengaruh Tindak Pidana terhadap Korban atau
-keluarga Korban;
-j. pemaafan dari Korban dan/atau keluarga Korban;
-dan/ atau
-k. nilai hukum dan keadilan yang hidup dalam
-masyarakat.
+  a. bentuk kesalahan pelaku Tindak Pidana;
+  b. motif dan tujuan melakukan Tindak Pidana;
+  c. sikap batin pelaku Tindak Pidana;
+  d. Tindak Pidana dilakukan dengan direncanakan atau
+  tidak direncanakan;
+  e. cara melakukan Tindak Pidana;
+  f. sikap dan tindakan pelaku sesudah melakukan
+  Tindak Pidana;
+  g. riwayat hidup, keadaan sosial, dan keadaan
+  ekonomi pelalu Tindak Pidana;
+  h. pengaruh pidana terhadap masa depan pelaku
+  Tindak Pidana;
+  i. pengaruh Tindak Pidana terhadap Korban atau
+  keluarga Korban;
+  j. pemaafan dari Korban dan/atau keluarga Korban;
+  dan/ atau
+  k. nilai hukum dan keadilan yang hidup dalam
+  masyarakat.
 (2) Ringannya perbuatan, keadaan pribadi pelaku, atau
 keadaan pada waktu dilakukan Tindak Pidana serta
 yang terjadi kemudian dapat dijadikan dasar
@@ -672,22 +678,22 @@ menjadi alasan peniadaan pidana tersebut.
 Pasal 56
 Dalam pemidanaan terhadap Korporasi wajib
 dipertimbangkan:
-a. tingkat kerugian atau dampak yang ditimbulkan;
-b. tingkat keterlibatan pengunrs yang mempunyai
-kedudukan fungsional Korporasi dan/ atau peran
-pemberi perintah, pemegang kendali, dan/ atau pemilik
-manfaat Korporasi;
-c. lamanya Tindak Pidana yang telah dilakukan;
-d. frekuensi Tindak Pidana oleh Korporasi;
-e. bentuk kesalahan Tindak Pidana;
-f. keterlibatanPejabat;
-g. nilai hukum dan keadilan yang hidup dalam
-masyarakat;
-h. rekam jejak Korporasi dalam melakukan usaha atau
-kegiatan;
-i. pengaruh pemidanaan terhadap Korporasi; dan/ atau
-j. kerja sama Korporasi dalam penanganan Tindak
-Pidana.
+  a. tingkat kerugian atau dampak yang ditimbulkan;
+  b. tingkat keterlibatan pengunrs yang mempunyai
+  kedudukan fungsional Korporasi dan/ atau peran
+  pemberi perintah, pemegang kendali, dan/ atau pemilik
+  manfaat Korporasi;
+  c. lamanya Tindak Pidana yang telah dilakukan;
+  d. frekuensi Tindak Pidana oleh Korporasi;
+  e. bentuk kesalahan Tindak Pidana;
+  f. keterlibatanPejabat;
+  g. nilai hukum dan keadilan yang hidup dalam
+  masyarakat;
+  h. rekam jejak Korporasi dalam melakukan usaha atau
+  kegiatan;
+  i. pengaruh pemidanaan terhadap Korporasi; dan/ atau
+  j. kerja sama Korporasi dalam penanganan Tindak
+  Pidana.
 
 Paragraf 3
 Pedoman Penerapan Pidana Penjara dengan Perumusan Tunggal dan
@@ -705,15 +711,15 @@ Pemberatan Pidana
 
 Pasal 58
 Faktor yang memperberat pidana meliputi:
-a. Pejabat yang melakukan Tindak Pidana sehingga
-melanggar kewajiban jabatan yang khusus atau
-melakukan Tindak Pidana dengan menyalahgunakan
-kewenangan, kesempatan, atau sarana yang diberikan
-kepadanya karena jabatan;
-b. penggunaan bendera kebangsaan, lagu kebangsaan,
-atau lambang negara Indonesia pada waktu melakukan
-Tindak Pidana; atau
-c. pengulangan Tindak Pidana.
+  a. Pejabat yang melakukan Tindak Pidana sehingga
+  melanggar kewajiban jabatan yang khusus atau
+  melakukan Tindak Pidana dengan menyalahgunakan
+  kewenangan, kesempatan, atau sarana yang diberikan
+  kepadanya karena jabatan;
+  b. penggunaan bendera kebangsaan, lagu kebangsaan,
+  atau lambang negara Indonesia pada waktu melakukan
+  Tindak Pidana; atau
+  c. pengulangan Tindak Pidana.
 
 Pasal 59
 Pemberatan sebagaimana dimaksud dalam Pasal 58 dapat
@@ -729,7 +735,7 @@ sudah berada di dalam tahanan mulai berlaku pada
 saat putusan pengadilan telah memperoleh kekuatan
 hukum tetap.
 (2) Dalam hal terpidana tidak berada di dalam tahanan,
-pidana sebagaimana dimaksud pada ayat (1) berlaku
+pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-60/ayat-1) berlaku
 pada saat putusan pengadilan mulai dilaksanakan.
 
 Pasal 61
@@ -739,7 +745,7 @@ penangkapan dan/atau penahanan yang telah dijalani
 terdakwa sebelum putusan pengadilan memperoleh
 kekuatan hukum tetap.
 (2) Pengurangan pidana denda sebagaimana dimaksud
-pada ayat (1) disepadankan dengan penghitungan
+pada [ayat (1)](/uu/2023/1/pasal-61/ayat-1) disepadankan dengan penghitungan
 pidana penjara pengganti denda.
 
 Pasal 62
@@ -747,7 +753,7 @@ Pasal 62
 pemidanaan bagi terpidana, kecuali dalam hal putusan
 pidana mati.
 (2) Ketentuan mengenai syarat dan tata cara permohonan
-grasi sebagaimana dimaksud pada ayat (1) diatur dalam
+grasi sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-62/ayat-1) diatur dalam
 Undang-Undang.
 
 Pasal 63
@@ -763,48 +769,48 @@ Pidana
 
 Pasal 64
 Pidana terdiri atas:
-a. pidana pokok;
-b. pidana tambahan; dan
-c. pidana yang bersifat khusus untuk Tindak Pidana
-tertentu yang ditentukan dalam Undang-Undang.
+  a. pidana pokok;
+  b. pidana tambahan; dan
+  c. pidana yang bersifat khusus untuk Tindak Pidana
+  tertentu yang ditentukan dalam Undang-Undang.
 
 Pasal 65
-(1) Pidana pokok sebagaimana dimaksud dalam Pasal 64
+(1) Pidana pokok sebagaimana dimaksud dalam [Pasal 64](/uu/2023/1/pasal-64)
 huruf a terdiri atas:
-a. pidana penjara;
-b. pidana tutupan;
-c. pidana pengawasan;
-d. pidana denda; dan
-e. pidana kerja sosial.
-(2) Urutan pidana sebagaimana dimaksud pada ayat (1)
+  a. pidana penjara;
+  b. pidana tutupan;
+  c. pidana pengawasan;
+  d. pidana denda; dan
+  e. pidana kerja sosial.
+(2) Urutan pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-65/ayat-1)
 menentukan berat atau ringannya pidana.
 
 Pasal 66
 (1) Pidana tambahan sebagaimana dimaksud dalam
-Pasal 64 huruf b terdiri atas:
-a. pencabutan hak tertentu;
-b. perampasan Barang tertentu dan/ atau tagihan;
-c. pengumuman putusan hakim;
-d. pembayaran ganti nrgi;
-e. pencabutan izin tertentu; dan
-f. pemenuhan kewajiban adat setempat.
+[Pasal 64](/uu/2023/1/pasal-64) huruf b terdiri atas:
+  a. pencabutan hak tertentu;
+  b. perampasan Barang tertentu dan/ atau tagihan;
+  c. pengumuman putusan hakim;
+  d. pembayaran ganti nrgi;
+  e. pencabutan izin tertentu; dan
+  f. pemenuhan kewajiban adat setempat.
 (2) Pidana tambahan sebagaimana dimaksud pada
-ayat (1) dapat dikenakan dalam hal penjatuhan pidana
+[ayat (1)](/uu/2023/1/pasal-66/ayat-1) dapat dikenakan dalam hal penjatuhan pidana
 pokok saja tidak cukup untuk mencapai tujuan pemidanaan.
 (3) Pidana tambahan sebagaimana dimaksud pada
-ayat (1) dapat dijatuhkan 1 (satu) jenis atau lebih.
+[ayat (1)](/uu/2023/1/pasal-66/ayat-1) dapat dijatuhkan 1 (satu) jenis atau lebih.
 (4) Pidana tambahan untuk percobaan dan pembantuan
 sama dengan pidana tambahan untuk Tindak
 Pidananya.
 (5) Pidana tambahan bagi anggota Tentara Nasional
-Indonesia yang melakukan Tindak Pidana da-lam
+Indonesia yang melakukan Tindak Pidana dalam
 perkara koneksitas dikenakan sesuai dengan ketentuan
 peraturan perundang-undangan bagi Tentara Nasional
 Indonesia.
 
 Pasal 67
 Pidana yang bersifat khusus sebagaimana dimaksud dalam
-Pasal 64 huruf c merupakan pidana mati yang selalu
+[Pasal 64](/uu/2023/1/pasal-64) huruf c merupakan pidana mati yang selalu
 diancamkan secara alternatif.
 
 Pasal 68
@@ -832,54 +838,54 @@ dengan Keputusan Presiden setelah mendapatkan
 pertimbangan Mahkamah Agung.
 (2) Ketentuan mengenai tata cara perubahan pidana
 penjara seumur hidup menjadi pidana penjara 20 (dua
-puluh) tahun sebagaimana dimaksud pada ayat (1)
+puluh) tahun sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-69/ayat-1)
 diatur dengan Peraturan Pemerintah.
 
 Pasal 70
 (1) Dengan tetap mempertimbangkan ketentuan
-sebagaimana dimaksud dalam Pasal 51 sampai dengan
-Pasal 54, pidana penjara sedapat mungkin tidak
+sebagaimana dimaksud dalam [Pasal 51](/uu/2023/1/pasal-51) sampai dengan
+[Pasal 54](/uu/2023/1/pasal-54), pidana penjara sedapat mungkin tidak
 dijatuhkan jika ditemukan keadaan:
-a. terdakwa adalah Anak;
-b. terdakwa berumur di atas 75 (tujuh puluh lima)
-tahun;
-c. terdakwa baru pertama kali melakukan Tindak
-Pidana;
-d. kerugian dan penderitaan Korban tidak terlalu
-besar;
-e. terdakwa telah membayar ganti rugi kepada Korban;
-f. terdakwa tidak menyadari bahwa Tindak Pidana
-yang dilakukan akan menimbulkan kerugian yang
-besar;
-g. Tindak Pidana terjadi karena hasutan yang sangat
-kuat dari orang lain;
-h. Korban Tindak Pidana mendorong atau
-menggerakkan terjadinya Tindak Pidana tersebut;
-i. Tindak Pidana tersebut merupakan akibat dari
-suatu keadaan yang tidak mungkin terulang lagi;
-j. kepribadian dan perilaku terdakwa meyakinkan
-bahwa ia tidak akan melakukan Tindak Pidana yang
-lain;
-k. pidana penjara akan menimbulkan penderitaan
-yang besar bagi terdakwa atau keluarganya;
-l. pembinaan di luar lemb"ga pemasyarakatan
-diperkirakan akan berhasil untuk diri terdakwa;
-m. penjatuhan pidana yang lebih ringan tidak akan
-mengurangi sifat berat Tindak Pidana yang
-dilakukan terdakwa;
-n. Tindak Pidana terjadi di kalangan keluarga;
-dan/ atau
-o. Tindak Pidana terjadi karena kealpaan.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+  a. terdakwa adalah Anak;
+  b. terdakwa berumur di atas 75 (tujuh puluh lima)
+  tahun;
+  c. terdakwa baru pertama kali melakukan Tindak
+  Pidana;
+  d. kerugian dan penderitaan Korban tidak terlalu
+  besar;
+  e. terdakwa telah membayar ganti rugi kepada Korban;
+  f. terdakwa tidak menyadari bahwa Tindak Pidana
+  yang dilakukan akan menimbulkan kerugian yang
+  besar;
+  g. Tindak Pidana terjadi karena hasutan yang sangat
+  kuat dari orang lain;
+  h. Korban Tindak Pidana mendorong atau
+  menggerakkan terjadinya Tindak Pidana tersebut;
+  i. Tindak Pidana tersebut merupakan akibat dari
+  suatu keadaan yang tidak mungkin terulang lagi;
+  j. kepribadian dan perilaku terdakwa meyakinkan
+  bahwa ia tidak akan melakukan Tindak Pidana yang
+  lain;
+  k. pidana penjara akan menimbulkan penderitaan
+  yang besar bagi terdakwa atau keluarganya;
+  l. pembinaan di luar lembaga pemasyarakatan
+  diperkirakan akan berhasil untuk diri terdakwa;
+  m. penjatuhan pidana yang lebih ringan tidak akan
+  mengurangi sifat berat Tindak Pidana yang
+  dilakukan terdakwa;
+  n. Tindak Pidana terjadi di kalangan keluarga;
+  dan/ atau
+  o. Tindak Pidana terjadi karena kealpaan.
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-70/ayat-1) tidak
 berlaku bagi:
-a. Tindak Pidana yang diancam dengan pidana penjara
-5 (lima) tahun atau lebih;
-b. Tindak Pidana yang diancam dengan pidana
-minimum khusus;
-c. Tindak Pidana tertentu yang sangat membahayakan
-atau merugikan masyarakat; atau
-d. Tindak Pidana yang merugikan keuangan atau
-perekonomian negara.
+  a. Tindak Pidana yang diancam dengan pidana penjara
+  5 (lima) tahun atau lebih;
+  b. Tindak Pidana yang diancam dengan pidana
+  minimum khusus;
+  c. Tindak Pidana tertentu yang sangat membahayakan
+  atau merugikan masyarakat; atau
+  d. Tindak Pidana yang merugikan keuangan atau
+  perekonomian negara.
 
 Pasal 71
 (1) Jika seseorang melakukan Tindak Pidana yang hanya
@@ -887,22 +893,23 @@ diancam dengan pidana penjara di bawah 5 (lima)
 tahun, sedangkan hakim berpendapat tidak perlu
 menjatuhkan pidana penjara setelah
 mempertimbangkan tujuan pemidanaan dan pedoman
-pemidanaan sebagai62na dimaksud dalam Pasal 51
-sampai dengan Pasal 54, orang tersebut dapat dijatuhi
+pemidanaan sebagaimana dimaksud dalam [Pasal 51](/uu/2023/1/pasal-51) sampai dengan
+[Pasal 54](/uu/2023/1/pasal-54), orang tersebut dapat dijatuhi
 pidana denda.
-(2) Pidana denda sebagaimana dimaksud pada ayat (1)
-hanya dapat dijatuhkan jika:
-a. tanpa Korban;
-b. Korban tidak mempermasalahkan; atau
-c. bukan pengulangan Tindak Pidana.
+(2) Pidana denda sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-71/ayat-1) hanya
+dapat dijatuhkan jika:
+  a. tanpa Korban;
+  b. Korban tidak mempermasalahkan; atau
+  c. bukan pengulangan Tindak Pidana.
 (3) Pidana denda yang dapat dijatuhkan berdasarkan
-ketentuan sebagaimana dimaksud pada ayat (1) adalah
+ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-71/ayat-1) adalah
 pidana denda paling banyak kategori V dan pidana
 denda paling sedikit kategori III.
-(4) Ketentuan sebagaimana dimaksud pada ayat (2)
+(4) Ketentuan sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-71/ayat-2)
 huruf c tidak berlaku bagi orang yang pernah dijatuhi
 pidana penjara untuk Tindak Pidana yang dilakukan
 sebelum berumur 18 (delapan belas) tahun.
+
 Pasal 72
 (1) Narapidana yang telah menjalani paling singkat
 2/3 (dua per tiga) dari pidana penjara yang dijatuhkan
@@ -910,59 +917,59 @@ dengan ketentuan 2/3 (dua per tiga) tersebut tidak
 kurang dari 9 (sembilan) Bulan dapat diberi
 pembebasan bersyarat.
 (2) Narapidana yang menjalani beberapa pidana penjara
-berturut turut rlianggap jumlah pidananya sebagai
+berturut turut dianggap jumlah pidananya sebagai
 1 (satu) pidana.
 (3) Dalam memberikan pembebasan bersyarat
-sebagaimana dimaksud pada ayat (1), ditentukan masa
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-72/ayat-1), ditentukan masa
 percobaan dan syarat yang harus dipenuhi selama masa
 percobaan.
-(4) Masa percobaan sebagaimana dimaksud pada ayat (3)
+(4) Masa percobaan sebagaimana dimaksud pada [ayat (3)](/uu/2023/1/pasal-72/ayat-3)
 sama dengan sisa waktu pidana penjara yang belum
 dijalani ditambah dengan 1 (satu) tahun.
-(5) Narapidana sebagaimana dimaksud pada ayat (1) yang
+(5) Narapidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-72/ayat-1) yang
 ditahan sebagai tersangka atau terdakwa dalam perkara
 lain tidak diperhitungkan waktu penahanannya sebagai
 masa percobaan.
 
 Pasal 73
 (1) Syarat yang harus dipenuhi selama masa percobaan
-sebagaimana dimalsud dalam Pasal 72 ayal (3) terdiri
+sebagaimana dimaksud dalam [Pasal 72 ayat (3)](/uu/2023/1/pasal-72/ayat-3) terdiri
 atas:
-a. syarat umum berupa narapidana tidak akan
-melakukan Tindak Pidana; dan
-b. syarat khusus berupa narapidana harus melakukan
-atau tidak melakukan perbuatan tertentu, tanpa
-mengurangi kemerdekaan beragama, menganut
-kepercayaan, dan berpolitik, kecuali ditentukan lain
-oleh hakim.
-(2) Syarat khusus sebagaimana dimaksud pada ayat (1)
-huruf b dapat diubah, dihapus, atau diadakan syarat
-baru yang semata-mata bertujuan untuk
-pembimbingan narapidana.
+  a. syarat umum berupa narapidana tidak akan
+  melakukan Tindak Pidana; dan
+  b. syarat khusus berupa narapidana harus melakukan
+  atau tidak melakukan perbuatan tertentu, tanpa
+  mengurangi kemerdekaan beragama, menganut
+  kepercayaan, dan berpolitik,
+  kecuali ditentukan lain oleh hakim.
+(2) Syarat khusus sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-73/ayat-1) huruf b
+dapat diubah, dihapus, atau diadakan syarat baru yang
+semata-mata bertujuan untuk pembimbingan
+narapidana.
 (3) Narapidana yang melanggar syarat sebagaimana
-dimaksud pada ayat (1) dapat dicabut pembebasan
-bersyaratnya.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-73/ayat-1) dapat dicabut
+pembebasan bersyaratnya.
 (4) Pembebasan bersyarat sebagaimana dimaksud pada
-ayat (3) tidak dapat dicabut setelah melampaui 3 (tiga)
-Bulan terhitung sejak saat habisnya masa percobaan,
-kecuali dalam waktu 3 (tiga) Bulan terhitung sejak
-habisnya masa percobaan, narapidana dituntut karena
-melakukan Tindak Pidana yang dilakukan dalam masa
-percobaan.
+[ayat (3)](/uu/2023/1/pasal-73/ayat-3) tidak dapat dicabut setelah
+melampaui 3 (tiga) Bulan terhitung sejak saat habisnya
+masa percobaan, kecuali dalam waktu 3 (tiga) Bulan
+terhitung sejak habisnya masa percobaan, narapidana
+dituntut karena melakukan Tindak Pidana yang
+dilakukan dalam masa percobaan.
 (5) Dalam hal narapidana sebagaimana dimaksud pada
-ayat (4) dijatuhi pidana penjara untuk waktu tertentu
-atau pidana denda paling sedikit kategori [I,
+[ayat (4)](/uu/2023/1/pasal-73/ayat-4) dijatuhi pidana penjara untuk waktu tertentu
+atau pidana denda paling sedikit kategori I,
 pembebasan bersyarat yang bersangkutan dicabut.
 
 Pasal 74
 (1) Orang yang melakukan Tindak Pidana yang diancam
 dengan pidana penjara karena keadaan pribadi,
 perbuatannya dapat dijatuhi pidana tutupan.
-(2) Pidana tutupan sebagaimana dimaksud pada ayat (1)
+(2) Pidana tutupan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-74/ayat-1)
 dapat dijatuhkan kepada terdakwa yang melakukan
 Tindak Pidana karena terdorong oleh maksud yang
 patut dihormati.
-(3) Ketentuan sebagaimana dimaksud pada ayat (2) tidak
+(3) Ketentuan sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-74/ayat-2) tidak
 berlaku, jika cara melakukan atau akibat dari Tindak
 Pidana tersebut sedemikian rupa sehingga terdakwa
 lebih tepat untuk dljatuhi pidana penjara.
@@ -971,30 +978,30 @@ Pasal 75
 Terdakwa yang melakukan Tindak Pidana yang diancam
 dengan pidana penjara paling lama 5 (lima) tahun dapat
 dijatuhi pidana pengawasan dengan tetap memperhatikan
-ketentuan sebagaimana dimaksud dalam Pasal 51 sampai
-dengan Pasal 54 dan Pasal 70.
+ketentuan sebagaimana dimaksud dalam [Pasal 51](/uu/2023/1/pasal-51)
+sampai dengan [Pasal 54](/uu/2023/1/pasal-54) dan [Pasal 70](/uu/2023/1/pasal-70).
 
 Pasal 76
 (1) Pidana pengawasan sebagaimana dimaksud dalam
-Pasal 75 dijatuhkan paling lama sama dengan pidana
+[Pasal 75](/uu/2023/1/pasal-75) dijatuhkan paling lama sama dengan pidana
 penjara yang diancamkan yang tidak lebih dari 3 (tiga)
 tahun.
 (2) Dalam putusan pidana pengawasan ditetapkan syarat
 umum, berupa terpidana tidak akan melakukan Tindak
 Pidana lagi.
 (3) Selain syarat umum sebagaimana dimaksud pada
-ayat (2), dalam putusan juga dapat ditetapkan syarat
-khusus, berupa:
-a. terpidana dalam waktu tertentu yang lebih pendek
-dari masa pidana pengawasan harus mengganti
-seluruh atau sebagian kemgian yang timbul akibat
-Tindak Pidana yang dilakukan; dan/atau
-b. terpidana harus melakukan atau tidak melakukan
-sesuatu tanpa mengurangi kemerdekaan beragama,
-kemerdekaan menganut kepercayaan, dan/atau
-kemerdekaan berpolitik.
+[ayat (2)](/uu/2023/1/pasal-76/ayat-2), dalam putusan juga dapat ditetapkan
+syarat khusus, berupa:
+  a. terpidana dalam waktu tertentu yang lebih pendek
+  dari masa pidana pengawasan harus mengganti
+  seluruh atau sebagian kemgian yang timbul akibat
+  Tindak Pidana yang dilakukan; dan/atau
+  b. terpidana harus melakukan atau tidak melakukan
+  sesuatu tanpa mengurangi kemerdekaan beragama,
+  kemerdekaan menganut kepercayaan, dan/atau
+  kemerdekaan berpolitik.
 (4) Dalam hal terpidana melanggar syarat umum
-sebagaimana dimaksud pada ayat (2), terpidana wajib
+sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-76/ayat-2), terpidana wajib
 menjalani pidana penjara yang lamanya tidak lebih dari
 ancarnan pidana penjara bagi Tindak Pidana itu.
 (5) Dalam hal terpidana melanggar syarat khusus tanpa
@@ -1003,11 +1010,12 @@ pembimbing kemasyarakatan mengusulkan kepada
 hakim agar terpidana menjalani pidana penjara atau
 memperpanjang masa pengawasan yang ditentukan
 oleh hakim yang lamanya tidak lebih dari pidana
-pengawasan yang dij atuhkan.
+pengawasan yang dijatuhkan.
 (6) Jaksa dapat mengusulkan pengurangan masa
 pengawasan kepada hakim jika selama dalam
 pengawasan terpidana menunjukkan kelakuan yang
 baik, berdasarkan pertimbangan pembimbing
+kemasyarakatan.
 (7) Ketentuan lebih lanjut tentang tata cara dan batas
 pengurangan dan perpanjangan masa pengawasan
 diatur dengan Peraturan Pemerintah.
@@ -1031,14 +1039,14 @@ rupiah).
 
 Pasal 79
 (1) Pidana denda paling banyak ditetapkan berdasarkan:
-a. kategori I, Rp1.000.000,00 (satu juta rupiah);
-b. kategori II, Rp10.000.000,00 (sepuluh juta rupiah);
-c. kategori III, Rp50.000.000,00 (lima puluh juta rupiah);
-d. kategori IV, Rp200.000.000,00 (dua ratus juta rupiah);
-e. kategori V, Rp500.000.000,00 (lima ratus juta rupiah);
-f. kategori VI, Rp2.000.000.000,00 (dua miliar rupiah);
-g. kategori VII, Rp5.000.000.000,00 (lima miliar rupiah); dan
-h. kategori VIII, Rp50.000.000.000,00 (lima puluh miliar rupiah).
+  a. kategori I, Rp1.000.000,00 (satu juta rupiah);
+  b. kategori II, Rp10.000.000,00 (sepuluh juta rupiah);
+  c. kategori III, Rp50.000.000,00 (lima puluh juta rupiah);
+  d. kategori IV, Rp200.000.000,00 (dua ratus juta rupiah);
+  e. kategori V, Rp500.000.000,00 (lima ratus juta rupiah);
+  f. kategori VI, Rp2.000.000.000,00 (dua miliar rupiah);
+  g. kategori VII, Rp5.000.000.000,00 (lima miliar rupiah); dan
+  h. kategori VIII, Rp50.000.000.000,00 (lima puluh miliar rupiah).
 (2) Dalam hal terjadi perubahan nilai uang, ketentuan
 besarnya pidana denda ditetapkan dengan Peraturan
 Pemerintah.
@@ -1048,7 +1056,7 @@ Pasal 80
 mempertimbangkan kemampuan terdakwa dengan
 memperhatikan penghasilan dan pengeluaran terdakwa
 secara nyata,
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-80/ayat-1) tidak
 mengurangi penerapan minimum khusus pidana denda
 yang ditetapkan.
 
@@ -1056,56 +1064,57 @@ Pasal 81
 (1) Pidana denda wajib dibayar dalam jangka waktu
 tertentu yang dimuat dalam putusan pengadilan.
 (2) Putusan pengadilan sebagaimana dimaksud pada
-ayat (1) dapat menentukan pembayaran pidana denda
+[ayat (1)](/uu/2023/1/pasal-81/ayat-1) dapat menentukan pembayaran pidana denda
 dengan cara mengangsur.
 (3) Jika pidana denda sebagaimana dimaksud pada
-ayat (1) tidak dibayar dalam jangka waktu yang telah
+[ayat (1)](/uu/2023/1/pasal-81/ayat-1) tidak dibayar dalam jangka waktu yang telah
 ditentukan, kekayaan atau pendapatan terpidana dapat
 disita dan dilelang oleh jaksa untuk melunasi pidana
 denda yang tidak dibayar.
 
 Pasal 82
 (1) Jika penyitaan dan pelelangan kekayaan atau
-pendapatan sebagaimana dimaksud dalam Pasal 81
-ayat (3) tidak cukup atau tidak memungkinkan untuk
+pendapatan sebagaimana dimaksud dalam [Pasal 81 ayat (3)](/uu/2023/1/pasal-81/ayat-3)
+tidak cukup atau tidak memungkinkan untuk
 dilaksanakan, pidana denda yang tidak dibayar tersebut
 diganti dengan pidana penjara, pidana pengawasan,
 atau pidana kerja sosial dengan ketentuan pidana
 denda tersebut tidak melebihi pidana denda kategori II.
 (2) Lama pidana pengganti sebagaimana dimaksud pada
-ayat (1) meliputi:
-a. untuk pidana penjara pengganti, paling singkat
-I (satu) Bulan dan paling lama 1 (satu) tahun yang
-dapat diperberat paling lama 1 (satu) tahun
-4 (empat) Bulan jika ada perbarengan;
-b. untuk pidana pengawasan pengganti, paling singkat
-I (satu) Bulan dan paling lama 1 (satu) tahun,
-berlaku syarat-syarat sebagaimana dimaksud dalam
-Pasal 76 ayat(2)dan ayat (3); atau
-c. untuk pidana kerja sosial pengganti paling singkat
-8 (delapan) jam dan paling lama 240 (dua ratus
-empat puluh) jam.
+[ayat (1)](/uu/2023/1/pasal-82/ayat-1) meliputi:
+  a. untuk pidana penjara pengganti, paling singkat
+  I (satu) Bulan dan paling lama 1 (satu) tahun yang
+  dapat diperberat paling lama 1 (satu) tahun
+  4 (empat) Bulan jika ada perbarengan;
+  b. untuk pidana pengawasan pengganti, paling singkat
+  I (satu) Bulan dan paling lama 1 (satu) tahun,
+  berlaku syarat-syarat sebagaimana dimaksud dalam
+  [Pasal 76 ayat (2)](/uu/2023/1/pasal-76/ayat-2)
+  dan [ayat (3)](/uu/2023/1/pasal-76/ayat-3); atau
+  c. untuk pidana kerja sosial pengganti paling singkat
+  8 (delapan) jam dan paling lama 240 (dua ratus
+  empat puluh) jam.
 (3) Jika pada saat menjalani pidana pengganti sebagian
 pidana denda dibayar, lama pidana pengganti dikurangi
 menurut ukuran yang sepadan.
 (4) Perhitungan lama pidana pengganti sebagaimana
-dimaksud pada ayat (3) didasarkan pada ukuran untuk
+dimaksud pada [ayat (3)](/uu/2023/1/pasal-82/ayat-3) didasarkan pada ukuran untuk
 setiap pidana denda Rp50.000,00 (lima puluh ribu rupiah) atau kurang yang disepadankan dengan:
-a. 1 (satu) jam pidana kerja sosial pengganti; atau
-b. 1 (satu) Hari pidana pengawasan atau pidana
-penjara pengganti.
+  a. 1 (satu) jam pidana kerja sosial pengganti; atau
+  b. 1 (satu) Hari pidana pengawasan atau pidana
+  penjara pengganti.
 
 Pasal 83
 (1) Jika penyitaan dan pelelangan kekayaan atau
-pendapatan sebagaimana dimaksud dalam Pasal 81
-ayat (3) tidak dapat dilakukan, pidana denda di atas
+pendapatan sebagaimana dimaksud dalam [Pasal 81 ayat (3)](/uu/2023/1/pasal-81/ayat-3)
+tidak dapat dilakukan, pidana denda di atas
 kategori II yang tidak dibayar diganti dengan pidana
-penjara paling singkat I (satu) tahun dan paling lama
+penjara paling singkat 1 (satu) tahun dan paling lama
 sebagaimana diancamkan untuk Tindak Pidana yang
 bersangkutan.
-(2) Ketentuan sebagaimana dimaksud dalam Pasal 82
-ayat (3) berlaku juga untuk ketentuan sebagaimana
-dimaksud pada ayat (1) sepanjang mengenai pidana
+(2) Ketentuan sebagaimana dimaksud dalam [Pasal 82 ayat (3)](/uu/2023/1/pasal-82/ayat-3)
+berlaku juga untuk ketentuan sebagaimana
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-83/ayat-1) sepanjang mengenai pidana
 penjara pengganti.
 
 Pasal 84
@@ -1122,24 +1131,23 @@ pidana penjara kurang dari 5 (lima) tahun dan hakim
 menjatuhkan pidana penjara paling lama 6 (enam)
 Bulan atau pidana denda paling banyak kategori II.
 (2) Dalam menjatuhkan pidana kerja sosial sebagaimana
-dimaksud pada ayat (1), hakim wajib
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-85/ayat-1), hakim wajib
 mempertimbangkan:
-a. pengakuan terdakwa terhadap Tindak Pidana yang
-dilakukan;
-b. kemampuan kerja terdakwa;
-c. persetujuan . . .
-c. persetqjuan terdakwa sesudah dijelaskan mengenai
-tujuan dan segala hal yang berhubungan dengan
-pidana kerja sosial;
-d. riwayat sosial terdakwa;
-e. pelindungan keselamatan kerja terdalwa;
-f. agama, kepercayaan, dan keyakinan politik
-terdakwa; dan
-g. kemampuan terdakwa membayar pidana denda.
+  a. pengakuan terdakwa terhadap Tindak Pidana yang
+  dilakukan;
+  b. kemampuan kerja terdakwa;
+  c. persetujuan terdakwa sesudah dijelaskan mengenai
+  tujuan dan segala hal yang berhubungan dengan
+  pidana kerja sosial;
+  d. riwayat sosial terdakwa;
+  e. pelindungan keselamatan kerja terdakwa;
+  f. agama, kepercayaan, dan keyakinan politik
+  terdakwa; dan
+  g. kemampuan terdakwa membayar pidana denda.
 (3) Pelaksanaan pidana kerja sosial tidak boleh
 dikomersialkan.
 (4) Pidana kerja sosial dijatuhkan paling singkat 8 (delapan)
-jam dan paling lama 24O (d:ua ratus empat puluh) jam.
+jam dan paling lama 240 (dua ratus empat puluh) jam.
 (5) Pidana kerja sosial dilaksanakan paling lama
 8 (delapan) jam dalam 1 (satu) Hari dan dapat diangsur
 dalam waktu paling lama 6 (enam) Bulan dengan
@@ -1147,98 +1155,98 @@ memperhatikan kegiatan terpidana dalam menjalankan
 mata pencahariannya dan/ atau kegiatan lain yang
 bermanfaat.
 (6) Pelaksanaan pidana kerja sosial sebagaimana dimaksud
-pada ayat (5) dimuat dalam putusan pengadilan.
+pada [ayat (5)](/uu/2023/1/pasal-85/ayat-5) dimuat dalam putusan pengadilan.
 (7) Putusan pengadilan sebagaimana dimaksud pada
-ayat (6) juga memuat perintah jika terpidana tanpa
+[ayat (6)](/uu/2023/1/pasal-85/ayat-6) juga memuat perintah jika terpidana tanpa
 alasan yang sah tidak melaksanakan seluruh atau
 sebagian pidana kerja sosial, terpidana wajib:
-a. mengulangi seluruh atau sebagian pidana kerja
-sosial tersebut;
-b. menjalani seluruh atau sebagian pidana penjara
-yang diganti dengan pidana kerja sosial tersebut;
-atau
-c. membayar seluruh atau sebagran pidana denda
-yang diganti dengan pidana keda sosial atau
-menjalani pidana penjara sebagai pengganti pidana
-denda yang tidak dibayar.
+  a. mengulangi seluruh atau sebagian pidana kerja
+  sosial tersebut;
+  b. menjalani seluruh atau sebagian pidana penjara
+  yang diganti dengan pidana kerja sosial tersebut;
+  atau
+  c. membayar seluruh atau sebagran pidana denda
+  yang diganti dengan pidana keda sosial atau
+  menjalani pidana penjara sebagai pengganti pidana
+  denda yang tidak dibayar.
 (8) Pengawasan terhadap pelaksanaan pidana kerja sosial
 dilakukan oleh jaksa dan pembimbingan dilakukan oleh
 pembimbing kemasyarakatan.
 (9) Putusan pengadilan mengenai pidana kerja sosial juga
 harus memuat:
-a. lama pidana penjara atau besarnya denda yang
-se sungguhnya dijatuhkan oleh hakim;
-b. lama pidana kerja sosial harus dijalani, dengan
-mencantumkan jumlah jam per Hari dan jangka
-waktu penyelesaian pidana kerja sosial; dan
-c. sanksi jika terpidana tidak menjalani pidana kerja
-sosial yang dijatuhkan.
+  a. lama pidana penjara atau besarnya denda yang
+  se sungguhnya dijatuhkan oleh hakim;
+  b. lama pidana kerja sosial harus dijalani, dengan
+  mencantumkan jumlah jam per Hari dan jangka
+  waktu penyelesaian pidana kerja sosial; dan
+  c. sanksi jika terpidana tidak menjalani pidana kerja
+  sosial yang dijatuhkan.
 
 Pasal 86
 Pidana tambahan berupa pencabutan hak tertentu
-sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf a
+sebagaimana dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf a
 dapat berupa:
-a. hak memegang jabatan publik pada umumnya atau
-jabatan tertentu;
-b. hak menjadi anggota Tentara Nasional Indonesia dan
-Kepolisian Negara Republik Indonesia;
-c. hak memilih dan dipilih dalam pemilihan yang diadakan
-sesuai dengan ketentuan peraturan perundangundangan;
-d. hak menjadi wali, wali pengawas, pengampu, atau
-pengampu pengawas atas orang yang bukan Anaknya
-sendiri;
-e. hak menjalankan Kekuasaan Ayah, menjalankan
-perwalian, atau mengampu atas Anaknya sendiri;
-f. hak menjalankan profesi tertentu; dan/ atau
-g. hak memperoleh pembebasan bersyarat.
+  a. hak memegang jabatan publik pada umumnya atau
+  jabatan tertentu;
+  b. hak menjadi anggota Tentara Nasional Indonesia dan
+  Kepolisian Negara Republik Indonesia;
+  c. hak memilih dan dipilih dalam pemilihan yang diadakan
+  sesuai dengan ketentuan peraturan perundangundangan;
+  d. hak menjadi wali, wali pengawas, pengampu, atau
+  pengampu pengawas atas orang yang bukan Anaknya
+  sendiri;
+  e. hak menjalankan Kekuasaan Ayah, menjalankan
+  perwalian, atau mengampu atas Anaknya sendiri;
+  f. hak menjalankan profesi tertentu; dan/ atau
+  g. hak memperoleh pembebasan bersyarat.
 
 Pasal 87
 Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak
-sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b,
+sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf a, huruf b,
 hunrf c, dan huruf f hanya dapat dilakukan jika pelaku
 dipidana karena melakukan Tindak Pidana yang diancam
 dengan pidana penjara 5 (lima) tahun atau lebih berupa:
-a. Tindak Pidana terkait jabatan atau Tindak Pidana yang
-melanggar kewajiban khusus suatu jabatan;
-b. Tindak Pidana yang terkait dengan profesinya; atau
-c. Tindak Pidana dengan menyalahgunakan kewenangan,
-kesempatan, atau sarana yang diberikan kepadanya
-karena jabatan atau profesinya.
+  a. Tindak Pidana terkait jabatan atau Tindak Pidana yang
+  melanggar kewajiban khusus suatu jabatan;
+  b. Tindak Pidana yang terkait dengan profesinya; atau
+  c. Tindak Pidana dengan menyalahgunakan kewenangan,
+  kesempatan, atau sarana yang diberikan kepadanya
+  karena jabatan atau profesinya.
 
 Pasal 88
 Kecuali ditentukan lain oleh Undang-Undang, pencabutan
-hak sebagaimana dimaksud dalam Pasal 86 huruf d dan
+hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf d dan
 huruf e, hanya dapat dilakukan jika pelaku dipidana karena:
-a. dengan sengaja melakukan Tindak Pidana bersamasama dengan Anak yang berada dalam kekuasaannya;
-atau
-b. melakukan Tindak Pidana terhadap Anak yang berada
-dalam kekuasaannya.
+  a. dengan sengaja melakukan Tindak Pidana bersamasama dengan Anak yang berada dalam kekuasaannya;
+  atau
+  b. melakukan Tindak Pidana terhadap Anak yang berada
+  dalam kekuasaannya.
 
 Pasal 89
 Kecuali ditentukan lain oleh Undang-Undang, pencabutan
-hak sebagaimana dimaksud dalam Pasal 86 huruf g hanya
+hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf g hanya
 dapat dilakukan jika pelaku dipidana karena:
-a. melakukan Tindak Pidana jabatan atau Tindak Pidana
-yang melanggar kewajiban khusus suatu jabatan;
-b. menyalahgunakan kewenangan, kesempatan, atau
-sarana yang diberikan kepadanya karena jabatan; atau
-c. melakukan Tindak Pidana yang diancam dengan pidana
-penjara paling lama 15 (lima belas) tahun atau lebih.
+  a. melakukan Tindak Pidana jabatan atau Tindak Pidana
+  yang melanggar kewajiban khusus suatu jabatan;
+  b. menyalahgunakan kewenangan, kesempatan, atau
+  sarana yang diberikan kepadanya karena jabatan; atau
+  c. melakukan Tindak Pidana yang diancam dengan pidana
+  penjara paling lama 15 (lima belas) tahun atau lebih.
 
 Pasal 90
 (1) Jika pidana pencabutan hak dijatuhkan, lama
 pencabutan wajib ditentukan jika:
-a. dijatuhi pidana mati atau pidana penjara seumur
-hidup, pencabutan hak dilakukan untuk selamanya;
-b. dijatuhi pidana penjara, pidana tutupan, atau
-pidana pengawasan untuk waktu tertentu,
-pencabutan hak dilakukan paling singkat 2 (dua)
-tahun dan paling lama 5 (lima) tahun lebih lama dari
-pidana pokok yang diiatuhkan; atau
-c. dijatuhi pidana denda, pencabutan hak dilakukan
-paling singkat 2 (dua) tahun dan paling lama 5 (lima)
-tahun.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1)
+  a. dijatuhi pidana mati atau pidana penjara seumur
+  hidup, pencabutan hak dilakukan untuk selamanya;
+  b. dijatuhi pidana penjara, pidana tutupan, atau
+  pidana pengawasan untuk waktu tertentu,
+  pencabutan hak dilakukan paling singkat 2 (dua)
+  tahun dan paling lama 5 (lima) tahun lebih lama dari
+  pidana pokok yang diiatuhkan; atau
+  c. dijatuhi pidana denda, pencabutan hak dilakukan
+  paling singkat 2 (dua) tahun dan paling lama 5 (lima)
+  tahun.
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-90/ayat-1)
 huruf b tidak berlaku jika yang dicabut adalah hak
 memperoleh pembebasan bersyarat.
 (3) Pidana pencabutan hak mulai berlaku pada tanggal
@@ -1247,37 +1255,37 @@ hukum tetap.
 
 Pasal 91
 Pidana tambahan berupa perampasan Barang tertentu
-dan/atau tagihan sebagaimana dimaksud dalam Pasal 66
-ayat (1) huruf b yang dapat dirampas meliputi Barang
+dan/atau tagihan sebagaimana dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1)
+huruf b yang dapat dirampas meliputi Barang
 tertentu dan/ atau tagihan:
-a. yang dipergunakan untuk mewujudkan atau
-mempersiapkan Tindak Pidana;
-b. yang khusus dibuat atau diperuntukkan mewujudkan
-Tindak Pidana;
-c. yang berhubungan dengan terwujudnya Tindak Pidana;
-d. milik terpidana atau orang lain yang diperoleh dari
-Tindak Pidana;
-e. dari keuntungan ekonomi yang diperoleh, baik secara
-langsung maupun tidak langsung dari Tindak Pidana;
-dan/ atau
-f. yang dipergunakan untuk menghalang-halangi
-penyidikan, penuntutan, dan pemeriksaan di sidang
-pengadilan.
+  a. yang dipergunakan untuk mewujudkan atau
+  mempersiapkan Tindak Pidana;
+  b. yang khusus dibuat atau diperuntukkan mewujudkan
+  Tindak Pidana;
+  c. yang berhubungan dengan terwujudnya Tindak Pidana;
+  d. milik terpidana atau orang lain yang diperoleh dari
+  Tindak Pidana;
+  e. dari keuntungan ekonomi yang diperoleh, baik secara
+  langsung maupun tidak langsung dari Tindak Pidana;
+  dan/ atau
+  f. yang dipergunakan untuk menghalang-halangi
+  penyidikan, penuntutan, dan pemeriksaan di sidang
+  pengadilan.
 
 Pasal 92
 (1) Pidana tambahan berupa perampasan Barang tertent
-sebagaimana dimaksud dalam Pasal 91 dapat
+sebagaimana dimaksud dalam [Pasal 91](/uu/2023/1/pasal-91) dapat
 dijatuhkan atas Barang yang tidak disita dengan
 menentukan bahwa Barang tersebut harus diserahkan
 atau diganti dengan sejumlah uang menurut taksiran
 hakim sesuai dengan harga pasar.
 (2) Dalam hal Barang yang tidak disita sebagaimana
-dimaksud pada ayat (1) tidak dapat diserahkan, Barang
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-92/ayat-1) tidak dapat diserahkan, Barang
 tersebut diganti dengan sejumlah uang menurut
 taksiran hakim sesuai dengan harga pasar.
 (3) Jika terpidana tidak mampu membayar seluruh atau
 sebagian harga pasar sebagaimana dimaksud pada
-ayat (2), diberlakukan ketentuan pidana pengganti
+[ayat (2)](/uu/2023/1/pasal-92/ayat-2), diberlakukan ketentuan pidana pengganti
 untuk pidana denda.
 
 Pasal 93
@@ -1286,40 +1294,39 @@ putusan diumumkan, harus ditetapkan cara
 melaksanakan pengumuman tersebut dengan biaya
 yang ditanggung oleh terpidana.
 (2) Jika biaya pengumum€rn sebagaimana dimaksud pada
-ayat (1) tidak dibayar oleh terpidana, diberlakukan
+[ayat (1)](/uu/2023/1/pasal-93/ayat-1) tidak dibayar oleh terpidana, diberlakukan
 ketentuan pidana pengganti untuk pidana denda.
 
 Pasal 94
 (1) Dalam putusan pengadilan dapat ditetapkan kewajiban
 terpidana untuk melaksanakan pembayaran ganti rugi
 kepada Korban atau ahli waris sebagai pidana
-tambahan sebagaimana dimaksud dalam Pasal 66
-ayat (1) huruf d.
+tambahan sebagaimana dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf d.
 (2) Jika kewajiban pembayaran ganti rugi sebagaimana
-dimaksud pada ayat (1) tidak dilaksanakan,
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-94/ayat-1) tidak dilaksanakan,
 diberlakukan ketentuan tentang pelaksanaan pidana
-denda sebagaimana dimaksud dalam Pasal 81 sampai
-dengan Pasal 83 secara mutatis mutandis.
+denda sebagaimana dimaksud dalam [Pasal 81](/uu/2023/1/pasal-81) sampai
+dengan [Pasal 83](/uu/2023/1/pasal-83) secara mutatis mutandis.
 
 Pasal 95
 (1) Pidana tambahan berupa pencabutan izin dikenakan
 kepada pelaku dan pembantu Tindak Pidana yang
 melakukan Tindak Pidana yang berkaitan dengan izin
 yang dimiliki.
-(2) Pencabutan izin sebagaimana dimaksud pada ayat (1)
+(2) Pencabutan izin sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-95/ayat-1)
 dilakukan dengan mempertimbangkan:
-a. keadaan yang menyertai Tindak Pidana yang
-dilakukan;
-b. keadaan yang menyertai pelaku dan pembantu
-Tindak Pidana; dan
-c. keterkaitan kepemilikan izin dengan usaha atau
-kegiatan yang dilakukan.
+  a. keadaan yang menyertai Tindak Pidana yang
+  dilakukan;
+  b. keadaan yang menyertai pelaku dan pembantu
+  Tindak Pidana; dan
+  c. keterkaitan kepemilikan izin dengan usaha atau
+  kegiatan yang dilakukan.
 (3) Dalam hal dijatuhi pidana penjara, pidana tutupan,
 atau pidana pengawasan untuk waktu tertentu,
 pencabutan izin dilakukan paling singkat 2 (dua) tahun
 dan paling lama 5 (lima) tahun lebih lama dari pidana
 pokok yang dijatuhkan.
-(4) Dalam hal dljatuhi pidana denda, pencabutan izin
+(4) Dalam hal dijatuhi pidana denda, pencabutan izin
 berlaku paling singkat 1 (satu) tahun dan paling lama
 5 (lima) tahun.
 (5) Pidana pencabutan izin mulai berlaku pada tanggal
@@ -1330,23 +1337,23 @@ Pasal 96
 (1) Pidana tambahan berupa pemenuhan kewajiban adat
 setempat diutamakan jika Tindak Pidana yang
 dilakukan memenuhi ketentuan sebagaimana
-dimaksud dalam Pasal 2 ayat (2).
+dimaksud dalam [Pasal 2 ayat (2)](/uu/2023/1/pasal-2/ayat-2).
 (2) Pemenuhan kewajiban adat setempat sebagaimana
-dimaksud pada ayat (1) dianggap sebanding dengan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-96/ayat-1) dianggap sebanding dengan
 pidana denda kategori II.
 (3) Dalam hal kewajiban adat sebagaimana dimaksud pada
-ayat (1) tidak dipenuhi, pemenuhan kewajiban adat
+[ayat (1)](/uu/2023/1/pasal-96/ayat-1) tidak dipenuhi, pemenuhan kewajiban adat
 diganti dengan ganti rugi yang nilainya setara dengan
 pidana denda kategori II.
 (4) Dalam hal ganti rugi sebagaimana dimaksud pada
-ayat (3) tidak dipenuhi, ganti rugi diganti dengan pidana
+[ayat (3)](/uu/2023/1/pasal-96/ayat-3) tidak dipenuhi, ganti rugi diganti dengan pidana
 pengawasan atau pidana kerja sosial.
 
 Pasal 97
 Pidana tambahan berupa pemenuhan kewajiban adat
 setempat dapat dijatuhkan walaupun tidak tercantum dalam
 perumusan Tindak Pidana dengan tetap memperhatikan
-ketentuan Pasal 2 ayat(21.
+ketentuan [Pasal 2 ayat (2)](/uu/2023/1/pasal-2/ayat-2).
 
 Pasal 98
 Pidana mati diancamkan secara alternatif sebagai upaya
@@ -1356,7 +1363,7 @@ mengayomi masyarakat.
 Pasal 99
 (1) Pidana mati dapat dilaksanakan setelah permohonan
 grasi bagi terpidana ditolak Presiden.
-(2) Pidana mati sebagaimana dimaksud pada ayat (1) tidak
+(2) Pidana mati sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-99/ayat-1) tidak
 dilaksanakan Di Muka Umum.
 (3) Pidana mati dilaksanakan dengan menembak terpidana
 sampai mati oleh regu tembak atau dengan cara lain
@@ -1371,26 +1378,26 @@ Pasal 100
 (1) Hakim menjatuhkan pidana mati dengan masa
 percobaan selama 10 (sepuluh) tahun dengan
 memperhatikan:
-a. rasa penyesalan terdakwa dan ada harapan untuk
-memperbaiki diri; atau
-b. peran terdakwa dalam Tindak Pidana.
+  a. rasa penyesalan terdakwa dan ada harapan untuk
+  memperbaiki diri; atau
+  b. peran terdakwa dalam Tindak Pidana.
 (2) Pidana mati dengan masa percobaan sebagaimana
-dimaksud pada ayat (1) harus dicantumkan dalam
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-100/ayat-1) harus dicantumkan dalam
 putusan pengadilan.
 (3) Tenggang waktu masa percobaan 10 (sepuluh) tahun
 dimulai 1 (satu) Hari setelah putusan pengadilan
 memperoleh kekuatan hukum tetap.
 (4) Jika terpidana selama masa percobaan sebagaimana
-dimaksud pada ayat (1) menunjukkan sikap dan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-100/ayat-1) menunjukkan sikap dan
 perbuatan yang terpuji, pidana mati dapat diubah
 menjadi pidana penjara seumur hidup dengan
 Keputusan Presiden setelah mendapatkan
 pertimbangan Mahkamah Agung.
 (5) Pidana penjara seumur hidup sebagaimana dimaksud
-pada ayat (4) dihitung sejak Keputusan Presiden
+pada [ayat (4)](/uu/2023/1/pasal-100/ayat-4) dihitung sejak Keputusan Presiden
 ditetapkan.
 (6) Jika terpidana selama masa percobaan sebagaimana
-dimaksud pada ayat (1) tidak menunjukkan sikap dan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-100/ayat-1) tidak menunjukkan sikap dan
 perbuatan yang terpuji serta tidak ada harapan untuk
 diperbaiki, pidana mati dapat dilaksanakan atas
 perintah Jaksa Agung.
@@ -1412,47 +1419,47 @@ Tindakan
 Pasal 103
 (1) Tindakan yang dapat dikenakan bersama-sama dengan
 pidana pokok berupa:
-a. konseling;
-b. rehabilitasi;
-c. pelatihan kerja;
-d. perawatan di lembaga; dan/ atau
-e. perbaikan akibat Tindak Pidana.
+  a. konseling;
+  b. rehabilitasi;
+  c. pelatihan kerja;
+  d. perawatan di lembaga; dan/ atau
+  e. perbaikan akibat Tindak Pidana.
 (2) Tindakan yang dapat dikenakan kepada Setiap Orang
-sebagaimana dimaksud dalam Pasal 38 dan Pasal 39
+sebagaimana dimaksud dalam [Pasal 38](/uu/2023/1/pasal-38) dan [Pasal 39](/uu/2023/1/pasal-39)
 berupa:
-a. rehabilitasi;
-b. penyerahan kepada seseorang;
-c. perawatan di lembaga;
-d. penyerahan kepada pemerintah; dan/ atau
-e. perawatan di rumah sakit jiwa.
+  a. rehabilitasi;
+  b. penyerahan kepada seseorang;
+  c. perawatan di lembaga;
+  d. penyerahan kepada pemerintah; dan/ atau
+  e. perawatan di rumah sakit jiwa.
 (3) Jenis, jangka waktu, tempat, dan/ atau pelaksanaan
-tindakan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan dalam putusan pengadilan.
+tindakan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-103/ayat-1) dan [ayat (2)](/uu/2023/1/pasal-103/ayat-2) ditetapkan dalam putusan pengadilan.
 
 Pasal 104
-Da1am menjatuhkan putusan berupa tindakan, hakim wajib
+Dalam menjatuhkan putusan berupa tindakan, hakim wajib
 memperhatikan ketentuan sebagaimana dimaksud dalam
-Pasal 51 sampai dengan Pasal 54.
+[Pasal 51](/uu/2023/1/pasal-51) sampai dengan [Pasal 54](/uu/2023/1/pasal-54).
 
 Pasal 105
 (1) Tindakan rehabilitasi dikenalan kepada terdakwa yang:
-a. kecanduan alkohol, narkotika, psikotropika, d.an zat
-adiktif lainnya; dan/ atau
-b. menyandang disabilitas mental dan/atau disabilitas
-intelektual.
-(2) Rehabilitasi sebagaimana dimaksud pada ayat (1) terdiri
+  a. kecanduan alkohol, narkotika, psikotropika, dan zat
+  adiktif lainnya; dan/ atau
+  b. menyandang disabilitas mental dan/atau disabilitas
+  intelektual.
+(2) Rehabilitasi sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-105/ayat-1) terdiri
 atas:
-a. rehabilitasi medis;
-b. rehabilitasi sosial; dan
-c. rehabilitasi psikososial.
+  a. rehabilitasi medis;
+  b. rehabilitasi sosial; dan
+  c. rehabilitasi psikososial.
 
 Pasal 106
 (1) Dalam mengenakan tindakan pelatihan kerja, hakim
 wajib mempertimbangkan :
-a. kemanfaatan bagi terdakwa;
-b. kemampuan terdakwa; dan
-c. jenis pelatihan kerja.
+  a. kemanfaatan bagi terdakwa;
+  b. kemampuan terdakwa; dan
+  c. jenis pelatihan kerja.
 (2) Dalam menentukan jenis pelatihan kerja sebagaimana
-dimaksud pada ayat (1) huruf c, hakim wajib
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-106/ayat-1) huruf c, hakim wajib
 memperhatikan pengalaman kerja dan tempat tinggal
 terdakwa.
 
@@ -1481,14 +1488,14 @@ dilakukan jika yang bersangkutan tidak memerlukan
 perawatan lebih lanjut berdasarkan hasil penilaian
 dokter jiwa.
 (3) Penghentian tindakan sebagaimana dimaksud pada
-ayat (2) dilakukan berdasarkan penetapan halim yang
+[ayat (2)](/uu/2023/1/pasal-110/ayat-2) dilakukan berdasarkan penetapan hakim yang
 memeriksa perkara pada tingkat pertama yang
 diusulkan oleh jaksa.
 
 Pasal 111
 Ketentuan lebih lanjut mengenai tata cara pelaksanaan
 pidana dan tindakan sebagaimana dimaksud dalam
-Pasal 68 sampai dengan Pasal 110 diatur dengan Peraturan
+[Pasal 68](/uu/2023/1/pasal-68) sampai dengan [Pasal 110](/uu/2023/1/pasal-110) diatur dengan Peraturan
 Pemerintah.
 
 Bagian Ketiga
@@ -1508,16 +1515,16 @@ Tindakan
 
 Pasal 113
 (1) Setiap Anak dapat dikenai tindakan berupa:
-a. pengembalian kepada Orang Tua/wali;
-b. penyerahan kepada seseorang;
-c. perawatan di rumah sakit jiwa;
-d. perawatan di lembaga;
-e. kewajiban mengikuti pendidikan formal dan/ atau
-pelatihan yang diadakan oleh pemerintah atau
-badan swasta;
-f. pencabutan Surat izin mengemudi; dan/ atau
-g. perbaikan akibat Tindak Pidana.
-(2) Tindakan sebagaimana dimaksud pada ayat (1)
+  a. pengembalian kepada Orang Tua/wali;
+  b. penyerahan kepada seseorang;
+  c. perawatan di rumah sakit jiwa;
+  d. perawatan di lembaga;
+  e. kewajiban mengikuti pendidikan formal dan/ atau
+  pelatihan yang diadakan oleh pemerintah atau
+  badan swasta;
+  f. pencabutan Surat izin mengemudi; dan/ atau
+  g. perbaikan akibat Tindak Pidana.
+(2) Tindakan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-113/ayat-1)
 huruf d, huruf e, dan huruf f dikenakan paling lama 1
 (satu) tahun.
 (3) Anak di bawah umur 14 (empat belas) tahun tidak dapat
@@ -1532,28 +1539,28 @@ a. pidana pokok; dan
 b. pidana tambahan.
 
 Pasal 115
-Pidana pokok sebagaimana dimaksud dalam Pasal 114
+Pidana pokok sebagaimana dimaksud dalam [Pasal 114](/uu/2023/1/pasal-114)
 huruf a terdiri atas:
-a. pidana peringatan;
-b. pidana dengan syarat:
-1. pembinaan di luar lembaga;
-2. pelayanan masyarakat; atau
-3. pengawasan.
-c. pelatihan kerja;
-d. pembinaan dalam lembaga; dan
-e. pidana penjara.
+  a. pidana peringatan;
+  b. pidana dengan syarat:
+    1. pembinaan di luar lembaga;
+    2. pelayanan masyarakat; atau
+    3. pengawasan.
+  c. pelatihan kerja;
+  d. pembinaan dalam lembaga; dan
+  e. pidana penjara.
 
 Pasal 116
-Pidana tambahan sebagaimana dimaksud dalam Pasal 114
+Pidana tambahan sebagaimana dimaksud dalam [Pasal 114](/uu/2023/1/pasal-114)
 huruf b terdiri atas:
-a. perampasan keuntungan yang diperoleh dari Tindak
-Pidana; atau
-b. pemenuhan kewajiban adat.
+  a. perampasan keuntungan yang diperoleh dari Tindak
+  Pidana; atau
+  b. pemenuhan kewajiban adat.
 
 Pasal 117
 Ketentuan mengenai diversi, tindakan, dan pidana
-sebagaimana dimaksud dalam Pasal 112 sampai dengan
-Pasal 116 dilaksanakan sesuai dengan ketentuan peraturan
+sebagaimana dimaksud dalam [Pasal 112](/uu/2023/1/pasal-112) sampai dengan
+[Pasal 116](/uu/2023/1/pasal-116) dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
 
 Bagian Keempat
@@ -1564,72 +1571,70 @@ Pidana
 
 Pasal 118
 Pidana bagi Korporasi terdiri atas:
-a. pidana pokok; dan
-b. pidana tambahan.
+  a. pidana pokok; dan
+  b. pidana tambahan.
 
 Pasal 119
-Pidana pokok sebagaimana dimaksud dalam Pasal 118
-huruf a adalah pidana denda.
+Pidana pokok sebagaimana dimaksud dalam [Pasal 118](/uu/2023/1/pasal-118) huruf a adalah pidana denda.
 
 Pasal l20
 (1) Pidana tambahan bagl Korporasi sebagaimana
-dimaksud dalam Pasal 118 huruf b terdiri atas:
-a. pembayaran ganti nrgi;
-b. perbaikan akibat Tindak Pidana;
-c. pelaksanaan kewajiban yang telah dilalaikan;
-d. pemenuhan kewajiban adat;
-e. pembiayaan pelatihan kerja;
-f. perampasan Barang atau keuntungan yang
-diperoleh dari Tindak Pidana;
-g. pengumuman putusan pengadilan;
-h. pencabutan izin tertentu;
-i. pelarangan permanen melakukan perbuatan
-tertentu;
-j. penutupan seluruh atau sebagian tempat usaha
-dan/ atau kegiatan Korporasi;
-k. pembekuan seluruh atau sebagian kegiatan usaha
-Korporasi; dan
-l. pembubaran Korporasi.
-(2) Pidana tambahan sebagaimana dimaksud pada ayat (1)
-huruf h, huruf j, dan huruf k dijatuhkan paling lama
-2 (dua) tahun.
+dimaksud dalam [Pasal 118](/uu/2023/1/pasal-118) huruf b terdiri atas:
+  a. pembayaran ganti nrgi;
+  b. perbaikan akibat Tindak Pidana;
+  c. pelaksanaan kewajiban yang telah dilalaikan;
+  d. pemenuhan kewajiban adat;
+  e. pembiayaan pelatihan kerja;
+  f. perampasan Barang atau keuntungan yang
+  diperoleh dari Tindak Pidana;
+  g. pengumuman putusan pengadilan;
+  h. pencabutan izin tertentu;
+  i. pelarangan permanen melakukan perbuatan
+  tertentu;
+  j. penutupan seluruh atau sebagian tempat usaha
+  dan/ atau kegiatan Korporasi;
+  k. pembekuan seluruh atau sebagian kegiatan usaha
+  Korporasi; dan
+  l. pembubaran Korporasi.
+(2) Pidana tambahan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-120/ayat-1)
+huruf h, huruf j, dan huruf k dijatuhkan paling lama 2 (dua) tahun.
 (3) Dalam hal Korporasi tidak melaksanakan pidana
-tambahan s6lagaimana dimaksud pada ayat (1) huruf a
+tambahan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-120/ayat-1) huruf a
 sampai dengan huruf e, kekayaan atau pendapatan
 Korporasi dapat disita dan dilelang oleh jaksa untuk
 memenuhi pidana tambahan yang tidak dipenuhi.
 
 Pasal 121
-(1) Pidana denda untuk Korporasi dljatuhi paling sedikit
+(1) Pidana denda untuk Korporasi dijatuhi paling sedikit
 kategori IV, kecuali ditentukan lain oleh UndangUndang.
 (2) Dalam hal Tindak Pidana yang dilakukan diancam
 dengan:
-a. pidana penjara di bawah 7 (tqiuh) tahun, pidana
-denda paling banyak untuk Korporasi adalah
-kategori VI;
-b. pidana penjara paling lama 7 (tqjuh) sampai dengan
-paling lama 15 (lima belas) tahun, pidana denda
-paling banyak untuk Korporasi adalah kategori VII;
-atau
-c. pidana mati, pidana penjara seumur hidup, atau
-pidana penjara paling lama 20 (dua puluh) tahun,
-pidana denda paling banyak untuk Korporasi adalah
-kategori VIII.
+  a. pidana penjara di bawah 7 (tujuh) tahun, pidana
+  denda paling banyak untuk Korporasi adalah
+  kategori VI;
+  b. pidana penjara paling lama 7 (tujuh) sampai dengan
+  paling lama 15 (lima belas) tahun, pidana denda
+  paling banyak untuk Korporasi adalah kategori VII;
+  atau
+  c. pidana mati, pidana penjara seumur hidup, atau
+  pidana penjara paling lama 20 (dua puluh) tahun,
+  pidana denda paling banyak untuk Korporasi adalah
+  kategori VIII.
 
 Pasal 122
 (1) Pidana denda wajib dibayar dalam jangka waktu
 tertentu yang dimuat dalam putusan pengadilan.
 (2) Putusan pengadilan sebagaimana dimaksud pada
-ayat (1) dapat menentukan pembayaran pidana denda
+[ayat (1)](/uu/2023/1/pasal-122/ayat-1) dapat menentukan pembayaran pidana denda
 dengan cara mengangsur.
-(3) Jika pidana denda sebagaimana dimaksud pada ayat (1)
-tidak dibayar dalam jangka waktu yang telah
+(3) Jika pidana denda sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-122/ayat-1) tidak dibayar dalam jangka waktu yang telah
 ditentukan, kekayaan atau pendapatan Korporasi dapat
 disita dan dilelang oleh jaksa untuk melunasi pidana
 denda yang tidak dibayar.
 (4) Dalam hal kekayaan atau pendapatan Korporasi tidak
 mencukupi untuk melunasi pidana denda sebagaimana
-dimaksud pada ayat (3), Korporasi dikenai pidana
+dimaksud pada [ayat (3)](/uu/2023/1/pasal-122/ayat-3), Korporasi dikenai pidana
 pengganti berupa pembekuan sebagian atau seluruh
 kegiatan usaha Korporasi.
 
@@ -1638,14 +1643,14 @@ Tindakan
 
 Pasal 123
 Tindakan yang dapat dikenakan bagi Korporasi:
-a. pengambilalihanKorporasi;
-b. penempatan di bawah pengawasan; dan/ atau
-c. penempatan Korporasi di bawah pengampuan.
+  a. pengambilalihanKorporasi;
+  b. penempatan di bawah pengawasan; dan/ atau
+  c. penempatan Korporasi di bawah pengampuan.
 
 Pasal 124
 Ketentuan lebih lanjut mengenai tata cara pelaksanaan
 pidana dan tindakan bagi Korporasi sebagaimana dimaksud
-dalam Pasal 118 sampai dengan Pasal 123 diatur dengan
+dalam [Pasal 118](/uu/2023/1/pasal-118) sampai dengan [Pasal 123](/uu/2023/1/pasal-123) diatur dengan
 Peraturan Pemerintah.
 
 Bagian Kelima
@@ -1668,16 +1673,16 @@ saling berhubungan sehingga dipandang sebagai
 perbuatan berlanjut dan diancam dengan ancarnan
 pidana yang sama, hanya dijatuhi 1 (satu) pidana.
 (2) Jika perbarengan Tindak Pidana sebagaimana
-dimaksud pada ayat (1) diancam dengan pidana yang
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-126/ayat-1) diancam dengan pidana yang
 berbeda, hanya dijatuhi pidana pokok yang terberat.
 
 Pasal 127
 (1) Jika terjadi perbarengan beberapa Tindak Pidana yang
 harus dipandang sebagai Tindak Pidana yang berdiri
 sendiri dan diancam dengan pidana pokok yang sejenis,
-hanya diiatuhkan I (satu) pidana.
+hanya dijatuhkan 1 (satu) pidana.
 (2) Maksimum pidana untuk perbarengan Tindak Pidana
-sebagaimana dimaksud pada ayat (1) adalah jumlah
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-127/ayat-1) adalah jumlah
 pidana yang diancamkan pada semua Tindak Pidana
 tersebut, tetapi tidak melebihi pidana yang terberat
 ditambah 1/3 (satu per tiga).
@@ -1690,12 +1695,13 @@ sejenis, pidana yang dijatuhkan adalah semua jenis
 pidana untuk Tindak Pidana masing-masing, tetapi
 tidak melebihi maksimum pidana yang terberat
 ditambah 1/3 (satu per tiga).
-(2) Dalam hal ketentuan sebagaimana dimaksud pada ayat (1) diancam dengan pidana denda, penghitungan denda
+(2) Dalam hal ketentuan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-128/ayat-1) diancam dengan pidana denda, penghitungan denda
 didasarkan pada lama maksimum pidana penjara
 pengganti pidana denda.
 (3) Jika Tindak Pidana yang dilakukan diancam dengan
 pidana minimum, minimum pidana untuk perbarengan
-sebagaimana dimaksud pada ayat (1) adalah jumlah
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-128/ayat-1) adalah jumlah
 pidana minimum khusus untuk Tindak Pidana masingmasing, tetapi tidak melebihi pidana minimum khusus
 terberat ditambah 1/3 (satu per tiga).
 
@@ -1703,31 +1709,31 @@ Pasal 129
 Jika dalam perbarengan Tindak Pidana dljatuhi pidana mati
 atau pidana penjara seumur hidup, terdakwa tidak boleh
 dijatuhi pidana lain, kecuali pidana tambahan, yakni:
-a. pencabutan hak tertentu;
-b. perampasan Barang tertentu; dan/ atau
-c. pengumuman putusan pengadilan.
+  a. pencabutan hak tertentu;
+  b. perampasan Barang tertentu; dan/ atau
+  c. pengumuman putusan pengadilan.
 
 Pasal 130
 (1) Jika terjadi perbarengan sebagaimana dimaksud dalam
-Pasal 127 dan Pasal 129, penjatuhan pidana tambahan
+[Pasal 127](/uu/2023/1/pasal-127) dan [Pasal 129](/uu/2023/1/pasal-129), penjatuhan pidana tambahan
 dilakukan dengan ketentuan sebagai berikut:
-a. pidana pencabutan hak yang sama dijadikan satu
-dengan ketentuan:
-  1. paling singkat 2 (dua) tahun dan paling lama
-  5 (lima) tahun lebih lama dari pidana pokok yang
-  dijatuhkan; atau
-  2. apabila pidana pokok yang diancamkan hanya
-  pidana denda, lama pidana paling singkat
-  2 (dua) tahun dan paling lama 5 (lima) tahun.
-b. pidana pencabutan hak yang berbeda dijatuhkan
-secara sendiri-sendiri untuk tiap Tindak Pidana
-tanpa dikurangi; atau
-c. pidana perampasan Barang tertentu atau pidana
-pengganti dijatuhkan secara sendiri-sendiri untuk
-tiap Tindak Pidana tanpa dikurangi.
+  a. pidana pencabutan hak yang sama dijadikan satu
+  dengan ketentuan:
+    1. paling singkat 2 (dua) tahun dan paling lama
+    5 (lima) tahun lebih lama dari pidana pokok yang
+    dijatuhkan; atau
+    2. apabila pidana pokok yang diancamkan hanya
+    pidana denda, lama pidana paling singkat
+    2 (dua) tahun dan paling lama 5 (lima) tahun.
+  b. pidana pencabutan hak yang berbeda dijatuhkan
+  secara sendiri-sendiri untuk tiap Tindak Pidana
+  tanpa dikurangi; atau
+  c. pidana perampasan Barang tertentu atau pidana
+  pengganti dijatuhkan secara sendiri-sendiri untuk
+  tiap Tindak Pidana tanpa dikurangi.
 (2) Ketentuan mengenai lamanya pidana pengganti bagi
 pidana perampasan Barang tertentu sebagaimana
-dimaksud pada ayat. (1) huruf c berlaku ketentuan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-130/ayat-1) huruf c berlaku ketentuan
 pidana pengganti untuk denda.
 
 Pasal 131
@@ -1736,11 +1742,11 @@ dinyatakan bersalah melakukan Tindak Pidana lain
 sebelum putusan pidana itu diiatuhkan, pidana yang
 terdahulu diperhitungkan terhadap pidana yang akan
 dijatuhkan dengan menggunalan aturan perbarengan
-sebagaimana dimaksud dalam Pasal 125 sampai dengan
-Pasal l3O, seperti jika Tindak Pidana itu diadili secara
+sebagaimana dimaksud dalam [Pasal 125](/uu/2023/1/pasal-125) sampai dengan
+[Pasal 130](/uu/2023/1/pasal-130), seperti jika Tindak Pidana itu diadili secara
 bersama.
 (2) Jika pidana yang dijatuhkan sebagaimana dimaksud
-pada ayat (1) telah mencapai maksimum pidana, hakim
+pada [ayat (1)](/uu/2023/1/pasal-131/ayat-1) telah mencapai maksimum pidana, hakim
 cukup menyatakan bahwa terdakwa bersalah tanpa
 perlu diikuti pidana.
 
@@ -1753,29 +1759,29 @@ Gugurnya Kewenangan Penuntutan
 
 Pasal 132
 (1) Kewenangan penuntutan dinyatakan gugur jika:
-a. ada putusan pengadilan yang telah memperoleh
-kekuatan hukum tetap terhadap Setiap Orang atas
-perkara yang sama;
-b. tersangka atau terdakwa meninggal dunia;
-c. kedaluwarsa;
-d. maksimum pidana denda dibayar dengan sukarela
-bagi Tindak Pidana yang hanya diancam dengan
-pidana denda paling banyak kategori II;
-e. maksimum pidana denda kategori IV dibayar dengan
-sukarela bagi Tindak Pidana yang diancam dengan
-pidana penjara paling lama I (satu) tahun atau
-pidana denda paling banyak kategori III;
-f. ditariknya pengaduan bagi Tindak Pidana aduan;
-g. telah ada penyelesaian di luar proses peradilan
-sebagaimana diatur dalam Undang-Undang; atau
-h. diberikannya amnesti atau abolisi.
+  a. ada putusan pengadilan yang telah memperoleh
+  kekuatan hukum tetap terhadap Setiap Orang atas
+  perkara yang sama;
+  b. tersangka atau terdakwa meninggal dunia;
+  c. kedaluwarsa;
+  d. maksimum pidana denda dibayar dengan sukarela
+  bagi Tindak Pidana yang hanya diancam dengan
+  pidana denda paling banyak kategori II;
+  e. maksimum pidana denda kategori IV dibayar dengan
+  sukarela bagi Tindak Pidana yang diancam dengan
+  pidana penjara paling lama 1 (satu) tahun atau
+  pidana denda paling banyak kategori III;
+  f. ditariknya pengaduan bagi Tindak Pidana aduan;
+  g. telah ada penyelesaian di luar proses peradilan
+  sebagaimana diatur dalam Undang-Undang; atau
+  h. diberikannya amnesti atau abolisi.
 (2) Ketentuan mengenai gugurnya kewenangan
 penuntutan bagi Korporasi memperhatikan ketentuan
-sebagaimana dimaksud dalam Pasal 121.
+sebagaimana dimaksud dalam [Pasal 121](/uu/2023/1/pasal-121).
 
 Pasal 133
-(1) Pidana denda sebagaimana dimaksud dalam Pasal 132
-ayat (1) huruf d dan huruf e serta biaya yang telah
+(1) Pidana denda sebagaimana dimaksud dalam [Pasal 132 ayat (1)](/uu/2023/1/pasal-132/ayat-1)
+huruf d dan huruf e serta biaya yang telah
 dikeluarkan jika penuntutan telah dimulai, dibayarkan
 kepada Pejabat yang berwenang dalam jangka waktu
 yang telah ditetapkan.
@@ -1783,15 +1789,15 @@ yang telah ditetapkan.
 perampasan Barang atau tagihan, Barang dan/ atau
 tagihan yang dirampas harus diserahkan atau harus
 dibayar menurut taksiran Pejabat sebagaimana
-dimaksud pada ayat (1) dalam hal Barang dan/ atau
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-133/ayat-1) dalam hal Barang dan/ atau
 tagihan tersebut sudah tidak berada dalam kekuasaan
 terpidana.
-(3) Jika pidana diperberat ka-rena pengulangan,
+(3) Jika pidana diperberat karena pengulangan,
 pemberatan tersebut tetap berlaku sekalipun
 kewenangan menuntut pidana terhadap Tindak Pidana
 yang dilakukan lebih dahulu gugur berdasarkan
-ketentuan sebagaimana dimaksud dalam Pasal 132
-ayat (1) huruf d dan huruf e.
+ketentuan sebagaimana dimaksud dalam [Pasal 132 ayat (1)](/uu/2023/1/pasal-132/ayat-1)
+huruf d dan huruf e.
 
 Pasal 134
 Seseorang tidak dapat dituntut untuk kedua kalinya dalam
@@ -1800,61 +1806,62 @@ ada putusan pengadilan yang telah memperoleh kekuatan
 hukum tetap.
 
 Pasal 135
-Jika putusan sebagaimana dimaksud dalam Pasal 134
+Jika putusan sebagaimana dimaksud dalam [Pasal 134](/uu/2023/1/pasal-134)
 berasal dari pengadilan luar negeri, terhadap Setiap Orang
 yang melakukan Tindak Pidana yang sama tidak boleh
 diadakan penuntutan dalam hal:
-a. putusan bebas dari tuduhan atau lepas dari segala
-tuntutan hukum; atau
-b. putusan berupa pemidanaan dan pidananya telah
-dijalani seluruhnya, telah diberi ampun, atau
-pelaksanaan pidana tersebut kedaluwarsa.
+  a. putusan bebas dari tuduhan atau lepas dari segala
+  tuntutan hukum; atau
+  b. putusan berupa pemidanaan dan pidananya telah
+  dijalani seluruhnya, telah diberi ampun, atau
+  pelaksanaan pidana tersebut kedaluwarsa.
 
 Pasal 136
 (1) Kewenangan penuntutan dinyatakan gugur karena
 kedaluwarsa apabila:
-a. setelah melampaui waktu 3 (tiga) tahun untuk
-Tindak Pidana yang diancam dengan pidana penjara
-paling lama 1 (satu) tahun dan/ atau hanya denda
-paling banyak kategori III;
-b. setelah melampaui waktu 6 (enam) tahun untuk
-Tindak Pidana yang diancam dengan pidana penjara
-di atas 1 (satu) tahun dan paling lama 3 (tiga) tahun;
-c. setelah melampaui waktu 12 (dua belas) tahun
-untuk Tindak Pidana yang diancam dengan pidana
-penjara di atas 3 (tiga) tahun dan paling lama
-7 (tujuh) tahun;
-d. setelah melampaui waktu 18 (delapan belas) tahun
-untuk Tindal< Pidana yang diancam dengan pidana
-penjara di atas 7 (tujuh) tahun dan paling lama
-15 (lima belas) tahun; dan
-e. setelah melampaui waktu 20 (dua puluh) tahun
-untuk Tindak Pidana yang diancam dengan pidana
-penjara paling lama 20 (dua puluh) tahun, pidana
-penjara seumur hidup, atau pidana mati.
+  a. setelah melampaui waktu 3 (tiga) tahun untuk
+  Tindak Pidana yang diancam dengan pidana penjara
+  paling lama 1 (satu) tahun dan/ atau hanya denda
+  paling banyak kategori III;
+  b. setelah melampaui waktu 6 (enam) tahun untuk
+  Tindak Pidana yang diancam dengan pidana penjara
+  di atas 1 (satu) tahun dan paling lama 3 (tiga) tahun;
+  c. setelah melampaui waktu 12 (dua belas) tahun
+  untuk Tindak Pidana yang diancam dengan pidana
+  penjara di atas 3 (tiga) tahun dan paling lama
+  7 (tujuh) tahun;
+  d. setelah melampaui waktu 18 (delapan belas) tahun
+  untuk Tindak Pidana yang diancam dengan pidana
+  penjara di atas 7 (tujuh) tahun dan paling lama
+  15 (lima belas) tahun; dan
+  e. setelah melampaui waktu 20 (dua puluh) tahun
+  untuk Tindak Pidana yang diancam dengan pidana
+  penjara paling lama 20 (dua puluh) tahun, pidana
+  penjara seumur hidup, atau pidana mati.
 (2) Dalam hal Tindak Pidana dilakukan oleh Anak,
 tenggang waktu gugurnya kewenangan untuk menuntut
 karena kedaluwarsa sebagaimana dimaksud pada
-ayat (1) dikurangi menjadi 1/3 (satu per tiga).
+[ayat (1)](/uu/2023/1/pasal-136/ayat-1) dikurangi menjadi 1/3 (satu per tiga).
 
 Pasal 137
-Jangka waltu kedaluwarsa dihitung mulai keesokan hari
-setelah perbuatan dilalukan, kecuali bagi:
-a. Tindak Pidana pemalsuan dan Tindak Pidana
-perusakan mata uang, kedaluwarsa dihitung mulai
-keesokan harinya setelah Barang yang dipalsukan atau
-mata uang yang dirusak digunakan; atau
-b. Tindak Pidana sebagaimana dimaksud dalam Pasal 450,
-Pasal 451, dan Pasal 452 kedaluwarsa dihitung mulai
-keesokan harinya setelah Korban Tindak Pidana
-dilepaskan atau mati sebagai akibat langsung dari
-Tindak Pidana tersebut.
+Jangka waktu kedaluwarsa dihitung mulai keesokan hari
+setelah perbuatan dilakukan, kecuali bagi:
+  a. Tindak Pidana pemalsuan dan Tindak Pidana
+  perusakan mata uang, kedaluwarsa dihitung mulai
+  keesokan harinya setelah Barang yang dipalsukan atau
+  mata uang yang dirusak digunakan; atau
+  b. Tindak Pidana sebagaimana dimaksud dalam
+  [Pasal 450](/uu/2023/1/pasal-450), [Pasal 451](/uu/2023/1/pasal-451),
+  dan [Pasal 452](/uu/2023/1/pasal-452) kedaluwarsa dihitung mulai
+  keesokan harinya setelah Korban Tindak Pidana
+  dilepaskan atau mati sebagai akibat langsung dari
+  Tindak Pidana tersebut.
 
 Pasal 138
 (1) Tindakan penuntutan Tindak Pidana menghentikan
 tenggang waktu kedaluwarsa.
 (2) Penghentian tenggang waktu kedaluwarsa sebagaimana
-dimaksud pada ayat (1) dihitung keesokan hari setelah
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-138/ayat-1) dihitung keesokan hari setelah
 tersangka atau terdakwa mengetahui atau
 diberitahukan mengenai penuntutan terhadap dirinya
 yang dilakukan sesuai dengan ketentuan peraturan
@@ -1874,10 +1881,10 @@ Gugurnya Kewenangan Pelaksanaan Pidana
 
 Pasal 140
 Kewenangan pelaksanaan pidana dinyatakan gugur, jika:
-a. terpidana meninggal dunia;
-b. kedaluwarsa;
-c. terpidana mendapat grasi atau amnesti; atau
-d. penyerahan untuk pelaksanaan pidana ke negara lain.
+  a. terpidana meninggal dunia;
+  b. kedaluwarsa;
+  c. terpidana mendapat grasi atau amnesti; atau
+  d. penyerahan untuk pelaksanaan pidana ke negara lain.
 
 Pasal 141
 Jika terpidana meninggal dunia, pidana perampasan Barang
@@ -1888,20 +1895,20 @@ Pasal 142
 (1) Kewenangan pelaksanaan pidana gugur karena
 kedaluwarsa setelah berlaku tenggang waktu yang sama
 dengan tenggang waktu kedaluwarsa kewenangan
-menuntut sebagaimana dimaksud dalam Pasal 136
-ditambah 1/3 (satu per tiga).
+menuntut sebagaimana dimaksud dalam [Pasal 136](/uu/2023/1/pasal-136) ditambah
+1/3 (satu per tiga).
 (2) Tenggang waktu kedaluwarsa pelaksanaan pidana
 harus melebihi lama pidana yang dijatuhkan kecuali
 untuk pidana penjara seumur hidup.
 (3) Pelaksanaan pidana mati tidak mempunyai tenggang
 waktu kedaluwarsa,
 (4) Jika pidana mati diubah menjadi pidana penjara
-seumur hidup sebagaimana dimaksud dalam Pasal 101,
+seumur hidup sebagaimana dimaksud dalam [Pasal 101](/uu/2023/1/pasal-101),
 kewenangan pelaksanaan pidana gugur karena
 kedaluwarsa setelah lewat waktu yang sama dengan
 tenggang waktu kedaluwarsa kewenangan menuntut
-sebagaimana dimaksud dalam Pasal 136 ayat (1)
-huruf e ditambah 1 / 3 (satu per tiga) dari tenggang
+sebagaimana dimaksud dalam [Pasal 136 ayat (1)](/uu/2023/1/pasal-136/ayat-1)
+huruf e ditambah 1/3 (satu per tiga) dari tenggang
 waktu kedaluwarsa tersebut.
 
 Pasal 143
@@ -1917,11 +1924,11 @@ dicabut, tenggang waktu kedaluwarsa dihitung
 keesokan harinya sejak tanggal pencabutan.
 (4) Tenggang waktu kedaluwarsa pelaksanaan pidana
 ditunda selama:
-a. pelaksanaan pidana tersebut ditunda berdasarkan
-peraturan perundang-undangan; atau
-b. terpidana dirampas kemerdekaannya meskipun
-perampasan kemerdekaan tersebut berkaitan dengan
-putusan pengadilan untuk Tindak Pidana lain.
+  a. pelaksanaan pidana tersebut ditunda berdasarkan
+  peraturan perundang-undangan; atau
+  b. terpidana dirampas kemerdekaannya meskipun
+  perampasan kemerdekaan tersebut berkaitan dengan
+  putusan pengadilan untuk Tindak Pidana lain.
 
 BAB V
 PENGERTIAN ISTILAH
@@ -1981,35 +1988,35 @@ memenuhi syarat yang ditentukan, diangkat oleh pejabat
 yang berwenang dan diserahi tugas negara, atau diserahi
 tugas lain oleh negara, dan digaji berdasarkan ketentuan
 peraturan perundang-undangan, yaitu:
-a. aparatur sipil negara, anggota Kepolisian Negara
-Republik Indonesia, dan anggota Tentara Nasional
-Indonesia;
-b. pejabat negara;
-c. pejabat publik;
-d. pejabat daerah;
-e. orang yang menerima gaji atau upah dari keuangan
-negara atau daerah;
-f. orang yang menerima gaji atau upah dari Korporasi
-yang selumh atau sebagran besar modalnya milik
-negara atau daerah; atau
-g. pejabat lain yang ditentukan berdasarkan peraturan
-perundang-undangan.
+  a. aparatur sipil negara, anggota Kepolisian Negara
+  Republik Indonesia, dan anggota Tentara Nasional
+  Indonesia;
+  b. pejabat negara;
+  c. pejabat publik;
+  d. pejabat daerah;
+  e. orang yang menerima gaji atau upah dari keuangan
+  negara atau daerah;
+  f. orang yang menerima gaji atau upah dari Korporasi
+  yang seluruh atau sebagian besar modalnya milik
+  negara atau daerah; atau
+  g. pejabat lain yang ditentukan berdasarkan peraturan
+  perundang-undangan.
 
 Pasal 155
 Luka Berat adalah:
-a. sakit atau luka yang tidak ada harapan untuk sembuh
-dengan sempurna atau yang dapat menimbulkan
-bahaya maut;
-b. terus-menerus tidak cakap lagi melakukan tugas,
-jabatan, atau pekerjaan;
-c. tidak dapat menggunakan lagi salah satu panca indera
-atau salah satu anggota tubuh;
-d. cacat berat atau cacat permanen;
-e. lumpuh;
-f. daya pikir terganggu selama lebih dari 4 (empat)
-minggu;
-g. gugur atau matinya kandungan; atau
-h. rusaknya fungsi reproduksi.
+  a. sakit atau luka yang tidak ada harapan untuk sembuh
+  dengan sempurna atau yang dapat menimbulkan
+  bahaya maut;
+  b. terus-menerus tidak cakap lagi melakukan tugas,
+  jabatan, atau pekerjaan;
+  c. tidak dapat menggunakan lagi salah satu panca indera
+  atau salah satu anggota tubuh;
+  d. cacat berat atau cacat permanen;
+  e. lumpuh;
+  f. daya pikir terganggu selama lebih dari 4 (empat)
+  minggu;
+  g. gugur atau matinya kandungan; atau
+  h. rusaknya fungsi reproduksi.
 
 Pasal 156
 Kekerasan adalah setiap perbuatan dengan atau tanpa
@@ -2038,7 +2045,7 @@ Harta Kekayaan adalah benda bergerak atau benda tidak
 bergerak, baik yang berwujud maupun yang tidak berwujud,
 yang memiliki nilai ekonomi.
 
-Pasal 16O
+Pasal 160
 Makar adalah niat untuk melakukan serangan yang telah
 diwujudkan dengan persiapan perbuatan tersebut.
 
@@ -2122,7 +2129,7 @@ Kapal adalah kendaraan air dengan bentuk dan jenis apa
 pun, yang digerakkan dengan tenaga mekanik, tenaga angin,
 atau ditunda, termasuk kendaraan yang berdaya dukung
 dinamis, kendaraan di bawah permukaan air, serta alat
-apung dan bangunan terapung yang tidak berpindahpindah.
+apung dan bangunan terapung yang tidak berpindah-pindah.
 
 Pasal 175
 Penumpang adalah orang selain Nakhoda dan Anak Buah
@@ -2134,7 +2141,7 @@ Pasal 176
 Anak Buah Kapal adalah Awak Kapal selain Nakhoda.
 
 Pasal 177
-Awak Kapal adalah orurng yang bekerja atau dipeke{akan di
+Awak Kapal adalah orang yang bekerja atau dipekerjakan di
 atas Kapal oleh pemilik atau operator Kapal yang melakukan
 tugas di atas Kapal sesuai dengan jabatannya.
 
@@ -2172,7 +2179,7 @@ pesawat untuk penerbangan tertentu sampai lewat
 24 (dua puluh empat) jam sesudah pendaratan.
 
 Pasal 183
-Ternak adalah hewan peliharaan yang dipenrntukkan
+Ternak adalah hewan peliharaan yang diperuntukkan
 sebagai sumber pangan dan sumber mata pencaharian.
 
 Pasal 184
@@ -2189,7 +2196,7 @@ BAB VI
 ATURAN PENUTUP
 
 Pasal 187
-Ketentuan dalam Bab I sampai dengan Bab V Buku Kesatu
+Ketentuan dalam BAB I sampai dengan BAB V Buku Kesatu
 berlaku juga bagi perbuatan yang dapat dipidana menurut
 peraturan perundang-undangan lain, kecuali ditentukan lain
 menurut Undang-Undang.
@@ -2218,21 +2225,23 @@ menyebarkan atau mengembangkan melalui media apa
 pun, dipidana dengan pidana penjara paling lama
 4 (empat) tahun.
 (2) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (1) dilakukan dengan maksud mengubah atau
-mengganti Pancasila sebagai dasar negara, dipidana
-dengan pidana penjara paling lama 7 (tujuh) tahun.
+[ayat (1)](/uu/2023/1/pasal-188/ayat-1) dilakukan dengan maksud
+mengubah atau mengganti Pancasila sebagai dasar
+negara, dipidana dengan pidana penjara paling lama
+7 (tujuh) tahun.
 (3) Dalam hal perbuatan sebagaimana dimaksud pada
-ayal (1) atau ayat (2) mengakibatkan terjadinya
-kerusuhan dalam masyarakat atau kerugian Harta
-Kekayaan, dipidana dengan pidana penjara paling lama
-l0 (sepuluh) tahun.
+[ayat (1)](/uu/2023/1/pasal-188/ayat-1) atau [ayat (2)](/uu/2023/1/pasal-188/ayat-2)
+mengakibatkan terjadinya kerusuhan dalam masyarakat
+atau kerugian Harta Kekayaan, dipidana dengan pidana
+penjara paling lama 10 (sepuluh) tahun.
 (4) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (3) mengakibatkan orang menderita Luka Berat,
-dipidana dengan pidana penjara paling lama
-12 (dua belas) tahun.
+[ayat (3)](/uu/2023/1/pasal-188/ayat-3) mengakibatkan orang
+menderita Luka Berat, dipidana dengan pidana penjara
+paling lama 12 (dua belas) tahun.
 (5) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (3) mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 15 (lima belas) tahun.
+[ayat (3)](/uu/2023/1/pasal-188/ayat-3) mengakibatkan matinya orang,
+dipidana dengan pidana penjara paling lama 15 (lima belas)
+tahun.
 (6) Tidak dipidana orang yang melakukan kajian terhadap
 ajaran komunisme/marxisme-leninisme atau paham
 lain yang bertentangan dengan Pancasila untuk
@@ -2241,17 +2250,17 @@ kepentingan ilmu pengetahuan.
 Pasal 189
 Dipidana dengan pidana penjara paling lama 10 (sepuluh)
 tahun, Setiap Orang yang:
-a. mendirikan organisasi yang diketahui atau patut diduga
-menganut ajaran komunisme/ marxisme-leninisme atau
-paham lain yang bertentangan dengan Pancasila; atau
-b. mengadakan hubungan dengan atau memberikan
-bantuan kepada atau menerima bantuan dari
-organisasi, baik di dalam maupun di luar negeri, yang
-sepatutnya diketahui menganut ajaran
-komunisme/marxisme-leninisme atau paham lain yang
-bertentangan dengan Pancasila, dengan maksud
-mengubah dasar negara atau menggulingkan
-pemerintah.
+  a. mendirikan organisasi yang diketahui atau patut diduga
+  menganut ajaran komunisme/ marxisme-leninisme atau
+  paham lain yang bertentangan dengan Pancasila; atau
+  b. mengadakan hubungan dengan atau memberikan
+  bantuan kepada atau menerima bantuan dari
+  organisasi, baik di dalam maupun di luar negeri, yang
+  sepatutnya diketahui menganut ajaran
+  komunisme/marxisme-leninisme atau paham lain yang
+  bertentangan dengan Pancasila, dengan maksud
+  mengubah dasar negara atau menggulingkan
+  pemerintah.
 
 Paragraf 2
 Peniadaan dan Penggantian Ideologi Pancasila
@@ -2263,18 +2272,18 @@ pun untuk meniadakan atau mengganti Pancasila
 sebagai dasar negara, dipidana dengan pidana penjara
 paling lama 5 (lima) tahun.
 (2) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (1) mengakibatkan:
-a. terjadinya kerusuhan dalam masyarakat atau
-timbulnya kerugian Harta Kekayaan, dipidana
-dengan pidana penjara paling lama 1O (sepuluh)
-tahun;
-b. terjadinya kerusuhan dalam masyarakat yang
-mengalibatkan orang menderita Luka Berat,
-dipidana dengan pidana penjara paling lama
-12 (dua belas) tahun; atau
-c. terjadinya kerusuhan dalam masyarakat yang
-mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 15 (lima belas) tahun.
+[ayat (1)](/uu/2023/1/pasal-190/ayat-1) mengakibatkan:
+  a. terjadinya kerusuhan dalam masyarakat atau
+  timbulnya kerugian Harta Kekayaan, dipidana
+  dengan pidana penjara paling lama 10 (sepuluh)
+  tahun;
+  b. terjadinya kerusuhan dalam masyarakat yang
+  mengalibatkan orang menderita Luka Berat,
+  dipidana dengan pidana penjara paling lama
+  12 (dua belas) tahun; atau
+  c. terjadinya kerusuhan dalam masyarakat yang
+  mengakibatkan matinya orang, dipidana dengan
+  pidana penjara paling lama 15 (lima belas) tahun.
 
 Bagian Kedua
 Tindak Pidana Makar
@@ -2289,7 +2298,7 @@ dan/ atau Wakil Presiden atau menjadikan Presiden
 dan/ atau Wakil Presiden tidak mampu menjalankan
 pemerintahan, dipidana dengan pidana mati, pidana penjara
 seumur hidup, atau pidana penjara paling lama
-2O (dua puluh) tahun.
+20 (dua puluh) tahun.
 
 Paragraf 2
 Makar terhadap Negara Kesatuan Republik Indonesia
@@ -2311,70 +2320,70 @@ Pasal 193
 menggulingkan pemerintah, dipidana dengan pidana
 penjara paling lama 12 (dua belas) tahun.
 (2) Pemimpin atau pengatur Makar sebagaimana dimaksud
-pada ayat (1), dipidana dengan pidana penjara paling
-lama 15 (lima belas) tahun.
+pada [ayat (1)](/uu/2023/1/pasal-193/ayat-1), dipidana dengan pidana penjara
+paling lama 15 (lima belas) tahun.
 
 Pasal 194
 (1) Dipidana karena pemberontakan dengan pidana
 penjara paling lama 15 (lima belas) tahun, Setiap Orang
 yang:
-a. melawan pemerintah dengan
-kekuatan senjata; atau
-b. dengan maksud untuk melawan pemerintah
-bergerak bersama-sama atau menyatukan diri
-dengan gerombolan yang melawan pemerintah
-dengan menggunakan kekuatan senjata.
+  a. melawan pemerintah dengan
+  kekuatan senjata; atau
+  b. dengan maksud untuk melawan pemerintah
+  bergerak bersama-sama atau menyatukan diri
+  dengan gerombolan yang melawan pemerintah
+  dengan menggunakan kekuatan senjata.
 (2) Pemimpin atau pengatur pemberontakan sebagaimana
-dimaksud pada ayat (1), dipidana dengan pidana
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-194/ayat-1), dipidana dengan pidana
 penjara seumur hidup atau pidana penjara paling lama
 20 (dua puluh) tahun.
 
 Pasal 195
 (1) Dipidana dengan pidana penjara paling lama
-1O (sepuluh) tahun, Setiap Orang yang:
-a. mengadakan hubungan dengan orang atau
-organisasi yang berkedudukan di luar negeri dengan
-maksud:
-  1. membujuk orang atau organisasi;
-  2. memperkuat niat dari orang atau organisasi;
-  3. menjanjikan atau memberikan bantuan kepada
-  orang atau organisasi; atau
-  4. memasukkan suatu Barang ke wilayah Negara
-  Kesatuan Republik Indonesia,
+10 (sepuluh) tahun, Setiap Orang yang:
+  a. mengadakan hubungan dengan orang atau
+  organisasi yang berkedudukan di luar negeri dengan
+  maksud:
+    1. membujuk orang atau organisasi;
+    2. memperkuat niat dari orang atau organisasi;
+    3. menjanjikan atau memberikan bantuan kepada
+    orang atau organisasi; atau
+    4. memasukkan suatu Barang ke wilayah Negara
+    Kesatuan Republik Indonesia,
   untuk atau mengambil alih
   pemerintah;
-b. memasukkan suatu Barang ke wilayah Negara
-Kesatuan Republik Indonesia yang dapat
-dipergunalan untuk memberikan bantuan materiel
-dalam mempersiapkan, memudahkan, atau
-melakukan penggulingan dan/atau
-pengambilalihan pemerintah, padahal diketahui
-atau ada alasan yang kuat untuk menduga bahwa
-Barang tersebut digunakan untuk maksud tersebut;
-atau
-c. menguasai atau menjadikan suatu Barang sebagai
-pokok perjanjian yang dapat digunakan untuk
-memberikan bantuan materiel dalam
-mempersiapkan, memudahkan, atau melakukan
-penggulingan dan/atau pengambilalihan
-pemerintah, padahal mengetahui atau ada alasan
-yang kuat untuk menduga bahwa Barang tersebut
-digunakan untuk maksud tersebut, atau Barang
-lain sebagai penggantinya dimasukkan ke wilayah
-Negara Kesatuan Republik Indonesia untuk maksud
-tersebut, atau digunakan untuk maksud tersebut
-oleh orang atau badan yang berkedudukan di luar
-negeri.
+  b. memasukkan suatu Barang ke wilayah Negara
+  Kesatuan Republik Indonesia yang dapat
+  dipergunalan untuk memberikan bantuan materiel
+  dalam mempersiapkan, memudahkan, atau
+  melakukan penggulingan dan/atau
+  pengambilalihan pemerintah, padahal diketahui
+  atau ada alasan yang kuat untuk menduga bahwa
+  Barang tersebut digunakan untuk maksud tersebut;
+  atau
+  c. menguasai atau menjadikan suatu Barang sebagai
+  pokok perjanjian yang dapat digunakan untuk
+  memberikan bantuan materiel dalam
+  mempersiapkan, memudahkan, atau melakukan
+  penggulingan dan/atau pengambilalihan
+  pemerintah, padahal mengetahui atau ada alasan
+  yang kuat untuk menduga bahwa Barang tersebut
+  digunakan untuk maksud tersebut, atau Barang
+  lain sebagai penggantinya dimasukkan ke wilayah
+  Negara Kesatuan Republik Indonesia untuk maksud
+  tersebut, atau digunakan untuk maksud tersebut
+  oleh orang atau badan yang berkedudukan di luar
+  negeri.
 (2) Barang yang digunakan untuk melakukan atau yang
 berhubungan dengan Tindak Pidana sebagaimana
-dimaksud pada ayat (1) huruf b dan huruf c dirampas
-untuk negara atau dimusnahkan.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-195/ayat-1) huruf b dan
+huruf c dirampas untuk negara atau dimusnahkan.
 
 Pasal 196
 (1) Setiap Orang yang melakukan permufakatan jahat atau
 persiapan untuk melakukan Tindak Pidana
-sebagaimana dimaksud dalam Pasal 191 sampai dengan
-Pasal 194 dipidana.
+sebagaimana dimaksud dalam [Pasal 191](/uu/2023/1/pasal-191) sampai dengan
+[Pasal 194](/uu/2023/1/pasal-194) dipidana.
 (2) Setiap Orang yang mempersiapkan perubahan
 ketatanegaraan secara konstitusional, tidak dipidana.
 
@@ -2386,13 +2395,12 @@ Pertahanan Negara
 
 Pasal 197
 Setiap Orang yang tanpa wewenang membuat,
-mengumpulkan, ffi€mpunyai, menyimpan,
-menyembunyikan, atau mengangkut gambar potret, gambar
-lukis, gambar tangan, atau video pengukuran, penulisan,
-keterangan, atau petunjuk lain mengenai suatu hal yang
-bersangkutan dengan kepentingan pertahanan negara,
-dipidana dengan pidana penjara paling lama 2 (dua) tahun
-atau pidana denda paling banyak kategori IV.
+mengumpulkan, menyimpan, menyembunyikan, atau mengangkut
+gambar potret, gambar lukis, gambar tangan, atau video
+pengukuran, penulisan, keterangan, atau petunjuk lain
+mengenai suatu hal yang bersangkutan dengan kepentingan
+pertahanan negara, dipidana dengan pidana penjara paling lama
+2 (dua) tahun atau pidana denda paling banyak kategori IV.
 
 Pasal 198
 Setiap Orang yang ditugaskan oleh Pemerintah Indonesia
@@ -2406,23 +2414,23 @@ melakukan Perang atau latihan militer atau bergabung
 dalam suatu organisasi tertentu untuk melakukan
 Perang atau latihan militer di luar negeri, dipidana
 dengan pidana penjara paling lama 6 (enam) tahun.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-199/ayat-1) tidak
 berlaku bagi anggota Tentara Nasional Indonesia dan
 Kepolisian Negara Republik Indonesia yang mendapat
 persetujuan Pemerintah Indonesia.
 
 Pasal 200
-Dipidana dengan pidana penjara palin glama 7 (tqiuh) tahun,
+Dipidana dengan pidana penjara paling lama 7 (tujuh) tahun,
 Setiap Orang yang:
-a. dalam suatu Perang yang tidak melibatkan Indonesia,
-melakukan perbuatan yang membahayakan sikap
-kenetralan negara atau melanggar suatu peraturan
-yang khusus dibuat oleh Pemerintah Indonesia untuk
-menjaga kenetralan negara; atau
-b. dalam Waktu Perang, melanggar suatu peraturan yang
-dikeluarkan dan diumumkan oleh Pemerintah
-Indonesia untuk kepentingan pertahanan keamanan
-negara.
+  a. dalam suatu Perang yang tidak melibatkan Indonesia,
+  melakukan perbuatan yang membahayakan sikap
+  kenetralan negara atau melanggar suatu peraturan
+  yang khusus dibuat oleh Pemerintah Indonesia untuk
+  menjaga kenetralan negara; atau
+  b. dalam Waktu Perang, melanggar suatu peraturan yang
+  dikeluarkan dan diumumkan oleh Pemerintah
+  Indonesia untuk kepentingan pertahanan keamanan
+  negara.
 
 Pasal 201
 Setiap Orang yang tanpa izin Presiden atau Pejabat yang
@@ -2435,20 +2443,20 @@ Pasal 202
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun
 6 (enam) Bulan atau pidana denda paling banyak kategori II,
 Setiap Orang yang tanpa wewenang:
-a. memasuki wilayah yang sedang dibangun untuk
-keperluan pertahanan keamanan negara dalam jarak
-kurang dari 5O0 (lima ratus) meter, kecuali pada jalan
-besar untuk lalu lintas umum;
-b. memasuki bangunan angkatan darat, angkatan laut,
-atau angkatan udara, serta Pesawat Udara atau kapal
-perang melalui jalan lain dari jalan Masuk biasa;
-c. membawa alat pemotret ke dalam suatu bagian
-lapangan yang dilarang oleh ketentuan peraturan
-perundang-undangan; atau
-d. mempunyai hasil pemotretan, gambar, atau uraian dari
-proyek pertahanan keamanan negara dari seluruh atau
-sebagian lapangan sebagaimana dimaksud dalam
-huruf c.
+  a. memasuki wilayah yang sedang dibangun untuk
+  keperluan pertahanan keamanan negara dalam jarak
+  kurang dari 500 (lima ratus) meter, kecuali pada jalan
+  besar untuk lalu lintas umum;
+  b. memasuki bangunan angkatan darat, angkatan laut,
+  atau angkatan udara, serta Pesawat Udara atau kapal
+  perang melalui jalan lain dari jalan masuk biasa;
+  c. membawa alat pemotret ke dalam suatu bagian
+  lapangan yang dilarang oleh ketentuan peraturan
+  perundang-undangan; atau
+  d. mempunyai hasil pemotretan, gambar, atau uraian dari
+  proyek pertahanan keamanan negara dari seluruh atau
+  sebagian lapangan sebagaimana dimaksud dalam
+  huruf c.
 
 Paragraf 2
 terhadap Negara dan Pembocoran Rahasia Negara
@@ -2456,19 +2464,19 @@ terhadap Negara dan Pembocoran Rahasia Negara
 Pasal 203
 (1) Dipidana dengan pidana penjara paling lama
 12 (dua belas) tahun, Setiap Orang yang:
-a. mengadakan hubungan dengan negara asing atau
-organisasi asing dengan maksud menggerakkannya
-untuk melakukan perbuatan permusuhan atau
-Perang dengan Negara Kesatuan Republik
-Indonesia;
-b. memperkuat niat negara asing atau organisasi asing
-tersebut untuk melakukan perbuatan sebagaimana
-dimaksud dalam huruf a; atau
-c. menjanjikan bantuan atau membantu negara asing
-atau organisasi asing mempersiapkan perbuatan
-sslagaimana dimaksud dalam huruf a.
-(2) Jika perbuatan permusuhsn s6lagaimana dimaksud
-pada ayat (1) mengakibatkan terjadinya Perang,
+  a. mengadakan hubungan dengan negara asing atau
+  organisasi asing dengan maksud menggerakkannya
+  untuk melakukan perbuatan permusuhan atau
+  Perang dengan Negara Kesatuan Republik
+  Indonesia;
+  b. memperkuat niat negara asing atau organisasi asing
+  tersebut untuk melakukan perbuatan sebagaimana
+  dimaksud dalam huruf a; atau
+  c. menjanjikan bantuan atau membantu negara asing
+  atau organisasi asing mempersiapkan perbuatan
+  sslagaimana dimaksud dalam huruf a.
+(2) Jika perbuatan permusuhan sebagaimana dimaksud
+pada [ayat (1)](/uu/2023/1/pasal-203/ayat-1) mengakibatkan terjadinya Perang,
 dipidana dengan pidana penjara paling lama 15 (lima
 belas) tahun.
 
@@ -2495,25 +2503,25 @@ Pasal 206
 Dipidana dengan pidana penjara paling lama 2 (dua) tahun
 atau pidana denda paling banyak kategori IV, Setiap Orang
 yang:
-a. memberikan fasilitas kepada orang yang diketahuinya
-tidak mempunyai wewenang, mempunyai niat atau
-sedang mencoba untuk mengetahui seluruh atau
-sebagian Surat, peta bumi, rencana, gambar, atau
-Barang yang bersifat rahasia negara sebagaimana yang
-dimaksud dalam Pasal 205 atau untuk mengetahui
-letak, bentuk, susunan persenjataan, perbekalan,
-perlengkapan amunisi atau kekuatan orang dari proyek
-pertahanan negara atau suatu hal lain yang
-bersangkutan dengan kepentingan pertahanan negara;
-atau
-b. menyembunyikan Barang yang diketahuinya akan
-digu.nakan untuk melakukan perbuatan sebagaimana
-dimaksud dalam huruf a.
+  a. memberikan fasilitas kepada orang yang diketahuinya
+  tidak mempunyai wewenang, mempunyai niat atau
+  sedang mencoba untuk mengetahui seluruh atau
+  sebagian Surat, peta bumi, rencana, gambar, atau
+  Barang yang bersifat rahasia negara sebagaimana yang
+  dimaksud dalam [Pasal 205](/uu/2023/1/pasal-205) atau untuk mengetahui
+  letak, bentuk, susunan persenjataan, perbekalan,
+  perlengkapan amunisi atau kekuatan orang dari proyek
+  pertahanan negara atau suatu hal lain yang
+  bersangkutan dengan kepentingan pertahanan negara;
+  atau
+  b. menyembunyikan Barang yang diketahuinya akan
+  digunakan untuk melakukan perbuatan sebagaimana
+  dimaksud dalam huruf a.
 
 Pasal 207
 Setiap Orang yang karena tugasnya wajib menyimpan Surat,
 peta bumi, rencana, gambar, atau Barang yang bersifat
-rahasia negara sebagaimana dimaksud dalam Pasal 205,
+rahasia negara sebagaimana dimaksud dalam [Pasal 205](/uu/2023/1/pasal-205),
 karena kealpaannya menyebabkan isi, bentuk, atau cara
 membuatnya, seluruh atau sebagian diketahui oleh orang
 lain yang tidak berhak mengetahuinya, dipidana dengan
@@ -2522,34 +2530,32 @@ pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan.
 Pasal 208
 Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun, Setiap Orang yang:
-a. melihat atau mempelajari Surat, peta bumi, rencana,
-gambar, atau Barang yang bersifat rahasia negara
-sebagaimana dimaksud dalam Pasal 205, seluruh atau
-sebagian yang diketahuinya atau patut diduga bahwa
-Surat, peta bumi, rencana, gambar, atau Barang yang
-bersifat rahasia negara tersebut tidak boleh
-diketahuinya;
-b. membuat atau meminta membuat cetakan, gambar,
-atau tiruan dari Surat, peta bumi, rencana, gambar,
-atau Barang yang bersifat rahasia negara sebagaimana
-dimaksud dalam huruf a; atau
-c. tidak menyerahkan Surat, peta bumi, rencana, gambar,
-atau Barang yang bersifat rahasia negara tersebut
-kepada Pejabat yang berwenang padahal Surat, peta
-bumi, rencana, gambar, atau Barang yang bersifat
-rahasia negara tersebut jatuh ke tangannya.
+  a. melihat atau mempelajari Surat, peta bumi, rencana,
+  gambar, atau Barang yang bersifat rahasia negara
+  sebagaimana dimaksud dalam [Pasal 205](/uu/2023/1/pasal-205), seluruh atau
+  sebagian yang diketahuinya atau patut diduga bahwa
+  Surat, peta bumi, rencana, gambar, atau Barang yang
+  bersifat rahasia negara tersebut tidak boleh
+  diketahuinya;
+  b. membuat atau meminta membuat cetakan, gambar,
+  atau tiruan dari Surat, peta bumi, rencana, gambar,
+  atau Barang yang bersifat rahasia negara sebagaimana
+  dimaksud dalam huruf a; atau
+  c. tidak menyerahkan Surat, peta bumi, rencana, gambar,
+  atau Barang yang bersifat rahasia negara tersebut
+  kepada Pejabat yang berwenang padahal Surat, peta
+  bumi, rencana, gambar, atau Barang yang bersifat
+  rahasia negara tersebut jatuh ke tangannya.
 
 Pasal 209
 Setiap Orang yang melakukan Tindak Pidana sebagaimana
-dimaksud dalam Pasal l97,Pasal202, Pasal 205, Pasal 206,
-atau Pasal 208 dengan mempergunakan cara curang atau
+dimaksud dalam [Pasal l97](/uu/2023/1/pasal-197), [Pasal 202](/uu/2023/1/pasal-202), [Pasal 205](/uu/2023/1/pasal-205), [Pasal 206](/uu/2023/1/pasal-206), atau [Pasal 208](/uu/2023/1/pasal-208) dengan mempergunakan cara curang atau
 dilakukan dengan cara memberi atau menerima,
 menimbulkan harapan, atau menjanjikan hadiah,
 keuntungan, atau upah dalam bentuk apa pun juga atau
 dilakukan dengan Kekerasan atau Ancaman Kekerasan,
 dipidana 2 (dua) kali lipat dari pidana sebagaimana
-dimaksud dalam Pasal 197, Pasal 2O2,Pasal2O1,Pasal2O6,
-atau Pasal 208.
+dimaksud dalam [Pasal 197](/uu/2023/1/pasal-197), [Pasal 2O2](/uu/2023/1/pasal-202), [Pasal 201](/uu/2023/1/pasal-201), [Pasal 206](/uu/2023/1/pasal-206), atau [Pasal 208](/uu/2023/1/pasal-208).
 
 Paragraf 3
 Sabotase dan Tindak Pidana pada Waktu Perang
@@ -2557,15 +2563,15 @@ Sabotase dan Tindak Pidana pada Waktu Perang
 Pasal 210
 Dipidana karena sabotase dengan pidana penjara paling
 lama 15 (lima belas) tahun, Setiap Orang yang:
-a. merusak, menghancurkan, membuat tidak dapat
-dipakai, atau memusnahkan instalasi negara atau
-instalasi militer;
-b. menghalangi atau menggagalkan pengadaan atau
-distribusi bahan pokok yang menguasai hajat hidup
-orang banyak sesuai dengan kebijakan pemerintah;
-atau
-c. mengganggu atau merusak secara luas perhubungan
-darat, laut, udara, atau telekomunikasi.
+  a. merusak, menghancurkan, membuat tidak dapat
+  dipakai, atau memusnahkan instalasi negara atau
+  instalasi militer;
+  b. menghalangi atau menggagalkan pengadaan atau
+  distribusi bahan pokok yang menguasai hajat hidup
+  orang banyak sesuai dengan kebijakan pemerintah;
+  atau
+  c. mengganggu atau merusak secara luas perhubungan
+  darat, laut, udara, atau telekomunikasi.
 
 Pasal 211
 Warga negara Indonesia yang dengan sukarela menjadi
@@ -2582,87 +2588,88 @@ kepentingan Musuh, dipidana dengan pidana penjara
 paling lama 12 (dua belas) tahun.
 (2) Dipidana dengan pidana penjara paling lama
 15 (lima belas) tahun, Setiap Orang sebagaimana
-dimaksud pada ayat (1), yang:
-a. memberitahukan atau menyerahkan peta, rencana,
-gambar, atau uraian dari bangunan tentara atau
-keterangan tentang gerakan tentara atau rencana
-tentara kepada Musuh; atau
-b. bekerja pada Musuh sebagai mata-mata, yang
-meliputi:
-  1. memiliki, menguasai, atau memperoleh dengan
-  maksud unhrk meneruskannya baik langsung
-  rurupun tidak langsung kepada Musuh Negara
-  Kesatuan Republik Indonesia, sesuatu peta,
-  rancangan, gambar, atau hrlisan tentang
-  bangunan militer atau rahasia militer ataupun
-  keterangan tentang rahasia pemerintah dalam
-  bidang politik, diFlomasi, atau ekonomi;
-  2. melakukan penyelidikan untuk Musuh
-  sebagaimana dimaksud dalam huruf a atau
-  menerima dalam pemondokan, menyembunyikan,
-  atau menolong seorang penyelidik Musuh;
-  3. mengadakan, memudahkan, atau menyebarkan
-  propaganda untuk Musuh;
-  4. melakukan sesuatu usaha yang bertentangan
-  dengan kepentingan negara sehingga terhadap
-  seseor€rrg dapat dilakukan penyelidikan,
-  penuntutan, perampasan, atau pembatasan
-  kemerdekaan, penjatuhan pidana, atau tindakan
-  lainnya oleh atau atas kekuasaan Musuh; atau
-  5. memberikan kepada atau menerima dari Musuh
-  atau pembantu Musuh, sesuatu Barang atau uang,
-  atau melakukan sesuatu perbuatan yang
-  menguntungkan Musuh atau pembantu Musuh,
-  atau menyukarkan atau merintangi atau
-  menggagalkan sesuatu tindakan terhadap Musuh
-  atau pembantu Musuh.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-212/ayat-1), yang:
+  a. memberitahukan atau menyerahkan peta, rencana,
+  gambar, atau uraian dari bangunan tentara atau
+  keterangan tentang gerakan tentara atau rencana
+  tentara kepada Musuh; atau
+  b. bekerja pada Musuh sebagai mata-mata, yang
+  meliputi:
+    1. memiliki, menguasai, atau memperoleh dengan
+    maksud unhrk meneruskannya baik langsung
+    rurupun tidak langsung kepada Musuh Negara
+    Kesatuan Republik Indonesia, sesuatu peta,
+    rancangan, gambar, atau hrlisan tentang
+    bangunan militer atau rahasia militer ataupun
+    keterangan tentang rahasia pemerintah dalam
+    bidang politik, diFlomasi, atau ekonomi;
+    2. melakukan penyelidikan untuk Musuh
+    sebagaimana dimaksud dalam huruf a atau
+    menerima dalam pemondokan, menyembunyikan,
+    atau menolong seorang penyelidik Musuh;
+    3. mengadakan, memudahkan, atau menyebarkan
+    propaganda untuk Musuh;
+    4. melakukan sesuatu usaha yang bertentangan
+    dengan kepentingan negara sehingga terhadap
+    seseor€rrg dapat dilakukan penyelidikan,
+    penuntutan, perampasan, atau pembatasan
+    kemerdekaan, penjatuhan pidana, atau tindakan
+    lainnya oleh atau atas kekuasaan Musuh; atau
+    5. memberikan kepada atau menerima dari Musuh
+    atau pembantu Musuh, sesuatu Barang atau uang,
+    atau melakukan sesuatu perbuatan yang
+    menguntungkan Musuh atau pembantu Musuh,
+    atau menyukarkan atau merintangi atau
+    menggagalkan sesuatu tindakan terhadap Musuh
+    atau pembantu Musuh.
 (3) Dipidana dengan pidana mati, pidana penjara seumur
 hidup, atau pidana penjara paling lama 20 (dua puluh)
 tahun, jika Setiap Orang sebagaimana dimaksud pada
-ayat (1) yang:
-a. berkhianat untuk kepentingan Musuh, menyerahkan
-kepa.da kekuasaan Musuh, menghancurkan atau
-membuat tidak dapat dipakai lagi suatu tempat atau
-tempat penjagaan yang diperkuat atau diduduki,
-suatu alat perhubungan, suatu perbekalan Perang,
-atau suatu kas Perang, ataupun suatu bagian dari itu
-atau menghalang-halangi atau menggagalkan suatu
-usaha tentara yang direncanakan atau
-diselenggarakan untuk menangkis atau menyerang;
-atau
-b. menyebabkan atau memudahkan hunr-hara,
-pemberontakan, atau desersi di kalangan tentara.
+[ayat (1)](/uu/2023/1/pasal-212/ayat-1) yang:
+  a. berkhianat untuk kepentingan Musuh, menyerahkan
+  kepa.da kekuasaan Musuh, menghancurkan atau
+  membuat tidak dapat dipakai lagi suatu tempat atau
+  tempat penjagaan yang diperkuat atau diduduki,
+  suatu alat perhubungan, suatu perbekalan Perang,
+  atau suatu kas Perang, ataupun suatu bagian dari itu
+  atau menghalang-halangi atau menggagalkan suatu
+  usaha tentara yang direncanakan atau
+  diselenggarakan untuk menangkis atau menyerang;
+  atau
+  b. menyebabkan atau memudahkan hunr-hara,
+  pemberontakan, atau desersi di kalangan tentara.
 
 Pasal 213
 Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun, Setiap Orang yang dalam Waktu Perang, tanpa tujuan
 membantu Musuh atau merugikan negara untuk
 menguntungkan Musuh:
-a. memberi fasilitas, tempat menumpang,
-menyembunyikan, atau membantu mata-mata Musuh;
-atau
-b. mengakibatkan atau memudahkan desersi di kalangan
-tentara.
+  a. memberi fasilitas, tempat menumpang,
+  menyembunyikan, atau membantu mata-mata Musuh;
+  atau
+  b. mengakibatkan atau memudahkan desersi di kalangan
+  tentara.
 
 Pasal 214
 Dipidana dengan pidana penjara paling lama 5 (lima) tahun,
 Setiap Orang yang:
-a. dalam Waktu Perang dengan perbuatan curang
-menyerahkan Barang keperluan tentara; atau
-b. ditugaskan untuk mengawasi penyerahan Barang
-sebagaimana dimaksud dalam huruf a membiarkan
-perbuatan curang tersebut.
+  a. dalam Waktu Perang dengan perbuatan curang
+  menyerahkan Barang keperluan tentara; atau
+  b. ditugaskan untuk mengawasi penyerahan Barang
+  sebagaimana dimaksud dalam huruf a membiarkan
+  perbuatan curang tersebut.
 
 Pasal 215
-Ketentuan pidana sebagaimana dimaksud dalam Pasal 210
-sampai dengan Pasal 214 berlaku juga, jika salah satu dari
+Ketentuan pidana sebagaimana dimaksud dalam [Pasal 210](/uu/2023/1/pasal-210)
+sampai dengan [Pasal 214](/uu/2023/1/pasal-214) berlaku juga, jika salah satu dari
 perbuatan tersebut dilakukan terhadap atau berkaitan
 dengan negara sekutu dalam Perang bersama.
 
 Pasal 216
 Setiap Orang yang melakukan permufakatan jahat dan
 persiapan untuk melakukan Tindak Pidana sebagaimana
-dimaksud dalam Pasal 210 atau Pasal 212 dipidana.
+dimaksud dalam [Pasal 210](/uu/2023/1/pasal-210) atau [Pasal 212](/uu/2023/1/pasal-212)
+dipidana.
 
 BAB II
 TINDAK PIDANA TERHADAP MARTABAT PRESIDEN
@@ -2679,16 +2686,16 @@ lebih berat, dipidana dengan pidana penjara paling lama
 
 Bagian Kedua
 Penyerangan Kehormatan atau Harkat dan Martabat Presiden
-dan/ atau Wakil Presiden
+dan/atau Wakil Presiden
 
 Pasal 218
 (1) Setiap Orang yang Di Muka Umum menyerang
 kehormatan atau harkat dan martabat diri Presiden
-darrlatau Wakil Presiden, dipidana dengan pidana
+dan/atau Wakil Presiden, dipidana dengan pidana
 penjara paling lama 3 (tiga) tahun atau pidana denda
 paling banyak kategori IV.
 (2)Tidak merupakan penyerangan kehormatan atau harkat
-dan martabat sebagaimana dimaksud pada ayat (1), jika
+dan martabat sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-218/ayat-1), jika
 perbuatan dilakukan untuk kepentingan umum atau
 pembelaan diri.
 
@@ -2706,9 +2713,9 @@ kategori IV.
 
 Pasal 220
 (1) Tindak Pidana sebagaimana dimaksud dalam
-Pasal 218 dan Pasal 2L9 hanya dapat dituntut
+[Pasal 218](/uu/2023/1/pasal-218) dan [Pasal 219](/uu/2023/1/pasal-219) hanya dapat dituntut
 berdasarkan aduan.
-(2) Pengaduan sebagaimana dimaksud pada ayat (1) dapat
+(2) Pengaduan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-220/ayat-1) dapat
 dilakukan secara tertulis oleh Presiden dan/ atau Wakil
 Presiden.
 
@@ -2738,14 +2745,15 @@ dipidana dengan pidana penjara paling lama 3 (tiga) tahun 6
 Pasal 223
 Setiap Orang yang melakukan permufakatan jahat dan
 persiapan untuk melakukan Tindak Pidana sebagaimana
-dimaksud dalam Pasal 22L danPasal 222 dipidana.
+dimaksud dalam [Pasal 221](/uu/2023/1/pasal-221) dan [Pasal 222](/uu/2023/1/pasal-222)
+dipidana.
 
 Paragraf 2
 Makar terhadap Kepala Negara Sahabat
 
 Pasal 224
 Setiap Orang yang melakukan Makar dengan maksud
-membunuh atau merarnpas kemerdekaan kepala negara
+membunuh atau merampas kemerdekaan kepala negara
 sahabat, dipidana dengan pidana penjara paling lama
 12 (dua belas) tahun.
 
@@ -2783,7 +2791,7 @@ dengan pidana penjara paling lama 2 (dua) tahun atau
 pidana denda paling banyak kategori III.
 
 Pasal 228
-(1) Setiap Orang yang menyiarkan, merrrpertunjukkan,
+(1) Setiap Orang yang menyiarkan, mempertunjukkan,
 atau menempelkan tulisan atau gambar sehingga
 terlihat oleh umum, memperdengarkan rekaman
 sehingga terdengar oleh umum, atau menyebarluaskan
@@ -2795,27 +2803,27 @@ maksud agar isi penyerangan kehormatan atau harkat
 dan martabat diketahui umum, dipidana dengan pidana
 penjara paling lama 3 (tiga) tahun atau pidana denda
 paling banyak kategori IV.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-228/ayat-1)
 melakukan perbuatan tersebut dalam menjalankan
 profesinya dan pada waktu itu belum lewat 2 (dua)
 tahun sejak adanya putusan pemidanaan yang telah
 memperoleh kekuatan hukum tetap karena melakukan
 Tindak Pidana yang sama, dapat dijatuhi pidana
 tambahan berupa pencabutan hak sebagaimana
-dimaksud dalam Pasal 86 hurrf f.
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 Pasal 229
-(1) Tindak Pidana sebagaimana dimaksud dalam Pasal 226
-sampai dengan Pasal 228 hanya dapat dituntut
+(1) Tindak Pidana sebagaimana dimaksud dalam
+[Pasal 226](/uu/2023/1/pasal-226) sampai dengan [Pasal 228](/uu/2023/1/pasal-228) hanya dapat dituntut
 berdasarkan aduan.
-(2)Pengaduan sebagaimana dimaksud pada ayat (1) dapat
+(2)Pengaduan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-229/ayat-1) dapat
 dilakukan secara tertulis oleh kepala negara sahabat
 dan wakil negara sahabat.
 
 Pasal 230
 Tidak merupakan penyerangan kehormatan atau harkat dan
-martabat sebagaimana dimaksud dalam Pasal 226 sampai
-dengan Pasal 228, jika perbuatan dilakukan untuk
+martabat sebagaimana dimaksud dalam [Pasal 226](/uu/2023/1/pasal-226)
+sampai dengan [Pasal 228](/uu/2023/1/pasal-228), jika perbuatan dilakukan untuk
 kepentingan umum atau pembelaan diri.
 
 Paragraf 3
@@ -2827,7 +2835,7 @@ sahabat, dipidana dengan pidana penjara paling lama 2 (dua)
 tahun atau pidana denda paling banyak kategori III.
 
 BAB IV
-TINDAK PIDANA TERHADAP PEI{YELENGGARAAN RAPAT
+TINDAK PIDANA TERHADAP PENYELENGGARAAN RAPAT
 LEMBAGA LEGISLATIF DAN BADAN PEMERINTAH
 
 Pasal 232
@@ -2865,22 +2873,22 @@ Setiap Orang yang merusak, merobek, menginjak-injak,
 membakar, atau melakukan perbuatan lain terhadap
 bendera negara dengan maksud menodai, menghina, atau
 merendahkan kehormatan bendera negara, dipidana dengan
-pidana penjara paling lama 3 (tiga) tahun ata.u pidana denda
+pidana penjara paling lama 3 (tiga) tahun atau pidana denda
 paling banyak kategori IV.
 
 Pasal 235
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. memakai bendera negara untuk reklame atau iklan
-komersial;
-b. mengibarkan bendera negara yang rusak, robek,
-luntur, kusut, atau kusam;
-c. mencetak, menyulam, dan menulis huruf, angka,
-gambar atau tanda lain, atau memasang lencana atau
-benda apa pun pada bendera negara; atau
-d. memakai bendera negara untuk langitJangit, atap,
-pembungkus Barang, dan tutup Barang yang dapat
-menurunkan kehormatan bendera negara.
+  a. memakai bendera negara untuk reklame atau iklan
+  komersial;
+  b. mengibarkan bendera negara yang rusak, robek,
+  luntur, kusut, atau kusam;
+  c. mencetak, menyulam, dan menulis huruf, angka,
+  gambar atau tanda lain, atau memasang lencana atau
+  benda apa pun pada bendera negara; atau
+  d. memakai bendera negara untuk langit-langit, atap,
+  pembungkus Barang, dan tutup Barang yang dapat
+  menurunkan kehormatan bendera negara.
 
 Pasal 236
 Setiap Orang yang mencoret, menulisi, menggambar atau
@@ -2893,14 +2901,14 @@ paling banyak kategori IV.
 Pasal 237
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. menggunakan lambang negara yang rusak dan tidak
-sesuai dengan bentuk, warna, dan perbandingan
-ukuran;
-b. membuat lambang untuk perseorangan, partai politik,
-perkumpulan, organisasi dan/ atau perusahaan yang
-sama atau menyerupai lambang negara; atau
-c. menggunakan lambang negara untuk keperluan selain
-yang diatur dalam ketentuan Undang-Undang.
+  a. menggunakan lambang negara yang rusak dan
+  tidak sesuai dengan bentuk, warna, dan perbandingan
+  ukuran;
+  b. membuat lambang untuk perseorangan, partai politik,
+  perkumpulan, organisasi dan/ atau perusahaan yang
+  sama atau menyerupai lambang negara; atau
+  c. menggunakan lambang negara untuk keperluan selain
+  yang diatur dalam ketentuan Undang-Undang.
 
 Pasal 238
 Setiap Orang yang menodai atau menghina lagu
@@ -2915,11 +2923,11 @@ Pasal 239
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang menodai atau menghina lagu
 kebangsaan dengan:
-a. memperdengarkan, menyanyikan, atau
-menyebarluaskan hasil ubahan lagu kebangsaan
-dengan maksud untuk tqjuan komersial; atau
-b. menggunakan lagu kebangsaan untuk iklan dengan
-maksud untuk tujuan komersial.
+  a. memperdengarkan, menyanyikan, atau
+  menyebarluaskan hasil ubahan lagu kebangsaan
+  dengan maksud untuk tujuan komersial; atau
+  b. menggunakan lagu kebangsaan untuk iklan dengan
+  maksud untuk tujuan komersial.
 
 Paragraf 2
 Penghinaan terhadap Pemerintah atau Lembaga Negara
@@ -2931,14 +2939,14 @@ dipidana dengan pidana penjara paling lama 1 (satu)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
 kategori II.
 (2) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) berakibat terjadinya kerusuhan dalam
+[ayat (1)](/uu/2023/1/pasal-240/ayat-1) berakibat terjadinya kerusuhan dalam
 masyarakat, dipidana dengan pidana penjara paling
 lama 3 (tiga) tahun atau pidana denda paling banyak
 kategori IV.
-(3) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+(3) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-240/ayat-1)
 hanya dapat dituntut berdasarkan aduan pihak yang
 dihina.
-(4) Aduan sebagaimana dimaksud pada ayat (3) dilakukan
+(4) Aduan sebagaimana dimaksud pada [ayat (3)](/uu/2023/1/pasal-240/ayat-3) dilakukan
 secara tertulis oleh pimpinan pemerintah atau lembaga
 negara.
 
@@ -2953,14 +2961,14 @@ dengan maksud agar isi penghinaan diketahui umum,
 dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun atau pidana denda paling banyak kategori IV.
 (2) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) beralibat terjadinya kerusuhan dalam
+[ayat (1)](/uu/2023/1/pasal-241/ayat-1) beralibat terjadinya kerusuhan dalam
 masyarakat, dipidana dengan pidana penjara paling
 lama 4 (empat) tahun atau pidana denda paling banyak
 kategori IV.
-(3) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+(3) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-241/ayat-1)
 hanya dapat dituntut berdasarkan aduan pihak yang
 dihina.
-(4) Aduan sebagaimana dimaksud pada ayat (3) dilakukan
+(4) Aduan sebagaimana dimaksud pada [ayat (3)](/uu/2023/1/pasal-241/ayat-3) dilakukan
 secara tertulis oleh pimpinan pemerintah atau lembaga
 negara.
 
@@ -2982,7 +2990,7 @@ atau menempelkan tulisan atau gambar sehingga
 terlihat oleh umum atau memperdengarkan rekaman
 sehingga terdengar oleh umum atau menyebarluaskan
 dengan sarana teknologi informasi, yang berisi
-pernyataan perasazrn permusuhan dengan maksud agar
+pernyataan perasaan permusuhan dengan maksud agar
 isinya diketahui atau lebih diketahui oleh umum,
 terhadap satu atau beberapa golongan atau kelompok
 penduduk Indonesia berdasarkan ras, kebangsaan,
@@ -2991,14 +2999,14 @@ disabilitas mental, atau disabilitas fisik yang berakibat
 timbulnya Kekerasan terhadap orang atau Barang,
 dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori IV.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-243/ayat-1)
 melakukan Tindak Pidana tersebut dalam menjalankan
 profesinya dan pada waktu itu belum lewat 2 (dua)
 tahun sejak adanya putusan pemidanaan yang telah
 memperoleh kekuatan hukum tetap karena melakukan
 Tindak Pidana yang sama, pelaku dapat dijatuhi pidana
 tambahan berupa pencabutan hak sebagaimana
-dimaksud dalam Pasal 86 huruf f.
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 Paragraf 4
 Tindak Pidana atas Dasar Diskriminasi Ras dan Etnis
@@ -3030,10 +3038,10 @@ Pasal 246
 Dipidana dengan pidana penjara paling lama 4 (empat) tahun
 atau pidana denda paling banyak kategori V, Setiap Orang
 yang Di Muka Umum dengan lisan atau tulisan:
-a. menghasut orang untuk melakukan Tindak Pidana;
-atau
-b. menghasut orang untuk melawan penguasa umum
-dengan Kekerasan.
+  a. menghasut orang untuk melakukan Tindak Pidana;
+  atau
+  b. menghasut orang untuk melawan penguasa umum
+  dengan Kekerasan.
 
 Pasal 247
 Setiap Orang yang menyiarkan, mempertunjukkan, atau
@@ -3049,20 +3057,20 @@ pidana denda paling banyak kategori V.
 
 Pasal 248
 (1) Setiap Orang yang menggerakkan orang lain
-sebagaimana dimaksud dalam Pasal 20 huruf d untuk
+sebagaimana dimaksud dalam [Pasal 20](/uu/2023/1/pasal-20) huruf d untuk
 melakukan Tindak Pidana dan Tindak Pidana tersebut
 atau percobaannya yang dapat dipidana tidak terjadi,
 dipidana dengan pidana penjara paling lama 6 (enam)
 tahun atau pidana denda paling banyak kategori IV.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1) tidak
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-248/ayat-1) tidak
 dapat dijatuhi pidana yang lebih berat dari yang dapat
 dijatuhkan terhadap percobaan melakukan Tindak
 Pidana tersebut atau jika percobaan tersebut tidak
 dapat dipidana maka tidak dapat dijatuhi pidana yang
 lebih berat dari yang ditentukan terhadap Tindak
 Pidana tersebut.
-(3) Ketentuan sebagaimana dimaksud pada ayat (1) dan
-ayat (2)tidak berlaku jika tidak terjadinya Tindak
+(3) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-248/ayat-1) dan
+[ayat (2)](/uu/2023/1/pasal-248/ayat-2) tidak berlaku jika tidak terjadinya Tindak
 Pidana atau percobaan yang dapat dipidana tersebut
 disebabkan oleh karena kehendaknya sendiri.
 
@@ -3088,14 +3096,14 @@ maksud agar penawaran tersebut diketahui atau lebih
 diketahui oleh umum, dipidana dengan pidana penjara
 paling lama 9 (sembilan) Bulan atau pidana denda
 paling banyak kategori II.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-250/ayat-1)
 melakukan perbuatan tersebut dalam menjalankan
 profesinya dan pada waktu itu belum lewat 2 (dua)
 tahun sejak adanya putusan pemidanaan yang telah
 memperoleh kekuatan hukum tetap karena melakukan
 Tindak Pidana yang sama, dapat dijatuhi pidana
 tambahan berupa pencabutan hak sebagaimana
-dimaksud dalam Pasal 86 huruf f.
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 Pasal 251
 (1) Setiap Orang yang memberi obat atau meminta seorang
@@ -3105,11 +3113,10 @@ obat tersebut dapat mengakibatkan gugurnya
 kandungan, dipidana dengan pidana penjara paling
 lama 4 (empat) tahun atau pidana denda paling banyak
 kategori IV.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-251/ayat-1)
 melakukan perbuatan tersebut dalam menjalankan
 profesinya dapat dijatuhi pidana tambahan berupa
-pencabutan hak sebagaimana dimaksud dalam Pasal 86
-huruf f.
+pencabutan hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 Pasal 252
 (1) Setiap Orang yang menyatakan dirinya mempunyai
@@ -3120,7 +3127,7 @@ menimbulkan penyakit, kematian, atau penderitaan
 mental atau fisik seseorang, dipidana dengan pidana
 penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau
 pidana denda paling banyak kategori IV.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-252/ayat-1)
 melakukan perbuatan tersebut untuk mencari
 keuntungan atau menjadikan sebagai mata
 pencaharian atau kebiasaan, pidananya dapat
@@ -3136,8 +3143,8 @@ Tidak Melaporkan Adanya Permufakatan Jahat
 Pasal 253
 Setiap Orang yang mengetahui adanya permufakatan jahat
 untuk melakukan salah satu Tindak Pidana sebagaimana
-dimaksud dalam Pasal 191 sampai dengan Pasal 194,
-Pasal 205, Pasal 2O8, Pasal 212, Pasal 308, atau Pasal 310,
+dimaksud dalam [Pasal 191](/uu/2023/1/pasal-191) sampai dengan [Pasal 194](/uu/2023/1/pasal-194),
+[Pasal 205](/uu/2023/1/pasal-205), [Pasal 208](/uu/2023/1/pasal-208), [Pasal 212](/uu/2023/1/pasal-212), [Pasal 308](/uu/2023/1/pasal-308), atau [Pasal 310](/uu/2023/1/pasal-310),
 tidak memberitahukan kepada Pejabat yang berwenang atau
 kepada orang yang terancam padahal masih ada waktu
 untuk mencegah dilakukannya Tindak Pidana tersebut, jika
@@ -3152,38 +3159,38 @@ Orang yang Berencana Melakukan Tindak Pidana
 Pasal 254
 (1) Setiap Orang yang mengetahui adanya orang yang
 berniat untuk melakukan:
-a. salah satu Tindak Pidana sebagaimana dimaksud
-dalam Pasal 191 sampai dengan Pasal 198,
-Pasal 200, Pasal 2O2, Pasal 205, Pasal 2O6,
-Pasal 2O8, Pasal 211 sampai dengan Pasal 217;
-b. desersi pada Waktu Perang atau pengkhianatan
-tentara; atau
-c. Tindak Pidana pembunuhan berencana, penculikan,
-perkosaan, atau salah satu Tindak Pidana yang
-membahayakan keamanan umum, bagi orang,
-kesehatan, Barang, dan lingkungan hidup yang
-berakibat membahayak€rn nyawa orang,
+  a. salah satu Tindak Pidana sebagaimana dimaksud
+  dalam [Pasal 191](/uu/2023/1/pasal-191) sampai dengan [Pasal 198](/uu/2023/1/pasal-198),
+  [Pasal 200](/uu/2023/1/pasal-200), [Pasal 202](/uu/2023/1/pasal-202), [Pasal 205](/uu/2023/1/pasal-205), [Pasal 206](/uu/2023/1/pasal-206),
+  [Pasal 208](/uu/2023/1/pasal-208), [Pasal 211](/uu/2023/1/pasal-211) sampai dengan [Pasal 217](/uu/2023/1/pasal-217);
+  b. desersi pada Waktu Perang atau pengkhianatan
+  tentara; atau
+  c. Tindak Pidana pembunuhan berencana, penculikan,
+  perkosaan, atau salah satu Tindak Pidana yang
+  membahayakan keamanan umum, bagi orang,
+  kesehatan, Barang, dan lingkungan hidup yang
+  berakibat membahayakan nyawa orang,
 tidak memberitahukan kepada Pejabat yang berwenang
 atau kepada orang yang terancam padahal masih ada
 waktu untuk mencegah dilakukannya Tindak Pidana
 tersebut, jika Tindak Pidana tersebut terjadi, dipidana
 dengan pidana penjara paling lama 1 (satu) tahun atau
 pidana denda paling banyak kategori II.
-(2) Ketentuan pidana sebagaimana dimaksud pada ayat (1)
+(2) Ketentuan pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-254/ayat-1)
 berlaku juga terhadap orang yang mengetahui salah
-satu Tindak Pidana sebagaimana dimaksud pada ayat (1) telah dilakukan dan telah membahayakan nyawa
+satu Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-254/ayat-1) telah dilakukan dan telah membahayakan nyawa
 orang pada saat akibat masih dapat dicegah, tidak
 memberitahukan kepada Pejabat yang berwenang atau
 kepada orang yang terancam.
 
 Pasal 255
-Ketentuan sebagaimana dimaksud dalam Pasal 253 dan
-Pasal 254 tidak berlaku bagi orang yang jika
+Ketentuan sebagaimana dimaksud dalam [Pasal 253](/uu/2023/1/pasal-253) dan
+[Pasal 254](/uu/2023/1/pasal-254) tidak berlaku bagi orang yang jika
 memberitahukan hal tersebut kepada Pejabat yang
 berwenang atau orang yang terancam akan mendatangkan
 bahaya penuntutan pidana bagi diri sendiri, keluarga
-sedarah atau semenda dalam garis lurrs atau menyamping
-dera-iat kedua atau ketiga dari suami atau istrinya atau
+sedarah atau semenda dalam garis lurus atau menyamping
+derajat kedua atau ketiga dari suami atau istrinya atau
 mantan suami atau istrinya, atau bagi orang lain yang jika
 dituntut sehubungan dengan jabatan atau profesinya,
 dimungkinkan menurut hukum untuk dibebaskan menjadi
@@ -3209,7 +3216,7 @@ Memasuki Rumah dan Pekarangan Orang Lain
 
 Pasal 257
 (1) Setiap Orang yang secara melawan hukum memaksa
-Masuk ke dalam rumah, rLrangan tertutup, atau
+Masuk ke dalam rumah, pekarangan tertutup, atau
 pekarangan tertutup yang dipergunakan oleh orang lain
 atau yang sudah berada di dalamnya secara melawan
 hukum, tidak segera pergi meninggalkan tempat
@@ -3218,21 +3225,21 @@ suruhannya, dipidana dengan pidana penjara paling
 lama 1 (satu) tahun atau pidana denda paling banyak
 kategori II.
 (2) Dianggap memaksa Masuk sebagaimana dimaksud
-pada ayat (1), Setiap Orang yang Masuk dengan jalan,
+pada [ayat (1)](/uu/2023/1/pasal-257/ayat-1), Setiap Orang yang Masuk dengan jalan,
 merusak, atau Memanjat, menggunakan Anak Kunci
 Palsu, perintah palsu, atau pakaian dinas palsu, atau
 yang dengan tidak sepengetahuan lebih dahulu pihak
 yang berhak serta bukan karena kekhilafan Masuk dan
 kedapatan di tempat tersebut pada Malam.
-(3) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
-dan ayat (2) mengeluarkan ancaman atau menggunakan
+(3) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-257/ayat-1) dan
+[ayat (2)](/uu/2023/1/pasal-257/ayat-2) mengeluarkan ancaman atau menggunakan
 sarana yang dapat menakutkan, dipidana dengan
 pidana penjara paling lama 2 (dua) tahun atau pidana
 denda paling banyak kategori III.
 (4) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dan ayat (3) dilakukan oleh 2 (dua) orang atau
+[ayat (1)](/uu/2023/1/pasal-257/ayat-1) dan [ayat (3)](/uu/2023/1/pasal-257/ayat-3) dilakukan oleh 2 (dua) orang atau
 lebih dengan bersekutu dan bersama-sarna, pidananya
-dapat ditamb ah I l3 (satu per tiga).
+dapat ditambah 1/3 (satu per tiga).
 
 Paragraf 3
 Penyadapan
@@ -3245,34 +3252,34 @@ Elektronik dan/atau Dokumen Elektronik yang tidak
 bersifat publik, baik menggunakan jaringan kabel
 komunikasi maupun jaringan nirkabel, dipidana
 dengan pidana penjara paling lama 10 (sepuluh) tahun
-atau pidana denda paling banyak kategori M.
+atau pidana denda paling banyak kategori IV.
 (2) Setiap Orang yang menyiarkan atau menyebarluaskan
 hasil pembicaraan atau perekaman sebagaimana
-dimaksud pada ayat (1), dipidana dengan pidana
-penjara paling lama l0 (sepuluh) tahun atau pidana
-denda paling banyak kategori M.
-(3) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
-berlaku bagr Setiap Orang yang melaksanakan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-258/ayat-1), dipidana dengan pidana
+penjara paling lama 10 (sepuluh) tahun atau pidana
+denda paling banyak kategori IV.
+(3) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-258/ayat-1) tidak
+berlaku bagi Setiap Orang yang melaksanakan
 ketentuan peraturan perundang-undangan atau
 melaksanakan perintah jabatan sebagaimana dimaksud
-dalam Pasal 31 dan Pasal 32.
+dalam [Pasal 31](/uu/2023/1/pasal-31) dan [Pasal 32](/uu/2023/1/pasal-32).
 
 Pasal 259
 Dipidana dengan pidana penjara paling lama 7 (tujuh) tahun
 atau pidana denda paling banyak kategori VI, Setiap Orang
 yang:
-a. mempergunakan kesempatan yang diperoleh dengan
-tipu muslihat atau secara melawan hukum merekam
-gambar seseorang atau lebih yang berada di dalam
-suatu rumah atau ruangan yang tidak terbuka untuk
-umum dengan menggunakan alat bantu teknis sehingga
-merugikan kepentingan hukum orang tersebut;
-b. memiliki gambar yang diketahui atau patut diduga
-diperoleh melalui perbuatan sebagaimana dimaksud
-dalam huruf a; atau
-c. menyiarkan atau menyebarluaskan gambar
-sebagaimana dimaksud dalam huruf b dengan
-menggunakan sarana teknologi informasi.
+  a. mempergunakan kesempatan yang diperoleh dengan
+  tipu muslihat atau secara melawan hukum merekam
+  gambar seseorang atau lebih yang berada di dalam
+  suatu rumah atau ruangan yang tidak terbuka untuk
+  umum dengan menggunakan alat bantu teknis sehingga
+  merugikan kepentingan hukum orang tersebut;
+  b. memiliki gambar yang diketahui atau patut diduga
+  diperoleh melalui perbuatan sebagaimana dimaksud
+  dalam huruf a; atau
+  c. menyiarkan atau menyebarluaskan gambar
+  sebagaimana dimaksud dalam huruf b dengan
+  menggunakan sarana teknologi informasi.
 
 Paragraf 4
 Memaksa Masuk Kantor Pemerintah
@@ -3285,21 +3292,21 @@ secara melawan hukum dan atas permintaan Pejabat
 yang berwenang tidak segera pergi meninggalkan
 tempat tersebut, dipidana dengan pidana penjara paling
 lama 1 (satu) tahun 3 (tiga) Bulan atau pidana denda
-paling banyak kategori IL
+paling banyak kategori II.
 (2) Dianggap memaksa Masuk sebagaimana dimaksud
-pada ayat (1), Setiap Orang yang Masuk dengan
+pada [ayat (1)](/uu/2023/1/pasal-260/ayat-1), Setiap Orang yang Masuk dengan
 merusak, Memanjat, atau dengan menggunakan Anak
 Kunci Palsu, perintah palsu, pakaian dinas palsu, atau
 yang dengan tidak sepengetahuan lebih dahulu Pejabat
 yang berwenang serta bukan karena kekhilafan Masuk
 dan kedapatan di dalam tempat tersebut pada Malam.
-(3) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
-dan ayat (2) mengeluarkan ancaman atau menggunakan
+(3) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-260/ayat-1)
+dan [ayat (2)](/uu/2023/1/pasal-260/ayat-2) mengeluarkan ancaman atau menggunakan
 sarana yang dapat menakutkan, dipidana dengan
 pidana penjara paling lama 2 (dua) tahun atau pidana
 denda paling banyak kategori III.
 (4) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dan ayat (3) dilakukan oleh 2 (dua) orang atau
+[ayat (1)](/uu/2023/1/pasal-260/ayat-1) dan [ayat (3)](/uu/2023/1/pasal-260/ayat-3) dilakukan oleh 2 (dua) orang atau
 lebih dengan bersekutu dan bersama-sama, pidananya
 dapat ditamb ah 1/3 (satu per tiga).
 
@@ -3314,7 +3321,7 @@ memperoleh kekuatan hukum tetap, dipidana dengan
 pidana penjara paling lama 5 (lima) tahun atau pidana
 denda paling banyak kategori V.
 (2) Pendiri atau pengurus organisasi sebagaimana
-dimaksud pada ayat (1) pidananya dapat ditamb ah 1/3
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-261/ayat-1) pidananya dapat ditambah 1/3
 (satu per tiga).
 
 Paragraf 6
@@ -3327,21 +3334,21 @@ Muka Umum dan dengan tenaga bersama melakukan
 Kekerasan terhadap orang atau Barang, dipidana
 dengan pidana penjara paling lama 5 (lima) tahun atau
 pidana denda paling banyak kategori V.
-(2) Jika Kekerasan sebagaimana dimaksud pada ayat (1)
+(2) Jika Kekerasan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-262/ayat-1)
 mengakibatkan hancurnya Barang atau mengakibatkan
 luka, dipidana dengan pidana penjara paling lama
 7 (tujuh) tahun atau pidana denda paling banyak
 kategori IV.
-(3) Jika Kekerasan sebagaimana dimaksud pada ayat (1)
+(3) Jika Kekerasan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-262/ayat-1)
 mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 9 (sembilan) tahun.
-(4) Jika Kekerasan sebagaimana dimaksud pada ayat (1)
+(4) Jika Kekerasan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-262/ayat-1)
 mengakibatkan matinya orang, dipidana dengan pidana
 penjara paling lama 12 (dua belas) tahun.
-(5) Setiap Orang sebagaimana dimaksud pada ayat (1) dan
-ayat (2)dapat dijatuhi pidana tambahan berupa
+(5) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-262/ayat-1) dan
+[ayat (2)](/uu/2023/1/pasal-262/ayat-2) dapat dijatuhi pidana tambahan berupa
 pembayaran ganti rugi sebagaimana dimaksud dalam
-Pasal 66 ayat (1) huruf d.
+[Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf d.
 
 Paragraf 7
 Penyiaran atau Penyebarluasan Berita atau Pemberitahuan Bohong
@@ -3359,6 +3366,7 @@ berita atau pemberitahuan tersebut adalah bohong yang
 dapat mengakibatkan kerusuhan dalam masyarakat,
 dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori IV.
+
 Pasal 264
 Setiap Orang yang menyiarkan berita yang tidak pasti,
 berlebih-lebihan, atau yang tidak lengkap sedangkan
@@ -3374,9 +3382,9 @@ Pasal 265
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang mengganggu ketenteraman lingkungan
 dengan:
-a. membuat hingar-bingar atau berisik tetangga pada
-Malam; atau
-b. membuat seruan atau tanda-tanda bahaya palsu.
+  a. membuat hingar-bingar atau berisik tetangga pada
+  Malam; atau
+  b. membuat seruan atau tanda-tanda bahaya palsu.
 
 Pasal 266
 Setiap Orang yang membuat kekacauan sehingga
@@ -3436,7 +3444,7 @@ tahun atau pidana denda paling banyak kategori V.
 (3) Setiap Orang yang menerbitkan dan/ atau memberikan
 ijazah, sertifikat kompetensi, gelar akademik, profesi,
 atau vokasi palsu dipidana dengan pidana penjara
-paling lama 1O (sepuluh) tahun atau pidana denda
+paling lama 10 (sepuluh) tahun atau pidana denda
 paling banyak kategori VI.
 
 Bagian Keenam
@@ -3461,7 +3469,7 @@ keramaian untuk umum di jalan umum atau di tempat
 umum, dipidana dengan pidana denda paling banyak
 kategori II.
 (2) Setiap Orang yang melakukan Tindak Pidana
-sebagaimana dimaksud pada ayat (1) yang
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-274/ayat-1) yang
 mengakibatkan terganggunya kepentingan umum,
 menimbulkan keonaran, atau huru-hara dalam
 masyarakat, dipidana dengan pidana penjara paling
@@ -3474,12 +3482,12 @@ Menjalankan Pekerjaan tanpa Izin atau Melampaui Kewenangan
 Pasal 275
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. tanpa izin menjalankan pekerjaan yang menurut
-ketentuan peraturan perundang-undangan harus
-memiliki izin; atau
-b. melampaui wewenang yang diizinkan dalam
-menjalankan pekerjaan menurut ketentuan peraturan
-perundang-undangan.
+  a. tanpa izin menjalankan pekerjaan yang menurut
+  ketentuan peraturan perundang-undangan harus
+  memiliki izin; atau
+  b. melampaui wewenang yang diizinkan dalam
+  menjalankan pekerjaan menurut ketentuan peraturan
+  perundang-undangan.
 
 Paragraf 4
 Pemberian atau Penerimaan Barang kepada dan dari Narapidana
@@ -3496,12 +3504,12 @@ Gangguan terhadap Tanah, Benih, Tanaman, dan Pekarangan
 Pasal 277
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. berjalan atau berkendaraan di atas tanah pembenihan,
-penanaman, atau yang disiapkan untuk itu yang
-merupakan milik orang lain; atau
-b. tanpa hak berjalan atau berkendaraan di atas tanah
-yang oleh pemiliknya dilarang Masuk atau sudah diberi
-larangan Masuk dengan jelas.
+  a. berjalan atau berkendaraan di atas tanah pembenihan,
+  penanaman, atau yang disiapkan untuk itu yang
+  merupakan milik orang lain; atau
+  b. tanpa hak berjalan atau berkendaraan di atas tanah
+  yang oleh pemiliknya dilarang Masuk atau sudah diberi
+  larangan Masuk dengan jelas.
 
 BAB VI
 TINDAK PIDANA TERHADAP PROSES PERADILAN
@@ -3513,42 +3521,42 @@ Pasal 278
 (1) Dipidana karena penyesatan proses peradilan dengan
 pidana penjara paling lama 6 (enam) tahun atau pidana
 denda paling banyak kategori V, Setiap Orang yang:
-a. memalsukan, membuat, atau mengajukan bukti
-palsu untuk dipergunakan dalam proses peradilan;
-b. mengarahkan saksi untuk memberikan keterangan
-palsu di sidang pengadilan;
-c. mengubah, merusak, menyembunyikan,
-menghilangkan, atau menghancurkan alat bukti;
-d. mengubah, merusak, menyembunyikan,
-menghilangkan, atau menghancurkan Barang, alat,
-atau sarana yang dipakai untuk melakukan Tindak
-Pidana atau menjadi obyek Tindak Pidana, atau
-hasil yang dapat menjadi bukti fisik dilakukannya
-Tindak Pidana, atau menariknya dari pemeriksaan
-yang dilakukan Pejabat yang berwenang setelah
-Tindak Pidana terjadi; atau
-e. menampilkan diri seolah-olah sebagai pelaku Tindak
-Pidana, sehingga yang bersangkutan menjalani
-proses peradilan pidana.
+  a. memalsukan, membuat, atau mengajukan bukti
+  palsu untuk dipergunakan dalam proses peradilan;
+  b. mengarahkan saksi untuk memberikan keterangan
+  palsu di sidang pengadilan;
+  c. mengubah, merusak, menyembunyikan,
+  menghilangkan, atau menghancurkan alat bukti;
+  d. mengubah, merusak, menyembunyikan,
+  menghilangkan, atau menghancurkan Barang, alat,
+  atau sarana yang dipakai untuk melakukan Tindak
+  Pidana atau menjadi obyek Tindak Pidana, atau
+  hasil yang dapat menjadi bukti fisik dilakukannya
+  Tindak Pidana, atau menariknya dari pemeriksaan
+  yang dilakukan Pejabat yang berwenang setelah
+  Tindak Pidana terjadi; atau
+  e. menampilkan diri seolah-olah sebagai pelaku Tindak
+  Pidana, sehingga yang bersangkutan menjalani
+  proses peradilan pidana.
 (2) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan:
-a. dalam proses peradilan, dipidana dengan pidana
-penjara paling lama 7 (tqiuh) tahun 6 (enam) Bulan
-atau pidana denda paling banyak kategori VI; dan
-b. oleh aparat penegak hukum atau petugas
-pengadilan, dipidana dengan pidana penjara paling
-lama 9 (sembilan) tahun atau pidana denda paling
-banyak kategori VI.
-(3) Apabila perbuatan sebagaimana dimaksud pada ayat (2)
-mengakibatkan seseorang:
-a. yang seharusnya bersalah, dinyatakan tidak
-bersalah;
-b. yang seharusnya tidak bersalah, dinyatakan
-bersalah; atau
-c. dikenakan pasal yang lebih ringan atau lebih berat
-dari yang seharusnya,
+[ayat (1)](/uu/2023/1/pasal-278/ayat-1) dilakukan:
+  a. dalam proses peradilan, dipidana dengan pidana
+  penjara paling lama 7 (tujuh) tahun 6 (enam) Bulan
+  atau pidana denda paling banyak kategori VI; dan
+  b. oleh aparat penegak hukum atau petugas
+  pengadilan, dipidana dengan pidana penjara paling
+  lama 9 (sembilan) tahun atau pidana denda paling
+  banyak kategori VI.
+(3) Apabila perbuatan sebagaimana dimaksud pada
+[ayat (2)](/uu/2023/1/pasal-278/ayat-2) mengakibatkan seseorang:
+  a. yang seharusnya bersalah, dinyatakan tidak
+  bersalah;
+  b. yang seharusnya tidak bersalah, dinyatakan
+  bersalah; atau
+  c. dikenakan pasal yang lebih ringan atau lebih berat
+  dari yang seharusnya,
 pidananya dapat ditambah 1/3 (satu per tiga) dari
-pidana sebagaimana dimaksud pada ayat (2).
+pidana sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-278/ayat-2).
 
 Bagian Kedua
 Mengganggu dan Merintangi Proses Peradilan
@@ -3569,21 +3577,22 @@ Pasal 280
 (1) Dipidana dengan pidana denda paling banyak kategori
 II, Setiap Orang yang pada saat sidang pengadilan
 berlangsung:
-a. tidak mematuhi perintah pengadilan yang
-dikeluarkan untuk kepentingan proses peradilan;
-b. bersikap tidak hormat terhadap aparat penegak
-hukum, petugas pengadilan, atau persidangan
-padahal telah diperingatkan oleh hakim;
-c. menyerang integritas aparat penegak hukum,
-petugas pengadilan, atau persidangan dalam sidang
-pengadilan; atau
-d. tanpa izin pengadilan memublikasikan proses
-persidangan secara langsung.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
-huruf b atau huruf c hanya dapat dituntut berdasarkan
-aduan.
-(3) Pengaduan sebagaimana dimaksud pada ayat (1) dapat
-dilakukan secara tertulis oleh hakim.
+  a. tidak mematuhi perintah pengadilan yang
+  dikeluarkan untuk kepentingan proses peradilan;
+  b. bersikap tidak hormat terhadap aparat penegak
+  hukum, petugas pengadilan, atau persidangan
+  padahal telah diperingatkan oleh hakim;
+  c. menyerang integritas aparat penegak hukum,
+  petugas pengadilan, atau persidangan dalam sidang
+  pengadilan; atau
+  d. tanpa izin pengadilan memublikasikan proses
+  persidangan secara langsung.
+(2) Tindak Pidana sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-280/ayat-1) huruf b atau huruf c hanya
+dapat dituntut berdasarkan aduan.
+(3) Pengaduan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-280/ayat-1) dapat dilakukan secara
+tertulis oleh hakim.
 
 Pasal 281
 Setiap Orang yang menghalang-halangi, mengintimidasi,
@@ -3599,29 +3608,30 @@ Pasal 282
 (1) Dipidana dengan pidana penjara paling lama 1 (satu)
 tahun atau pidana denda paling banyak kategori III,
 Setiap Orang yang:
-a. menyembunyikan orang yang melakukan Tindak
-Pidana atau orang yang dituntut atau dijatuhi
-pidana; atau
-b. memberikan pertolongan kepada orang yang
-melakukan Tindak Pidana untuk melarikan diri dari
-penyidikan, penuntutan, atau pelaksanaan putusan
-pidana oleh Pejabat yang berwenang.
+  a. menyembunyikan orang yang melakukan Tindak
+  Pidana atau orang yang dituntut atau dijatuhi
+  pidana; atau
+  b. memberikan pertolongan kepada orang yang
+  melakukan Tindak Pidana untuk melarikan diri dari
+  penyidikan, penuntutan, atau pelaksanaan putusan
+  pidana oleh Pejabat yang berwenang.
 (2) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) adalah Tindak Pidana yang diancam dengan
-pidana penjara 5 (lima) tahun atau lebih, dipidana
-dengan pidana penjara paling lama 3 (tiga) tahun atau
-pidana denda kategori IV.
-(3) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
-berlaku jika perbuatan tersebut dilakukan dengan
+[ayat (1)](/uu/2023/1/pasal-282/ayat-1) adalah Tindak Pidana yang
+diancam dengan pidana penjara 5 (lima) tahun atau
+lebih, dipidana dengan pidana penjara paling lama 3
+(tiga) tahun atau pidana denda kategori IV.
+(3) Ketentuan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-282/ayat-1) tidak berlaku jika
+perbuatan tersebut dilakukan dengan
 maksud untuk menghindarkan dari penuntutan
 terhadap keluarga sedarah atau semenda dalam garis
 lurus derajat kedua atau dalam garis menyamping
-der4iat ketiga, terhadap istri atau suami, atau terhadap
+derajat ketiga, terhadap istri atau suami, atau terhadap
 mantan istri atau suaminya.
 
 Pasal 283
-Setiap Orang yang mencegah, menghalang halangi, atau
-menggagalkan pemeriksaat jenazah untuk kepentingan
+Setiap Orang yang mencegah, menghalang-halangi, atau
+menggagalkan pemeriksaan jenazah untuk kepentingan
 peradilan, dipidana dengan pidana penjara paling lama
 1 (satu) tahun atau pidana denda paling banyak
 kategori III.
@@ -3640,11 +3650,11 @@ saat dipanggil sebagai saksi, ahli, atau juru bahasa, atau
 tidak memenuhi suatu kewajiban yang harus dipenuhi
 sesuai dengan ketentuan peraturan perundang-undangan,
 dipidana dengan:
-a. pidana penjara paling lama 9 (sembilan) Bulan atau
-pidana denda paling banyak kategori II, bagi perkara
-pidana; atau
-b. pidana penjara paling lama 6 (enam) Bulan atau pidana
-denda paling banyak kategori II, bagi perkara lain.
+  a. pidana penjara paling lama 9 (sembilan) Bulan atau
+  pidana denda paling banyak kategori II, bagi perkara
+  pidana; atau
+  b. pidana penjara paling lama 6 (enam) Bulan atau pidana
+  denda paling banyak kategori II, bagi perkara lain.
 
 Pasal 286
 Setiap Orang yang telah dinyatakan pailit atau dinyatakan
@@ -3667,11 +3677,11 @@ Surat yang dianggap palsu atau dipalsukan atau yang harus
 dipakai untuk dibandingkan dengan Surat lain yang diduga
 palsu atau dipalsukan atau yang kebenarannya disangkal
 atau tidak diakui, dipidana dengan:
-a. pidana penjara paling lama 9 (sembilan) Bulan atau
-pidana denda paling banyak kategori II, bagi perkara
-pidana; atau
-b. pidana penjara paling lama 6 (enam) Bulan atau pidana
-denda paling banyak kategori II, bagi perkara lain.
+  a. pidana penjara paling lama 9 (sembilan) Bulan atau
+  pidana denda paling banyak kategori II, bagi perkara
+  pidana; atau
+  b. pidana penjara paling lama 6 (enam) Bulan atau pidana
+  denda paling banyak kategori II, bagi perkara lain.
 
 Pasal 288
 Setiap Orang yang tanpa alasan yang sah tidak datang
@@ -3689,20 +3699,22 @@ Pasal 289
 (1) Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori V,
 Setiap Orang yang:
-a. menarik Barang yang disita berdasarkan peraturan
-perundang-undangan atau yang dititipkan atas
-perintah pengadilan atau menyembunyikan Barang,
-padahal diketahui bahwa Barang tersebut berada
-dalam sitaan atau titipan; atau
-b. merusak, menghancurkan, atau membuat tidak
-dapat dipakai suatu Barang yang disita berdasarkan
-ketentuan peraturan perundang-undangan.
+  a. menarik Barang yang disita berdasarkan peraturan
+  perundang-undangan atau yang dititipkan atas
+  perintah pengadilan atau menyembunyikan Barang,
+  padahal diketahui bahwa Barang tersebut berada
+  dalam sitaan atau titipan; atau
+  b. merusak, menghancurkan, atau membuat tidak
+  dapat dipakai suatu Barang yang disita berdasarkan
+  ketentuan peraturan perundang-undangan.
 (2) Penyimpan Barang yang melakukan, membiarkan
 dilakukan, atau membantu melakukan perbuatan
-sebagaimana dimaksud pada ayat (1), dipidana dengan
+sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-289/ayat-1), dipidana dengan
 pidana penjara paling lama 5 (lima) tahun atau pidana
 denda paling banyak kategori V.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (2)
+(3) Jika perbuatan sebagaimana dimaksud pada
+[ayat (2)](/uu/2023/1/pasal-289/ayat-2)
 terjadi karena kealpaan penyimpan, dipidana dengan
 pidana penjara paling lama 1 (satu) tahun atau pidana
 denda paling banyak kategori III.
@@ -3724,9 +3736,10 @@ dilakukan sendiri atau oleh kuasanya yang khusus
 ditunjuk untuk itu yang diberikan dalam pemeriksaan
 perkara dalam proses peradilan, dipidana dengan
 pidana penjara paling lama 7 (tujuh) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-merugikan tersangka, terdakwa, atau pihak lawan,
-pidananya dapat ditamb ah L / 3 (satu per tiga) .
+(2) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-291/ayat-1) merugikan
+tersangka, terdakwa, atau pihak lawan, pidananya
+dapat ditambah 1/3 (satu per tiga).
 
 Pasal 292
 (1) Setiap Orang yang menyebutkan identitas pelapor,
@@ -3736,7 +3749,8 @@ padahal telah diberitahukan kepadanya identitas
 tersebut harus dirahasiakan, dipidana dengan pidana
 penjara paling lama 3 (tiga) tahun atau pidana denda
 paling banyak kategori IV.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) hanya
+(2) Ketentuan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-292/ayat-1) hanya
 berlaku jika keharusan untuk merahasiakan identitas
 pelapor, saksi, atau Korban disebutkan secara tegas
 dalam Undang-Undang.
@@ -3751,66 +3765,69 @@ pengadilan yang mengakibatkan hakim tidak dapat
 menyelenggarakan sidang pengadilan, dipidana dengan
 pidana penjara paling lama 4 (empat) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan pada saat sidang pengadilan sedang
-berlangsung yang menyebabkan sidang pengadilan
-tidak dapat dilanjutkan, dipidana dengan pidana
-penjara paling lama 5 (lima) tahun.
+[ayat (1)](/uu/2023/1/pasal-293/ayat-1) dilakukan pada
+saat sidang pengadilan sedang berlangsung yang
+menyebabkan sidang pengadilan tidak dapat
+dilanjutkan, dipidana dengan pidana penjara paling
+lama 5 (lima) tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan aparat penegak hukum yang
+[ayat (1)](/uu/2023/1/pasal-293/ayat-1) mengakibatkan
+aparat penegak hukum yang
 sedang menjalankan tugasnya atau saksi saat
 memberikan keterangannya mengalami Luka Berat,
 dipidana dengan pidana penjara paling lama 12 (dua
 belas) tahun.
 (4) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya aparat penegak hukum
-yang sedang menjalankan tugasnya atau saksi saat
-memberikan keterangannya, dipidana dengan pidana
-penjara paling lama 15 (lima belas) tahun.
+[ayat (1)](/uu/2023/1/pasal-293/ayat-1) mengakibatkan
+mati nya aparat penegak hukum yang sedang
+menjalankan tugasnya atau saksi saat memberikan
+keterangannya, dipidana dengan pidana penjara paling
+lama 15 (lima belas) tahun.
 
 Bagian Keempat
 Pelindungan Saksi dan Korban
 
 Pasal 294
-Dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun,
+Dipidana dengan pidana penjara paling lama 7 (tujuh) tahun,
 Setiap Orang yang melakukan Kekerasan langsung kepada:
-a. saksi saat memberikan keterangannya; atau
-b. aparat penegak hukum atau petugas pengadilan yang
-sedang menjalankan tugasnya yang mengakibatkan
-saksi tidak dapat memberikan keterangannya.
+  a. saksi saat memberikan keterangannya; atau
+  b. aparat penegak hukum atau petugas pengadilan yang
+  sedang menjalankan tugasnya yang mengakibatkan
+  saksi tidak dapat memberikan keterangannya.
 
 Pasal 295
 (1) Dipidana dengan pidana penjara paling singkat 1 (satu)
 tahun dan paling lama 5 (lima) tahun dan pidana denda
 paling sedikit kategori II dan paling banyak kategori V,
 Setiap Orang yang:
-a. menggunakan Kekerasan, Ancaman Kekerasan,
-atau cara lain terhadap saksi dan/ atau Korban
-sehingga tidak dapat memberikan keterangannya
-dalam proses peradilan; atau
-b. Pejabat berwenang yang
-mengakibatkan saksi dan/atau Korban tidak
-memperoleh pelindungan sesuai dengan ketentuan
-peraturan perundang-undangan sehingga saksi
-dan/ atau Korban tidak dapat memberikan
-keterangannya dalam proses peradilan.
+  a. menggunakan Kekerasan, Ancaman Kekerasan,
+  atau cara lain terhadap saksi dan/ atau Korban
+  sehingga tidak dapat memberikan keterangannya
+  dalam proses peradilan; atau
+  b. Pejabat berwenang yang
+  mengakibatkan saksi dan/atau Korban tidak
+  memperoleh pelindungan sesuai dengan ketentuan
+  peraturan perundang-undangan sehingga saksi
+  dan/ atau Korban tidak dapat memberikan
+  keterangannya dalam proses peradilan.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) huruf a mengakibatkan Luka Berat pada saksi
-dan/ atau Korban, dipidana dengan pidana penjara
-paling singkat 2 (dua) tahun dan paling lama 7 (tujuh)
-tahun dan pidana denda paling sedikit kategori III dan
-paling banyak kategori V.
+[ayat (1)](/uu/2023/1/pasal-295/ayat-1) huruf a mengakibatkan
+Luka Berat pada saksi dan/ atau Korban, dipidana
+dengan pidana penjara paling singkat 2 (dua) tahun dan
+paling lama 7 (tujuh) tahun dan pidana denda paling
+sedikit kategori III dan paling banyak kategori V.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) huruf a mengakibatkan matinya saksi dan/ atau
-Korban, dipidana dengan pidana penjara paling singkat
-3 (tiga) tahun dan paling lama 12 (dua belas) tahun dan
-pidana denda paling sedikit kategori V dan paling
-banyak kategori VII.
+[ayat (1)](/uu/2023/1/pasal-295/ayat-1) huruf a mengakibatkan
+mati nya saksi dan/ atau Korban, dipidana dengan
+pidana penjara paling singkat 3 (tiga) tahun dan paling lama
+12 (dua belas) tahun dan pidana denda paling sedikit
+kategori V dan paling banyak kategori VII.
 
 Pasal 296
 Setiap Orang yang menghalang-halangi saksi dan/atau
 Korban yang mengakibatkan tidak memperoleh pelindungan
 atau haknya, dipidana dengan pidana penjara paling singkat
-2 (dua) tahun dan paling lama 7 (tqiuh) tahun dan pidana
+2 (dua) tahun dan paling lama 7 (tujuh) tahun dan pidana
 denda paling sedikit kategori III dan paling banyak dan paling
 banyak kategori V.
 
@@ -3848,11 +3865,10 @@ Tindak Pidana terhadap Agama dan Kepercayaan
 
 Pasal 300
 Setiap Orang Di Muka Umum yang:
-a. melakukan perbuatan yang bersifat permusuhan;
-b. menyatakan kebencian atau permusuhan; atau
-c. menghasut untuk melakukan
-atau diskriminasi,
-Kekerasan,
+  a. melakukan perbuatan yang bersifat permusuhan;
+  b. menyatakan kebencian atau permusuhan; atau
+  c. menghasut untuk melakukan permusuhan, Kekerasan,
+  atau diskriminasi,
 terhadap agama, kepercayaan orang lain, golongan, atau
 kelompok atas dasar agama atau kepercayaan di Indonesia,
 dipidana dengan pidana penjara paling lama 3 (tiga) tahun
@@ -3864,19 +3880,20 @@ menempelkan tulisan atau gambar, atau
 memperdengarkan suatu rekaman, termasuk
 menyebarluaskan melalui sarana teknologi informasi
 yang berisi Tindak Pidana sebagaimana dimaksud
-dalam Pasal 3OO, dengan maksud agar isi tulisan,
-gambar, atau rekaman tersebut diketahui atau lebih
-diketahui oleh umum, dipidana dengan pidana penjara
-paling lama 5 (lima) tahun atau pidana denda paling
-banyak kategori V.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
-melakukan perbuatan tersebut dalam menjalankan
-profesinya dan pada waktu itu belum lewat 2 (dua)
-tahun sejak adanya putusan pemidanaan yang telah
-memperoleh kekuatan hukum tetap karena melakukan
-Tindak Pidana yang sama maka dapat dijatuhi pidana
-tambahan berupa pencabutan hak sebagaimana
-dimaksud dalam Pasal 86 huruf f.
+dalam [Pasal 300](/uu/2023/1/pasal-300), dengan maksud agar
+isi tulisan, gambar, atau rekaman tersebut diketahui
+atau lebih diketahui oleh umum, dipidana dengan pidana
+penjara paling lama 5 (lima) tahun atau pidana denda
+paling banyak kategori V.
+(2) Jika Setiap Orang sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-301/ayat-1) melakukan perbuatan
+tersebut dalam menjalankan profesinya dan pada
+waktu itu belum lewat 2 (dua) tahun sejak adanya putusan
+pemidanaan yang telah memperoleh kekuatan hukum
+tetap karena melakukan Tindak Pidana yang sama maka
+dapat dijatuhi pidana tambahan berupa pencabutan hak
+sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86)
+huruf f.
 
 Pasal 302
 (1) Setiap Orang yang Di Muka Umum menghasut dengan
@@ -3903,12 +3920,12 @@ banyak kategori I.
 (2) Setiap Orang yang dengan Kekerasan atau Ancaman
 Kekerasan mengganggu, merintangi, atau
 membubarkan pertemuan keagamaan atau
-kepercayaaa, dipidana dengan pidana penjara paling
+kepercayaan, dipidana dengan pidana penjara paling
 lama 2 (dua) tahun atau pidana denda paling banyak
 kategori III.
 (3) Setiap Orang yang dengan Kekerasan atau Ancaman
 Kekerasan mengganggu, merintangi, atau
-membubarkan orzrng yang sedang melaksanakan
+membubarkan orang yang sedang melaksanakan
 ibadah atau upacara keagamaan atau kepercayaan,
 dipidana dengan pidana penjara paling lama 5 (lima)
 tahun atau pidana denda paling banyak kategori IV.
@@ -3916,9 +3933,9 @@ tahun atau pidana denda paling banyak kategori IV.
 Pasal 304
 Setiap Orang yang Di Muka Umum melakukan penghinaan
 terhadap orang yang sedang menjalankan atau memimpin
-penyelenggaraan ibaCah atau upacara keagamaan atau
+penyelenggaraan ibadah atau upacara keagamaan atau
 kepercayaan, dipidana dengan pidana penjara paling lama
-1 (satu) tahun atau pidana dcnda paling banyak kategori III.
+1 (satu) tahun atau pidana denda paling banyak kategori III.
 
 Pasal 305
 (1) Setiap Orang yang menodai bangunan tempat beribadah
@@ -3969,7 +3986,7 @@ mengeluarkan dari wilayah Negara Kesatuan Republik
 Indonesia senjata pemukul, penikam, atau penusuk,
 dipidana dengan pidana penjara paling lama 7 (tujuh)
 tahun.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1),
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-307/ayat-1),
 dikecualikan bagi senjata pemukul, penikam, atau
 penusuk yang nyata-nyata digunakan untuk pertanian,
 untuk pekerjaan rumah tangga, untuk kepentingan
@@ -3985,17 +4002,18 @@ mengakibatkan kebakaran, ledakan, atau banjir
 sehingga membahayakan keamanan umum bagi orang
 atau Barang, dipidana dengan pidana penjara paling
 lama 9 (sembilan) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-308/ayat-1)
 mengakibatkan Luka Berat orang lain, dipidana dengan
 pidana penjara paling lama 12 (dua belas) tahun.
 (3) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 15 (lima belas) tahun.
+[ayat (1)](/uu/2023/1/pasal-308/ayat-1) mengakibatkan matinya
+orang, dipidana dengan pidana penjara paling lama
+15 (lima belas) tahun.
 
 Pasal 309
 Setiap Orang yang melakukan permufakatan jahat dan
 persiapan untuk melakukan Tindak Pidana sebagaimana
-dimaksud dalam Pasal 308 dipidana.
+dimaksud dalam [Pasal 308](/uu/2023/1/pasal-308), dipidana.
 
 Pasal 310
 Setiap Orang yang secara melawan hukum merusak,
@@ -4017,7 +4035,7 @@ Merintangi Pekerjaan Pemadaman Kebakaran
 dan Penanggulangan Banjir
 
 Pasal 312
-Setiap Orang yang pada waltu terjadi kebakaran atau akan
+Setiap Orang yang pada waktu terjadi kebakaran atau akan
 terjadi kebakaran, menyembunyikan atau membuat tidak
 dapat dipakai perkakas atau alat pemadam kebakaran atau
 dengan cara apa pun merintangi atau menghalangi
@@ -4027,7 +4045,7 @@ denda paling banyak kategori IV.
 
 Pasal 313
 Setiap Orang yang pada waktu terjadi banjir atau akan
-te{adi banjir menyembunyikan atau membuat tidak dapat
+terjadi banjir menyembunyikan atau membuat tidak dapat
 dipakai bahan untuk tanggul atau perkakas, menggagalkan
 usaha memperbaiki tanggul atau bangunan pengairan lain,
 atau merintangi usaha untuk mencegah atau membendung
@@ -4047,13 +4065,13 @@ Pasal 315
 Dipidana dengan pidana penjara paling lama 6 (enam) Bulan
 atau pidana denda paling banyak kategori II, Setiap Orang
 yang:
-a. menyalakan api atau tanpa alasan melepaskan
-tembakan senjata api di jalan umum atau di tepi jalan
-umum, atau di tempat yang berdekatan dengan
-bangunan atau Barang yang dapat mengakibatkan
-bahaya kebakaran; atau
-b. melepaskan balon udara yang digantungi bahan yang
-sedang terbakar.
+  a. menyalakan api atau tanpa alasan melepaskan
+  tembakan senjata api di jalan umum atau di tepi jalan
+  umum, atau di tempat yang berdekatan dengan
+  bangunan atau Barang yang dapat mengakibatkan
+  bahaya kebakaran; atau
+  b. melepaskan balon udara yang digantungi bahan yang
+  sedang terbakar.
 
 Pasal 316
 (1) Setiap Orang yang mabuk di tempat umum mengganggu
@@ -4061,7 +4079,8 @@ ketertiban atau mengancam keselamatan orang lain,
 dipidana dengan pidana denda paling banyak
 kategori II.
 (2) Setiap Orang yang dalam keadaan mabuk melakukan
-pekerjaan yang hanrs dijalankan dengan sangat hatihati atau dapat mengakibatkan bahaya bagi nyawa atau
+pekerjaan yang harus dijalankan dengan sangat hati-
+hati atau dapat mengakibatkan bahaya bagi nyawa atau
 kesehatan orang lain, dipidana dengan pidana penjara
 paling lama I (satu) tahun atau pidana denda paling
 banyak kategori III.
@@ -4069,11 +4088,11 @@ banyak kategori III.
 Pasal 317
 Setiap Orang yang secara melawan hukum merintangi
 kebebasan bergerak orang lain di jalan umum, atau
-mengikuti orang lain secara mengg€rnggu, dipidana dengan
+mengikuti orang lain secara mengganggu, dipidana dengan
 pidana denda paling banyak kategori II.
 
 Paragraf 5
-Tanpa lzin Membuat Bahan Peledak
+Tanpa Izin Membuat Bahan Peledak
 
 Pasal 318
 Setiap Orang yang tanpa izin Pejabat yang berwenang
@@ -4094,17 +4113,17 @@ Bangunan Listrik atau mengakibatkan fungsi bangunan
 tersebut terganggu, atau menggagalkan atau mempersulit
 usaha penyelamatan atau perbaikan bangunan tersebut,
 dipidana dengan:
-a. pidana penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori V, jika perbuatan tersebut
-mengakibatkan rintangan atau kesulitan dalam
-mengalirkan tenaga listrik untuk kepentingan umum;
-b. pidana penjara paling lama 7 (tqfuh) tahun, jika
-perbuatan tersebut mengakibatkan bahaya umum bagi
-orang atau Barang;
-c. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat; atau
-d. pidana penjara paling lama 12 (dua belas) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori V, jika perbuatan tersebut
+  mengakibatkan rintangan atau kesulitan dalam
+  mengalirkan tenaga listrik untuk kepentingan umum;
+  b. pidana penjara paling lama 7 (tujuh) tahun, jika
+  perbuatan tersebut mengakibatkan bahaya umum bagi
+  orang atau Barang;
+  c. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat; atau
+  d. pidana penjara paling lama 12 (dua belas) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
 
 Pasal 320
 Setiap Orang yang karena kealpaannya mengakibatkan
@@ -4113,18 +4132,18 @@ mengakibatkan jalannya atau bekerjanya bangunan tersebut
 terganggu, atau usaha untuk menjaga keselamatan atau
 memperbaiki bangunan tersebut gagal atau sulit, dipidana
 dengan:
-a. pidana penjara paling lama I (satu) tahun 6 (enam)
-Bulan atau pidana denda paling banyak kategori III, jika
-perbuatan tersebut mengakibatkan rintangan atau
-kesulitan dalam mengalirkan listrik untuk kepentingan
-umum atau menimbulkan bahaya umum bagi orang
-atau Barang;
-b. pidana penjara paling lama 3 (tiga) tahun atau pidana
-denda paling banyak kategori IV, jika perbuatan
-tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori V, jika perbuatan tersebut
-mengakibatkan matinya orang.
+  a. pidana penjara paling lama I (satu) tahun 6 (enam)
+  Bulan atau pidana denda paling banyak kategori III, jika
+  perbuatan tersebut mengakibatkan rintangan atau
+  kesulitan dalam mengalirkan listrik untuk kepentingan
+  umum atau menimbulkan bahaya umum bagi orang
+  atau Barang;
+  b. pidana penjara paling lama 3 (tiga) tahun atau pidana
+  denda paling banyak kategori IV, jika perbuatan
+  tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori V, jika perbuatan tersebut
+  mengakibatkan matinya orang.
 
 Paragraf 2
 Bangunan Lalu Lintas Umum
@@ -4136,13 +4155,13 @@ bangunan untuk lalu lintas umum, merintangi jalan umum
 darat atau air, atau menggagalkan usaha untuk menjaga
 keselamatan bangunan atau jalan tersebut, dipidana
 dengan:
-a. pidana penjara paling lama 7 (tqiuh) tahun, jika
-perbuatan tersebut mengakibatkan bahaya bagi
-keamanan lalu lintas;
-b. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 12 (dua belas) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 7 (tujuh) tahun, jika
+  perbuatan tersebut mengakibatkan bahaya bagi
+  keamanan lalu lintas;
+  b. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 12 (dua belas) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
 
 Pasal 322
 Setiap Orang yang karena kealpaannya mengakibatkan
@@ -4150,25 +4169,25 @@ bangunan untuk lalu lintas umum rusak, hancur, atau tidak
 dapat dipakai, mengakibatkan jalan umum darat atau air
 terhalang, atau mengakibatkan usaha untuk mengamankan
 bangunan atau jalan tersebut gagal, dipidana dengan:
-a. pidana penjara paling lama 2 (dua) tahun atau pidana
-denda paling banyak kategori III, jika perbuatan
-tersebut mengakibatkan bahaya bagi keamanan lalu
-lintas;
-b. pidana penjara paling lama 3 (tiga) tahun atau pidana
-denda paling banyak kategori IV, jika perbuatan
-tersebut mengakibatkan Luka Berat; atau
-pidana penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori V, jika perbuatan tersebut
-mengakibatkan matinya orang.
+  a. pidana penjara paling lama 2 (dua) tahun atau pidana
+  denda paling banyak kategori III, jika perbuatan
+  tersebut mengakibatkan bahaya bagi keamanan lalu
+  lintas;
+  b. pidana penjara paling lama 3 (tiga) tahun atau pidana
+  denda paling banyak kategori IV, jika perbuatan
+  tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori V, jika perbuatan tersebut
+  mengakibatkan matinya orang.
 
 Pasal 323
 (1) Setiap Orang yang melakukan perbuatan yang
 mengakibatkan bahaya bagi lalu lintas umum kereta
 api, dipidana dengan pidana penjara paling lama 7
 (tujuh) tahun.
-(2) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan Luka Berat, dipidana dengan pidana
+(2) Jika Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-323/ayat-1) mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 9 (sembilan) tahun.
-(3) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan matinya orang, dipidana dengan
+(3) Jika Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-323/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 12 (dua belas) tahun.
 
 Pasal 324
@@ -4176,11 +4195,11 @@ Pasal 324
 terjadinya bahaya bagi lalu lintas umum kereta api,
 dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun atau pidana denda paling banyak kategori IV.
-(2) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan Luka Berat, dipidana dengan pidana
+(2) Jika Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-324/ayat-1) mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 5 (lima) tahun atau pidana denda
 paling banyak kategori V.
-(3) Jika Tindak Pidana s6lagaimana dimaksud pada ayat (1) mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 7 (tqjuh) tahun atau pidana
+(3) Jika Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-324/ayat-1) mengakibatkan matinya orang, dipidana dengan
+pidana penjara paling lama 7 (tujuh) tahun atau pidana
 denda paling banyak kategori VI.
 
 Paragraf 3
@@ -4192,18 +4211,18 @@ memindahkan, merusak, atau menghancurkan rambu yang
 dipasang untuk keselamatan pelayaran, merintangi
 bekerjanya rambu tersebut, atau memasang rambu yang
 keliru, dipidana dengan:
-a. pidana penjara paling lama 7 (tqjuh) tahun, jika
-perbuatan tersebut mengakibatkan bahaya bagi
-keselamatan pelayaran;
-b. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut mengakibatkan bahaya bagr
-keselamatan pelayaran dan mengakibatkan Kapal
-tenggelam atau terdampar;
-c. pidana penjara paling lama 12 (dua belas) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat bagi
-orang; atau
-d. pidana penjara paling lama 15 (lima belas) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 7 (tujuh) tahun, jika
+  perbuatan tersebut mengakibatkan bahaya bagi
+  keselamatan pelayaran;
+  b. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut mengakibatkan bahaya bagi
+  keselamatan pelayaran dan mengakibatkan Kapal
+  tenggelam atau terdampar;
+  c. pidana penjara paling lama 12 (dua belas) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat bagi
+  orang; atau
+  d. pidana penjara paling lama 15 (lima belas) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
 
 Pasal 326
 Setiap Orang yang karena kealpaannya mengakibatkan
@@ -4211,19 +4230,19 @@ rambu yang dipasang untuk keselamatan pelayaran menjadi
 terambil, berpindah, rusak, hancur, atau terhambatnya
 kerja rambu tersebut, atau terpasangnya rambu yang keliru,
 dipidana dengan:
-a. pidana penjara paling lama 2 (dua) tahun atau pidana
-denda paling banyak kategori III, jika perbuatan
-tersebut mengakibatkan bahaya lagi pelayaran;
-b. pidana penjara paling lama 3 (tiga) tahun atau pidana
-denda paling banyak kategori IV, jika perbuatan
-tersebut mengakibatkan Kapal tenggelam atau
-terdampar;
-c. pidana penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori V, jika perbuatan tersebut
-mengakibatkan Luka Berat bagi orang; atau
-d. pidana penjara paling lama 7 (tujuh) tahun atau pidana
-denda paling banyak kategori VI, jika perbuatan
-tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 2 (dua) tahun atau pidana
+  denda paling banyak kategori III, jika perbuatan
+  tersebut mengakibatkan bahaya lagi pelayaran;
+  b. pidana penjara paling lama 3 (tiga) tahun atau pidana
+  denda paling banyak kategori IV, jika perbuatan
+  tersebut mengakibatkan Kapal tenggelam atau
+  terdampar;
+  c. pidana penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori V, jika perbuatan tersebut
+  mengakibatkan Luka Berat bagi orang; atau
+  d. pidana penjara paling lama 7 (tujuh) tahun atau pidana
+  denda paling banyak kategori VI, jika perbuatan
+  tersebut mengakibatkan matinya orang.
 
 Paragraf 4
 Perusakan Gedung
@@ -4232,28 +4251,28 @@ Pasal 327
 Setiap Orang yang secara melawan hukum merusak,
 menghancurkan, atau membuat tidak dapat dipakai suatu
 gedung atau bangunan lain, dipidana dengan:
-a. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut menimbulkan bahaya umum bagi
-orang atau Barang;
-b. pidana penjara paling lama 12 (dua belas) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 15 (lima belas) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut menimbulkan bahaya umum bagi
+  orang atau Barang;
+  b. pidana penjara paling lama 12 (dua belas) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 15 (lima belas) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
 
 Pasal 328
 Setiap Orang yang karena kealpaannya mengakibatkan
 suatu gedung atau bangunan lain menjadi rusak, hancur,
 atau tidak dapat dipakai, dipidana dengan:
-a. pidana penjara paling lama 2 (dua) tahun atau pidana
-denda paling banyak kategori III, jika perbuatan
-tersebut mengakibatkan bahaya umum bagi orang atau
-Barang;
-b. pidana penjara paling lama 3 (tiga) tahun atau pidana
-denda paling banyak kategori IV, jika perbuatan
-tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori V, jika perbuatan tersebut
-mengakibatkan matinya orang.
+  a. pidana penjara paling lama 2 (dua) tahun atau pidana
+  denda paling banyak kategori III, jika perbuatan
+  tersebut mengakibatkan bahaya umum bagi orang atau
+  Barang;
+  b. pidana penjara paling lama 3 (tiga) tahun atau pidana
+  denda paling banyak kategori IV, jika perbuatan
+  tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori V, jika perbuatan tersebut
+  mengakibatkan matinya orang.
 
 Bagian Ketiga
 Tindak Pidana Perusakan Kapal
@@ -4262,25 +4281,25 @@ Pasal 329
 Setiap Orang yang secara melawan hukum mendamparkan,
 merusak, menenggelamkan, menghancurkan, atau membuat
 tidak dapat dipakai suatu Kapal, dipidana dengan:
-a. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut menimbulkan bahaya umum bagi
-orang atau Barang;
-b. pidana penjara paling lama 12 (dua belas) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 15 (lima belas) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut menimbulkan bahaya umum bagi
+  orang atau Barang;
+  b. pidana penjara paling lama 12 (dua belas) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 15 (lima belas) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
 
 Pasal 330
 Setiap Orang yang karena kealpaannya mengakibatkan
 suatu Kapal terdampar, rusak, tenggelam, hancur, atau
 tidak dapat dipakai, dipidana dengan:
-a. pidana penjara paling lama 2 (dua) tahun, jika
-perbuatan tersebut menimbulkan bahaya umum bagi
-orang atau Barang;
-b. pidana penjara paling lama 3 (tiga) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 5 (lima) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 2 (dua) tahun, jika
+  perbuatan tersebut menimbulkan bahaya umum bagi
+  orang atau Barang;
+  b. pidana penjara paling lama 3 (tiga) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 5 (lima) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
 
 Bagian Keempat
 Tindak Pidana Kenakalan terhadap Orang atau Barang
@@ -4326,77 +4345,77 @@ Pasal 333
 Dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun
 atau pidana denda paling banyak kategori VI, Setiap Orang
 yang:
-a. tanpa hak menggunakan atau mengakses Komputer
-atau sistem elektronik dengan cara apa pun, dengan
-maksud memperoleh, mengubah, merusak, atau
-menghilangkan informasi pertahanan nasional atau
-hubungan internasional yang dapat menyebabkan
-gangguan atau bahaya terhadap negara atau hubungan
-dengan subjek hukum internasional;
-b. tanpa hak melakukan tindakan yang menyebabkan
-transmisi dari program, informasi, kode atau perintah
-Komputer atau sistem elektronik yang dilindungi negara
-menjadi rusak;
-c. tanpa hak atau melampaui wewenangnya menggunakan
-atau mengakses Komputer atau sistem elektronik, baik
-dari dalam maupun luar negeri untuk memperoleh
-informasi dari Komputer atau sistem elektronik yang
-dilindungi oleh negara;
-d. tanpa hak menggunakan atau mengakses Komputer
-atau sistem elektronik milik pemerintah;
-e. tanpa hak atau melampaui wewenangnya menggunakan
-atau mengakses Komputer atau sistem elektronik yang
-dilindungi oleh negara, yang mengakibatkan Komputer
-atau sistem elektronik tersebut menjadi rusak;
-f. tanpa hak atau melampaui wewenangnya menggunakan
-atau mengakses Komputer atau sistem elektronik yang
-dilindungi oleh masyarakat, yang mengakibatkan
-Komputer atau sistem elektronik tersebut menjadi
-rusak;
-g. memengaruhi atau mengakibatkan terganggunya
-Komputer atau sistem elektronik yang digunakan oleh
-pemerintah;
-h. menyebarkan, memperdagangkan, atau memanfaatkan
-Kode Akses atau informasi yang serupa dengan hal
-tersebut, yang dapat digunakan menerobos Komputer
-atau sistem elektronik dengan tujuan
-menyalahgunakan Komputer atau sistem elektronik
-yang digunakan atau dilindungi oleh pemerintah; atau
-i. melakukan perbuatan dalam rangka hubungan
-internasional dengan maksud merusak Komputer atau
-sistem elektronik lainnya yang dilindungi negara dan
-berada di wilayah yurisdiksi Indonesia dan ditqjukan
-kepada siapa pun.
+  a. tanpa hak menggunakan atau mengakses Komputer
+  atau sistem elektronik dengan cara apa pun, dengan
+  maksud memperoleh, mengubah, merusak, atau
+  menghilangkan informasi pertahanan nasional atau
+  hubungan internasional yang dapat menyebabkan
+  gangguan atau bahaya terhadap negara atau hubungan
+  dengan subjek hukum internasional;
+  b. tanpa hak melakukan tindakan yang menyebabkan
+  transmisi dari program, informasi, kode atau perintah
+  Komputer atau sistem elektronik yang dilindungi negara
+  menjadi rusak;
+  c. tanpa hak atau melampaui wewenangnya menggunakan
+  atau mengakses Komputer atau sistem elektronik, baik
+  dari dalam maupun luar negeri untuk memperoleh
+  informasi dari Komputer atau sistem elektronik yang
+  dilindungi oleh negara;
+  d. tanpa hak menggunakan atau mengakses Komputer
+  atau sistem elektronik milik pemerintah;
+  e. tanpa hak atau melampaui wewenangnya menggunakan
+  atau mengakses Komputer atau sistem elektronik yang
+  dilindungi oleh negara, yang mengakibatkan Komputer
+  atau sistem elektronik tersebut menjadi rusak;
+  f. tanpa hak atau melampaui wewenangnya menggunakan
+  atau mengakses Komputer atau sistem elektronik yang
+  dilindungi oleh masyarakat, yang mengakibatkan
+  Komputer atau sistem elektronik tersebut menjadi
+  rusak;
+  g. memengaruhi atau mengakibatkan terganggunya
+  Komputer atau sistem elektronik yang digunakan oleh
+  pemerintah;
+  h. menyebarkan, memperdagangkan, atau memanfaatkan
+  Kode Akses atau informasi yang serupa dengan hal
+  tersebut, yang dapat digunakan menerobos Komputer
+  atau sistem elektronik dengan tujuan
+  menyalahgunakan Komputer atau sistem elektronik
+  yang digunakan atau dilindungi oleh pemerintah; atau
+  i. melakukan perbuatan dalam rangka hubungan
+  internasional dengan maksud merusak Komputer atau
+  sistem elektronik lainnya yang dilindungi negara dan
+  berada di wilayah yurisdiksi Indonesia dan ditqjukan
+  kepada siapa pun.
 
 Pasal 334
 Dipidana dengan pidana penjara paling lama 10 (sepuluh)
-tahun atau pidana denda paling banyak kategori M, Setiap
+tahun atau pidana denda paling banyak kategori VI, Setiap
 Orang yang:
-a. tanpa hak atau melampaui wewenangnya menggunakan
-atau mengakses Komputer atau sistem elektronik
-dengan maksud memperoleh keuntungan atau
-memperoleh informasi keuangan dari bank sentral,
-lembaga perbankan atau lembaga keuangan, penerbit
-kartu kredit, atau kartu pembayar€rn atau yang
-mengandung data laporan nasabahnya;
-b. tanpa hak menggunakan data atau mengakses dengan
-cara apa pun kartu kredit atau kartu pembayaran milik
-orang lain dalam transaksi elektronik untuk
-memperoleh keuntungan;
-c. tanpa hak atau melampaui wewenangnya menggunakan
-atau mengakses Komputer atau sistem elektronik bank
-sentral, lembaga perbankan atau lembaga keuangan
-yang dilindungi, dengan maksud menyalahgunakan,
-atau untuk mendapatkan keuntungan daripadanya;
-atau
-d. menyebarkan, memperdagangkan, atau memanfaatkan
-Kode Akses atau informasi yang serupa dengan hal
-tersebut yang dapat digunakan menerobos Komputer
-atau sistem elektronik dengan maksud
-menyalahgunakan yang akibatnya dapat memengaruhi
-sistem elektronik bank sentral, lembaga perbankan atau
-lembaga keuangan, serta perniagaan di dalam dan luar
-negeri.
+  a. tanpa hak atau melampaui wewenangnya menggunakan
+  atau mengakses Komputer atau sistem elektronik
+  dengan maksud memperoleh keuntungan atau
+  memperoleh informasi keuangan dari bank sentral,
+  lembaga perbankan atau lembaga keuangan, penerbit
+  kartu kredit, atau kartu pembayaran atau yang
+  mengandung data laporan nasabahnya;
+  b. tanpa hak menggunakan data atau mengakses dengan
+  cara apa pun kartu kredit atau kartu pembayaran milik
+  orang lain dalam transaksi elektronik untuk
+  memperoleh keuntungan;
+  c. tanpa hak atau melampaui wewenangnya menggunakan
+  atau mengakses Komputer atau sistem elektronik bank
+  sentral, lembaga perbankan atau lembaga keuangan
+  yang dilindungi, dengan maksud menyalahgunakan,
+  atau untuk mendapatkan keuntungan daripadanya;
+  atau
+  d. menyebarkan, memperdagangkan, atau memanfaatkan
+  Kode Akses atau informasi yang serupa dengan hal
+  tersebut yang dapat digunakan menerobos Komputer
+  atau sistem elektronik dengan maksud
+  menyalahgunakan yang akibatnya dapat memengaruhi
+  sistem elektronik bank sentral, lembaga perbankan atau
+  lembaga keuangan, serta perniagaan di dalam dan luar
+  negeri.
 
 Pasal 335
 Setiap Orang yang tanpa hak menggunakan atau mengakses
@@ -4415,28 +4434,28 @@ Pasal 336
 Dipidana dengan pidana penjara paling lama 6 (enam) Bulan
 atau pidana denda paling banyak kategori II, Setiap Orang
 yang:
-a. mengusik hewan sehingga membahayakan orang;
-b. mengusik hewan yang sedang ditunggangi atau hewan
-yang sedang menarik kereta, gerobak, atau yang
-dibebani Barang;
-c. tidak mencegah hewan yang ada dalam penjagaannya
-yang menyerang orang atau hewan;
-d. tidak menjaga secara patut hewan buas yang ada dalam
-penjagaannya; atau
-e. memelihara hewan buas yang berbahaya tidak
-melaporkan kepada Pejabat yang berwenang.
+  a. mengusik hewan sehingga membahayakan orang;
+  b. mengusik hewan yang sedang ditunggangi atau hewan
+  yang sedang menarik kereta, gerobak, atau yang
+  dibebani Barang;
+  c. tidak mencegah hewan yang ada dalam penjagaannya
+  yang menyerang orang atau hewan;
+  d. tidak menjaga secara patut hewan buas yang ada dalam
+  penjagaannya; atau
+  e. memelihara hewan buas yang berbahaya tidak
+  melaporkan kepada Pejabat yang berwenang.
 
 Pasal 337
 (1) Dipidana karena melakukan penganiayaan hewan
-dengan pidana penjara paling lama f (satu) tahun atau
+dengan pidana penjara paling lama 1 (satu) tahun atau
 pidana denda paling banyak kategori II, Setiap Orang
 yang:
-a. menyakiti atau melukai hewan atau merugikan
-kesehatannya dengan melampaui batas atau tanpa
-tujuan yang patut; atau
-b. melakukan hubungan seksual dengan hewan.
+  a. menyakiti atau melukai hewan atau merugikan
+  kesehatannya dengan melampaui batas atau tanpa
+  tujuan yang patut; atau
+  b. melakukan hubungan seksual dengan hewan.
 (2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-mengakibatkan hewan sakit lebih dari I (satu) minggu,
+mengakibatkan hewan sakit lebih dari 1 (satu) minggu,
 cacat, Luka Berat, atau mati, dipidana dengan pidana
 penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau
 pidana denda paling banyak kategori III.
@@ -4449,14 +4468,14 @@ Pasal 338
 (1) Dipidana dengan pidana penjara paling lama 1 (satu)
 tahun atau pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. menggunakan dan memanfaatkan hewan di luar
-kemampuan kodratnya yang dapat merusak
-kesehatan, mengancam keselamatan, atau
-menyebabkan kematian hewan;
-b. memberikan bahan atau obat-obatan yang dapat
-membahayakan kesehatan hewan; atau
-c. memanfaatkan bagian tubuh atau organ hewan
-untuk tujuan yang tidak patut.
+  a. menggunakan dan memanfaatkan hewan di luar
+  kemampuan kodratnya yang dapat merusak
+  kesehatan, mengancam keselamatan, atau
+  menyebabkan kematian hewan;
+  b. memberikan bahan atau obat-obatan yang dapat
+  membahayakan kesehatan hewan; atau
+  c. memanfaatkan bagian tubuh atau organ hewan
+  untuk tujuan yang tidak patut.
 (2) Setiap Orang yang menerapkan bioteknologi modern
 untuk menghasilkan hewan atau produk hewan
 transgenik yang membahayakan kelestarian sumber
@@ -4471,44 +4490,44 @@ Tindak Pidana Kecerobohan yang Membahayakan Umum
 Pasal 339
 Dipidana dengan pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. tidak menerangi secukupnya dan tidak menaruh tanda
-menurut kebiasaan pada lubang atau galian atau
-tumpukan tanah galian di jalan umum yang dibuatnya
-sendiri atau atas perintahnya, atau pada benda yang
-ditaruh di tempat tersebut olehnya sendiri atau atas
-perintahnya;
-b. tidak memberi tanda peringatan bahwa ada
-kemungkinan timbulnya bahaya pada waktu
-melakukan pekerjaan sebagaimana dimaksud dalam
-huruf a;
-c. menaruh atau mengganhrngkan Barang pada sebuah
-bangunan, melempar atau membuang Barang ke luar
-bangunan sedemikian rupa yang dapat mengakibatkan
-kerugian pada orang yang sedang menggunakan jalan
-umum;
-d. membiarkan hewan untuk dinaiki, untuk menarik,
-untuk mengangkut, atau membiarkan hewan yang
-dibawanya tanpa mengadakan tindakan penjagaan
-seperlunya di jalan umum;
-e. membiarkan Ternak yang di bawah penjagaannya
-terlepas berkeliaran di jalan umum tanpa mengadakan
-tindakan penjagaan seperlunya; atau
-f. tanpa izin Pejabat yang berwenang menghalang-halangi
-jalan umum di darat atau di air atau merintangi lalu
-lintas di tempat tersebut atau menimbulkan halangan
-atau rintangan karena penggunaan kendaraan di
-tempat tersebut tanpa tujuan.
+  a. tidak menerangi secukupnya dan tidak menaruh tanda
+  menurut kebiasaan pada lubang atau galian atau
+  tumpukan tanah galian di jalan umum yang dibuatnya
+  sendiri atau atas perintahnya, atau pada benda yang
+  ditaruh di tempat tersebut olehnya sendiri atau atas
+  perintahnya;
+  b. tidak memberi tanda peringatan bahwa ada
+  kemungkinan timbulnya bahaya pada waktu
+  melakukan pekerjaan sebagaimana dimaksud dalam
+  huruf a;
+  c. menaruh atau mengganhrngkan Barang pada sebuah
+  bangunan, melempar atau membuang Barang ke luar
+  bangunan sedemikian rupa yang dapat mengakibatkan
+  kerugian pada orang yang sedang menggunakan jalan
+  umum;
+  d. membiarkan hewan untuk dinaiki, untuk menarik,
+  untuk mengangkut, atau membiarkan hewan yang
+  dibawanya tanpa mengadakan tindakan penjagaan
+  seperlunya di jalan umum;
+  e. membiarkan Ternak yang di bawah penjagaannya
+  terlepas berkeliaran di jalan umum tanpa mengadakan
+  tindakan penjagaan seperlunya; atau
+  f. tanpa izin Pejabat yang berwenang menghalang-halangi
+  jalan umum di darat atau di air atau merintangi lalu
+  lintas di tempat tersebut atau menimbulkan halangan
+  atau rintangan karena penggunaan kendaraan di
+  tempat tersebut tanpa tujuan.
 
 Pasal 340
 (1) Dipidana dengan pidana penjara paling lama 1 (satu)
 tahun atau pidana denda paling banyak kategori III,
 Setiap Orang yang tanpa izin Pejabat yang berwenang:
-a. memasang perangkap, jerat, atau perkakas lain
-untuk menangkap atau membunuh binatang buas
-di tempat yang dilewati orang, yang dapat
-mengakibatkan timbulnya bahaya bagi orang; atau
-b. berburu atau membawa senjata api ke dalam hutan
-negara.
+  a. memasang perangkap, jerat, atau perkakas lain
+  untuk menangkap atau membunuh binatang buas
+  di tempat yang dilewati orang, yang dapat
+  mengakibatkan timbulnya bahaya bagi orang; atau
+  b. berburu atau membawa senjata api ke dalam hutan
+  negara.
 (2) Binatang yang ditembak atau ditangkap sslagaimana
 dimaksud pada ayat (1) dan alat yang digunakan untuk
 melakukan Tindak Pidana tersebut dapat dirampas
@@ -4532,12 +4551,12 @@ nyawa atau kesehatan, padahal
 diketahui bahwa bahan tersebut dan sifat bahaya bahan
 tersebut tidak diberitahukan kepada pembeli atau yang
 memperolehnya, dipidana dengan pidana penjara paling
-lama 1O (sepuluh) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+lama 10 (sepuluh) tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-342/ayat-1)
 mengakibatkan matinya orang, dipidana dengan pidana
 penjara paling lama 15 (lima belas) tahun.
-(3) Bahan berbahaya sebagaimana dimaksud pada ayat (1)
-dan ayat (2) dapat dirampas untuk negara.
+(3) Bahan berbahaya sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-342/ayat-1)
+dan [ayat (2)](/uu/2023/1/pasal-342/ayat-2) dapat dirampas untuk negara.
 
 Pasal 343
 (1) Setiap Orang yang karena kealpaannya mengakibatkan
@@ -4549,11 +4568,12 @@ dipidana dengan pidana penjara paling lama 2 (dua)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
 kategori III.
 (2) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 5 (lima) tahun atau pidana
+[ayat (1)](/uu/2023/1/pasal-343/ayat-1)
+mengakibatkan matinya orang, dipidana dengan pidana
+penjara paling lama 5 (lima) tahun atau pidana
 denda paling banyak kategori V.
-(3) Bahan berbahaya sebagaimana dimaksud pada ayat (1)
-dan ayat (2) dapat dirampas untuk negara.
+(3) Bahan berbahaya sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-343/ayat-1)
+dan [ayat (2)](/uu/2023/1/pasal-343/ayat-2) dapat dirampas untuk negara.
 
 Pasal 344
 Setiap Orang yang menjual, menawarkan, menyerahkan,
@@ -4571,12 +4591,12 @@ Tindak Pidana Jual Beli Organ, Jaringan Tubuh, dan Darah Manusia
 Pasal 345
 Setiap Orang yang dengan alasan apa pun
 memperjualbelikan:
-a. organ atau jaringan tubuh manusia, dipidana dengan
-pidana penjara paling lama 7 (tqiuh) tahun atau pidana
-denda paling banyak kategori M; atau
-b. darah manusia, dipidana dengan pidana penjara paling
-lama 3 (tiga) tahun atau pidana denda paling banyak
-kategori IV.
+  a. organ atau jaringan tubuh manusia, dipidana dengan
+  pidana penjara paling lama 7 (tujuh) tahun atau pidana
+  denda paling banyak kategori VI; atau
+  b. darah manusia, dipidana dengan pidana penjara paling
+  lama 3 (tiga) tahun atau pidana denda paling banyak
+  kategori IV.
 
 Pasal 346
 (1) Setiap Orang yang melakukan komersialisasi dalam
@@ -4586,7 +4606,7 @@ dipidana dengan pidana penjara paling lama 5 (lima)
 tahun atau pidana denda paling banyak kategori V.
 (2) Transplantasi organ tubuh manusia atau jaringan
 tubuh manusia atau transfusi darah manusia
-sebagaimana dimaksud pada ayat (1) hanya dapat
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-346/ayat-1) hanya dapat
 dilakukan untuk tujuan kemanusiaan.
 
 BAB IX
@@ -4612,23 +4632,24 @@ menjalankan tugas yang sah, atau orang yang menurut
 kewajiban berdasarkan ketentuan peraturan perundangundangan atau berdasarkan perintah yang sah dari Pejabat,
 dipidana karena melakukan perlawanan terhadap Pejabat,
 dengan pidana penjara paling lama 2 (dua) tahun atau
-pidana denda paling banyak kategori IIL
+pidana denda paling banyak kategori II.
 
 Pasal 349
 Setiap Orang yang melakukan Tindak Pidana sebagaimana
-dimaksud dalam Pasal 347 dan Pasal 348, dipidana dengan:
-a. pidana penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori V, jika perbuatan tersebut
-mengakibatkan luka;
-b. pidana penjara paling lama 7 (tujuh) tahun atau pidana
-denda paling banyak kategori VI, jika perbuatan
-tersebut mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 10 (sepuluh) tahun, jika
-perbuatan tersebut mengakibatkan mati.
+dimaksud dalam [Pasal 347](/uu/2023/1/pasal-347) dan [Pasal 348](/uu/2023/1/pasal-348),
+  dipidana dengan:
+  a. pidana penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori V, jika perbuatan tersebut
+  mengakibatkan luka;
+  b. pidana penjara paling lama 7 (tujuh) tahun atau pidana
+  denda paling banyak kategori VI, jika perbuatan
+  tersebut mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 10 (sepuluh) tahun, jika
+  perbuatan tersebut mengakibatkan mati.
 
 Pasal 350
 Dalam hal Tindak Pidana sebagaimana dimaksud dalam
-Pasal 347 dilakukan secara bersama-sarna dan bersekutu,
+[Pasal 347](/uu/2023/1/pasal-347) dilakukan secara bersama-sarna dan bersekutu,
 pidananya dapat ditamb ah 1/3 (satu per tiga).
 
 Paragraf 2
@@ -4640,13 +4661,13 @@ Pejabat yang berwenang yang diberikan untuk mencegah
 terjadinya kecelakaan dan menghindarkan kemacetan lalu
 lintas umum sewaktu ada pesta, pawai, atau keramaian
 semacam itu, dipidana dengan pidana denda paling banyak
-kategori IL
+kategori II.
 
 Pasal 352
 Setiap Orang yang mengabaikan perintah atau permintaan
 seorang Pejabat yang berwenang yang ditugaskan
-berdasarkan ketentuan peraturan perundang-unda.ngan
-untuk mengawasi sesuatu atau yang ditugaskan zrtau diberi
+berdasarkan ketentuan peraturan perundang-undangan
+untuk mengawasi sesuatu atau yang ditugaskan atau diberi
 wewenang untuk menyidik atau memeriksa Tindak Pidana,
 dipidana dengan pidana penjara paling lama 9 (sembilan)
 Bulan atau pidana denda paling banyak kategori II.
@@ -4699,7 +4720,7 @@ oleh Pejabat yang berwenang, padahal pertolongan
 tersebut dapat diberikan tanpa membahayakan dirinya
 secara langsung, dipidana dengan pidana denda paling
 banyak kategori II.
-(2) Ketentuan pidana sebagaimana dimaksud pada ayat (1)
+(2) Ketentuan pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-358/ayat-1)
 tidak berlaku bagi orang yang menolak permintaan
 pertolongan pada saat orang tertangkap tangan
 melakukan Tindak Pidana karena hendak
@@ -4716,14 +4737,15 @@ Pasal 359
 (1) Dipidana dengan pidana penjara paling lama 6 (enam)
 Bulan atau pidana denda paling banyak kategori II,
 Setiap Orang yang:
-a. membuat dirinya atau meminta orang lain membuat
-dirinya tidak mampu untuk memenuhi kewajiban
-bela negara sebagaimana dimaksud dalam UndangUndang; atau
-b. atas permintaan orang lain membuat orang lain
-tersebut tidak mampu memenuhi kewajiban bela
-negara sesuai dengan ketentuan yang diatur dalam
-Undang-Undang.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+  a. membuat dirinya atau meminta orang lain membuat
+  dirinya tidak mampu untuk memenuhi kewajiban
+  bela negara sebagaimana dimaksud dalam Undang-
+  Undang; atau
+  b. atas permintaan orang lain membuat orang lain
+  tersebut tidak mampu memenuhi kewajiban bela
+  negara sesuai dengan ketentuan yang diatur dalam
+  Undang-Undang.
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-359/ayat-1)
 huruf b mengakibatkan kematian, dipidana dengan
 pidana penjara paling lama 5 (lima) tahun atau pidana
 denda paling banyak kategori V.
@@ -4747,8 +4769,8 @@ Pasal 361
 Setiap Orang yang melaporkan atau mengadukan kepada
 Pejabat yang berwenang bahwa telah terjadi suatu Tindak
 Pidana, padahal diketahui bahwa Tindak Pidana tersebut
-tidak te{adi, dipidana dengan pidana penjara paling lama
-1 (satu) tahun atau pidana denda paling banyak kategori IL
+tidak terjadi, dipidana dengan pidana penjara paling lama
+1 (satu) tahun atau pidana denda paling banyak kategori II.
 
 Paragraf 6
 Penggunaan Kepangkatan, Gelar, dan Tanda Kebesaran
@@ -4756,7 +4778,7 @@ Penggunaan Kepangkatan, Gelar, dan Tanda Kebesaran
 Pasal 362
 Setiap Orang yang secara melawan hukum mengenakan
 tanda kepangkatan yang bukan haknya, melakukan
-perbuatan jabatan yang tidak dljabatnya, atau melakukan
+perbuatan jabatan yang tidak dijabatnya, atau melakukan
 perbuatan jabatan yang sementara dihentikan baginya,
 dipidana dengan pidana penjara paling lama 2 (dua) tahun
 atau pidana denda paling banyak kategori III.
@@ -4781,13 +4803,13 @@ disegel, dipidana dengan pidana penjara paling lama
 banyak kategori III.
 (2) Penyimpan Barang yang disegel yang melakukan,
 membiarkan dilakukan, atau membantu melakukan
-perbuatan sebagaimana dimaksud pada ayat (1),
+perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-364/ayat-1),
 dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
 kategori IV.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (21
-te{adi karena kealpaan, dipidana dengan pidana
-penjara paling lama 1 (satu) tahun atau pidana denda
+(3) Jika perbuatan sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-364/ayat-2) terjadi
+karena kealpaan, dipidana dengan pidana penjara
+paling lama 1 (satu) tahun atau pidana denda
 paling banyak kategori III.
 
 Pasal 365
@@ -4795,12 +4817,12 @@ Dipidana dengan pidana penjara paling lama 4 (empat) tahun
 atau pidana denda paling banyak kategori V, Setiap Orang
 yang merusak, menghancurkan, membuat tidak dapat
 dipakai lagi, atau menghilangkan:
-a. Barang yang digunakan untuk meyakinkan atau
-dijadikan bukti bagi Pejabat yang berwenang; atau
-b. akta, Surat atau register yang secara tetap atau untuk
-sementara waktu disimpan atas perintah Pejabat yang
-berwenang atau yang diserahkan kepada Pejabat atau
-kepada orang lain untuk kepentingan jabatan umum.
+  a. Barang yang digunakan untuk meyakinkan atau
+  dijadikan bukti bagi Pejabat yang berwenang; atau
+  b. akta, Surat atau register yang secara tetap atau untuk
+  sementara waktu disimpan atas perintah Pejabat yang
+  berwenang atau yang diserahkan kepada Pejabat atau
+  kepada orang lain untuk kepentingan jabatan umum.
 
 Pasal 366
 Setiap Orang yang secara melawan hukum berbuat sesuatu
@@ -4814,13 +4836,14 @@ kategori III.
 
 Pasal 367
 Setiap Orang yang melakukan perbuatan sebagaimana
-dimaksud dalam Pasal 289 dan Pasal 364 sampai dengan
-Pasal 366 Masuk ke tempat terjadinya Tindak Pidana atau
-dapat mencapai benda tersebut dengan cara membongkar,
-merusak, Memanjat, memakai Anak Kunci Palsu,
-berdasarkan perintah palsu atau karena memakai pakaian
-dinas palsu, dipidana paling lama 2 (dua) kali lipat dari
-pidana yang diancamkan.
+dimaksud dalam [Pasal 289](/uu/2023/1/pasal-289) dan
+[Pasal 364](/uu/2023/1/pasal-364) sampai dengan [Pasal 366](/uu/2023/1/pasal-366) Masuk
+ke tempat terjadinya Tindak Pidana atau dapat mencapai
+benda tersebut dengan cara membongkar, merusak,
+Memanjat, memakai Anak Kunci Palsu, berdasarkan
+perintah palsu atau karena memakai pakaian dinas palsu,
+dipidana paling lama 2 (dua) kali lipat dari pidana yang
+diancamkan.
 
 Bagian Kedua
 Penganjuran Desersi, Pemberontakan, dan Pembangkangan
@@ -4828,20 +4851,20 @@ Tentara Nasional Indonesia
 
 Pasal 368
 Setiap Orang yang dalam masa damai, dengan salah satu
-cara sebagaimana dimaksud dalam Pasal 20 huruf b
+cara sebagaimana dimaksud dalam [Pasal 20](/uu/2023/1/pasal-20) huruf b
 menganjurkan anggota Tentara Nasional Indonesia yang
 sedang dalam dinas aktif untuk melarikan diri atau dengan
-salah satu cara sebagaimana dimaksud dalam Pasal 21 ayat (1) memudahkan pelarian, dipidana dengan pidana penjara
+salah satu cara sebagaimana dimaksud dalam [Pasal 21 ayat (1)](/uu/2023/1/pasal-21/ayat-1) memudahkan pelarian, dipidana dengan pidana penjara
 paling lama 9 (sembilan) Bulan atau pidana denda paling
 banyak kategori II.
 
 Pasal 369
 Setiap Orang yang dalam masa damai, dengan salah satu
-cara sebagaimana dimaksud dalam Pasal 20 huruf b
+cara sebagaimana dimaksud dalam [Pasal 20](/uu/2023/1/pasal-20) huruf b
 menganjurkan supaya terjadi huru-hara atau
 pemberontakan di kalangan Tentara Nasional Indonesia,
 atau dengan salah satu cara sebagaimana dimaksud dalam
-Pasal 2l ayat (1) memudahkan huru-hara atau
+[Pasal 21 ayat (1)](/uu/2023/1/pasal-21/ayat-1) memudahkan huru-hara atau
 pemberontakan, dipidana dengan pidana penjara paling
 lama 6 (enam) tahun 6 (enam) Bulan atau pidana denda
 paling banyak kategori V.
@@ -4872,16 +4895,16 @@ Pasal 372
 (1) Dipidana dengan pidana penjara paling lama 6 (enam)
 Bulan atau pidana denda paling banyak kategori II,
 Setiap Orang yang tanpa izin Pejabat yang berwenang:
-a. membuat salinan atau mengambil petikan dari
-Surat resmi negara atau badan pemerintah, yang
-seharusnya dirahasiakan;
-b. seluruh atau sebagian Surat
-sebagaimana dimaksud dalam huruf a; atau
-mengumumkan keterangan yang tercantum dalam
-Surat sebagaimana dimaksud dalam huruf a,
+  a. membuat salinan atau mengambil petikan dari
+  Surat resmi negara atau badan pemerintah, yang
+  seharusnya dirahasiakan;
+  b. seluruh atau sebagian Surat
+  sebagaimana dimaksud dalam huruf a; atau
+  c. mengumumkan keterangan yang tercantum dalam
+  Surat sebagaimana dimaksud dalam huruf a,
 padahal diketahui atau patut diduga keterangan
 tersebut harus dirahasiakan.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+(2) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-372/ayat-1)
 tidak dapat dipidana, jika perintah untuk merahasiakan
 diberikan karena alasan lain yang bukan kepentingan
 dinas atau kepentingan umum.
@@ -4897,15 +4920,15 @@ akibat hukum, memberikan keterangan palsu di atas
 sumpah, baik dengan lisan maupun tulisan, yang
 dilakukan sendiri atau oleh kuasanya yang khusus
 ditunjuk untuk itu, dipidana dengan pidana penjara
-paling lama 7 (tqiuh) tahun.
+paling lama 7 (tujuh) tahun.
 (2) Disamakan dengan sumpah sebagaimana dimaksud
-pada ayat (1) adalah janji atau pernyataan yang
+pada [ayat (1)](/uu/2023/1/pasal-373/ayat-1) adalah janji atau pernyataan yang
 menguatkan yang diharuskan berdasarkan ketentuan
 peraturan perundang-undangan atau yang menjadi
 pengganti sumpah.
-(3) Setiap Orang sebagaimana dimaksud pada ayat (1)
+(3) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-373/ayat-1)
 dapat dljatuhi pidana tambahan berupa pencabutan
-hak sebagaimana dimaksud dalam Pasal 86 huruf a,
+hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf a,
 huruf b, huruf c, dan/atau huruf d.
 
 BAB XI
@@ -4922,19 +4945,19 @@ kategori VII.
 Pasal 375
 (1) Setiap Orang yang menyimpan secara lisik dengan cara
 apa pun yang diketahuinya merupakan mata uang
-palsu sebagaimana dimaksud dalam Pasal 374,
+palsu sebagaimana dimaksud dalam [Pasal 374](/uu/2023/1/pasal-374),
 dipidana dengan pidana penjara paling lama
-1O (sepuluh) tahun dan pidana denda paling banyak
+10 (sepuluh) tahun dan pidana denda paling banyak
 kategori VII.
 (2) Setiap Orang yang mengedarkan dan/atau
 membelanjakan mata uang yang diketahuinya palsu
-sebagaimana dimaksud dalam Pasal 374, dipidana
-dengan pidana penjara paling lama 15 (lima belas)
+sebagaimana dimaksud dalam [Pasal 374](/uu/2023/1/pasal-374),
+dipidana dengan pidana penjara paling lama 15 (lima belas)
 tahun dan pidana denda paling banyak kategori VIII.
 (3) Setiap Orang yang membawa atau memasukkan mata
 uang ke dalam dan/ atau ke luar wilayah Negara
 Kesatuan Republik Indonesia sebagaimana dimaksud
-dalam Pasal 374, dipidana dengan pidana penjara
+dalam [Pasal 374](/uu/2023/1/pasal-374), dipidana dengan pidana penjara
 paling lama 15 (lima belas) tahun dan pidana denda
 paling banyak kategori VIII.
 
@@ -4946,26 +4969,27 @@ mata uang, dengan pidana penjara paling lama 7 (tujuh)
 tahun atau pidana denda paling banyak kategori VI.
 
 Pasal 377
-Dipidana dengan pidana penjara paling lama 1O (sepuluh)
-tahun atau pidana denda paling banyak kategori M, Setiap
+Dipidana dengan pidana penjara paling lama 10 (sepuluh)
+tahun atau pidana denda paling banyak kategori VI, Setiap
 Orang yang:
-a. mengedarkan mata uang yang nilainya dikurangi atau
-mengedarkan mata uang yang pada waktu diterimanya
-diketahui bahwa mata uang tersebut .rr""L s6bagai
-mata uang yang tidak rusak; atau
-b. menyimpan, memasukkan ke wilayah Negara Kesatuan
-Republik Indonesia mata uang sebagaimana dimaksud
-dalam huruf a, dengan maksud mengedarkan atau
-meminta mengedarkan sebagai mata uang yang tidak
-rusak.
+  a. mengedarkan mata uang yang nilainya dikurangi atau
+  mengedarkan mata uang yang pada waktu diterimanya
+  diketahui bahwa mata uang tersebut rusak sebagai
+  mata uang yang tidak rusak; atau
+  b. menyimpan, memasukkan ke wilayah Negara Kesatuan
+  Republik Indonesia mata uang sebagaimana dimaksud
+  dalam huruf a, dengan maksud mengedarkan atau
+  meminta mengedarkan sebagai mata uang yang tidak
+  rusak.
 
 Pasal 378
 Setiap Orang yang menerima mata uang atau uang kertas
 yang dikeluarkan oleh negara yang kemudian diketahui tidak
 asli, dipalsu atau dirusak, namun tetap mengedarkannya,
-kecuali yang ditentukan dalam Pasal 375 dan Pasal 377,
-dipidana dengan pidana penjara paling lama 9 (sembilan)
-Bulan atau pidana denda paling banyak kategori II.
+kecuali yang ditentukan dalam [Pasal 375](/uu/2023/1/pasal-375) dan
+[Pasal 377](/uu/2023/1/pasal-377), dipidana dengan pidana penjara paling
+lama 9 (sembilan) Bulan atau pidana denda paling banyak
+kategori II.
 
 Pasal 379
 Setiap Orang yang menjual, membeli, mendistribusikan,
@@ -4984,8 +5008,8 @@ perak, baik yang ada cap maupun tidak, atau yang
 setelah dike{a}an sedikit dapat dianggap sebagai mata
 uang, padahal tidak digunakan sebagai perhiasan atau
 tanda peringatan, dipidana dengan pidana penjara
-paling lama I (satu) tahun atau pidana denda paling
-banyak kategori IIL
+paling lama 1 (satu) tahun atau pidana denda paling
+banyak kategori III.
 (2) Setiap Orang yang membuat, mengedarkan, atau
 menyediakan untuk dijual atau diedarkan, atau
 membawa Masuk ke wilayah Negara Kesatuan Republik
@@ -4996,10 +5020,10 @@ negara, menyerupai meterai, atau pos segel, dipidana
 dengan pidana denda paling banyak kategori II.
 
 Pasal 381
-(1) Setiap Orang sebagaimana dimaksud dalam Pasal 374
-sampai dengan Pasal 377 dapat dijatuhi pidana
+(1) Setiap Orang sebagaimana dimaksud dalam [Pasal 374](/uu/2023/1/pasal-374)
+sampai dengan [Pasal 377](/uu/2023/1/pasal-377) dapat dijatuhi pidana
 tambahan berupa pencabutan hak sebagaimana
-dimaksud dalam Pasal 86 huruf a, huruf b, huruf c,
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf a, huruf b, huruf c,
 dan/ atau huruf d.
 (2) Mata uang yang palsu, dipalsu atau dirusak, uang
 kertas negara yang palsu atau dipalsu, bahan atau
@@ -5007,8 +5031,8 @@ benda yang menurut sifatnya digunakan untuk meniru,
 memalsu, atau mengurangi nilai mata uang atau uang
 kertas yang digunakan untuk melakukan Tindak Pidana
 atau menjadi pokok dalam Tindak Pidana sebagaimana
-dimaksud pada ayat (1), dirampas untuk negara atau
-dirampas untuk dimusnahkan.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-381/ayat-1), dirampas untuk negara
+atau dirampas untuk dimusnahkan.
 
 BAB XII
 TINDAK PIDANA PEMALSUAN METERAI, CAP NEGARA, DAN TERA NEGARA
@@ -5020,184 +5044,179 @@ Pasal 382
 Dipidana dengan pidana penjara paling lama 7 (tujuh) tahun
 atau pidana denda paling banyak kategori V, Setiap Orang
 yang:
-a. meniru atau memalsu meterai yang dikeluarkan oleh
-Pemerintah Republik Indonesia dengan maksud untuk
-memakai atau meminta orang lain memakai meterai
-tersebut sebagai meterai asli, tidak dipalsu, atau sah;
-atau
-b. dengan maksud yang sama 5glagaimana dimaksud
-dalam huruf a, membuat meterai dengan menggunakan
-cap asli secara melawan hukum.
+  a. meniru atau memalsu meterai yang dikeluarkan oleh
+  Pemerintah Republik Indonesia dengan maksud untuk
+  memakai atau meminta orang lain memakai meterai
+  tersebut sebagai meterai asli, tidak dipalsu, atau sah; atau
+  b. dengan maksud yang sama sebagaimana dimaksud
+  dalam huruf a, membuat meterai dengan menggunakan
+  cap asli secara melawan hukum.
 
 Pasal 383
 Dipidana dengan pidana penjara paling lama 3 (tiga) tahun
 atau pidana denda paling banyak kategori IV, Setiap Orang
 yang:
-a. tanda yang gunanya untuk
-menunjukkan suatu meterai tidak dapat dipakai lagi
-pada meterai Pemerintah Republik Indonesia yang telah
-dipakai dengan maksud untuk memakai atau meminta
-orang lain memakainya seolah-olah meterai tersebut
-belum dipakai;
-b. dengan maksud yang sama sebagaimana dimaksud
-dalam huruf a, menghilangkan tanda tangan, ciri, atau
-tanda saat dipakainya meterai Pemerintah Republik
-Indonesia yang telah dipakai sesuai dengan ketentuan
-peraturan perundang-undangan hams dibubuhkan di
-atas atau pada meterai tersebut; atau
-c. memakai, menjual, menawarkan, menyerahkan,
-mempunyai persediaan untuk dijual, atau memasukkan
-ke wilayah Negara Kesatuan Republik Indonesia meterai
-yang tandanya, tanda tangannya, ciri, atau tanggal
-dipakainya dihilangkan, seolah-olah meterai tersebut
-belum dipakai.
+  a. tanda yang gunanya untuk
+  menunjukkan suatu meterai tidak dapat dipakai lagi
+  pada meterai Pemerintah Republik Indonesia yang telah
+  dipakai dengan maksud untuk memakai atau meminta
+  orang lain memakainya seolah-olah meterai tersebut
+  belum dipakai;
+  b. dengan maksud yang sama sebagaimana dimaksud
+  dalam huruf a, menghilangkan tanda tangan, ciri, atau
+  tanda saat dipakainya meterai Pemerintah Republik
+  Indonesia yang telah dipakai sesuai dengan ketentuan
+  peraturan perundang-undangan hams dibubuhkan di
+  atas atau pada meterai tersebut; atau
+  c. memakai, menjual, menawarkan, menyerahkan,
+  mempunyai persediaan untuk dijual, atau memasukkan
+  ke wilayah Negara Kesatuan Republik Indonesia meterai
+  yang tandanya, tanda tangannya, ciri, atau tanggal
+  dipakainya dihilangkan, seolah-olah meterai tersebut
+  belum dipakai.
 
 Bagian Kedua
 Pemalsuan dan Penggunaan Cap Negara dan Tera Negara
 
 Pasal 384
-(1) Dipidana dengan pidana penjara paling lama 7 (tqiuh)
+(1) Dipidana dengan pidana penjara paling lama 7 (tujuh)
 tahun atau pidana denda paling banyak kategori V,
 Setiap Orang yang:
-a. membubuhi Barang emas atau perak dengan cap
-negara yang palsu menurut Undang-Undang atau
-memalsu cap negzrra dengan maksud untuk
-memakai atau meminta orang lain memakai, seolah
-olah cap tersebut asli atau tidak dipalsu;
-b. membubuhkan cap negara pada Barang emas atau
-perak dengan cap asli secara
-melawan hukum dengan maksud untuk memakai
-atau meminta orang lain memakai; atau
-c. memberi, menambah atau memindahkan cap
-negara yang asli menurut Undang-Undang pada
-Barang emas atau perak yang lain daripada yang
-semula dibubuhi cap, dengan maksud untuk
-memakai atau meminta orang lain memakai, seolaholah cap tersebut sejak semula sudah ada pada
-Barang emas atau perak.
-(2) Setiap Orang sslagaimana dimaksud pada ayat (1)
-dapat dijatuhi pidana tambahan berupa pengumuman
-putusan hakim sebagaimana dimalsud dalam Pasal 66
-ayat (1) huruf c.
+  a. membubuhi Barang emas atau perak dengan cap
+  negara yang palsu menurut Undang-Undang atau
+  memalsu cap negzrra dengan maksud untuk
+  memakai atau meminta orang lain memakai, seolah
+  olah cap tersebut asli atau tidak dipalsu;
+  b. membubuhkan cap negara pada Barang emas atau
+  perak dengan cap asli secara
+  melawan hukum dengan maksud untuk memakai
+  atau meminta orang lain memakai; atau
+  c. memberi, menambah atau memindahkan cap
+  negara yang asli menurut Undang-Undang pada
+  Barang emas atau perak yang lain daripada yang
+  semula dibubuhi cap, dengan maksud untuk
+  memakai atau meminta orang lain memakai, seolah
+  olah cap tersebut sejak semula sudah ada pada
+  Barang emas atau perak.
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-384/ayat-1) dapat dijatuhi pidana
+tambahan berupa pengumuman putusan hakim sebagaimana
+dimalsud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf c.
 
 Pasal 385
 (1) Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori V,
 Setiap Orang yang:
-a. membubuhi Barang yang wajib ditera atau atas
-permintaan yang berkepentingan diizinkan untuk
-ditera atau ditera lagi dengan tanda tera Republik
-Indonesia yang palsu;
-b. memalsu tanda tera asli dengan maksud untuk
-memakai atau meminta orang lain memakai Barang
-tersebut seolah-olah tanda teranya asli atau tidak
-dipalsu;
-c. secara melawan hukum membubuhi tanda tera
-pada Barang sebagaimana dimaksud dalam huruf a
-dengan cap yEmg asli dengan maksud yang sama
-sebagaimana dimaksud dalam huruf b; atau
-d. memberi, menambah, atau memindahkan tanda
-tera Republik Indonesia yang asli pada Barang lain
-dari yang semula dibubuhi tanda tera tersebut,
-dengan maksud memakai atau meminta orang lain
-memakai seolah-olah tanda tera tersebut sejak
-semula sudah ada pada Barang tersebut.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
-dapat dijatuhi pidana tambahan berupa pengumumarr
-putusan hakim sebagaimana dimaksud dalam Pcsal 66
-ayat (1) huruf c.
+  a. membubuhi Barang yang wajib ditera atau atas
+  permintaan yang berkepentingan diizinkan untuk
+  ditera atau ditera lagi dengan tanda tera Republik
+  Indonesia yang palsu;
+  b. memalsu tanda tera asli dengan maksud untuk
+  memakai atau meminta orang lain memakai Barang
+  tersebut seolah-olah tanda teranya asli atau tidak
+  dipalsu;
+  c. secara melawan hukum membubuhi tanda tera
+  pada Barang sebagaimana dimaksud dalam huruf a
+  dengan cap yEmg asli dengan maksud yang sama
+  sebagaimana dimaksud dalam huruf b; atau
+  d. memberi, menambah, atau memindahkan tanda
+  tera Republik Indonesia yang asli pada Barang lain
+  dari yang semula dibubuhi tanda tera tersebut,
+  dengan maksud memakai atau meminta orang lain
+  memakai seolah-olah tanda tera tersebut sejak
+  semula sudah ada pada Barang tersebut.
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-385/ayat-1) dapat dijatuhi pidana
+tambahan berupa pengumuman putusan hakim sebagaimana
+dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf c.
 
 Pasal 386
 (1) Dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
 kategori IV, Setiap Orang yang:
-a. memalsu ukuran, takaran, anak timbangan, atau
-timbangan setelah dibubuhi tanda tera, dengan
-maksud untuk memakai atau meminta orang lain
-memakai seolah-olah asli atau tidak dipalsu; atau
-b. memakai ukuran, takaran, anak timbangan, atau
-timbangan yang dipalsu, seolah-olah asli atau tidak
-dipalsu.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
-dapat dijatuhi pidana tambahan berupa pengumuman
-putusan hakim sebagaimana dimaksud dalam Pasal 66
-ayat (1) huruf c.
+  a. memalsu ukuran, takaran, anak timbangan, atau
+  timbangan setelah dibubuhi tanda tera, dengan
+  maksud untuk memakai atau meminta orang lain
+  memakai seolah-olah asli atau tidak dipalsu; atau
+  b. memakai ukuran, takaran, anak timbangan, atau
+  timbangan yang dipalsu, seolah-olah asli atau tidak
+  dipalsu.
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-386/ayat-1) dapat dijatuhi pidana
+tambahan berupa pengumuman putusan hakim sebagaimana
+dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf c.
 
 Pasal 387
 (1) Dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun atau pidana denda paling banyak kategori IV,
 Setiap Orang yang:
-a. menghilangkan tanda batal pada Barang yang
-ditera, dengan maksud hendak memakai Barang
-tersebut seolah-olah masih dapat dipakai; atau
-b. memakai, menjual, menawarkan, menyerahkan
-atau mempunyai persediaan untuk d[iual, suatu
-Barang yang dihilangkan tanda batal seolah-olah
-Barang tersebut masih dapat dipakai.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
-dapat dijatuhi pidana tambahan berupa pengumuman
-putusan hakim sebagaimana dimaksud dalam Pasal 66
-ayat (1) huruf c.
+  a. menghilangkan tanda batal pada Barang yang
+  ditera, dengan maksud hendak memakai Barang
+  tersebut seolah-olah masih dapat dipakai; atau
+  b. memakai, menjual, menawarkan, menyerahkan
+  atau mempunyai persediaan untuk dijual, suatu
+  Barang yang dihilangkan tanda batal seolah-olah
+  Barang tersebut masih dapat dipakai.
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-387/ayat-1) dapat dijatuhi pidana
+tambahan berupa pengumuman putusan hakim sebagaimana
+dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf c.
 
 Pasal 388
 (1) Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori V,
 Setiap Orang yang:
-a. membubuhi cap atau tanda lain selain sebagaimana
-dimaksud dalam Pasal 384 dan Pasal 385, sesuai
-dengan ketentuan peraturan perundang-undangan
-harus atau boleh dibubuhkan pada Barang atau
-bungkusnya secara palsu atau memalsukan cap
-atau tanda lain yang asli dengan maksud untuk
-memakai atau meminta orang lain memakai Barang
-tersebut seolah-olah cap atau tanda lain tersebut
-asli atau tidak dipalsu;
-b. membubuhi cap atau tanda lain pada Barang atau
-bungkusnya dengan memakai cap yang asli secara
-melawan hukum dengan maksud untuk memakai
-atau meminta orang lain memakai Barang tersebut;
-atau
-c. memakai cap atau tanda lain asli untuk Barang atau
-bungkusnya, padahal cap atau tanda lain tersebut
-bukan untuk Barang atau bungkus tersebut,
-dengan maksud untuk memakainya seolah-olah cap
-atau tanda lain tersebut ditentukan untuk Barang
-itu.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
-dapat dijatuhi pidana tambahan berupa pembayaran
-ganti kerugian sebagaimana dimaksud dalam Pasal 66
-ayat (1) hurufd.
-(3) Tindak Pidana sebagaimana dimalsud pada ayat (1),
-tidak dituntut kecuali atas dasar pengaduan pihak yang
-mereknya dipalsukan.
+  a. membubuhi cap atau tanda lain selain sebagaimana
+  dimaksud dalam [Pasal 384](/uu/2023/1/pasal-384) dan
+  [Pasal 385](/uu/2023/1/pasal-385), sesuai dengan ketentuan
+  peraturan perundang-undangan harus atau boleh
+  dibubuhkan pada Barang atau bungkusnya secara
+  palsu atau memalsukan cap atau tanda lain yang
+  asli dengan maksud untuk memakai atau meminta
+  orang lain memakai Barang tersebut seolah-olah cap
+  atau tanda lain tersebut asli atau tidak dipalsu;
+  b. membubuhi cap atau tanda lain pada Barang atau
+  bungkusnya dengan memakai cap yang asli secara
+  melawan hukum dengan maksud untuk memakai
+  atau meminta orang lain memakai Barang tersebut;
+  atau
+  c. memakai cap atau tanda lain asli untuk Barang atau
+  bungkusnya, padahal cap atau tanda lain tersebut
+  bukan untuk Barang atau bungkus tersebut,
+  dengan maksud untuk memakainya seolah-olah cap
+  atau tanda lain tersebut ditentukan untuk Barang
+  itu.
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-388/ayat-1) dapat dijatuhi pidana
+tambahan berupa pembayaran ganti kerugian sebagaimana
+dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf d.
+(3) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-388/ayat-1) tidak dituntut kecuali
+atas dasar pengaduan pihak yang mereknya dipalsukan.
 
 Bagian Ketiga
 Pengedaran Meterai, Cap, atau Tanda yang Dipalsu
 
 Pasal 389
-Dipidana dengan pidana sebagaimana dimaksud dalam Pasal
-382, Pasal 384, Pasal 385, dan Pasal 388 menurut perbedaan
-yang ditentukan dalam pasal-pasal tersebut, Setiap Orang
-yang memakai, menjual, menawarkan, menyerahkan,
-mempunyai persediaan untuk dijual atau memasukkan ke
-wilayah Negara Kesatuan Republik Indonesia:
-a. meterai, cap, atau tanda yang tidak asli, dipalsu atau
-dibuat secara melawan hukum seolah-olah asli, tidak
-dipalsu, dan dibuat secara tidak melawan hukum; atau
-b. Barang yang dibubuhi meterai, cap, atau tanda
-sebagaimana dimaksud dalam huruf a, seolah-olah
-Barang tersebut asli, tidak dipalsu dan dibuat secara
-tidak melawan hukum.
+Dipidana dengan pidana sebagaimana dimaksud dalam
+[Pasal 382](/uu/2023/1/pasal-382), [Pasal 384](/uu/2023/1/pasal-384),
+[Pasal 385](/uu/2023/1/pasal-385), dan [Pasal 388](/uu/2023/1/pasal-388)
+menurut perbedaan yang ditentukan dalam pasal-pasal
+tersebut, Setiap Orang yang memakai, menjual, menawarkan,
+menyerahkan, mempunyai persediaan untuk dijual atau
+memasukkan ke wilayah Negara Kesatuan Republik
+Indonesia:
+  a. meterai, cap, atau tanda yang tidak asli, dipalsu atau
+  dibuat secara melawan hukum seolah-olah asli, tidak
+  dipalsu, dan dibuat secara tidak melawan hukum; atau
+  b. Barang yang dibubuhi meterai, cap, atau tanda
+  sebagaimana dimaksud dalam huruf a, seolah-olah
+  Barang tersebut asli, tidak dipalsu dan dibuat secara
+  tidak melawan hukum.
 
 Pasal 390
 (1) Setiap Orang yang menyimpan bahan atau benda yang
-diketahui digunakan atau akan digunalan untuk
-melakukan salah satu Tindak Pidana sebagaimana
-dimalsud dalam Pasal 382, dipidana dengan pidana
+diketahui digunakan atau akan digunalan untuk melakukan
+salah satu Tindak Pidana sebagaimana dimalsud dalam
+[Pasal 382](/uu/2023/1/pasal-382), dipidana dengan pidana
 penjara paling lama 3 (tiga) tahun atau pidana denda
 paling banyak kategori IV.
-(2) Bahan atau benda sebagaimana dimaksud pada ayat (1)
-dirampas untuk negara atau dirampas untuk
-dimusnahkan.
+(2) Bahan atau benda sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-390/ayat-1)
+dirampas untuk negara atau dirampas untuk dimusnahkan.
 
 BAB XIII
 TINDAK PIDANA PEMALSUAN SURAT
@@ -5215,46 +5234,46 @@ menggunakan seolah-olah isinya benar dan tidak palsu,
 jika penggunaan Surat tersebut dapat menimbutkan
 kerugian, dipidana karena pemalsuan Surat, dengan
 pidana penjara paling lama 6 (enam) tahun atau pidana
-denda paling banyak kategori M.
+denda paling banyak kategori VI.
 (2) Setiap Orang yang menggunakan Surat yang isinya
 tidak benar atau yang dipalsu, seolah-olah benar atau
 tidak dipalsu, jika penggunaan Surat tersebut dapat
 menimbulkan kerugian dipidana dengan pidana yang
-sama dengan ayat (1).
+sama dengan [ayat (1)](/uu/2023/1/pasal-391/ayat-1).
 
 Pasal 392
 (1) Dipidana dengan pidana penjara paling lama 8 (delapan)
 tahun, Setiap Orang yang melakukan pemalsuan Surat
 terhadap:
-a. akta autentik;
-b. Surat utang atau sertifikat utang dari suatu negara
-atau bagiannya atau dari suatu lembaga umum;
-c. saham, Surat utang, sertifikat saham, sertifikat
-utang dari suatu perkumpulan, yayasan, perseroan
-atau persekutuan;
-d. talon, tanda bukti dividen atau tanda bukti bunga
-salah satu Surat sebagaimana dimaksud dalam
-huruf b dan huruf c atau tanda bukti yang
-dikeluarkan sebagai pengganti Surat tersebut;
-e. Surat kredit atau Surat dagang yang diperuntukkan
-guna diedarkan;
-f. Surat keterangan mengenai hak atas tanah; atau
-g. Surat berharga lainnya yang ditentukan dalam
-peraturan perundang-undangan.
+  a. akta autentik;
+  b. Surat utang atau sertifikat utang dari suatu negara
+  atau bagiannya atau dari suatu lembaga umum;
+  c. saham, Surat utang, sertifikat saham, sertifikat
+  utang dari suatu perkumpulan, yayasan, perseroan
+  atau persekutuan;
+  d. talon, tanda bukti dividen atau tanda bukti bunga
+  salah satu Surat sebagaimana dimaksud dalam
+  huruf b dan huruf c atau tanda bukti yang
+  dikeluarkan sebagai pengganti Surat tersebut;
+  e. Surat kredit atau Surat dagang yang diperuntukkan
+  guna diedarkan;
+  f. Surat keterangan mengenai hak atas tanah; atau
+  g. Surat berharga lainnya yang ditentukan dalam
+  peraturan perundang-undangan.
 (2) Setiap Orang yang menggunakan Surat sebagaimana
-dimaksud pada ayat (1) yang isinya tidak benar atau
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-392/ayat-1) yang isinya tidak benar atau
 dipalsu, seolah-olah benar atau tidak dipalsu, jika
 penggunaan Surat tersebut dapat menimbulkan
 kerugian, dipidana dengan pidana yang sama
-sebagaimana dimaksud pada ayat (1).
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-392/ayat-1).
 
 Pasal 393
 (1) Setiap Orang yang menyimpan bahan atau alat yang
 diketahui digunakan untuk melakukan Tindak Pidana
-sebagaimana dimaksud dalam Pasal 392 ayat (1),
+sebagaimana dimaksud dalam [Pasal 392 ayat (1)](/uu/2023/1/pasal-392/ayat-1),
 dipidana dengan pidana penjara paling lama 1 (satu)
 tahun atau pidana denda paling banyak kategori II.
-(2) Bahan dan alat sebagaimana dimaksud pada ayat (1)
+(2) Bahan dan alat sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-393/ayat-1)
 dirampas untuk negara atau dirampas untuk
 dimusnahkan.
 
@@ -5269,7 +5288,7 @@ dengan maksud untuk menggunakan atau meminta orang
 lain menggunakan seolah-olah keterangan tersebut sesuai
 dengan yang sebenarnya, jika penggunaan tersebut dapat
 menimbulkan kerugian, dipidana dengan pidana penjara
-paling lama 7 (tqiuh) tahun atau pidana denda paling banyak
+paling lama 7 (tujuh) tahun atau pidana denda paling banyak
 kategori VI.
 
 Bagian Ketiga
@@ -5281,61 +5300,63 @@ keadaan kesehatan atau kematian seseorang yang tidak
 sesuai dengan keadaan sebenarnya, dipidana dengan
 pidana penjara paling lama 4 (empat) tahun atau pidana
 denda paling banyak kategori IV.
-(2) Jika keterangan sebagaimana dimaksud pada ayat (1)
+(2) Jika keterangan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-395/ayat-1)
 diberikan dengan maksud untuk memasukkan atau
 menahan seseorang ke dalam rumah sakit jiwa,
 dipidana dengan pidana penjara paling lama 8 (delapan)
-tahun atau pidana denda paling banyak kategori M.
-(3) Pidana sebagaimana dimaksud pada ayat (1) dan
-ayat (2)berlaku juga bagi Setiap Orang yang
-menggunakan Surat keterangaa palsu tersebut seolaholah isinya sesuai dengan yang sebenarnya.
+tahun atau pidana denda paling banyak kategori VI.
+(3) Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-395/ayat-1) dan
+[ayat (2)](/uu/2023/1/pasal-395/ayat-2) berlaku juga bagi Setiap Orang yang
+menggunakan Surat keterangan palsu tersebut seolah-olah
+isinya sesuai dengan yang sebenarnya.
 
 Pasal 396
 Dipidana dengan pidana penjara paling lama 3 (tiga) tahun
 6 (enam) Bulan atau pidana denda paling banyak kategori V,
 Setiap Orang yang:
-a. membuat secara tidak benar atau memalsu Surat
-keterangan dokter tentang ada atau tidak ada penyakit,
-kelemahan, atau cacat, dengan maksud untuk
-menyesatkan Pejabat yang berwenang atau penanggung
-asuransi; atau
-b. mempergunakan Surat keterangan dokter yang tidak
-benar atau dipalsu, seolah-olah Surat tersebut benar
-atau tidak palsu dengan maksud untuk menyesatkan
-Pejabat yang berwenang atau penanggung asuransi.
+  a. membuat secara tidak benar atau memalsu Surat
+  keterangan dokter tentang ada atau tidak ada penyakit,
+  kelemahan, atau cacat, dengan maksud untuk
+  menyesatkan Pejabat yang berwenang atau penanggung
+  asuransi; atau
+  b. mempergunakan Surat keterangan dokter yang tidak
+  benar atau dipalsu, seolah-olah Surat tersebut benar
+  atau tidak palsu dengan maksud untuk menyesatkan
+  Pejabat yang berwenang atau penanggung asuransi.
 
 Pasal 397
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun
 6 (enam) Bulan atau pidana denda paling banyak kategori III,
 Setiap Orang yang:
-a. membuat secara tidak benar atau memalsu Surat
-keterangan tidak pernah terlibat Tindak Pidana,
-kecakapan, tidak mampu secara finansial, kecacatan,
-atau keadaan lain, dengan maksud untuk
-mempergunakan atau meminta orang lain
-menggunakannya supaya diterima dalam pekerjaan
-atau supaya menimbulkan iba dan pertolongan; atau
-b. menggunakan Surat keterangan yang tidak benar atau
-palsu sebagaimana dimaksud dalam huruf a, seolaholah Surat tersebut benar atau tidak palsu.
+  a. membuat secara tidak benar atau memalsu Surat
+  keterangan tidak pernah terlibat Tindak Pidana,
+  kecakapan, tidak mampu secara finansial, kecacatan,
+  atau keadaan lain, dengan maksud untuk
+  mempergunakan atau meminta orang lain
+  menggunakannya supaya diterima dalam pekerjaan
+  atau supaya menimbulkan iba dan pertolongan; atau
+  b. menggunakan Surat keterangan yang tidak benar atau
+  palsu sebagaimana dimaksud dalam huruf a, seolah-
+  olah Surat tersebut benar atau tidak palsu.
 
 Pasal 398
 (1) Setiap Orang dipidana dengan pidana penjara paling
 lama 5 (lima) tahun dan pidana denda paling banyak
 kategori V, jika:
-a. membuat secara tidak benar atau memalsu paspor,
-Surat perjalanan laksana paspor, atau Surat yang
-diberikan menurut ketentuan Undang-Undang
-tentang pemberian izin kepada orang asing untuk
-Masuk dan menetap di Indonesia; atau
-b. meminta untuk memberi Surat serupa atas nama
-palsu atau nama kecil yang palsu atau dengan
-menunjuk kepada keadaan palsu,
+  a. membuat secara tidak benar atau memalsu paspor,
+  Surat perjalanan laksana paspor, atau Surat yang
+  diberikan menurut ketentuan Undang-Undang
+  tentang pemberian izin kepada orang asing untuk
+  Masuk dan menetap di Indonesia; atau
+  b. meminta untuk memberi Surat serupa atas nama
+  palsu atau nama kecil yang palsu atau dengan
+  menunjuk kepada keadaan palsu,
 dengan maksud untuk menggunakan atau meminta
 orang lain menggunakannya seolah-olah benar atau
 tidak palsu.
 (2) Setiap Orang yang menggunakan Surat yang tidak
 benar atau yang dipalsu sebagaimana dimaksud pada
-ayat (1) seolah-olah benar dan tidak dipalsu, atau
+[ayat (1)](/uu/2023/1/pasal-398/ayat-1) seolah-olah benar dan tidak dipalsu, atau
 seolah-olah isinya sesuai dengan kebenaran dipidana
 dengan pidana yang sama.
 
@@ -5343,31 +5364,31 @@ Pasal 399
 Dipidana dengan pidana penjara paling lama 3 (tiga) tahun
 atau pidana denda paling banyak kategori IV, Setiap Orang
 yang:
-a. membuat secara tidak benar atau memalsu Surat
-pengantar bagi hewan atau Ternak, atau
-memerintahkan untuk memberi Surat serupa atas
-nama palsu atau menunjuk kepada keadaan palsu,
-dengan maksud untuk menggunakan atau meminta
-orang lain menggunakan Surat tersebut seolah-olah
-benar dan tidak palsu; atau
-b. menggunakan Surat yang tidak benar atau dipalsu
-sebagaimana dimaksud dalam huruf a, seolah-olah
-Surat tersebut benar atau tidak palsu.
+  a. membuat secara tidak benar atau memalsu Surat
+  pengantar bagi hewan atau Ternak, atau
+  memerintahkan untuk memberi Surat serupa atas
+  nama palsu atau menunjuk kepada keadaan palsu,
+  dengan maksud untuk menggunakan atau meminta
+  orang lain menggunakan Surat tersebut seolah-olah
+  benar dan tidak palsu; atau
+  b. menggunakan Surat yang tidak benar atau dipalsu
+  sebagaimana dimaksud dalam huruf a, seolah-olah
+  Surat tersebut benar atau tidak palsu.
 
 Pasal 400
 Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori IV, Setiap
 Orang yang:
-a. membuat secara tidak benar atau memalsu Surat
-keterangan seorang Pejabat yang berwenang membuat
-keterangan tentang hak milik atau hak lainnya atas
-suatu benda, dengan maksud untuk memudahkan
-pengalihan atau penjaminan atau untuk menyesatkan
-Pejabat penegak hukum tentang asal benda tersebut;
-atau
-b. menggunakan Surat keterangan sebagaimana
-dimaksud dalam huruf a, seolah-olah Surat tersebut
-benar atau tidak palsu.
+  a. membuat secara tidak benar atau memalsu Surat
+  keterangan seorang Pejabat yang berwenang membuat
+  keterangan tentang hak milik atau hak lainnya atas
+  suatu benda, dengan maksud untuk memudahkan
+  pengalihan atau penjaminan atau untuk menyesatkan
+  Pejabat penegak hukum tentang asal benda tersebut;
+  atau
+  b. menggunakan Surat keterangan sebagaimana
+  dimaksud dalam huruf a, seolah-olah Surat tersebut
+  benar atau tidak palsu.
 
 BAB XIV
 TINDAK PIDANA TERHADAP ASAL USUL DAN PERKAWINAN
@@ -5382,15 +5403,15 @@ Pasal 402
 (1) Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
 kategori IV, Setiap Orang yang:
-a. melangsungkan perkawinan, padahal diketahui
-bahwa perkawinan yang ada menjadi penghalang
-yang sah untuk melangsungkan perkawinan
-tersebut; atau
-b. melangsungkan perkawinan, padahal diketahui
-bahwa perkawinan yang ada dari pihak lain menjadi
-penghalang yang sah untuk melangsungkan
-perkawinan tersebut.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
+  a. melangsungkan perkawinan, padahal diketahui
+  bahwa perkawinan yang ada menjadi penghalang
+  yang sah untuk melangsungkan perkawinan
+  tersebut; atau
+  b. melangsungkan perkawinan, padahal diketahui
+  bahwa perkawinan yang ada dari pihak lain menjadi
+  penghalang yang sah untuk melangsungkan
+  perkawinan tersebut.
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-402/ayat-1)
 huruf a menyembunyikan kepada pihak yang lain
 bahwa perkawinan yang ada menjadi penghalang yang
 sah untuk melangsungkan perkawinan tersebut,
@@ -5413,9 +5434,9 @@ kelahiran, perkawinan, perceraian, atau kematian, dipidana
 dengan pidana denda paling banyak kategori II.
 
 Pasal 405
-Setiap Orang sebagaimana dimaksud dalam Pasal 403 dapat
-dijatuhi pidana tambahan berupa pencabutan hak
-sebagaimana dimaksud dalam Pasal 86 huruf d dan/ atau
+Setiap Orang sebagaimana dimaksud dalam [Pasal 403](/uu/2023/1/pasal-403)
+dapat dijatuhi pidana tambahan berupa pencabutan hak
+sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf d dan/ atau
 huruf e.
 
 BAB XV
@@ -5428,9 +5449,9 @@ Pasal 406
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun
 atau pidana denda paling banyak kategori II, Setiap Orang
 yang:
-a. melanggar kesusilaan Di Muka Umum; atau
-b. melanggar kesusilaan di muka orang lain yang hadir
-tanpa kemauan orang yang hadir tersebut.
+  a. melanggar kesusilaan Di Muka Umum; atau
+  b. melanggar kesusilaan di muka orang lain yang hadir
+  tanpa kemauan orang yang hadir tersebut.
 
 Bagian Kedua
 Pornografi
@@ -5442,10 +5463,10 @@ menyiarkan, mengimpor, mengekspor, menawarkan,
 memperjualbelikan, menyewakan, atau menyediakan
 Pornografi, dipidana dengan pidana penjara paling
 singkat 6 (enam) Bulan dan pidana penjara paling lama
-l0 (sepuluh) tahun atau pidana denda paling sedikit
+10 (sepuluh) tahun atau pidana denda paling sedikit
 kategori IV dan pidana denda paling banyak
 kategori VI.
-(2) Perbuatan sebagaimana dimaksud pada ayat (1) tidak
+(2) Perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-407/ayat-1) tidak
 dipidana jika merupakan karya seni, budaya, olahraga,
 kesehatan, dan/ atau ilmu pengetahuan.
 
@@ -5470,17 +5491,17 @@ paling lama 6 (enam) Bulan atau pidana denda paling banyak
 kategori II.
 
 Pasal 410
-(1) Perbuatan sebagaimana dimaksud dalam Pasal 408
+(1) Perbuatan sebagaimana dimaksud dalam [Pasal 408](/uu/2023/1/pasal-408)
 tidak dipidana jika dilakukan oleh petugas yang
 berwenang dalam rangka pelaksanaan keluarga
 berencana, pencegahan penyakit infeksi menular
 seksual, atau untuk kepentingan pendidikan dan
 penyuluhan kesehatan.
-(2) Perbuatan sebagaimana dimaksud dalam Pasal 4O9
+(2) Perbuatan sebagaimana dimaksud dalam [Pasal 409](/uu/2023/1/pasal-409)
 tidak dipidana jika dilakukan untuk kepentingan ilmu
 pengetahuan / pendidikan.
 (3) Petugas yang berwenang sebagaimana dimaksud pada
-ayat (1) termasuk relawan yang kompeten yang
+[ayat (1)](/uu/2023/1/pasal-410/ayat-1) termasuk relawan yang kompeten yang
 ditugaskan oleh Pejabat yang berwenang.
 
 Bagian Keempat
@@ -5492,14 +5513,15 @@ orang yang bukan suami atau istrinya, dipidana karena
 perzinaan, dengan pidana penjara paling lama 1 (satu)
 tahun atau pidana denda paling banyak kategori II.
 (2) Terhadap Tindak Pidana sebagaimana dimaksud pada
-ayat (1) tidak dilakukan penuntutan kecuali atas
+[ayat (1)](/uu/2023/1/pasal-411/ayat-1) tidak dilakukan penuntutan kecuali atas
 pengaduan:
-a. suami atau istri lagi orang yang terikat perkawinan.
-b. Orang Tua atau anaknya bagi orang yang tidak
-terikat perkawinan.
+  a. suami atau istri bagi orang yang terikat perkawinan.
+  b. Orang Tua atau anaknya bagi orang yang tidak
+  terikat perkawinan.
 (3) Terhadap pengaduan sebagaimana dimaksud pada
-ayal l2l tidak berlaku ketentuan sebagaimana dimaksud
-dalam Pasal 25, Pasal 26, dan Pasal 30.
+[ayat (2)](/uu/2023/1/pasal-411/ayat-2) tidak berlaku ketentuan sebagaimana dimaksud
+dalam [Pasal 25](/uu/2023/1/pasal-25), [Pasal 26](/uu/2023/1/pasal-26), dan
+[Pasal 30](/uu/2023/1/pasal-30).
 (4) Pengaduan dapat ditarik kembali selama pemeriksaan
 di sidang pengadilan belum dimulai.
 
@@ -5509,15 +5531,16 @@ suami istri di luar perkawinan dipidana dengan pidana
 penjara paling lama 6 (enam) Bulan atau pidana denda
 paling banyak kategori II.
 (2) Terhadap Tindak Pidana sebagaimana dimaksud pada
-ayat (1) tidak dilakukan penuntutan kecuali atas
+[ayat (1)](/uu/2023/1/pasal-412/ayat-1) tidak dilakukan penuntutan kecuali atas
 pengaduan:
-a. suami atau istri bagi orang yang terikat perkawinan;
-atau
-b. Orang Ttra atau anaknya bagi orang yang tidak
-terikat perkawinan.
+  a. suami atau istri bagi orang yang terikat perkawinan;
+  atau
+  b. Orang Tua atau anaknya bagi orang yang tidak
+  terikat perkawinan.
 (3) Terhadap pengaduan sebagaimana dimaksud pada
-ayat(2)tidak berlaku ketentuan Pasal 25, Pasal 26, dan
-Pasal 30.
+[ayat (2)](/uu/2023/1/pasal-412/ayat-2) tidak berlaku ketentuan sebagaimana dimaksud
+dalam [Pasal 25](/uu/2023/1/pasal-25), [Pasal 26](/uu/2023/1/pasal-26), dan
+[Pasal 30](/uu/2023/1/pasal-30).
 (4) Pengaduan dapat ditarik kembali selama pemeriksaan
 di sidang pengadilan belum dimulai.
 
@@ -5537,38 +5560,38 @@ Pasal 414
 (1) Setiap Orang yang melakukan perbuatan cabul
 terhadap orang lain yang berbeda atau sama jenis
 kelaminnya:
-a. di depan umum, dipidana dengan pidana penjara
-paling lama 1 (satu) tahun 6 (enam) Bulan atau
-pidana denda paling banyak kategori III;
-b. secara paksa dengan Kekerasan atau Ancaman
-Kekerasan, dipidana dengan pidana penjara paling
-lama 9 (sembilan) tahun; atau
-c. yang dipublikasikan sebagai muatan Pornografi,
-dipidana dengan pidana penjara paling lama
-9 (sembilan) tahun.
+  a. di depan umum, dipidana dengan pidana penjara
+  paling lama 1 (satu) tahun 6 (enam) Bulan atau
+  pidana denda paling banyak kategori III;
+  b. secara paksa dengan Kekerasan atau Ancaman
+  Kekerasan, dipidana dengan pidana penjara paling
+  lama 9 (sembilan) tahun; atau
+  c. yang dipublikasikan sebagai muatan Pornografi,
+  dipidana dengan pidana penjara paling lama
+  9 (sembilan) tahun.
 (2) Setiap Orang dengan Kekerasan atau Ancaman
-Kekerasan memalsa orang lain untuk melakukan
+Kekerasan memaksa orang lain untuk melakukan
 perbuatan cabul terhadap dirinya, dipidana dengan
 pidana penjara paling lama 9 (sembilan) tahun.
 
 Pasal 415
 Dipidana dengan pidana penjara paling lama 9 (sembilan)
 tahun, Setiap Orang yang:
-a. melakukan perbuatan cabul dengan seseorang yang
-diketahui orang tersebut pingsan atau tidak berdaya;
-atau
-b. melakukan perbuatan cabul dengan seseor€rng yang
-diketahui atau patut diduga Anak.
+  a. melakukan perbuatan cabul dengan seseorang yang
+  diketahui orang tersebut pingsan atau tidak berdaya;
+  atau
+  b. melakukan perbuatan cabul dengan seseorang yang
+  diketahui atau patut diduga Anak.
 
 Pasal 416
 (1) Jika salah satu Tindak Pidana sebagaimana dimaksud
-dalam Pasal 414 dan Pasal 415 mengakibatkan Luka
-Berat, dipidana dengan pidana penjara paling lama
-12 (dua belas) tahun.
+dalam [Pasal 414](/uu/2023/1/pasal-414) dan [Pasal 415](/uu/2023/1/pasal-415)
+mengakibatkan Luka Berat, dipidana dengan pidana
+penjara paling lama 12 (dua belas) tahun.
 (2) Jika salah satu Tindak Pidana sebagaimana dimaksud
-dalam Pasal 414 dan Pasal 415 mengakibatkan matinya
-orang, dipidana dengan pidana penjara paling lama 15
-(lima belas) tahun.
+dalam [Pasal 414](/uu/2023/1/pasal-414) dan [Pasal 415](/uu/2023/1/pasal-415)
+mengakibatkan matinya orang, dipidana dengan pidana
+penjara paling lama 15 (lima belas) tahun.
 
 Pasal 417
 Setiap Orang yang memberi atau bejanji akan memberi
@@ -5587,16 +5610,16 @@ untuk diasuh atau dididik, dipidana dengan pidana
 penjara paling lama 12 (dua belas) tahun.
 (2) Dipidana dengan pidana penjara paling lama
 12 (dua belas) tahun:
-a. Pejabat yang melakukan percabulan dengan
-bawahannya atau dengan orang yang dipercayakan
-atau diserahkan padanya untuk dijaga; atau
-b. dokter, guru, pegawai, pengurus, atau petugas pada
-lembaga pemasyarakatan, lembaga negara, tempat
-latihan karya, rumah pendidikan, rumah yatim
-dan/atau piatu, rumah sakit jiwa, atau panti sosial
-yang melakukan perbuatan cabul dengan orang
-yang dimasukkan ke lembaga, rumah, atau panti
-tersebut.
+  a. Pejabat yang melakukan percabulan dengan
+  bawahannya atau dengan orang yang dipercayakan
+  atau diserahkan padanya untuk dijaga; atau
+  b. dokter, guru, pegawai, pengurus, atau petugas pada
+  lembaga pemasyarakatan, lembaga negara, tempat
+  latihan karya, rumah pendidikan, rumah yatim
+  dan/atau piatu, rumah sakit jiwa, atau panti sosial
+  yang melakukan perbuatan cabul dengan orang
+  yang dimasukkan ke lembaga, rumah, atau panti
+  tersebut.
 
 Paragraf 2
 Memudahkan Percabulan dan Persetubuhan
@@ -5607,7 +5630,7 @@ orang lain berbuat cabul atau bersetubuh dengan orang
 yang diketahui atau patut diduga Anak, dipidana
 dengan pidana penjara paling lama 7 (tujuh) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan terhadap Anak kandung, Anak tiri,
+[ayat (1)](/uu/2023/1/pasal-419/ayat-1) dilakukan terhadap Anak kandung, Anak tiri,
 Anak angkat, atau Anak di bawah pengawasannya yang
 dipercayakan padanya untuk diasuh, dipidana dengan
 pidana penjara paling lama 9 (sembilan) tahun.
@@ -5618,10 +5641,11 @@ orang lain melakukan perbuatan cabul, dipidana dengan
 pidana penjara paling lama 2 (dua) tahun.
 
 Pasal 421
-Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 419
-atau Pasal 420 dilakukan sebagai kebiasaan atau untuk
-menarik keuntungan sebagai mata pencaharian pidananya
-dapat ditambah l/3 (satu per tiga).
+Jika Tindak Pidana sebagaimana dimaksud dalam [Pasal 419](/uu/2023/1/pasal-419)
+atau [Pasal 420](/uu/2023/1/pasal-420) dilakukan
+sebagai kebiasaan atau untuk menarik keuntungan
+sebagai mata pencaharian pidananya dapat ditambah 1/3
+(satu per tiga).
 
 Pasal 422
 (1) Setiap Orang yang menggerakkan, membawa,
@@ -5629,14 +5653,15 @@ menempatkan, atau menyerahkan Anak kepada orang
 lain untuk melakukan percabulan, pelacuran, atau
 perbuatan melanggar kesusilaan lainnya, dipidana
 dengan pidana penjara paling lama 9 (sembilan) tahun.
-(2) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan dengan menjanjikan Anak memperoleh
-pekerjaan atau janji lainnya, dipidana dengan pidana
-penjara paling lama 10 (sepuluh) tahun.
+(2) Jika Tindak Pidana sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-422/ayat-1) dilakukan dengan menjanjikan Anak
+memperoleh pekerjaan atau janji lainnya, dipidana
+dengan pidana penjara paling lama 10 (sepuluh) tahun.
 
 Pasal 423
-Tindak Pidana sebagaimana dimaksud dalam Pasal 414
-sampai dengan Pasal 422 merupakan tindak pidana
-kekerasan seksual.
+Tindak Pidana sebagaimana dimaksud dalam [Pasal 414](/uu/2023/1/pasal-414)
+sampai dengan [Pasal 422](/uu/2023/1/pasal-422) merupakan
+tindak pidana kekerasan seksual.
 
 Bagian Keenam
 Minuman dan Bahan yang Memabukkan
@@ -5656,18 +5681,19 @@ Kekerasan memaksa seseorang meminum atau
 memakai bahan yang memabukkan, dipidana dengan
 pidana penjara paling lama 3 (tiga) tahun atau pidana
 denda paling banyak kategori III.
-(4) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-sampai dengan ayat (3):
-a. mengakibatkan Luka Berat, dipidana dengan pidana
-penjara paling lama 5 (lima) tahun atau pidana
-denda paling banyak kategori IV; atau
-b. mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 7 (tujuh) tahun.
+(4) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-424/ayat-1)
+sampai dengan [ayat (3)](/uu/2023/1/pasal-424/ayat-3):
+  a. mengakibatkan Luka Berat, dipidana dengan pidana
+  penjara paling lama 5 (lima) tahun atau pidana
+  denda paling banyak kategori IV; atau
+  b. mengakibatkan matinya orang, dipidana dengan
+  pidana penjara paling lama 7 (tujuh) tahun.
 (5) Jika pelaku Tindak Pidana sebagaimana dimaksud pada
-ayat (1) sampai dengan ayat (3) melakukan perbuatan
-tersebut dalam menjalankan pekerjaannya maka dapat
-dijatuhi pidana tambahan berupa pencabutan hak
-sebagaimana dimaksud dalam Pasal 86 huruf f.
+[ayat (1)](/uu/2023/1/pasal-424/ayat-1) sampai dengan [ayat (3)](/uu/2023/1/pasal-424/ayat-3)
+melakukan perbuatan tersebut dalam menjalankan
+pekerjaannya maka dapat dijatuhi pidana tambahan
+berupa pencabutan hak sebagaimana dimaksud dalam
+[Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 Bagian Ketujuh
 Pemanfaatan Anak untuk Pengemisan
@@ -5675,7 +5701,8 @@ Pemanfaatan Anak untuk Pengemisan
 Pasal 425
 (1) Setiap Orang yang memberikan atau menyerahkan
 kepada orang lain anak yang ada di bawah
-kekuasaannya yang sah dan belum berumur 12 (dua belas) tahun, padahal diketahui bahwa anak tersebut
+kekuasaannya yang sah dan belum berumur 12 (dua
+belas) tahun, padahal diketahui bahwa anak tersebut
 akan dimanfaatkan untuk melakukan perbuatan
 meminta minta atau untuk melakukan pekerjaan yang
 berbahaya atau yang dapat membahayakan
@@ -5683,8 +5710,8 @@ kesehatannya, dipidana dengan pidana penjara paling
 lama 4 (empat) tahun atau pidana denda paling banyak
 kategori IV.
 (2) Setiap Orang yang menerima anak untuk dimanfaatkan
-sebagaimana dimaksud pada ayat (1), dipidana dengan
-pidana yang sama.
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-425/ayat-1), dipidana
+dengan pidana yang sama.
 
 Bagian Kedelapan
 Perjudian
@@ -5692,27 +5719,28 @@ Perjudian
 Pasal 426
 (1) Dipidana dengan pidana penjara paling lama
 9 (sembilan) tahun atau pidana denda paling banyak
-kategori VI, Setiap Orang yang tanpa izirl.
-a. menawarkan atau memberi kesempatan untuk main
-judi dan menjadikan sebagai mata pencaharian atau
-turut serta dalam penrsahaan perjudian;
-b. menawarkan atau memberi kesempatan kepada
-umum untuk main judi atau turut serta dalam
-perusahaan pe{udian, terlepas dari ada tidaknya
-suatu syarat atau tata cara yang harus dipenuhi
-untuk menggunakan kesempatan tersebut; atau
-c. menjadikan turut serta pada permainan judi sebagai
-mata pencaharian.
+kategori VI, Setiap Orang yang tanpa izin:
+  a. menawarkan atau memberi kesempatan untuk main
+  judi dan menjadikan sebagai mata pencaharian atau
+  turut serta dalam perusahaan perjudian;
+  b. menawarkan atau memberi kesempatan kepada
+  umum untuk main judi atau turut serta dalam
+  perusahaan perjudian, terlepas dari ada tidaknya
+  suatu syarat atau tata cara yang harus dipenuhi
+  untuk menggunakan kesempatan tersebut; atau
+  c. menjadikan turut serta pada permainan judi sebagai
+  mata pencaharian.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan dalam menjalankan profesi, dapat
-dijatuhi pidana tambahan bempa pencabutan hak
-sebagaimana dimaksud dalam Pasal 86 huruf f.
+[ayat (1)](/uu/2023/1/pasal-426/ayat-1) dilakukan dalam menjalankan
+profesi, dapat dijatuhi pidana tambahan berupa pencabutan
+hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86)
+huruf f.
 
 Pasal 427
 Setiap Orang yang menggunakan kesempatan main judi yang
 diadakan tanpa izin, dipidana dengan pidana penjara paling
 lama 3 (tiga) tahun atau pidana denda paling banyak kategori
-III,
+III.
 
 BAB XVI
 TINDAK PIDANA PENELANTARAN ORANG
@@ -5725,37 +5753,36 @@ wajib memberi nafkah, merawat, atau memelihara orang
 tersebut, dipidana dengan pidana penjara paling lama
 2 (dua) tahun 6 (enam) Bulan atau pidana denda paling
 banyak kategori III.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-428/ayat-1)
 dilakukan oleh seorang Pejabat yang mempunyai
 kewajiban untuk merawat atau memelihara orang
 terlantar, dipidana dengan pidana penjara paling lama
 3 (tiga) tahun atau pidana denda paling banyak
 kategori III.
-(3) Setiap Orang sebagaimana dimaksud pada ayat (1) dan
-ayal (2)dipidana dengan:
-a. pidana penjara paling lama 5 (lima) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat;
-atau
-b. pidana penjara paling lama 7 (tujuh) tahun, jika
-perbuatan tersebut mengakibatkan mati.
+(3) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-428/ayat-1) dan
+[ayat (2)](/uu/2023/1/pasal-428/ayat-2) dipidana dengan:
+  a. pidana penjara paling lama 5 (lima) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat;
+  atau
+  b. pidana penjara paling lama 7 (tujuh) tahun, jika
+  perbuatan tersebut mengakibatkan mati.
 
 Pasal 429
 (1) Setiap Orang yang meninggalkan anak yang belum
-berumur 7 (tqluh) tahun dengan maksud untuk
+berumur 7 (tujuh) tahun dengan maksud untuk
 melepaskan tanggung jawab atas anak tersebut,
 dipidana dengan pidana penjara paling lama 5 (lima)
 tahun atau pidana denda paling banyak kategori IV.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
-dipidana dengan:
-a. pidana penjara paling lama 7 (tujuh) tahun, jika
-perbuatan tersebut mengakibatkan Luka Berat;
-atau
-b. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut mengakibatkan mati.
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-429/ayat-1) dipidana dengan:
+  a. pidana penjara paling lama 7 (tujuh) tahun, jika
+  perbuatan tersebut mengakibatkan Luka Berat;
+  atau
+  b. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut mengakibatkan mati.
 (3) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dan ayat (2) dilakukan oleh Ayah atau ibu dari
-anak sebagaimana dimaksud pada ayat (1), pidananya
-dapat ditambah I /3 (satu per tiga).
+[ayat (1)](/uu/2023/1/pasal-429/ayat-1) dan [ayat (2)](/uu/2023/1/pasal-429/ayat-2) dilakukan oleh Ayah atau ibu
+dari anak sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-429/ayat-1), pidananya
+dapat ditambah 1/3 (satu per tiga).
 
 Pasal 430
 Seorang ibu yang membuang atau meninggalkan anaknya
@@ -5764,12 +5791,12 @@ tersebut diketahui oleh orang lain, dengan maksud agar anak
 tersebut ditemukan orang lain atau dengan maksud melepas
 tanggung jawabnya atas anak yang dilahirkan, dipidana
 1/2 (satu per dua) dari pidana sebagaimana dimaksud dalam
-Pasal 429 ayat (1) dan ayat (2).
+[Pasal 429 ayat (1)](/uu/2023/1/pasal-429/ayat-1) dan [ayat (2)](/uu/2023/1/pasal-429/ayat-2).
 
 Pasal 431
-Setiap Orang sebagaimana dimaksud dalam Pasal 428 dan
-Pasal 429 dapat dijatuhi pidana tambahan berupa
-pencabutan hak sebagaimana dimaksud dalam Pasal 86
+Setiap Orang sebagaimana dimaksud dalam [Pasal 428](/uu/2023/1/pasal-428)
+dan [Pasal 429](/uu/2023/1/pasal-429) dapat dijatuhi pidana tambahan berupa
+pencabutan hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86)
 huruf d.
 
 Pasal 432
@@ -5793,14 +5820,14 @@ suatu hal, dengan maksud supaya hal tersebut
 diketahui umum, dipidana karena pencemaran, dengan
 pidana penjara paling lama 9 (sembilan) Bulan atau
 pidana denda paling banyak kategori II.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-433/ayat-1)
 dilakukan dengan tulisan atau gambar yang disiarkan,
-dipertunjukkan, atau ditempelkan di tempat umum,
-dipidana karena pencemaran tertulis, dengan pidana
-penjara paling lama I (satu) tahun 6 (enam) Bulan atau
-pidana denda paling banyak kategori III.
-(3) Perbuatan sebagaimana dimaksud pada ayat (1) dan
-ayat (2) tidak dipidana jika dilakukan untuk
+dipertunjukkan, atau ditempelkan di tempat umum, dipidana
+karena pencemaran tertulis, dengan pidana penjara paling
+lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda
+paling banyak kategori III.
+(3) Perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-433/ayat-1) dan
+[ayat (2)](/uu/2023/1/pasal-433/ayat-2) tidak dipidana jika dilakukan untuk
 kepentingan umum atau karena terpaksa membela diri.
 
 Bagian Kedua
@@ -5808,24 +5835,24 @@ Fitnah
 
 Pasal 434
 (1) Jika Setiap Orang sebagaimana dimaksud dalam
-Pasal 433 diberi kesempatan membuktikan kebenaran
+[Pasal 433](/uu/2023/1/pasal-433) diberi kesempatan membuktikan kebenaran
 hal yang dituduhkan tetapi tidak dapat
 membuktikannya, dan tuduhan tersebut bertentangan
 dengan yang diketahuinya, dipidana karena fitnah,
 dengan pidana penjara paling lama 3 (tiga) tahun atau
 pidana denda paling banyak kategori IV.
 (2) Pembuktian kebenaran tuduhan sebagaimana
-dimaksud pada ayat (1), hanya dapat dilakukan dalam
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-434/ayat-1), hanya dapat dilakukan dalam
 hal:
-a. hakim memandang perlu untuk memeriksa
-kebenaran tuduhan tersebut guna
-mempertimbangkan keterangan terdakwa bahwa
-terdakwa melakukan perbuatan tersebut untuk
-kepentingan umum atau karena terpaksa untuk
-membela diri; atau
-b. Pejabat dituduh melakukan suatu hal dalam
-menj alankan tugas j abatannya.
-(3) Pembuktian sebagaimana dimaksud pada ayat (2) tidak
+  a. hakim memandang perlu untuk memeriksa
+  kebenaran tuduhan tersebut guna
+  mempertimbangkan keterangan terdakwa bahwa
+  terdakwa melakukan perbuatan tersebut untuk
+  kepentingan umum atau karena terpaksa untuk
+  membela diri; atau
+  b. Pejabat dituduh melakukan suatu hal dalam
+  menjalankan tugas jabatannya.
+(3) Pembuktian sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-434/ayat-2) tidak
 dapat dilakukan jika hal yang dituduhkan tersebut
 hanya dapat dituntut atas pengaduan, sedangkan
 pengaduan tidak diajukan.
@@ -5834,8 +5861,8 @@ Pasal 435
 (1) Jika putusan pengadilan yang telah memperoleh
 kekuatan hukum tetap menyatakan orang yang dihina
 bersalah atas hal yang dituduhkan sebagaimana
-dimaksud dalam Pasal 434, tidak dapat dipidana karena
-Iitnah.
+dimaksud dalam [Pasal 434](/uu/2023/1/pasal-434), tidak dapat dipidana karena
+fitnah.
 (2) Jika dengan putusan pengadilan yang telah
 memperoleh kekuatan hukum tetap orang yang dihina
 dibebaskan dari hal yang dituduhkan, putusan tersebut
@@ -5843,7 +5870,7 @@ dianggap sebagai bukti sempurna bahwa hal yang
 dituduhkan tersebut tidak benar.
 (3) Jika penuntutan pidana terhadap yang dihina telah
 dimulai karena hal yang dituduhkan padanya,
-penuntutan karena frtnah ditangguhkan sampai ada
+penuntutan karena fitnah ditangguhkan sampai ada
 putusan pengadilan yang telah memperoleh kekuatan
 hukum tetap mengenai hal yang dituduhkan.
 
@@ -5853,7 +5880,7 @@ Penghinaan Ringan
 Pasal 436
 Penghinaan yang tidak bersifat pencemaran atau
 pencemaran tertulis yang dilakukan terhadap orang lain baik
-Di Muka Umum dengan lisan atau tulisan, maupun di muka
+di Muka Umum dengan lisan atau tulisan, maupun di muka
 orang yang dihina tersebut secara lisan atau dengan
 perbuatan atau dengan tulisan yang dikirimkan atau
 diterimakan kepadanya, dipidana karena penghinaan ringan
@@ -5870,12 +5897,11 @@ orang lain menuliskan pengaduan atau pemberitahuan
 palsu kepada Pejabat yang berwenang tentang orang
 lain sehingga kehormatan atau nama baik orang
 tersebut diserang, dipidana karena melakukan
-pengaduan litnah, dengan pidana penjara paling lama 3
+pengaduan fitnah, dengan pidana penjara paling lama 3
 (tiga) tahun 6 (enam) Bulan atau pidana denda paling
 banyak kategori IV.
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
-dapat dijatuhi pidana tambahan berupa pencabutan
-hak sebagaimana dimaksud dalam Pasal 86 huruf a
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-437/ayat-1) dapat dijatuhi pidana tambahan berupa pencabutan
+hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf a
 dan/atau huruf b.
 
 Bagian Kelima
@@ -5897,16 +5923,14 @@ Pasal 439
 pencemaran tertulis terhadap orang yang sudah mati,
 dipidana dengan pidana penjara paling lama 6 (enam)
 Bulan atau pidana denda paling banyak kategori II.
-(2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1)
-melakukan Tindak Pidana tersebut dalam menjalankan
+(2) Jika Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-439/ayat-1) melakukan Tindak Pidana tersebut dalam menjalankan
 profesinya dan pada waktu itu belum lewat 2 (dua)
 tahun sejak adanya putusan pemidanaan yang telah
 memperoleh kekuatan hukum tetap karena melakukan
 Tindak Pidana yang sama, dapat dijatuhi pidana
 tambahan berupa pencabutan hak sebagaimana
-dimaksud dalam Pasal 86 huruf f.
-(3) Tindak Pidana sebagaimana dimaksud pada ayat (1)
-tidak dituntut jika tidak ada pengaduan suami atau
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
+(3) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-439/ayat-1) tidak dituntut jika tidak ada pengaduan suami atau
 istrinya, atau dari salah seorang keluarga sedarah atau
 semenda dalam garis lurus atau menyamping sampai
 derajat kedua dari orang yang sudah mati tersebut.
@@ -5918,27 +5942,27 @@ Bagian Ketujuh
 Pengaduan, Pemberatan Pidana, dan Pidana Tambahan
 
 Pasal 440
-Tindak Pidana sebagairnana dimaksud dalam Pasal 433,
-Pasal 434, dan Pasal 436 sampai dengan Pasal 438 tidak
-dituntut, jika tidak ada pengaduan dari Korban Tindak
-Pidana.
+Tindak Pidana sebagaimana dimaksud dalam [Pasal 433](/uu/2023/1/pasal-433),
+[Pasal 434](/uu/2023/1/pasal-434), dan [Pasal 436](/uu/2023/1/pasal-436) sampai dengan
+[Pasal 438](/uu/2023/1/pasal-438) tidak dituntut, jika tidak ada pengaduan dari
+Korban Tindak Pidana.
 
 Pasal 441
 (1) Ketentuan pidana sebagaimana dimaksud dalam
-Pasal 433 sampai dengan Pasal 439 dapat ditambah
+[Pasal 433](/uu/2023/1/pasal-433) sampai dengan [Pasal 439](/uu/2023/1/pasal-439) dapat ditambah
 1/3 (satu per tiga) jika dilakukan dengan sarana
 teknologi informasi.
 (2) Ketentuan pidana sebagaimana dimaksud dalam
-Pasal 433, Pasal 434, dan Pasal 436 dapat ditambah
+[Pasal 433](/uu/2023/1/pasal-433), [Pasal 434](/uu/2023/1/pasal-434), dan [Pasal 436](/uu/2023/1/pasal-436) dapat ditambah
 1/3 (satu per tiga), jika yang dihina atau difitnah adalah
 seorang Pejabat yang sedang menjalankan tugasnya
 yang sah.
 
 Pasal 442
-Setiap Orang sebagaimana dimaksud dalam Pasal 434 dan
-Pasal 436 sampai dengan Pasal 439 dapat dijatuhi pidana
+Setiap Orang sebagaimana dimaksud dalam [Pasal 434](/uu/2023/1/pasal-434) dan
+[Pasal 436](/uu/2023/1/pasal-436) sampai dengan [Pasal 439](/uu/2023/1/pasal-439) dapat dijatuhi pidana
 tambahan berupa pencabutan hak sebagaimana dimaksud
-dalam Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
+dalam [Pasal 86](/uu/2023/1/pasal-86) huruf a, huruf b, huruf c, dan/ atau huruf d.
 
 BAB XVIII
 TINDAK PIDANA PEMBUKAAN RAHASIA
@@ -5950,8 +5974,7 @@ diberikan oleh instansi pemerintah baik rahasia yang
 sekarang maupun yang dahulu, dipidana dengan
 pidana penjara paling lama 1 (satu) tahun atau pidana
 denda paling banyak kategori III.
-(2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan mengenai rahasia orang lain, hanya
+(2) Jika Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-443/ayat-1) dilakukan mengenai rahasia orang lain, hanya
 dapat dituntut atas pengaduan orang tersebut.
 
 Pasal 444
@@ -5960,14 +5983,13 @@ suatu perusahaan tempatnya bekerja atau pernah
 bekerja yang harus dirahasiakannya, dipidana dengan
 pidana penjara paling lama 2 (dua) tahun atau pidana
 denda paling banyak kategori III.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
-hanya dapat dituntut atas pengaduan pengurus
+(2) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-444/ayat-1) hanya dapat dituntut atas pengaduan pengurus
 perusahaan tersebut.
 
 Pasal 445
-Setiap Orang sebagaimana dimaksud dalam Pasal 443 dan
-Pasal 444 dapat dijatuhi pidana tambahan berupa
-pencabutan hak sebagaimana dimaksud dalam Pasal 86
+Setiap Orang sebagaimana dimaksud dalam [Pasal 443](/uu/2023/1/pasal-443) dan
+[Pasal 444](/uu/2023/1/pasal-444) dapat dijatuhi pidana tambahan berupa
+pencabutan hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86)
 huruf a, huruf b, huruf c, dan/ atau huruf f.
 
 BAB XIX
@@ -5980,15 +6002,15 @@ Pasal 446
 (1) Setiap Orang yang secara melawan hukum merampas
 kemerdekaan orang atau meneruskan perampasan
 tersebut, dipidana dengan pidana penjara paling lama
-7 (tqjuh) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+7 (tujuh) tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-446/ayat-1)
 mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 9 (sembilan) tahun.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(3) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-446/ayat-1)
 mengakibatkan matinya orang, dipidana dengan pidana
 penjara paling lama 12 (dua belas) tahun.
-(4) Ketentuan pidana sebagaimana dimaksud pada ayat (1),
-ayat (21, dan ayat (3) berlaku juga bagi orang yang
+(4) Ketentuan pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-446/ayat-1),
+[ayat (2)](/uu/2023/1/pasal-446/ayat-2), dan [ayat (3)](/uu/2023/1/pasal-446/ayat-3) berlaku juga bagi orang yang
 memberi tempat untuk perampasan kemerdekaan atau
 meneruskan perampasan kemerdekaan secara melawan
 hukum tersebut.
@@ -6000,10 +6022,10 @@ hukum atau diteruskan perampasan kemerdekaan
 tersebut, dipidana dengan pidana penjara paling lama
 6 (enam) Bulan atau pidana denda paling banyak
 kategori II.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-447/ayat-1)
 mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 1 (satu) tahun.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(3) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-447/ayat-1)
 mengakibatkan matinya orang, dipidana dengan pidana
 penjara paling lama 2 (dua) tahun.
 
@@ -6019,7 +6041,7 @@ orang lain; atau
 b. memaksa orang lain supaya melakukan, tidak
 melakukan, atau membiarkan sesuatu dengan
 ancarnan pencemaran atau pencemaran tertulis.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+(2) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-448/ayat-1)
 huruf b hanya dapat dituntut atas pengaduan dari
 Korban Tindak Pidana.
 
@@ -6027,16 +6049,16 @@ Pasal 449
 (1) Dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun atau pidana denda paling banyak kategori IV,
 Setiap Orang yang mengancam dengan:
-a. Kekerasan secara terang terangan dengan tenaga
-bersama yang dilakukan terhadap orang atau
-Barang;
-b. suatu Tindak Pidana yang bahaya
-bagi keamanan umum terhadap orang atau Barang;
-c. perkosaan atau dengan perbuatan cabul;
-d. suatu Tindak Pidana terhadap nyawa orang;
-e. penganiayaan berat; atau
-f. pembakaran.
-(2) Jika ancaman sebagaimana dimaksud pada ayat (1)
+  a. Kekerasan secara terang terangan dengan tenaga
+  bersama yang dilakukan terhadap orang atau
+  Barang;
+  b. suatu Tindak Pidana yang bahaya
+  bagi keamanan umum terhadap orang atau Barang;
+  c. perkosaan atau dengan perbuatan cabul;
+  d. suatu Tindak Pidana terhadap nyawa orang;
+  e. penganiayaan berat; atau
+  f. pembakaran.
+(2) Jika ancaman sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-449/ayat-1)
 dilakukan secara tertulis dan dengan syarat tertentu,
 dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun 6 (enam) Bulan atau pidana denda paling banyak
@@ -6081,7 +6103,7 @@ yang ditentukan atas dirinya atau dari pengawasan
 orang yang berwenang untuk itu, dipidana dengan
 pidana penjara paling lama 6 (enam) tahun atau pidana
 denda paling banyak kategori IV.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-452/ayat-1)
 dilakukan dengan tipu muslihat, Kekerasan atau
 Ancaman Kekerasan, atau terhadap anak yang belum
 berumur 12 (dua belas) tahun, dipidana dengan pidana
@@ -6100,10 +6122,10 @@ berwenang untuk itu, atau menariknya dari penyidikan
 Pejabat yang berwenang, dipidana dengan pidana
 penjara paling lama 4 (empat) tahun atau pidana denda
 paling banyak kategori III.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-453/ayat-1)
 dilakukan terhadap anak di bawah umur 12 (dua belas)
 tahun, dipidana dengan pidana penjara paling lama
-7 (tqluh) tahun.
+7 (tujuh) tahun.
 
 Paragraf 3
 Melarikan Anak dan Perempuan
@@ -6111,11 +6133,11 @@ Melarikan Anak dan Perempuan
 Pasal 454
 (1) Setiap Orang yang membawa pergi Anak di luar
 kemauan Orang Tua atau walinya, tetapi dengan
-persetql'uan Anak itu sendiri, dengan maksud untuk
+persetujuan Anak itu sendiri, dengan maksud untuk
 memastikan penguasaan terhadap Anak tersebut, baik
 di dalam maupun di luar perkawinan, dipidana karena
 melarikan Anak, dengan pidana penjara paling lama
-7 (tqiuh) tahun.
+7 (tujuh) tahun.
 (2) Setiap Orang yang membawa pergi perempuan dengan
 tipu muslihat, Kekerasan atau Ancaman Kekerasan,
 dengan maksud untuk memastikan penguasaan
@@ -6123,10 +6145,10 @@ terhadap perempuan tersebut, baik di dalam maupun di
 luar perkawinan, dipidana karena melarikan
 perempuan dengan pidana penjara paling lama
 9 (sembilan) tahun.
-(3) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+(3) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-454/ayat-1)
 hanya dapat dituntut atas pengaduan Anak, Orang Tua,
 atau walinya.
-(4) Tindak Pidana sebagaimana dimaksud pada ayat l2l
+(4) Tindak Pidana sebagaimana dimaksud pada [ayat (2)](/uu/2023/1/pasal-454/ayat-2)
 hanya dapat dituntut atas pengaduan perempuan atau
 suaminya.
 (5) Jika yang membawa lari mengawini perempuan yang
@@ -6153,7 +6175,7 @@ melakukan Tindak Pidana perdagangan orang, dengan
 pidana penjara paling singkat 3 (tiga) tahun dan paling
 lama 15 (lima belas) tahun dan pidana denda paling
 sedikit kategori IV dan paling banyak kategori VII.
-(2) Jika perbuatan sebagaimana dimalsud pada ayat (1)
+(2) Jika perbuatan sebagaimana dimalsud pada [ayat (1)](/uu/2023/1/pasal-455/ayat-1)
 mengakibatkan orang tereksploitasi, pelaku dipidana
 dengan pidana yang sama.
 
@@ -6162,10 +6184,11 @@ Pidana Tambahan
 
 Pasal 456
 Setiap Orang yang melakukan salah satu Tindak Pidana
-sebagaimana dimaksud dalam Pasal 446 dan Pasal 450
-sampai dengan Pasal 455 dapat dijatuhi pidana tambahan
+sebagaimana dimaksud dalam [Pasal 446](/uu/2023/1/pasal-446)
+dan [Pasal 450](/uu/2023/1/pasal-450) sampai dengan
+[Pasal 455](/uu/2023/1/pasal-455) dapat dijatuhi pidana tambahan
 berupa pencabutan hak sebagaimana dimaksud dalam
-Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
+[Pasal 86](/uu/2023/1/pasal-86) huruf a, huruf b, huruf c, dan/ atau huruf d.
 
 BAB XX
 TINDAK PIDANA PENYELUNDUPAN MANUSIA
@@ -6201,8 +6224,8 @@ Pasal 458
 dipidana karena pembunuhan, dengan pidana penjara
 paling lama 15 (lima belas) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan terhadap ibu, Ayah, istri, suami, atau
-anaknya, pidananya dapat ditamb ah I l3 (satu per tiga).
+[ayat (1)](/uu/2023/1/pasal-458/ayat-1) dilakukan terhadap ibu, Ayah, istri, suami, atau
+anaknya, pidananya dapat ditambah 1/3 (satu per tiga).
 (3) Pembunuhan yang diikuti, disertai, atau didahului oleh
 suatu Tindak Pidana yang dilakukan dengan maksud
 untuk mempersiapkan atau mempermudah
@@ -6217,23 +6240,24 @@ Pasal 459
 Setiap Orang yang dengan rencana terlebih dahulu
 merampas nyawa orang lain, dipidana karena pembunuhan
 berencana, dengan pidana mati atau pidana penjara seumur
-hidup atau pidana penjara paling lama 2O (dua puluh) tahun.
+hidup atau pidana penjara paling lama 20 (dua puluh) tahun.
 
 Pasal 460
 (1) Seorang ibu yang merampas nyawa anaknya pada saat
 atau tidak lama setelah dilahirkan, karena takut
 kelahiran anak tersebut diketahui orang lain, dipidana
 karena pembunuhan anak sendiri, dengan pidana
-penjara paling lama 7 (tqluh) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-dilakukan dengan rencana terlebih dahulu, dipidana
-dengan pidana penjara paling lama 9 (sembilan) tahun.
+penjara paling lama 7 (tujuh) tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-460/ayat-1) dilakukan dengan rencana terlebih
+dahulu, dipidana dengan pidana penjara paling lama
+9 (sembilan) tahun.
 (3) Orang lain yang turut serta melakukan Tindak Pidana
 sebagaimana dimaksud pada:
-a. ayat (1) dipidana dengan pidana yang sama dengan
-Pasal 458 ayat (1); atau
-b. ayat (2) dipidana dengan pidana yang sama dengan
-Pasal 459.
+a. [ayat (1)](/uu/2023/1/pasal-460/ayat-1) dipidana dengan pidana yang sama dengan
+[Pasal 458](/uu/2023/1/pasal-458) ayat (1); atau
+b. [ayat (2)](/uu/2023/1/pasal-460/ayat-2) dipidana dengan pidana yang sama dengan
+[Pasal 459](/uu/2023/1/pasal-459).
 
 Pasal 461
 Setiap Orang yang merampas nyawa orang lain atas
@@ -6253,7 +6277,7 @@ Aborsi
 Pasal 463
 (1) Setiap perempuan yang melakukan aborsi, dipidana
 dengan pidana penjara paling lama 4 (empat) tahun.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-463/ayat-1) tidak
 berlaku dalam hal perempuan merupakan Korban
 Tindak Pidana perkosaan atau Tindak Pidana kekerasan
 seksual lain yang menyebabkan kehamilan yang umur
@@ -6263,37 +6287,38 @@ atau memiliki indikasi kedamratan medis.
 Pasal 464
 (1) Setiap Orang yang melakukan aborsi terhadap seorang
 perempuan:
-a. dengan persetqjuan perempuan tersebut, dipidana
-dengan pidana penjara paling lama 5 (lima) tahun;
-atau
-b. tanpa persetqjuan perempuan tersebut, dipidana
-dengan pidana penjara paling lama 12 (dua belas)
-tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-huruf a mengakibatkan matinya perempuan tersebut,
-dipidana dengan pidana penjara paling lama 8 (delapan)
-tahun.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-huruf b mengakibatkan matinya perempuan tersebut,
+  a. dengan persetujuan perempuan tersebut, dipidana
+  dengan pidana penjara paling lama 5 (lima) tahun;
+  atau
+  b. tanpa persetujuan perempuan tersebut, dipidana
+  dengan pidana penjara paling lama 12 (dua belas)
+  tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-464/ayat-1) huruf a mengakibatkan matinya perempuan
+tersebut, dipidana dengan pidana penjara paling lama
+8 (delapan) tahun.
+(3) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-464/ayat-1) huruf b mengakibatkan matinya perempuan
+tersebut,
 dipidana dengan pidana penjara paling lama
 15 (lima belas) tahun.
 
 Pasal 465
 (1) Dokter, bidan, paramedis, atau apoteker yang
 melakukan Tindak Pidana sebagaimana dimaksud
-dalam Pasal 464, pidananya dapat ditambah l/3 (satu
-per tiga).
+dalam [Pasal 464](/uu/2023/1/pasal-464), pidananya dapat ditambah
+1/3 (satu per tiga).
 (2) Dokter, bidan, paramedis, atau apoteker yang
 melakukan Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dapat dijatuhi pidana tambahan berupa
-pencabutan hak sebagaimana dimaksud dalam Pasal 86
-huruf a dan huruf f.
+[ayat (1)](/uu/2023/1/pasal-465/ayat-1) dapat dijatuhi pidana tambahan berupa
+pencabutan hak sebagaimana dimaksud dalam
+[Pasal 86](/uu/2023/1/pasal-86) huruf a dan huruf f.
 (3) Dokter, bidan, paramedis, atau apoteker yang
 melakukan aborsi karena indikasi kedaruratan medis
 atau terhadap Korban Tindak Pidana perkosaan atau
 Tindak Pidana kekerasan seksual lain yang
 menyebabkan kehamilan sebagaimana dimaksud dalam
-Pasal 463 ayat(2), tidakdipidana.
+[Pasal 463 ayat (2)](/uu/2023/1/pasal-463/ayat-2), tidak dipidana.
 
 BAB XXII
 TINDAK PIDANA TERHADAP TUBUH
@@ -6306,69 +6331,69 @@ Pasal 466
 dengan pidana penjara paling lama 2 (dua) tahun
 6 (enam) Bulan atau pidana denda paling banyak
 kategori III.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-mengakibatkan Luka Berat, dipidana dengan pidana
-penjara paling lama 5 (lima) tahun.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-mengakibatkan matinya orang, dipidana dengan pidana
-penjara paling lama 7 (tqjuh) tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-466/ayat-1) mengakibatkan Luka Berat, dipidana
+dengan pidana penjara paling lama 5 (lima) tahun.
+(3) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-466/ayat-1) mengakibatkan matinya orang, dipidana
+dengan pidana penjara paling lama 7 (tujuh) tahun.
 (4) Termasuk dalam penganiayaan sebagaimana dimaksud
-pada ayat (1) adalah perbuatan yang merusak
+pada [ayat (1)](/uu/2023/1/pasal-466/ayat-1) adalah perbuatan yang merusak
 kesehatan.
 (5) Percobaan melakukan Tindak Pidana sebagaimana
-dimaksud pada ayat (1), tidak dipidana.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-466/ayat-1), tidak dipidana.
 
 Pasal 467
 (1) Setiap Orang yang melakukan penganiayaan dengan
 rencana lebih dahulu, dipidana dengan pidana penjara
 paling lama 4 (empat) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-mengakibatkan Luka Berat, dipidana dengan pidana
-penjara paling lama 7 (tqjuh) tahun.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-mengakibatkan matinya orang, dipidana dengan pidana
-penjara paling lama 9 (sembilan) tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-467/ayat-1) mengakibatkan Luka Berat, dipidana
+dengan pidana penjara paling lama 7 (tujuh) tahun.
+(3) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-467/ayat-1) mengakibatkan matinya orang, dipidana
+dengan pidana penjara paling lama 9 (sembilan) tahun.
 
 Pasal 468
 (1) Setiap Orang yang melukai berat orang lain, dipidana
 karena penganiayaan berat, dengan pidana penjara
 paling lama 8 (delapan) tahun.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-mati, dipidana dengan pidana penjara
-paling lama 10 (sepuluh) tahun.
+(2) Jika perbuatan sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-468/ayat-1) mengakibatkan mati, dipidana
+dengan pidana penjara paling lama 10 (sepuluh) tahun.
 
 Pasal 469
 (1) Setiap Orang yang melakukan penganiayaan berat
 dengan rencana lebih dahulu, dipidana dengan pidana
 penjara paling lama 12 (dua belas) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
-pidana penjara paling lama 15 (lima belas) tahun.
+[ayat (1)](/uu/2023/1/pasal-469/ayat-1) mengakibatkan matinya orang, dipidana
+dengan pidana penjara paling lama 15 (lima belas) tahun.
 
 Pasal 470
-Tindak Pidana sebagaimana dimaksud dalam Pasal 466
-sampai dengan Pasal 469, pidananya dapat ditambah
-1 / 3 (satu per tiga), jika Tindak Pidana tersebut dilakukan:
-a. terhadap Pejabat ketika atau karena menjalankan
-tugasnya yang sah;
-b. dengan memberikan bahan yang berbahaya bagi nyawa
-atau kesehatan; atau
-c. terhadap ibu atau Ayah.
+Tindak Pidana sebagaimana dimaksud dalam [Pasal 466](/uu/2023/1/pasal-466)
+sampai dengan [Pasal 469](/uu/2023/1/pasal-469), pidananya dapat ditambah
+1/3 (satu per tiga), jika Tindak Pidana tersebut dilakukan:
+  a. terhadap Pejabat ketika atau karena menjalankan
+  tugasnya yang sah;
+  b. dengan memberikan bahan yang berbahaya bagi nyawa
+  atau kesehatan; atau
+  c. terhadap ibu atau Ayah.
 
 Pasal 471
 (1) Selain penganiayaan sebagaimana dimaksud dalam
-Pasal 467 dan Pasal 47O, penganiayaan yang tidak
+[Pasal 467](/uu/2023/1/pasal-467) dan [Pasal 470](/uu/2023/1/pasal-470), penganiayaan yang tidak
 menimbulkan penyakit atau halangan untuk
 menjalankan profesi jabatan atau mata pencaharian,
 dipidana karena penganiayaan ringan, dengan pidana
 penjara paling lama 6 (enam) Bulan atau pidana denda
 paling banyak kategori II.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan terhadap orang yang bekerja padanya
+[ayat (1)](/uu/2023/1/pasal-471/ayat-1) dilakukan terhadap orang yang bekerja padanya
 atau menjadi bawahannya, pidananya dapat ditambah
 1/3 (satu per tiga).
-(3) Percobaan melakukan Tindak Pidana sslagaimana
-dimaksud pada ayat (1), tidak dipidana.
+(3) Percobaan melakukan Tindak Pidana sebagaimana
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-471/ayat-1), tidak dipidana.
 
 Bagian Kedua
 Penyerangan dan Perkelahian secara Berkelompok
@@ -6378,13 +6403,13 @@ Setiap Orang yang turut serta dalam penyerangan atau
 perkelahian yang melibatkan beberapa orang, selain
 tanggung jawab masing masing terhadap Tindak Pidana yang
 khusus dilakukan, dipidana dengan:
-a. pidana penjara paling lama 2 (dua) tahun 6 (enam)
-Bulan atau pidana denda paling banyak kategori III, jika
-penyerangan atau perkelahian tersebut mengakibatkan
-Luka Berat; atau
-b. pidana penjara paling lama 4 (empat) tahun, jika
-penyerangan atau perkelahian tersebut mengakibatkan
-matinya orang.
+  a. pidana penjara paling lama 2 (dua) tahun 6 (enam)
+  Bulan atau pidana denda paling banyak kategori III, jika
+  penyerangan atau perkelahian tersebut mengakibatkan
+  Luka Berat; atau
+  b. pidana penjara paling lama 4 (empat) tahun, jika
+  penyerangan atau perkelahian tersebut mengakibatkan
+  matinya orang.
 
 Bagian Ketiga
 Perkosaan
@@ -6395,68 +6420,71 @@ Kekerasan memaksa seseorang bersetubuh dengannya,
 dipidana karena melakukan perkosaan, dengan pidana
 penjara paling lama 12 (dua belas) tahun.
 (2) Termasuk Tindak Pidana perkosaan dan dipidana
-sebagaimana dimaksud pada ayat (1) meliputi
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-473/ayat-1) meliputi
 perbuatan:
-a. persetubuhan dengan seseorang dengan
-persetujuannya, karena orang tersebut percaya
-bahwa orang itu merupalan suami/istrinya yang
-sah;
-b. persetubuhan dengan Anak;
-c. persetubuhan dengan seseorang, padahal diketahui
-bahwa orang lain tersebut dalam keadaan pingsan
-atau tidak berdaya; atau
-d. persetubuhan dengan penyandang disabilitas
-mental dan/ atau disabilitas intelektual dengan
-memberi atau menjanjikan uang atau Barang,
-wibawa yang timbul dari
-hubungan keadaan, atau dengan penyesatan
-untuk melakukan atau
-membiarkan dilakukan persetubuhan dengannya,
-padahal tentang keadaan disabilitas itu diketahui.
+  a. persetubuhan dengan seseorang dengan
+  persetujuannya, karena orang tersebut percaya
+  bahwa orang itu merupalan suami/istrinya yang
+  sah;
+  b. persetubuhan dengan Anak;
+  c. persetubuhan dengan seseorang, padahal diketahui
+  bahwa orang lain tersebut dalam keadaan pingsan
+  atau tidak berdaya; atau
+  d. persetubuhan dengan penyandang disabilitas
+  mental dan/ atau disabilitas intelektual dengan
+  memberi atau menjanjikan uang atau Barang,
+  wibawa yang timbul dari
+  hubungan keadaan, atau dengan penyesatan
+  untuk melakukan atau
+  membiarkan dilakukan persetubuhan dengannya,
+  padahal tentang keadaan disabilitas itu diketahui.
 (3) Dianggap juga melakukan Tindak Pidana perkosaan, jika dalam keadaan sebagaimana dimaksud pada
-ayat (1) dan ayat (2) dengan cara:
-a. memasukkan alat kelamin ke dalam anus atau
-mulut orang lain;
-b. memasukkan alat kelamin orang lain ke dalam anus
-atau mulutnya sendiri; atau
-c. memasukkan bagian tubuhnya yang bukan alat
-kelamin atau suatu benda ke dalam alat kelamin
-atau anus orang lain.
+[ayat (1)](/uu/2023/1/pasal-473/ayat-1) dan [ayat (2)](/uu/2023/1/pasal-473/ayat-2) dengan cara:
+  a. memasukkan alat kelamin ke dalam anus atau
+  mulut orang lain;
+  b. memasukkan alat kelamin orang lain ke dalam anus
+  atau mulutnya sendiri; atau
+  c. memasukkan bagian tubuhnya yang bukan alat
+  kelamin atau suatu benda ke dalam alat kelamin
+  atau anus orang lain.
 (4) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1), ayal (2)huruf c, ayat (2)hunrf d, dan ayat (3)
+[ayat (1)](/uu/2023/1/pasal-473/ayat-1), [ayat (2)](/uu/2023/1/pasal-473/ayat-2) huruf c,
+[ayat (2)](/uu/2023/1/pasal-473/ayat-2) huruf d, dan [ayat (3)](/uu/2023/1/pasal-473/ayat-3)
 dilakukan terhadap Anak, dipidana dengan pidana
 penjara paling singkat 3 (tiga) tahun dan paling lama
 15 (lima belas) tahun dan pidana denda paling sedikit
-kategori IV dan paling banyak kategori VIL
-(5) Ketentuan sebagaimana dimaksud pada ayat (4) berlaku
+kategori IV dan paling banyak kategori VII.
+(5) Ketentuan sebagaimana dimaksud pada [ayat (4)](/uu/2023/1/pasal-473/ayat-4) berlaku
 juga bagi Setiap Orang yang memaksa Anak untuk
 melakukan Tindak Pidana sebagaimana dimaksud pada
-ayat (f ), ayat l2l hurrf c, ayat (2)huruf d, dan ayat (3)
+[ayat (1)](/uu/2023/1/pasal-473/ayat-1), [ayat (2)](/uu/2023/1/pasal-473/ayat-2) huruf c,
+[ayat (2)](/uu/2023/1/pasal-473/ayat-2) huruf d, dan [ayat (3)](/uu/2023/1/pasal-473/ayat-3)
 dengan orang lain.
 (6) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan dalam ikatan perkawinan, tidak
+[ayat (1)](/uu/2023/1/pasal-473/ayat-1) dilakukan dalam ikatan perkawinan, tidak
 dilakukan penuntutan kecuali atas pengaduan Korban.
 (7) Jika salah satu Tindak Pidana sebagaimana dimaksud
-pada ayat (1) sampai dengan ayat (3) mengakibatkan
+pada [ayat (1)](/uu/2023/1/pasal-473/ayat-1) sampai dengan [ayat (3)](/uu/2023/1/pasal-473/ayat-3) mengakibatkan
 Luka Berat, dipidana dengan pidana penjara paling
 lama 15 (lima belas) tahun.
 (8) Jika salah satu Tindak Pidana sebagaimana dimaksud
-pada ayat (1) sampai dengan ayat (3) mengakibatkan
-matinya orang, pidananya dapat ditambah 1/3 (satu per tiga) dari ancaman pidana sebagaimana dimaksud pada
-ayat (1).
-(9) Jika Korban sebagaimana dimaksud pada ayat (4)
+pada [ayat (1)](/uu/2023/1/pasal-473/ayat-1) sampai dengan [ayat (3)](/uu/2023/1/pasal-473/ayat-3) mengakibatkan
+matinya orang, pidananya dapat ditambah 1/3 (satu per
+tiga) dari ancaman pidana sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-473/ayat-1).
+(9) Jika Korban sebagaimana dimaksud pada [ayat (4)](/uu/2023/1/pasal-473/ayat-4)
 adalah Anak kandung, Anak tiri, atau Anak dibawah
 perwaliannya, pidananya dapat ditambah 1/3 (satu per
 tiga) dari ancannan pidana sebagaimana dimalsud pada
-ayat (4).
+[ayat (4)](/uu/2023/1/pasal-473/ayat-4).
 (10) Dalam hal Tindak Pidana sebagaimana dimaksud pada
-ayat (1) sampai dengan ayat (9) dilakukan secara
+[ayat (1)](/uu/2023/1/pasal-473/ayat-1) sampai dengan [ayat (9)](/uu/2023/1/pasal-473/ayat-9) dilakukan secara
 bersama-sama dan bersekutu, atau dilakukan terhadap
 seseorang dalam keadaan bahaya, keadaan darurat,
 situasi konflik, bencana, atau perang, pidananya dapat
 ditambah 1/3 (satu per tiga).
-(11) Tindak Pidana sebagaimana dimaksud pada ayat (1)
-sampai dengan ayat (10) merupakan Tindak Pidana
+(11) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-473/ayat-1)
+sampai dengan [ayat (10)](/uu/2023/1/pasal-473/ayat-10) merupakan Tindak Pidana
 kekerasan seksual.
 
 BAB XXIII
@@ -6481,14 +6509,14 @@ banyak kategori V.
 
 Pasal 475
 (1) Jika Tindak Pidana sebagaimana dimaksud dalam
-Pasal 474 dilakukan dalam menjalankan jabatan, mata
+[Pasal 474](/uu/2023/1/pasal-474) dilakukan dalam menjalankan jabatan, mata
 pencaharian, atau profesi, pidananya dapat ditambah
 1/3 (satu per tiga).
-(2) Setiap Orang sebagaimana dimaksud pada ayat (1)
+(2) Setiap Orang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-475/ayat-1)
 dapat juga dijatuhi pidana tambahan berupa
 pengumuman putusan hakim sebagaimana dimaksud
-dalam Pasal 66 ayat (1) huruf c dan pencabutan hak
-sebagaimana dimaksud dalam Pasal 86 huruf f.
+dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf c dan pencabutan hak
+sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 BAB XXIV
 TINDAK PIDANA PENCURIAN
@@ -6504,35 +6532,35 @@ Pasal 477
 (1) Dipidana dengan pidana penjara paling lama 7 (tujuh)
 tahun atau pidana denda paling banyak kategori V,
 Setiap Orang yang melakukan:
-a. pencurian benda suci keagamaan atau kepercayaan;
-b. pencurian benda purbakala;
-c. pencurian Ternak atau Barang yang merupakan
-sumber mata pencaharian atau sumber nalkah
-utama seseorang;
-d. pencurian pada waktu ada kebakaran, ledakan,
-bencana alam, Kapal karam, Kapal terdampar,
-kecelakaan Pesawat Udara, kecelakaan kereta api,
-kecelakaan lalu lintas jalan, huru-hara,
-pemberontakan, atau Perang;
-e. pencurian pada Malam dalam suatu rumah atau
-dalam pekarangan tertutup yang ada rumahnya,
-yang dilakukan oleh orang yang adanya di situ tidak
-diketahui atau tidak dikehendali oleh yang berhak;
-f. pencurian dengan cara merusak, membongkar,
-memotong, memecah, Memanjat, memakai Anak
-Kunci Palsu, menggunakan perintah palsu, atau
-memakai pakaian jabatan palsu, untuk Masuk ke
-tempat melakukan Tindak Pidana atau sampai pada
-Barang yang diambil; atau
-g. pencurian secara bersama-sarna dan bersekutu.
-(2) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-huruf e disertai dengan salah satu cara sebagaimana
-dimaksud pada ayat (1) huruf f dan huruf g, dipidana
+  a. pencurian benda suci keagamaan atau kepercayaan;
+  b. pencurian benda purbakala;
+  c. pencurian Ternak atau Barang yang merupakan
+  sumber mata pencaharian atau sumber nalkah
+  utama seseorang;
+  d. pencurian pada waktu ada kebakaran, ledakan,
+  bencana alam, Kapal karam, Kapal terdampar,
+  kecelakaan Pesawat Udara, kecelakaan kereta api,
+  kecelakaan lalu lintas jalan, huru-hara,
+  pemberontakan, atau Perang;
+  e. pencurian pada Malam dalam suatu rumah atau
+  dalam pekarangan tertutup yang ada rumahnya,
+  yang dilakukan oleh orang yang adanya di situ tidak
+  diketahui atau tidak dikehendali oleh yang berhak;
+  f. pencurian dengan cara merusak, membongkar,
+  memotong, memecah, Memanjat, memakai Anak
+  Kunci Palsu, menggunakan perintah palsu, atau
+  memakai pakaian jabatan palsu, untuk Masuk ke
+  tempat melakukan Tindak Pidana atau sampai pada
+  Barang yang diambil; atau
+  g. pencurian secara bersama-sarna dan bersekutu.
+(2) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-477/ayat-1) huruf e
+disertai dengan salah satu cara sebagaimana
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-477/ayat-1) huruf f dan huruf g, dipidana
 dengan pidana penjara paling lama 9 (sembilan) tahun.
 
 Pasal 478
-Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 476
-dan Pasal 477 ayat (1) huruf f dan huruf g dilakukan tidak
+Jika Tindak Pidana sebagaimana dimaksud dalam [Pasal 476](/uu/2023/1/pasal-476)
+dan [Pasal 477 ayat (1)](/uu/2023/1/pasal-477/ayat-1) huruf f dan huruf g dilakukan tidak
 dalam sebuah rumah atau pekarangan tertutup yang ada
 rumahnya, dan harga Barang yang dicurinya tidak lebih dari
 Rp500.000,00 (lima ratus ribu rupiah), dipidana karena
@@ -6547,50 +6575,50 @@ untuk mempersiapkan atau mempermudah pencurian
 atau dalam hal tertangkap tangan, untuk
 dirinya sendiri atau orang lain untuk
 tetap menguasai Barang yang dicurinya, dipidana
-dengan pidana penjara paling lama 9 (sqmbilan) tahun.
+dengan pidana penjara paling lama 9 (sembilan) tahun.
 (2) Dipidana dengan pidana penjara paling lama
 12 (dua belas) tahun, Setiap Orang yang melakukan
-perbuatan sebagaimana dimaksud pada ayat (1):
-a. pada Malam dalam sebuah rumah atau pekarangan
-tertutup yang ada rumahnya, di jalan umum, atau
-di dalam kendaraan angkutan umum yang sedang
-berjalan;
-b. pencurian dengan cara merusak, membongkar,
-memotong, memecah, Memanjat, memakai Anak
-Kunci Palsu, menggunakan perintah palsu, atau
-memakai pakaian jabatan palsu, untuk Masuk ke
-tempat melakukan Tindak Pidana atau sampai pada
-Barang yang diambil;
-c. yang mengakibatkan Luka Berat bagi orang; atau
-d. secara bersama-sama dan bersekutu.
-(3) Jika perbuatan sebagaimana dimaksud pada ayat (1)
-atau ayat (2) mengakibatkan matinya orang, dipidana
+perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-479/ayat-1):
+  a. pada Malam dalam sebuah rumah atau pekarangan
+  tertutup yang ada rumahnya, di jalan umum, atau
+  di dalam kendaraan angkutan umum yang sedang
+  berjalan;
+  b. pencurian dengan cara merusak, membongkar,
+  memotong, memecah, Memanjat, memakai Anak
+  Kunci Palsu, menggunakan perintah palsu, atau
+  memakai pakaian jabatan palsu, untuk Masuk ke
+  tempat melakukan Tindak Pidana atau sampai pada
+  Barang yang diambil;
+  c. yang mengakibatkan Luka Berat bagi orang; atau
+  d. secara bersama-sama dan bersekutu.
+(3) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-479/ayat-1)
+atau [ayat (2)](/uu/2023/1/pasal-479/ayat-2) mengakibatkan matinya orang, dipidana
 dengan pidana penjara paling lama 15 (lima belas)
 tahun.
-(4) Jika perbuatan sebagaimana dimaksud pada ayat (1)
+(4) Jika perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-479/ayat-1)
 mengakibatkan Luka Berat atau matinya orang yang
 dilakukan secara bersama-sama dan bersekutu disertai
 dengan salah satu hal sebagaimana dimaksud pada
-ayat (2)huruf a dan huruf b, dipidana dengan pidana
-mati atau penjara seumur hidup atau pidana penjara
-paling lama 20 (dua puluh) tahun.
+[ayat (2)](/uu/2023/1/pasal-479/ayat-2) huruf a dan huruf b, dipidana dengan pidana
+mati atau pidana penjara seumur hidup atau pidana
+penjara paling lama 20 (dua puluh) tahun.
 
 Pasal 480
-Setiap Orang sebagaimana dimaksud dalam Pasal 476
-sampai dengan Pasal 479 dapat dijatuhi pidana tambahan
+Setiap Orang sebagaimana dimaksud dalam [Pasal 476](/uu/2023/1/pasal-476)
+sampai dengan [Pasal 479](/uu/2023/1/pasal-479) dapat dijatuhi pidana tambahan
 berupa pencabutan hak sebagaimana dimaksud dalam
-Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
+[Pasal 86](/uu/2023/1/pasal-86) huruf a, huruf b, huruf c, dan/ atau huruf d.
 
 Pasal 481
 (1) Penuntutan pidana tidak dilakukan jika yang
 melakukan salah satu Tindak Pidana sebagaimana
-dimaksud dalam Pasal 476 sampai dengan PasaT 479
+dimaksud dalam [Pasal 476](/uu/2023/1/pasal-476) sampai dengan [Pasal 479](/uu/2023/1/pasal-479)
 merupakan suami atau istri Korban Tindak Pidana yang
 tidak terpisah meja dan tempat tidur atau tidak terpisah
 Harta Kekayaan.
 (2) Penuntutan pidana hanya dapat dilakukan atas
 pengaduan Korban jika pelaku sebagaimana dimaksud
-pada ayat (1) merupakan suami atau istri Korban
+pada [ayat (1)](/uu/2023/1/pasal-481/ayat-1) merupakan suami atau istri Korban
 Tindak Pidana yang terpisah meja dan tempat tidur atau
 terpisah Harta Kekayaan, atau merupakan keluarga
 sedarah atau semenda baik dalam garis lurus maupun
@@ -6608,14 +6636,12 @@ paling lama 9 (sembilan) tahun, Setiap Orang yang
 dengan maksud untuk menguntungkan diri sendiri atau
 orang lain secara melawan hukum, memaksa orang
 dengan Kekerasan atau Ancaman Kekerasan untuk:
-a. memberikan suatu Barang, yang sebagian atau
-seluruhnya milik orang tersebut atau milik orang
-lain; atau
-b. memberi utang, membuat pengakuan utang, atau
-menghapuskan piutang.
-(2) Ketentuan sebagaimana dimaksud dalam Pasal 479
-ayat (2)sampai dengan ayat (4) berlaku juga bagi
-pemerasan sebagaimana dimaksud pada ayat (1).
+  a. memberikan suatu Barang, yang sebagian atau
+  seluruhnya milik orang tersebut atau milik orang
+  lain; atau
+  b. memberi utang, membuat pengakuan utang, atau
+  menghapuskan piutang.
+(2) Ketentuan sebagaimana dimaksud dalam [Pasal 479 ayat (2)](/uu/2023/1/pasal-479/ayat-2) sampai dengan [ayat (4)](/uu/2023/1/pasal-479/ayat-4) berlaku juga bagi pemerasan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-482/ayat-1).
 
 Pasal 483
 (1) Dipidana karena pengancaman dengan pidana penjara
@@ -6625,24 +6651,24 @@ untuk menguntungkan diri sendiri atau orang lain
 secara melawan hukum, dengan ancarnan pencemaran
 atau pencemaran tertulis atau dengan ancaman akan
 membuka rahasia, memaksa orang supaya:
-a. memberikan suatu Barang yang sebag'an atau
-seluruhnya milik orang tersebut atau milik orang
-lain; atau
-b. memberi utang, membuat pengakuan utang, atau
-menghapuskan piutang.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+  a. memberikan suatu Barang yang sebag'an atau
+  seluruhnya milik orang tersebut atau milik orang
+  lain; atau
+  b. memberi utang, membuat pengakuan utang, atau
+  menghapuskan piutang.
+(2) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-483/ayat-1)
 hanya dapat dituntut atas pengaduan Korban Tindak
 Pidana.
 
 Pasal 484
-Ketentuan sebagaimana dimaksud dalam Pasal 481 berlaku
+Ketentuan sebagaimana dimaksud dalam [Pasal 481](/uu/2023/1/pasal-481) berlaku
 juga bagi Tindak Pidana sebagaimana dimaksud dalam
-Pasal 482 dan Pasal 483.
+[Pasal 482](/uu/2023/1/pasal-482) dan [Pasal 483](/uu/2023/1/pasal-483).
 
 Pasal 485
-Setiap Orang sebagaimana dimaksud dalam Pasal 482 dar.
-Pasal 483 dapat dijatuhi pidana tambahan sebagaimana
-dimaksud dalam Pasal 86 huruf a, huruf b, huruf c,
+Setiap Orang sebagaimana dimaksud dalam [Pasal 482](/uu/2023/1/pasal-482) dan
+[Pasal 483](/uu/2023/1/pasal-483) dapat dijatuhi pidana tambahan sebagaimana
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf a, huruf b, huruf c,
 dan/ atau huruf d.
 
 BAB XXVI
@@ -6658,15 +6684,15 @@ kategori IV.
 
 Pasal 487
 Jika yang digelapkan bukan Ternak atau Barang yang bukan
-sumber mata pencaharian atau nalkah yang nilainya tidak
-lebih dari Rp1.0O0.00O,00 (satu juta rupiah), Setiap Orang
-sebagaimana dimaksud dalam Pasal 486, dipidana karena
+sumber mata pencaharian atau nafkah yang nilainya tidak
+lebih dari Rp1.000.000,00 (satu juta rupiah), Setiap Orang
+sebagaimana dimaksud dalam [Pasal 486](/uu/2023/1/pasal-486), dipidana karena
 penggelapan ringan, dengan pidana denda paling banyak
 kategori II.
 
 Pasal 488
 Dalam hal perbuatan sebagaimana dimaksud dalam
-Pasal 486 dilakukan oleh orang yang penguasaannya
+[Pasal 486](/uu/2023/1/pasal-486) dilakukan oleh orang yang penguasaannya
 terhadap Barang tersebut karena ada hubungan kerja,
 karena profesinya, atau karena mendapat upah untuk
 penguasaan Barang tersebut, dipidana dengan pidana
@@ -6675,7 +6701,7 @@ banyak kategori V.
 
 Pasal 489
 Da1am hal perbuatan sebagaimana dimaksud dalam
-Pasa1 486 dilakukan oleh orang yang menerima Barang dari
+[Pasal 486](/uu/2023/1/pasal-486) dilakukan oleh orang yang menerima Barang dari
 orang lain yang karena terpaksa menyerahkan Barang
 padanya untuk disimpan atau oleh wali, pengampu,
 pengurus atau pelaksana Surat wasiat, pengurus lembaga
@@ -6684,22 +6710,21 @@ dipidana dengan pidana penjara paling lama 5 (lima) tahun
 atau pidana denda paling banyak kategori V.
 
 Pasal 490
-Ketentuan sebagaimana dimaksud dalam Pasal 481 berlaku
-juga bagr Tindak Pidana sebagaimana dimaksud dalam
-Pasal 486 sampai dengan Pasal 489.
+Ketentuan sebagaimana dimaksud dalam [Pasal 481](/uu/2023/1/pasal-481) berlaku
+juga bagi Tindak Pidana sebagaimana dimaksud dalam
+[Pasal 486](/uu/2023/1/pasal-486) sampai dengan [Pasal 489](/uu/2023/1/pasal-489).
 
 Pasal 491
-(1) Setiap Orang sebagaimana dimaksud dalam Pasal 486,
-Pasal 488, atau Pasal 489, dapat dijatuhi pidana
+(1) Setiap Orang sebagaimana dimaksud dalam [Pasal 486](/uu/2023/1/pasal-486),
+[Pasal 488](/uu/2023/1/pasal-488), atau [Pasal 489](/uu/2023/1/pasal-489), dapat dijatuhi pidana
 tambahan berupa pengumuman putusan hakim
-sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf c
+sebagaimana dimaksud dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf c
 dan pencabutan hak satu atau lebih sebagaimana
-dimaksud dalam Pasal 86.
+dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86).
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) dilakukan dalam menjalankan profesinya,
+[ayat (1)](/uu/2023/1/pasal-491/ayat-1) dilakukan dalam menjalankan profesinya,
 pelaku dapat dijatuhi pidana tambahan berupa
-pencabutan hak sebagaimana dimaksud dalam Pasal 86
-huruf f.
+pencabutan hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86) huruf f.
 
 BAB XXVII
 TINDAK PIDANA PERBUATAN CURANG
@@ -6719,26 +6744,26 @@ Pasal 493
 Dipidana dengan pidana penjara paling lama 2 (dua) tahun
 atau pidana denda paling banyak kategori IV, penjual yang
 menipu pembeli:
-a. dengan menyerahkan Barang lain selain yang telah
-ditentukan oleh pembeli; atau
-b. tentang keadaan, sifat, atau banyaknya Barang yang
-diserahkan.
+  a. dengan menyerahkan Barang lain selain yang telah
+  ditentukan oleh pembeli; atau
+  b. tentang keadaan, sifat, atau banyaknya Barang yang
+  diserahkan.
 
 Pasal 494
 Dipidana karena penipuan ringan dengan pidana denda
 paling banyak kategori II, jika:
-a. Barang yang diserahkan sebagaimana dimaksud dalam
-Pasal 492 bukan Ternak, bukan sumber mata
-pencaharian, utang, atau piutang yang nilainya tidak
-lebih dari RpI.00O.0O0,00 (satu juta rupiah); atau
-b. nilai keuntungan yang diperoleh tidak lebih dari
-Rpl.O00.00O,O0 (satu juta rupiah) bagi pelaku
-sebagaimana dimaksud dalam Pasal 493.
+  a. Barang yang diserahkan sebagaimana dimaksud dalam
+  [Pasal 492](/uu/2023/1/pasal-492) bukan Ternak, bukan sumber mata
+  pencaharian, utang, atau piutang yang nilainya tidak
+  lebih dari Rp1.000.000,00 (satu juta rupiah); atau
+  b. nilai keuntungan yang diperoleh tidak lebih dari
+  Rp1.000.000,00 (satu juta rupiah) bagi pelaku
+  sebagaimana dimaksud dalam [Pasal 493](/uu/2023/1/pasal-493).
 
 Pasal 495
 Setiap Orang yang melakukan perbuatan dengan cara
 curang yang mengakibatkan orang lain menderita kerugian
-ekonomi, melalui pengaluan palsu atau dengan tidak
+ekonomi, melalui penipuan palsu atau dengan tidak
 memberitahukan keadaan yang sebenarnya, dipidana
 dengan pidana penjara paling lama 1 (satu) tahun atau
 pidana denda paling banyak kategori II.
@@ -6747,7 +6772,7 @@ Pasal 496
 Setiap Orang yang memperoleh secara curang suatu jasa
 untuk diri sendiri atau orang lain dari pihak ketiga tanpa
 membayar penuh penggunaan jasa tersebut dipidana dengan
-pidana penjara paling lama I (satu) tahun atau pidana denda
+pidana penjara paling lama 1 (satu) tahun atau pidana denda
 paling banyak kategori II.
 
 Pasal 497
@@ -6775,24 +6800,24 @@ yang dengan maksud menguntungkan diri sendiri atau orang
 lain secara melawan hukum merugikan penanggung
 asuransi atau orang yang dengan sah memegang Surat
 penanggungan Barang di kendaraan angkutan, dengan:
-a. membakar atau menyebabkan ledakan suatu Barang
-yang Masuk asuransi kebakaran sehingga tidak dapat
-dipakai lagi;
-b. mendamparkan, merusak,
-menghancurkan, atau membuat sehingga tidak dapat
-dipakai lagi Kapal yang diasuransikan atau yang
-muatannya diasuransikan atau yang upah
-pengangkutannya yang akan dibayar telah
-diasuransikan atau yang untuk melengkapi Kapa1
-tersebut telah diberikan uang pinjaman atas
-tanggungan Kapal tersebut; atau
-c. merusak, menghancurkan, atau membuat sehingga
-tidak dapat dipakai lagi kendaraan yang diasuransikan
-atau yang muatannya diasuransikan atau yang upah
-pengangkutannya yang akan dibayar telah
-diasuransikan atau yang untuk melengkapi kendaraan
-tersebut telah diberikan uang pinjaman atas
-tanggungan kendaraan tersebut.
+  a. membakar atau menyebabkan ledakan suatu Barang
+  yang Masuk asuransi kebakaran sehingga tidak dapat
+  dipakai lagi;
+  b. mendamparkan, merusak,
+  menghancurkan, atau membuat sehingga tidak dapat
+  dipakai lagi Kapal yang diasuransikan atau yang
+  muatannya diasuransikan atau yang upah
+  pengangkutannya yang akan dibayar telah
+  diasuransikan atau yang untuk melengkapi Kapa1
+  tersebut telah diberikan uang pinjaman atas
+  tanggungan Kapal tersebut; atau
+  c. merusak, menghancurkan, atau membuat sehingga
+  tidak dapat dipakai lagi kendaraan yang diasuransikan
+  atau yang muatannya diasuransikan atau yang upah
+  pengangkutannya yang akan dibayar telah
+  diasuransikan atau yang untuk melengkapi kendaraan
+  tersebut telah diberikan uang pinjaman atas
+  tanggungan kendaraan tersebut.
 
 Pasal 500
 Setiap Orang yang melakukan perbuatan secara curang
@@ -6817,34 +6842,34 @@ Dipidana dengan pidana penjara paling lama 5 (lima) tahun
 atau pidana denda paling banyak kategori V, Setiap Orang
 yang dengan maksud menguntungkan diri sendiri atau orang
 lain secara melawan hukum:
-a. menjual, menukar, atau membebani dengan ikatan
-kredit suatu hak menggunakan tanah negara atau
-rumah, usaha tanaman atau pembibitan di atas tanah
-tempat orang menggunakan hak atas tanah tersebut,
-padahal orang lain berhak atau turut berhak atas tanah
-atau Barang tersebut;
-b. menjual, menukar, atau membebani dengan ikatan
-kredit suatu hak menggunakan tanah negara atau
-rumah, usaha tanaman atau pembibitan di atas tanah
-tempat orang menggunakan hak atas tanah tersebut,
-padahal tanah atau Barang tersebut sudah dibebani
-dengan ikatan kredit, tetapi tidak memberitahukan hal
-tersebut kepada pihak yang lain;
-c. membebani dengan ikatan kredit suatu hak
-menggunalan tanah negara dengan menyembunyikan
-kepada pihak lain, padahal tanah tempat orang
-menggunakan hak tersebut sudah dijaminkan;
-menjaminkan atau menyewakan sebidang tanah tempat
-orang menggunakan hak atas tanah tersebut, padahal
-orang lain berhak atau turut berhak atas tanah
-tersebut;
-d. menyewakan, menjual atau menukarkan tanah yang
-telah digadaikan tanpa memberitahukan kepada pihak
-yang lain bahwa tanah itu telah digadaikan; atau
-e. menyewakan sebidang tanah tempat orang
-menggunakan hak atas tanah tersebut untuk jangka
-waktu tertentu, padahal tanah tersebut juga telah
-disewakan kepada orang lain.
+  a. menjual, menukar, atau membebani dengan ikatan
+  kredit suatu hak menggunakan tanah negara atau
+  rumah, usaha tanaman atau pembibitan di atas tanah
+  tempat orang menggunakan hak atas tanah tersebut,
+  padahal orang lain berhak atau turut berhak atas tanah
+  atau Barang tersebut;
+  b. menjual, menukar, atau membebani dengan ikatan
+  kredit suatu hak menggunakan tanah negara atau
+  rumah, usaha tanaman atau pembibitan di atas tanah
+  tempat orang menggunakan hak atas tanah tersebut,
+  padahal tanah atau Barang tersebut sudah dibebani
+  dengan ikatan kredit, tetapi tidak memberitahukan hal
+  tersebut kepada pihak yang lain;
+  c. membebani dengan ikatan kredit suatu hak
+  menggunalan tanah negara dengan menyembunyikan
+  kepada pihak lain, padahal tanah tempat orang
+  menggunakan hak tersebut sudah dijaminkan;
+  menjaminkan atau menyewakan sebidang tanah tempat
+  orang menggunakan hak atas tanah tersebut, padahal
+  orang lain berhak atau turut berhak atas tanah
+  tersebut;
+  d. menyewakan, menjual atau menukarkan tanah yang
+  telah digadaikan tanpa memberitahukan kepada pihak
+  yang lain bahwa tanah itu telah digadaikan; atau
+  e. menyewakan sebidang tanah tempat orang
+  menggunakan hak atas tanah tersebut untuk jangka
+  waktu tertentu, padahal tanah tersebut juga telah
+  disewakan kepada orang lain.
 
 Pasal 503
 (1) Setiap Orang yang menjual, menawarkan, atau
@@ -6854,11 +6879,11 @@ kepalsuan itu, dipidana dengan pidana penjara paling
 lama 5 (lima) tahun atau pidana denda paling banyak
 kategori V.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan Luka Berat atau penyakit,
-dipidana dengan pidana penjara paling lama 7 (tqfuh)
+[ayat (1)](/uu/2023/1/pasal-503/ayat-1) mengakibatkan Luka Berat atau penyakit,
+dipidana dengan pidana penjara paling lama 7 (tujuh)
 tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-503/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 9 (sembilan) tahun.
 
 Pasal 504
@@ -6907,26 +6932,26 @@ dipidana dengan pidana penjara paling lama 1 (satu) tahun
 Pasal 5O9
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun
 atau pidana denda paling banyak kategori III:
-a. advokat yang memasukkan atau meminta memasukkan
-dalam Surat gugatan atau permohonan cerai atau
-permohonan pailit, keterangan tentang tempat tinggal
-atau kediaman tergugat atau debitur, padahal diketahui
-atau patut diduga bahwa keterangan tersebut
-bertentangan dengan keadaan yang sebenarnya;
-b. suami atau istri yang mengajukan gugatan atau
-permohonan cerai yang memberikan keterangan yang
-bertentangan dengan keadaan yang sebenarnya kepada
-advokat sebagaimana dimaksud dalam huruf a; atau
-c. kreditur yang mengajukan permohonan pailit yang
-memberikan keterangan yang bertentangan dengan
-keadaan yang sebenarnya kepada advokat sebagaimana
-dimaksud dalam huruf a.
+  a. advokat yang memasukkan atau meminta memasukkan
+  dalam Surat gugatan atau permohonan cerai atau
+  permohonan pailit, keterangan tentang tempat tinggal
+  atau kediaman tergugat atau debitur, padahal diketahui
+  atau patut diduga bahwa keterangan tersebut
+  bertentangan dengan keadaan yang sebenarnya;
+  b. suami atau istri yang mengajukan gugatan atau
+  permohonan cerai yang memberikan keterangan yang
+  bertentangan dengan keadaan yang sebenarnya kepada
+  advokat sebagaimana dimaksud dalam huruf a; atau
+  c. kreditur yang mengajukan permohonan pailit yang
+  memberikan keterangan yang bertentangan dengan
+  keadaan yang sebenarnya kepada advokat sebagaimana
+  dimaksud dalam huruf a.
 
 Pasal 510
-Ketentuan pidana sebagaimana dimaksud dalam Pasal 481
-berlaku juga bagr Tindak Pidana sebagaimana dimaksud
-dalam Pasal 492 sampai dengan Pasal 509, kecuali
-ketentuan sebagaimana dimaksud dalam Pasal 509 huruf b.
+Ketentuan pidana sebagaimana dimaksud dalam [Pasal 481](/uu/2023/1/pasal-481)
+berlaku juga bagi Tindak Pidana sebagaimana dimaksud
+dalam [Pasal 492](/uu/2023/1/pasal-492) sampai dengan [Pasal 509](/uu/2023/1/pasal-509), kecuali
+ketentuan sebagaimana dimaksud dalam [Pasal 509](/uu/2023/1/pasal-509) huruf b.
 
 BAB XXVII
 TINDAK PIDANA TERHADAP KEPERCAYAAN DALAM MENJALANKAN USAHA
@@ -6938,19 +6963,19 @@ Pasal 511
 Pengusaha yang dinyatakan pailit atau yang diizinkan
 melepaskan harta bendanya menurut putusan pengadilan
 dipidana karena merugikan kreditur, dengan pidana penjara
-paling lama I (satu) tahun 6 (enam) Bulan atau pidana denda
+paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda
 paling banyak kategori III jika:
-a. hidup terlalu boros;
-b. dengan maksud menangguhkan kepailitannya
-meminjam uang dengan suatu perjanjian yang
-memberatkannya, sedang diketahuinya pinjaman
-tersebut tidak akan dapat mencegahnya jatuh pailit;
-atau
-c. tidak dapat memperlihatkan dalam keadaan utuh buku,
-Surat yang berisi catatan yang menggambarkan
-keadaan kekayaan perusahaan, dan Surat lain yang
-harus dibuat dan disimpan sesuai dengan ketentuan
-peraturan perundang-undangan.
+  a. hidup terlalu boros;
+  b. dengan maksud menangguhkan kepailitannya
+  meminjam uang dengan suatu perjanjian yang
+  memberatkannya, sedang diketahuinya pinjaman
+  tersebut tidak akan dapat mencegahnya jatuh pailit;
+  atau
+  c. tidak dapat memperlihatkan dalam keadaan utuh buku,
+  Surat yang berisi catatan yang menggambarkan
+  keadaan kekayaan perusahaan, dan Surat lain yang
+  harus dibuat dan disimpan sesuai dengan ketentuan
+  peraturan perundang-undangan.
 
 Pasal 512
 Pengusaha yang dinyatakan pailit atau yang diizinkan
@@ -6958,46 +6983,46 @@ melepaskan harta bendanya berdasarkan putusan
 pengadilan, dipidana karena merugikan kreditur secara
 curang, dengan pidana penjara paling lama 7 (tujuh) tahun
 atau pidana denda paling banyak kategori VI, jika:
-a. mengarang-ngarang utang, tidak
-mempertanggungjawabkan keuntungan, atau menarik
-Barang dari harta benda milik perusahaan;
-b. melepaskan Barang milik perusahaan, baik dengan
-cuma-cuma maupun dengan harga jauh di bawah
-harganya;
-c. dengan cara menguntungkan salah seorang kreditur
-pada waktu pailit atau pada saat diketahui bahwa
-keadaan pailit tersebut tidak dapat dicegah; atau
-d. tidak memenuhi kewajiban untuk mencatat segala
-sesuatu sesuai dengan ketentuan peraturan
-perundang-undangan, menyimpan dan
-memperlihatkan buku, Surat, dan Surat lainnya
-sebagaimana dimaksud dalam Pasal 511 huruf c.
+  a. mengarang-ngarang utang, tidak
+  mempertanggungjawabkan keuntungan, atau menarik
+  Barang dari harta benda milik perusahaan;
+  b. melepaskan Barang milik perusahaan, baik dengan
+  cuma-cuma maupun dengan harga jauh di bawah
+  harganya;
+  c. dengan cara menguntungkan salah seorang kreditur
+  pada waktu pailit atau pada saat diketahui bahwa
+  keadaan pailit tersebut tidak dapat dicegah; atau
+  d. tidak memenuhi kewajiban untuk mencatat segala
+  sesuatu sesuai dengan ketentuan peraturan
+  perundang-undangan, menyimpan dan
+  memperlihatkan buku, Surat, dan Surat lainnya
+  sebagaimana dimaksud dalam [Pasal 511](/uu/2023/1/pasal-511) huruf c.
 
 Pasal 513
-Tindak Pidana sebagaimana dimaksud dalam Pasal 511 dan
-Pasal 512 dapat juga dilakukan oleh Korporasi.
+Tindak Pidana sebagaimana dimaksud dalam [Pasal 511](/uu/2023/1/pasal-511) dan
+[Pasal 512](/uu/2023/1/pasal-512) dapat juga dilakukan oleh Korporasi.
 
 Pasal 514
 Dipidana karena penipuan hak kreditur dengan pidana
 penjara paling lama 5 (lima) tahun atau pidana denda paling
 banyak kategori VI, Setiap Orang yang:
-a. menarik bayaran baik dari piutang yang belum maupun
-yang sudah jatuh tempo padahal debitur telah
-mengetahui bahwa kepailitan atau pemberesan
-perusahaan debitur sudah dimohonkan atau sebagai
-hasil perundingan dengan debitur, pada waktu
-pelepasan harta benda berdasarkan putusan
-pengadilan, kepailitan, atau diperintahkan oleh
-pengadilan melakukan pemberesan perusahaan, atau
-pada waktu diketahui atau patut diduga akan terjadi
-salah satu hal tersebut dan kemudian pelepasan harta
-benda, kepailitan, atau pemberesan perusahaan
-tersebut benar-benar terjadi; atau
-b. mengarang-ngarang adanya piutang yang tidak ada
-atau memperbesar jumlah piutang yang ada, pada
-waktu verifikasi piutang dalam pelepasan harta benda
-berdasarkan putusan pengadilan, kepailitan, atau
-pemberesan perusahaan,
+  a. menarik bayaran baik dari piutang yang belum maupun
+  yang sudah jatuh tempo padahal debitur telah
+  mengetahui bahwa kepailitan atau pemberesan
+  perusahaan debitur sudah dimohonkan atau sebagai
+  hasil perundingan dengan debitur, pada waktu
+  pelepasan harta benda berdasarkan putusan
+  pengadilan, kepailitan, atau diperintahkan oleh
+  pengadilan melakukan pemberesan perusahaan, atau
+  pada waktu diketahui atau patut diduga akan terjadi
+  salah satu hal tersebut dan kemudian pelepasan harta
+  benda, kepailitan, atau pemberesan perusahaan
+  tersebut benar-benar terjadi; atau
+  b. mengarang-ngarang adanya piutang yang tidak ada
+  atau memperbesar jumlah piutang yang ada, pada
+  waktu verifikasi piutang dalam pelepasan harta benda
+  berdasarkan putusan pengadilan, kepailitan, atau
+  pemberesan perusahaan,
 
 Pasal 515
 Setiap Orang yang dinyatakan dalam keadaan tidak mampu
@@ -7024,33 +7049,33 @@ pailit atau yang diperintahkan melakukan pemberesan
 perusahaan, dipidana dengan pidana penjara paling lama
 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling
 banyak kategori VI, jika:
-a. memudahkan atau mengizinkan dilakukannya
-perbuatan yang bertentangan dengan anggaran
-dasarnya yang mengakibatkan kerugian Korporasi;
-b. dengan maksud menangguhkan kepailitan atau
-pemberesan perusahaan, memudahkan atau
-mengizinkan meminjam uang dengan syarat yang
-memberatkan, padahal diketahui bahwa keadaan pailit
-atau pemberesan perusahaan tersebut tidak dapat
-dicegah; atau
-c. tidak memenuhi kewajiban untuk
-pencatatan sebagaimana ditentukan dalam ketentuan
-peraturan perundang-undangan atau tidak dapat
-memperlihatkan catatan dalam keadaan yang
-sebenarnya.
+  a. memudahkan atau mengizinkan dilakukannya
+  perbuatan yang bertentangan dengan anggaran
+  dasarnya yang mengakibatkan kerugian Korporasi;
+  b. dengan maksud menangguhkan kepailitan atau
+  pemberesan perusahaan, memudahkan atau
+  mengizinkan meminjam uang dengan syarat yang
+  memberatkan, padahal diketahui bahwa keadaan pailit
+  atau pemberesan perusahaan tersebut tidak dapat
+  dicegah; atau
+  c. tidak memenuhi kewajiban untuk
+  pencatatan sebagaimana ditentukan dalam ketentuan
+  peraturan perundang-undangan atau tidak dapat
+  memperlihatkan catatan dalam keadaan yang
+  sebenarnya.
 
 Pasal 517
 Pengurus atau komisaris Korporasi yang dinyatakan pailit
 atau yang diperintahkan melakukan pemberesan
 perusahaan berdasarkan putusan pengadilan secara curang
 mengurangi hak kreditur dengan cara sebagaimana
-dimalsud dalam Pasal 512, dipidana dengan pidana penjara
+dimalsud dalam [Pasal 512](/uu/2023/1/pasal-512), dipidana dengan pidana penjara
 paling lama 7 (tujuh) tahun atau pidana denda paling banyak
 kategori VI.
 
 Pasal 518
 Pengurus atau komisaris Korporasi di luar ketentuan
-sebagaimana dimaksud dalam Pasal 516, yang membantu
+sebagaimana dimaksud dalam [Pasal 516](/uu/2023/1/pasal-516), yang membantu
 atau mengizinkan perbuatan yang bertentangan dengan
 anggaran dasar yang mengakibatkan Korporasi tersebut
 tidak dapat memenuhi kewajibannya atau harus
@@ -7063,14 +7088,14 @@ Perdamaian untuk Memperoleh Keuntungan
 Pasal 519
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun
 6 (enam) Bulan atau pidana denda paling banyak kategori III:
-a. kreditur yang menyetujui tawaran perdamaian di sidang
-pengadilan karena telah mengadakan persetqiuan
-dengan debitur atau dengan pihak ketiga dan meminta
-keuntungan khusus; atau
-b. debitur yang menyetqjui tawaran perdamaian di sidang
-pengadilan karena telah mengadakan persetujuan
-dengan kreditur atau dengan pihak ketiga dan meminta
-keuntungan khusus.
+  a. kreditur yang menyetujui tawaran perdamaian di sidang
+  pengadilan karena telah mengadakan persetqiuan
+  dengan debitur atau dengan pihak ketiga dan meminta
+  keuntungan khusus; atau
+  b. debitur yang menyetqjui tawaran perdamaian di sidang
+  pengadilan karena telah mengadakan persetujuan
+  dengan kreditur atau dengan pihak ketiga dan meminta
+  keuntungan khusus.
 
 Bagian Keempat
 Penarikan Barang Tanpa Hak
@@ -7079,29 +7104,29 @@ Pasal 520
 (1) Dipidana dengan pidana penjara paling lama 3 (tiga)
 tahun atau pidana denda paling banyak kategori V,
 Setiap Orang yang:
-a. menarik sebagian atau seluruh Barang miliknya
-atau Barang milik orang lain untuk keperluan
-pemiliknya, dari orang lain yang mempunyai hak
-gadai, hak menahan, hak pungut hasil, atau hak
-pakai atas Barang tersebut;
-b. menarik sebagian atau seluruh Barang miliknya
-atau Barang milik orang lain untuk keperluan
-pemiliknya, dari perjanjian utang hak atas
-tanggungan atas Barang tersebut, dengan
-merugikan orang yang berpiutang hak atas
-tanggungan tersebut;
-c. menarik sebagian atau seluruh Barang yang olehnya
-dibebani ikatan panen, atau untuk yang memberi
-ikatan menarik suatu Barang yang oleh orang lain
-dibebani ikatan panen dengan merugikan pemegang
-ikatan tersebut; atau
-d. menarik sebagian atau seluruh Barang miliknya
-atau untuk keperluan pemilik dari ikatan kredit atas
-Barang tersebut dengan merugikan pemegang
-kredit.
+  a. menarik sebagian atau seluruh Barang miliknya
+  atau Barang milik orang lain untuk keperluan
+  pemiliknya, dari orang lain yang mempunyai hak
+  gadai, hak menahan, hak pungut hasil, atau hak
+  pakai atas Barang tersebut;
+  b. menarik sebagian atau seluruh Barang miliknya
+  atau Barang milik orang lain untuk keperluan
+  pemiliknya, dari perjanjian utang hak atas
+  tanggungan atas Barang tersebut, dengan
+  merugikan orang yang berpiutang hak atas
+  tanggungan tersebut;
+  c. menarik sebagian atau seluruh Barang yang olehnya
+  dibebani ikatan panen, atau untuk yang memberi
+  ikatan menarik suatu Barang yang oleh orang lain
+  dibebani ikatan panen dengan merugikan pemegang
+  ikatan tersebut; atau
+  d. menarik sebagian atau seluruh Barang miliknya
+  atau untuk keperluan pemilik dari ikatan kredit atas
+  Barang tersebut dengan merugikan pemegang
+  kredit.
 (2) Ketentuan pidana sebagaimana dimaksud dalam
-Pasal 48 1 berlaku juga bagi Tindak Pidana sebagaimana
-dimaksud pada ayat (1).
+[Pasal 481](/uu/2023/1/pasal-481) berlaku juga bagi Tindak Pidana sebagaimana
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-520/ayat-1).
 
 BAB XXIX
 TINDAK PIDANA PERUSAKAN DAN PENGHANCURAN BARANG DAN
@@ -7118,7 +7143,7 @@ milik orang lain, dipidana dengan pidana penjara paling
 lama 2 (dua) tahun 6 (enam) Bulan atau pidana denda
 paling banyak kategori IV.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan kerugian yang nilainya tidak
+[ayat (1)](/uu/2023/1/pasal-521/ayat-1) mengakibatkan kerugian yang nilainya tidak
 lebih dari Rp500.000,00 (lima ratus ribu rupiah), pelaku
 Tindak Pidana dipidana dengan pidana penjara paling
 lama 6 (enam) Bulan atau pidana denda paling banyak
@@ -7131,7 +7156,7 @@ Pasal 522
 Setiap Orang yang secara melawan hukum merusak
 bangunan gedung untuk sarana, prasarana, dan/atau
 fasilitas pelayanan publik, dipidana dengan pidana penjara
-paling lama 3 (tiga) tahun atau pidana denda pa-ling banyak
+paling lama 3 (tiga) tahun atau pidana denda paling banyak
 kategori IV.
 
 Pasal 523
@@ -7156,9 +7181,9 @@ penjara paling lama 6 (enam) tahun atau pidana denda paling
 banyak kategori V.
 
 Pasal 526
-Ketentuan sebagaimana dimaksud dalam Pasal 481 berlaku
+Ketentuan sebagaimana dimaksud dalam [Pasal 481](/uu/2023/1/pasal-481) berlaku
 juga bagi Tindak Pidana sebagaimana dimaksud dalam
-Pasal 521 sampai dengan Pasal 525.
+[Pasal 521](/uu/2023/1/pasal-521) sampai dengan [Pasal 525](/uu/2023/1/pasal-525).
 
 BAB XXX
 TINDAK PIDANA JABATAN
@@ -7184,8 +7209,8 @@ lama 5 (lima) tahun.
 perintah yang sah dari Pejabat yang berwenang,
 putusan pengadilan, atau Surat perintah pengadilan
 terhalang karena permintaan sebagaimana dimaksud
-pada ayat (1), Pejabat sipil tersebut dipidana dengan
-pidana penjara paling lama 7 (tqfuh) tahun.
+pada [ayat (1)](/uu/2023/1/pasal-528/ayat-1), Pejabat sipil tersebut dipidana dengan
+pidana penjara paling lama 7 (tujuh) tahun.
 
 Bagian Kedua
 Tindak Pidana Paksaan dan Tindak Pidana Penyiksaan
@@ -7199,12 +7224,12 @@ Pasal 530
 Setiap Pejabat atau orang lain yang bertindak dalam suatu
 kapasitas Pejabat resmi, atau orang yang bertindak karena
 digerakkan atau sepengetahuan Pejabat publik melakukan
-perbuatan yang menimbulkan penderitaan frsik atau mental
+perbuatan yang menimbulkan penderitaan fisik atau mental
 terhadap seseorang dengan tujuan untuk memperoleh
 informasi atau pengakuan dari orang tersebut atau orang
 ketiga, menghukumnya atas perbuatan yang dilakukan atau
 disangkakan telah dilakukan olehnya atau orang ketiga, atau
-melakukan intimidasi atau memaksa orzrng tersebut atau
+melakukan intimidasi atau memaksa orang tersebut atau
 orang ketiga atas dasar suatu alasan diskriminasi dalam
 segala bentuknya, dipidana dengan pidana penjara paling
 lama 7 (tujuh) tahun.
@@ -7220,7 +7245,7 @@ tersebut melarikan diri, melepaskan orang tersebut,
 atau menolong orang tersebut pada waktu dilepaskan
 atau melepaskan diri, dipidana dengan pidana penjara
 paling lama 4 (empat) tahun.
-(2) Pejabat sebagaimana dimaksud pada ayat (1) yang
+(2) Pejabat sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-531/ayat-1) yang
 karena kealpaannya mengakibatkan orang yang ditahan
 melarikan diri, dipidana dengan pidana penjara paling
 lama 1 (satu) tahun.
@@ -7228,23 +7253,23 @@ lama 1 (satu) tahun.
 Pasal 532
 (1) Dipidana dengan pidana penjara paling lama 4 (empat)
 tahun, Pejabat yang:
-a. mempunyai tugas sebagai penyidik Tindak Pidana
-tidak memenuhi permintaan untuk menyatakan
-bahwa ada orang yang dirampas kemerdekaannya
-secara melawan hukum atau tidak memberitahukan
-hal tersebut dengan segera kepada atasannya; atau
-b. dalam menjalankan tugasnya, mengetahui bahwa
-ada orang yang dirampas kemerdekaannya secara
-melawan hukum, tidak memberitahukan hal
-tersebut dengan segera kepada Pejabat yang
-bertugas sebagai penyidik Tindak Pidana.
+  a. mempunyai tugas sebagai penyidik Tindak Pidana
+  tidak memenuhi permintaan untuk menyatakan
+  bahwa ada orang yang dirampas kemerdekaannya
+  secara melawan hukum atau tidak memberitahukan
+  hal tersebut dengan segera kepada atasannya; atau
+  b. dalam menjalankan tugasnya, mengetahui bahwa
+  ada orang yang dirampas kemerdekaannya secara
+  melawan hukum, tidak memberitahukan hal
+  tersebut dengan segera kepada Pejabat yang
+  bertugas sebagai penyidik Tindak Pidana.
 (2) Pejabat yang karena kealpaannya tidak memenuhi
-kewajiban sebagaimana dimaksud pada ayat (1),
+kewajiban sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-532/ayat-1),
 dipidana dengan pidana penjara paling lama 6 (enam)
 Bulan atau pidana denda paling banyak kategori III.
 
 Pasal 533
-Kepala kmbaga Pemasyarakatan, Kepala Rumah Tahanan
+Kepala Lembaga Pemasyarakatan, Kepala Rumah Tahanan
 Negara, Kepala Lembaga Pembinaan Khusus Anak, Kepala
 Lembaga Penempatan Anak Sementara, atau Kepala Rumah
 Sakit Jiwa yang menolak permintaan yang sah dari Pejabat
@@ -7253,8 +7278,9 @@ daftar tentang data orang yang dimasukkan ke dalam tempat
 tersebut memperlihatkan putusan atau penetapan
 pengadilan, atau memperlihatkan Surat lain yang
 berdasarkan ketentuan peraturan perundang-undangan
-harus dipenuhi untuk memasukkan orang ke tempat ' tersebut, dipidana dengan pidana penjara paling lama
-I (satu) tahun 6 (enam) Bulan.
+harus dipenuhi untuk memasukkan orang ke tempat
+tersebut, dipidana dengan pidana penjara paling lama
+1 (satu) tahun 6 (enam) Bulan.
 
 Pasal 534
 Kepala Lembaga Pemasyarakatan, Kepala Rumah Tahanan
@@ -7272,51 +7298,52 @@ kategori II.
 Pasal 535
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun
 6 (enam) Bulan, Pejabat yang:
-a. melampaui kewenangannya atau tanpa memperhatikan
-tata cara sesuai dengan ketentuan peraturan
-perundang-undangan, memaksa Masuk ke dalam
-rumah atau ruangan atau pekarangan yang tertutup
-yang dipakai oleh orang lain, atau secara melawan
-hukum berada di tempat tersebut, tidak segera pergi
-setelah ditegur oleh atau atas nama orang yang berhak;
-atau
-b. pada waktu menggeledah rumah melampaui
-kewenangannya atari tanpa memperhatikan tata cara
-sesuai dengan ketentuan peraturan perundangundangan, memeriksa, menyita Surat, buku, atau
-Barang bukti lainnya.
+  a. melampaui kewenangannya atau tanpa memperhatikan
+  tata cara sesuai dengan ketentuan peraturan
+  perundang-undangan, memaksa Masuk ke dalam
+  rumah atau ruangan atau pekarangan yang tertutup
+  yang dipakai oleh orang lain, atau secara melawan
+  hukum berada di tempat tersebut, tidak segera pergi
+  setelah ditegur oleh atau atas nama orang yang berhak;
+  atau
+  b. pada waktu menggeledah rumah melampaui
+  kewenangannya atari tanpa memperhatikan tata cara
+  sesuai dengan ketentuan peraturan perundang-undangan,
+  memeriksa, menyita Surat, buku, atau Barang bukti
+  lainnya.
 
 Pasal 536
 Dipidana dengan pidana penjara paling lama 3 (tiga) tahun
 atau pidana denda paling banyak kategori IV, Pejabat yang:
-a. melampaui kewenangannya meminta orang
-memperlihatkan kepadanya atau merampas Surat,
-kartu pos, Barang, atau paket yang dipercayakan
-kepada suatu lembaga pengangkutan atau jasa
-pengiriman umum; atau
-b. melampaui kewenangannya meminta
-sistem elektronik memberikan dokumen dan Informasi
-Elektronik mengenai komunikasi yang terjadi melalui
-jejaring sistem elektronik tersebut.
+  a. melampaui kewenangannya meminta orang
+  memperlihatkan kepadanya atau merampas Surat,
+  kartu pos, Barang, atau paket yang dipercayakan
+  kepada suatu lembaga pengangkutan atau jasa
+  pengiriman umum; atau
+  b. melampaui kewenangannya meminta
+  sistem elektronik memberikan dokumen dan Informasi
+  Elektronik mengenai komunikasi yang terjadi melalui
+  jejaring sistem elektronik tersebut.
 
 Pasal 537
 Dipidana dengan pidana penjara paling lama 5 (lima) tahun
 atau pidana denda paling banyak kategori IV, Pejabat suatu
 lembaga yang bertugas di bidang pengangkutan Surat atau
 Barang yang:
-a. memberikan Surat, kartu pos, Barang, atau paket
-kepada orang lain selain yang berhak;
-b. merusak, memusnahkan, atau menghilangkan Surat,
-kartu pos, Barang, atau paket tersebut;
-c. mengubah isi Surat, kartu pos, Barang, atau paket
-tersebut; atau
-d. mengambil untuk diri sendiri suatu Barang di dalam
-Surat atau paket.
+  a. memberikan Surat, kartu pos, Barang, atau paket
+  kepada orang lain selain yang berhak;
+  b. merusak, memusnahkan, atau menghilangkan Surat,
+  kartu pos, Barang, atau paket tersebut;
+  c. mengubah isi Surat, kartu pos, Barang, atau paket
+  tersebut; atau
+  d. mengambil untuk diri sendiri suatu Barang di dalam
+  Surat atau paket.
 
 Pasal 538
 Pejabat suatu lembaga yang bertugas di bidang
 pengangkutan Surat atau Barang yang membiarkan orang
 lain melakukan Tindak Pidana sebagaimana dimaksud
-dalam Pasal 537 dan/atau membantu orang lain tersebut
+dalam [Pasal 537](/uu/2023/1/pasal-537) dan/atau membantu orang lain tersebut
 dalam melakukan perbuatannya, dipidana dengan pidana
 penjara paling lama 5 (lima) tahun atau pidana denda paling
 banyak kategori IV.
@@ -7331,14 +7358,14 @@ Bulan.
 (2) Pejabat yang berwenang yang melangsungkan
 perkawinan seseorang, padahal mengetahui bahwa
 perkawinan tersebut ada halangan yang sah selain
-halangan sebagaimana dimaksud pada ayat (1) dipidana
+halangan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-539/ayat-1) dipidana
 dengan pidana penjara paling lama 5 (lima) tahun.
 
 Pasal 540
 Pejabat yang berwenang yang mengeluarkan salinan atau
 petikan putusan pengadilan sebelum putusan
 ditandatangani sebagaimana mestinya, dipidana dengan
-pidana penjara paling lama I (satu) tahun atau pidana denda
+pidana penjara paling lama 1 (satu) tahun atau pidana denda
 paling banyak kategori III.
 
 Pasal 541
@@ -7377,40 +7404,40 @@ lain atau terhadap orang atau Barang di perairan
 Indonesia untuk menguasai orang atau menguasai atau
 memiliki Kapal atau Barang secara melawan hukum,
 dipidana dengan pidana yang sama dengan pidana
-sebagaimana dimaksud pada ayat (1).
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-543/ayat-1).
 
 Pasal 544
 Setiap Orang yang melakukan perbuatan sebagaimana
-dimaksud dalam Pasal 542 dan Pasal 543 yang
+dimaksud dalam [Pasal 542](/uu/2023/1/pasal-542) dan [Pasal 543](/uu/2023/1/pasal-543) yang
 mengakibatkan:
-a. Luka Berat dipidana dengan pidana penjara paling lama
-15 (lima belas) tahun; atau
-b. matinya orang dipidana dengan pidana penjara seumur
-hidup atau pidana penjara paling lama 2O (dua puluh)
-tahun.
+  a. Luka Berat dipidana dengan pidana penjara paling lama
+  15 (lima belas) tahun; atau
+  b. matinya orang dipidana dengan pidana penjara seumur
+  hidup atau pidana penjara paling lama 20 (dua puluh)
+  tahun.
 
 Pasal 545
 Setiap Orang yang:
-a. bekerja sebagai Nakhoda atau melakukan profesi
-sebagai Nalhoda pada Kapal, padahal diketahui bahwa
-Kapal tersebut digunakan untuk melakukan perbuatan
-sebagaimana dimaksud dalam Pasal 542 dan Pasal 543,
-dipidana dengan pidana penjara paling lama
-12 (dua belas) tahun; atau
-b. bekerja sebagai Anak Buah Kapal, padahal diketahui
-bahwa Kapal tersebut digunakan untuk melakukan
-perbuatan sebagaimana dimaksud dalam Pasal 542 dan
-Pasal 543, dipidana dengan pidana penjara paling lama
-9 (sembilan) tahun.
+  a. bekerja sebagai Nakhoda atau melakukan profesi
+  sebagai Nalhoda pada Kapal, padahal diketahui bahwa
+  Kapal tersebut digunakan untuk melakukan perbuatan
+  sebagaimana dimaksud dalam [Pasal 542](/uu/2023/1/pasal-542) dan [Pasal 543](/uu/2023/1/pasal-543),
+  dipidana dengan pidana penjara paling lama
+  12 (dua belas) tahun; atau
+  b. bekerja sebagai Anak Buah Kapal, padahal diketahui
+  bahwa Kapal tersebut digunakan untuk melakukan
+  perbuatan sebagaimana dimaksud dalam [Pasal 542](/uu/2023/1/pasal-542) dan [Pasal 543](/uu/2023/1/pasal-543),
+  dipidana dengan pidana penjara paling lama
+  9 (sembilan) tahun.
 
 Pasal 546
 (1) Setiap Orang yang menyerahkan Kapal Indonesia ke
 dalam kekuasaan orang yang melakukan perbuatan
-sebagaimana dimaksud dalam Pasal 542 dan Pasal 543,
+sebagaimana dimaksud dalam [Pasal 542](/uu/2023/1/pasal-542) dan [Pasal 543](/uu/2023/1/pasal-543),
 dipidana dengan pidana penjara paling lama
 10 (sepuluh) tahun.
 (2) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (1) dilakukan oleh Nakhoda, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-546/ayat-1) dilakukan oleh Nakhoda, dipidana dengan
 pidana penjara paling lama 12 (dua belas) tahun.
 
 Pasal 547
@@ -7446,19 +7473,19 @@ sebenarnya, dipidana dengan pidana penjara paling lama
 Pasal 551
 Dipidana dengan pidana penjara paling lama 8 (delapan)
 tahun, Setiap Orang yang:
-a. membuat atau meminta orang lain untuk
-mencantumkan keterangan palsu dalam berita acara
-suatu keterangan Kapal tentang suatu keadaan yang
-kebenarannya harus dinyatakan dalam akta, dengan
-maksud untuk menggunakan sendiri atau menyuruh
-orang lain menggunakan akta tersebut seolah-olah
-keterangan dalam berita acara sesuai dengan yang
-sebenarnyajika karena penggunaan akta tersebut dapat
-menimbulkan kerugian; atau
-b. menggunakan akta sebagaimana dimaksud dalam
-huruf a seolah-olah isinya sesuai dengan yang
-sebenarnyajika karena penggunaan akta tersebut dapat
-menimbulkan kerugian.
+  a. membuat atau meminta orang lain untuk
+  mencantumkan keterangan palsu dalam berita acara
+  suatu keterangan Kapal tentang suatu keadaan yang
+  kebenarannya harus dinyatakan dalam akta, dengan
+  maksud untuk menggunakan sendiri atau menyuruh
+  orang lain menggunakan akta tersebut seolah-olah
+  keterangan dalam berita acara sesuai dengan yang
+  sebenarnyajika karena penggunaan akta tersebut dapat
+  menimbulkan kerugian; atau
+  b. menggunakan akta sebagaimana dimaksud dalam
+  huruf a seolah-olah isinya sesuai dengan yang
+  sebenarnyajika karena penggunaan akta tersebut dapat
+  menimbulkan kerugian.
 
 Pasal 552
 Nakhoda yang dengan maksud menguntungkan diri sendiri
@@ -7474,40 +7501,40 @@ Pasal 553
 (1) Dipidana karena penyerangan di Kapal dengan pidana
 penjara paling lama 3 (tiga) tahun atau pidana denda
 paling banyak kategori III:
-a. Penumpang Kapal Indonesia yang di atas Kapal
-menyerang atau melawan Nakhoda dengan
-Kekerasan atau Ancaman Kekerasan dengan
-maksud merampas kebebasannya untuk bergerak;
-atau
-b. Anak Buah Kapal Indonesia yang di atas Kapal atau
-dalam menjalankan profesinya melakukan
-perbuatan sebagaimana dimaksud dalam huruf a
-terhadap orang yang lebih tinggi pangkatnya.
-(2) Perbuatan sebagaimana dimaksud pada ayat (1)
+  a. Penumpang Kapal Indonesia yang di atas Kapal
+  menyerang atau melawan Nakhoda dengan
+  Kekerasan atau Ancaman Kekerasan dengan
+  maksud merampas kebebasannya untuk bergerak;
+  atau
+  b. Anak Buah Kapal Indonesia yang di atas Kapal atau
+  dalam menjalankan profesinya melakukan
+  perbuatan sebagaimana dimaksud dalam huruf a
+  terhadap orang yang lebih tinggi pangkatnya.
+(2) Perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-553/ayat-1)
 dipidana dengan:
-a. pidana penjara paling lama 5 (lima) tahun, jika
-perbuatan tersebut atau perbuatan lain yang
-menyertainya mengakibatkan luka;
-b. pidana penjara paling lama 7 (tujuh) tahun, jika
-mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 9 (sembilan) tahun, jika
-mengakibatkan matinya orang.
+  a. pidana penjara paling lama 5 (lima) tahun, jika
+  perbuatan tersebut atau perbuatan lain yang
+  menyertainya mengakibatkan luka;
+  b. pidana penjara paling lama 7 (tujuh) tahun, jika
+  mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 9 (sembilan) tahun, jika
+  mengakibatkan matinya orang.
 
 Pasal 554
 (1) Dalam hal perbuatan sebagaimana dimaksud dalam
-Pasal 553 ayat (1) dilakukan oleh 2 (dua) orang atau
+[Pasal 553 ayat (1)](/uu/2023/1/pasal-553/ayat-1) dilakukan oleh 2 (dua) orang atau
 lebih dengan bersekutu atau bersama-sama, dipidana
 karena pemberontakan di Kapal, dengan pidana penjara
-paling lama 7 (tqiuh) tahun.
-l2l Perbuatan sebagaimana dimaksud pada ayat (1)
+paling lama 7 (tujuh) tahun.
+(2) Perbuatan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-554/ayat-1)
 dipidana dengan:
-a. pidana penjara paling lama 9 (sembilan) tahun, jika
-perbuatan tersebut atau perbuatan lain yang
-menyertainya mengakibatkan luka;
-b. pidana penjara paling lama 12 (dua belas) tahun,
-jika mengakibatkan Luka Berat; atau
-c. pidana penjara paling lama 15 (lima belas) tahun,
-jika mengakibatkan matinya orang.
+  a. pidana penjara paling lama 9 (sembilan) tahun, jika
+  perbuatan tersebut atau perbuatan lain yang
+  menyertainya mengakibatkan luka;
+  b. pidana penjara paling lama 12 (dua belas) tahun,
+  jika mengakibatkan Luka Berat; atau
+  c. pidana penjara paling lama 15 (lima belas) tahun,
+  jika mengakibatkan matinya orang.
 
 Pasal 555
 Setiap Orang yang di atas Kapal Indonesia menghasut orang
@@ -7518,48 +7545,47 @@ Pasal 556
 (1) Dipidana dengan pidana penjara paling lama 1 (satu)
 tahun atau pidana denda paling banyak kategori II,
 setiap Penumpang Kapal Indonesia yang:
-a. tidak menurut perintah Nakhoda yang diberikan
-untuk kepentingan keamanan atau untuk
-menegakkan ketertiban dan disiplin di atas Kapal;
-b. tidak memberi pertolongan menurut
-kemampuannya kepada Nakhoda ketika mengetahui
-bahwa kemerdekaan Nakhoda untuk bergerak
-dirampas; atau
-c. tidak memberitahukan kepada Nakhoda pada saat
-yang tepat ketika mengetahui ada niat dari orang
-lain yang berada di atas Kapal untuk melakukan
-penyerangan di Kapal.
-(2) Ketentuan sebagaimana dimaksud pada ayat (1) huruf c
-tidak berlaku jika penyerangan di Kapal tidak tedadi.
+  a. tidak menurut perintah Nakhoda yang diberikan
+  untuk kepentingan keamanan atau untuk
+  menegakkan ketertiban dan disiplin di atas Kapal;
+  b. tidak memberi pertolongan menurut
+  kemampuannya kepada Nakhoda ketika mengetahui
+  bahwa kemerdekaan Nakhoda untuk bergerak
+  dirampas; atau
+  c. tidak memberitahukan kepada Nakhoda pada saat
+  yang tepat ketika mengetahui ada niat dari orang
+  lain yang berada di atas Kapal untuk melakukan
+  penyerangan di Kapal.
+(2) Ketentuan sebagaimana dimaksud pada [ayat (1) huruf c](/uu/2023/1/pasal-556/ayat-1/huruf-c) tidak berlaku jika penyerangan di Kapal tidak tedadi.
 
 Pasal 557
-Jika Setiap Orang sebagaimana dimaksud dalam Pasal 547
-dan Pasal 553 sampai dengan Pasal 556 berpangkat perwira
-Kapal, pidananya dapat ditambah 1/3 (satu per tiga).
+Jika Setiap Orang sebagaimana dimaksud dalam [Pasal 547](/uu/2023/1/pasal-547)
+dan [Pasal 553](/uu/2023/1/pasal-553) sampai dengan [Pasal 556](/uu/2023/1/pasal-556)
+berpangkat perwira Kapal, pidananya dapat ditambah 1/3 (satu per tiga).
 
 Bagian Keempat
 Wewenang dan Pelanggaran Kewajiban
-oleh Nakhoda Kapa1
+oleh Nakhoda Kapal
 
 Pasal 558
 Dipidana dengan pidana penjara paling lama 7 (tujuh) tahun,
 Nakhoda Kapal Indonesia yang dengan maksud
 menguntungkan diri sendiri atau orang lain secara melawan
 hukum atau untuk menyembunyikan keuntungan dengan
-cara:.
-a. menjual Kapal;
-b. membebani dengan jaminan fidusia, hipotek atau
-menggadaikan Kapal atau perlengkapannya;
-c. menjual atau menggadaikan Barang muatan atau
-perbekalan Kapalnya; atau
-d. memperhitungkan kerugian atau pengeluaran yang tidak
-sebenarnya.
+cara:
+  a. menjual Kapal;
+  b. membebani dengan jaminan fidusia, hipotek atau
+  menggadaikan Kapal atau perlengkapannya;
+  c. menjual atau menggadaikan Barang muatan atau
+  perbekalan Kapalnya; atau
+  d. memperhitungkan kerugian atau pengeluaran yang tidak
+  sebenarnya.
 
 Pasal 559
 Setiap Orang yang melengkapi Kapal atas biaya sendiri atau
 atas biaya orang lain, dengan maksud digunakan untuk
 melakukan Tindak Pidana sebagaimana dimaksud dalam
-Pasal 542 dan Pasal 543, dipidana dengan pidana penjara
+[Pasal 542](/uu/2023/1/pasal-542) dan [Pasal 543](/uu/2023/1/pasal-543), dipidana dengan pidana penjara
 paling lama 12 (dua belas) tahun.
 
 Pasal 560
@@ -7568,8 +7594,8 @@ lain secara langsung atau tidak langsung turut
 melaksanakan penyewaan, pemuatan, atau pengasuransian
 Kapal, padahal diketahui bahwa Kapal tersebut akan
 digunakan atau diperuntukkan untuk digunakan untuk
-maksud sebagaimana dimaksud dalam Pasal 542 dan
-Pasal 543, dipidana dengan pidana penjara paling lama
+maksud sebagaimana dimaksud dalam [Pasal 542](/uu/2023/1/pasal-542) dan
+[Pasal 543](/uu/2023/1/pasal-543), dipidana dengan pidana penjara paling lama
 10 (sepuluh) tahun.
 
 Pasal 561
@@ -7593,7 +7619,7 @@ kategori III.
 (2) Setiap Penumpang Kapal yang tidak dalam keadaan
 terpaksa dan tanpa sepengetahuan Nakhoda
 melakukan atau membiarkan dilakukan perbuatan
-sebagaimana dimaksud pada ayat (1), dipidana dengan
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-562/ayat-1), dipidana dengan
 pidana penjara paling lama 1 (satu) tahun atau pidana
 denda paling banyak kategori II.
 
@@ -7606,7 +7632,7 @@ kategori IV.
 
 Pasal 564
 Nakhoda Kapal Indonesia yang tidak dalam keadaan
-terpalsa atau bertentangan dengan hukum yang berlaku
+terpaksa atau bertentangan dengan hukum yang berlaku
 baginya membuang Barang muatan Kapalnya, dipidana
 dengan pidana penjara paling lama 2 (dua) tahun atau
 pidana denda paling banyak kategori III.
@@ -7623,7 +7649,7 @@ kesan seolah olah Kapal tersebut adalah Kapal perang
 Indonesia atau Kapal pemerintah selain Kapal perang yang
 bertugas di bidang keamanan dan ketertiban di laut atau
 Kapal pandu yang bekerja di perairan Indonesia, dipidana
-dengan pidana penjara paling lama I (satu) tahun atau
+dengan pidana penjara paling lama 1 (satu) tahun atau
 pidana denda paling banyak kategori III.
 
 Pasal 567
@@ -7636,11 +7662,11 @@ dipidana dengan pidana denda paling banyak kategori II.
 Pasal 568
 Nakhoda Kapal Indonesia yang tanpa alasan yang sah
 menolak permintaan untuk mengangkut tersangka,
-terdakwa, terpidana, narapidana, dan/ atau Barang yang
+terdakwa, terpidana, narapidana, dan/atau Barang yang
 berhubungan dengan perkara pidana sesuai dengan
 ketentuan peraturan perundang-undangan, dipidana
 dengan pidana penjara paling lama 1 (satu) tahun atau
-pidana denda paling banyak kategori IIL
+pidana denda paling banyak kategori III.
 
 Pasal 569
 (1) Seorang Nakhoda Kapal Indonesia yang membiarkan
@@ -7653,7 +7679,7 @@ dipidana dengan pidana penjara paling lama 4 (empat)
 tahun atau pidana denda paling banyak kategori IV.
 (2) Dalam hal Nakhoda karena kealpaannya
 mengakibatkan tersangka, terdakwa, terpidana, atau
-narapidana sebagaimana dimaksud pada ayat (1) lepas
+narapidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-569/ayat-1) lepas
 atau melarikan diri, dipidana dengan pidana penjara
 paling lama 6 (enam) Bulan atau pidana denda paling
 banyak kategori II.
@@ -7662,7 +7688,7 @@ Bagian Kelima
 Perusakan Barang Muatan dan Keperluan Kapal
 
 Pasal 570
-Setiap Orang yErng secara melawan hukum menghancurkan
+Setiap Orang yang secara melawan hukum menghancurkan
 atau merusak Barang muatan, perbekalan, atau Barang
 keperluan yang ada di Kapal, dipidana dengan pidana
 penjara paling lama 3 (tiga) tahun atau pidana denda paling
@@ -7675,7 +7701,7 @@ Pasal 571
 Setiap Orang yang tidak dalam keadaan terpaksa tanpa hak
 melakukan profesi sebagai Nakhoda, juru mudi, atau juru
 mesin pada Kapal Indonesia, dipidana dengan pidana
-penjara paling lama I (satu) tahun atau pidana denda paling
+penjara paling lama 1 (satu) tahun atau pidana denda paling
 banyak kategori IV.
 
 Pasal 572
@@ -7693,24 +7719,24 @@ Penandatanganan Konosemen dan Tiket Perjalanan
 Pasal 573
 Dipidana dengan pidana denda paling banyak kategori IV,
 Setiap Orang yang:
-a. menandatangani konosemen yang dikeluarkan dengan
-melanggar ketentuan peraturan perundang-undangan;
-atau
-b. berdasarkan kewenangannya menandatangani
-konosemen sebagaimana dimaksud dalam huruf a, jika
-konosemen tersebut jadi dikeluarkan.
+  a. menandatangani konosemen yang dikeluarkan dengan
+  melanggar ketentuan peraturan perundang-undangan;
+  atau
+  b. berdasarkan kewenangannya menandatangani
+  konosemen sebagaimana dimaksud dalam huruf a, jika
+  konosemen tersebut jadi dikeluarkan.
 
 Pasal 574
 (1) Dipidana dengan pidana denda paling banyak kategori
 IV, Setiap Orang yang:
-a. menandatangani tiket perjalanan Penumpang Kapal
-yang dikeluarkan dengan melanggar ketentuan
-peraturan perundang-undangan; atau
-b. berdasarkan kewenangannya menandatangani tiket
-perjalanan Penumpang Kapal sebagaimana
-dimaksud dalam huruf a, jika tiket tersebut
-kemudian dikeluarkan.
-(2) Tindak Pidana sebagaimana dimaksud pada ayat (1)
+  a. menandatangani tiket perjalanan Penumpang Kapal
+  yang dikeluarkan dengan melanggar ketentuan
+  peraturan perundang-undangan; atau
+  b. berdasarkan kewenangannya menandatangani tiket
+  perjalanan Penumpang Kapal sebagaimana
+  dimaksud dalam huruf a, jika tiket tersebut
+  kemudian dikeluarkan.
+(2) Tindak Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-574/ayat-1)
 berlaku juga terhadap Setiap Orang yang memberikan
 tiket perjalanan Penumpang Kapal yang tidak sesuai
 dengan ketentuan peraturan penrndang-undangan.
@@ -7728,13 +7754,13 @@ menghancurkan, atau membuat tidak dapat dipakai
 bangunan untuk pengamanan lalu lintas udara atau
 menggagalkan usaha untuk pengamanan bangunan
 tersebut, dipidana dengan pidana penjara paling lama
-7 (tqiuh) tahun.
+7 (tujuh) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) menimbulkan bahaya bagi keamanan lalu lintas
+[ayat (1)](/uu/2023/1/pasal-575/ayat-1) menimbulkan bahaya bagi keamanan lalu lintas
 udara, dipidana dengan pidana penjara paling lama
 9 (sembilan) tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-575/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 15 (lima belas) tahun.
 
 Pasal 576
@@ -7744,11 +7770,11 @@ untuk pengamanan lalu lintas udara atau gagalnya
 usaha untuk pengamanan bangunan tersebut, dipidana
 dengan pidana penjara paling lama 3 (tiga) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan bahaya bagi keamanan lalu
+[ayat (1)](/uu/2023/1/pasal-576/ayat-1) mengakibatkan bahaya bagi keamanan lalu
 lintas udara, dipidana dengan pidana penjara paling
 lama 5 (lima) tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-576/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 7 (tujuh) tahun.
 
 Pasal 577
@@ -7757,15 +7783,17 @@ menghancurkan, mengambil, atau memindahkan tanda
 atau alat untuk pengamanan penerbangan,
 menggagalkan bekerjanya tanda atau alat tersebut, atau
 memasang tanda atau alat yang keliru, dipidana dengan
-pidana penjara paling lama 7 (tqiuh) tahun.
-(2) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) menimbulkan bahaya bagi keamanan penerbangan,
+pidana penjara paling lama 7 (tujuh) tahun.
+(2) Jika Tindak Pidana sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-577/ayat-1) menimbulkan bahaya bagi keamanan penerbangan,
 dipidana dengan pidana penjara paling lama
 9 (sembilan) tahun.
-(3) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan kecelakaan Pesawat Udara, dipidana
+(3) Jika Tindak Pidana sebagaimana dimaksud pada
+[ayat (1)](/uu/2023/1/pasal-577/ayat-1) mengakibatkan kecelakaan Pesawat Udara, dipidana
 dengan pidana penjara paling lama 12 (dua belas)
 tahun.
 (4) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-577/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 15 (lima belas) tahun.
 
 Pasal 578
@@ -7777,15 +7805,15 @@ tanda atau alat untuk pengamanan penerbangan yang
 keliru, dipidana dengan pidana penjara paling lama
 2 (dua) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) yang mengakibatkan bahaya bagi penerbangan,
+[ayat (1)](/uu/2023/1/pasal-578/ayat-1) mengakibatkan bahaya bagi penerbangan,
 dipidana dengan pidana penjara paling lama 5 (lima)
 tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan kecelakaan Pesawat Udara,
+[ayat (1)](/uu/2023/1/pasal-578/ayat-1) mengakibatkan kecelakaan Pesawat Udara,
 dipidana dengan pidana penjara paling lama 6 (enam)
 tahun.
 (4) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-578/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 7 (tujuh) tahun.
 
 Bagian Kedua
@@ -7795,12 +7823,13 @@ Pasal 579
 (1) Dipidana karena melakukan pembajakan di udara
 dengan pidana penjara paling lama 12 (dua belas)
 tahun, Setiap Orang yang:
-a. merampas atau mempertahankan perampasan;
-atau
-b. secara melawan hukum menguasai atau
-Pesawat Udara Dalam Penerbangan.
+  a. merampas atau mempertahankan perampasan;
+  atau
+  b. secara melawan hukum menguasai atau
+  mengoperasikan Pesawat Udara Dalam Penerbangan
+  tanpa hak.
 (2) Setiap Orang yang melakukan Tindak Pidana
-sebagaimana dimaksud pada ayat (1) dengan
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-579/ayat-1) dengan
 Kekerasan, Ancaman Kekerasan, atau ancaman dalam
 bentuk lainnya, dipidana dengan pidana penjara paling
 lama 15 (lima belas) tahun.
@@ -7808,19 +7837,19 @@ lama 15 (lima belas) tahun.
 Pasal 580
 (1) Dipidana dengan pidana penjara paling lama
 15 (lima belas) tahun, jika Tindak Pidana sebagaimana
-dimaksud dalam Pasal 579:
-a. dilakukan oleh 2 (dua) orang atau lebih secara
-bersekutu dan bersama-sama;
-b. sebagai kelanjutan permufakatan jahat;
-c. dilakukan dengan perencanaan;
-d. mengakibatkan Luka Berat;
-e. mengakibatkan kerusakan pada Pesawat Udara
-yang dapat membahayakan penerbangan; atau
-f. dilakukan dengan maksud untuk merampas
-kemerdekaan atau meneruskan merampas
-kemerdekaan seseorang.
+dimaksud dalam [Pasal 579](/uu/2023/1/pasal-579):
+  a. dilakukan oleh 2 (dua) orang atau lebih secara
+  bersekutu dan bersama-sama;
+  b. sebagai kelanjutan permufakatan jahat;
+  c. dilakukan dengan perencanaan;
+  d. mengakibatkan Luka Berat;
+  e. mengakibatkan kerusakan pada Pesawat Udara
+  yang dapat membahayakan penerbangan; atau
+  f. dilakukan dengan maksud untuk merampas
+  kemerdekaan atau meneruskan merampas
+  kemerdekaan seseorang.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang atau hancurnya
+[ayat (1)](/uu/2023/1/pasal-580/ayat-1) mengakibatkan matinya orang atau hancurnya
 Pesawat Udara tersebut, dipidana dengan penjara
 seumur hidup atau pidana penjara paling lama
 20 (dua puluh) tahun.
@@ -7840,32 +7869,33 @@ Setiap Orang yang secara melawan hukum merusak Pesawat
 Udara Dalam Dinas Penerbangan atau mengakibatkan
 kerusakan Pesawat Udara sehingga tidak dapat terbang atau
 membahayakan keselamatan penerbangan, dipidana dengan
-pidana penjara paling lama l2 (dua belas) tahun.
+pidana penjara paling lama 12 (dua belas) tahun.
 
 Pasal 583
 Setiap Orang yang mencelakakan, merusak,
 menghancurkan, atau membuat tidak dapat dipakai Pesawat
 Udara Dalam Penerbangan dipidana dengan:
-a. pidana penjara paling lama 12 (dua belas) tahun, jika
-perbuatan tersebut menimbulkan bahaya bagi nyawa
-orang lain; atau
-b. pidana penjara paling lama 15 (lima belas) tahun, jika
-perbuatan tersebut mengakibatkan matinya orang.
+  a. pidana penjara paling lama 12 (dua belas) tahun, jika
+  perbuatan tersebut menimbulkan bahaya bagi nyawa
+  orang lain; atau
+  b. pidana penjara paling lama 15 (lima belas) tahun, jika
+  perbuatan tersebut mengakibatkan matinya orang.
+
 Pasal 584
 (1) Setiap Orang yang karena kealpaannya mengakibatkan
 Pesawat Udara celaka, rusak, hancur, atau tidak dapat
 dipakai, dipidana dengan pidana penjara paling lama
 3 (tiga) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) menimbulkan bahaya bagi nyawa orang lain,
+[ayat (1)](/uu/2023/1/pasal-584/ayat-1) menimbulkan bahaya bagi nyawa orang lain,
 dipidana dengan pidana penjara paling lama 5 (lima)
 tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang, dipidana dengan
+[ayat (1)](/uu/2023/1/pasal-584/ayat-1) mengakibatkan matinya orang, dipidana dengan
 pidana penjara paling lama 7 (tujuh) tahun.
 
 Pasal 585
-Setiap Orang yang di dalam Pesawat Udara nielakukan
+Setiap Orang yang di dalam Pesawat Udara nelakukan
 perbuatan yang membahayakan keselamatan Pesawat Udara
 Dalam Penerbangan, dipidana dengan pidana penjara paling
 lama 5 (lima) tahun.
@@ -7878,7 +7908,7 @@ penerbangan tersebut, dipidana dengan pidana penjara
 paling lama 10 (sepuluh) tahun.
 
 Pasal 587
-Setiap Orang y€rng secara melawan hukum menempatkan
+Setiap Orang yang secara melawan hukum menempatkan
 atau menyebabkan ditempatkannya dengan cara apa pun
 alat atau bahan di dalam Pesawat Udara Dalam Dinas
 Penerbangan yang dapat atau
@@ -7889,14 +7919,14 @@ penerbangan, dipidana dengan pidana penjara paling lama
 
 Pasal 588
 (1) Jika Tindak Pidana sebagaimana dimaksud dalam
-Pasal 586 dan Pasal 587:
-a. dilakukan olel: 2 (dua) orang atau lebih secara
-bersama-sama dan bersekutu;
-b. sebagai kelanjutan permufakatan jahat; atau
-c. mengakibatkan Luka Berat,
-pidananya dapat ditamb ah I /3 (satu per tiga).
+[Pasal 586](/uu/2023/1/pasal-586) dan [Pasal 587](/uu/2023/1/pasal-587):
+  a. dilakukan oleh 2 (dua) orang atau lebih secara
+  bersama-sama dan bersekutu;
+  b. sebagai kelanjutan permufakatan jahat; atau
+  c. mengakibatkan Luka Berat,
+  pidananya dapat ditambah 1/3 (satu per tiga).
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan matinya orang atau Pesawat
+[ayat (1)](/uu/2023/1/pasal-588/ayat-1) mengakibatkan matinya orang atau Pesawat
 Udara tersebut hancur, dipidana dengan pidana mati,
 pidana penjara seumur hidup, atau pidana penjara
 paling lama 20 (dua puluh) tahun.
@@ -7908,11 +7938,11 @@ membahayakan keselamatan Pesawat Udara Dalam
 Penerbangan, dipidana dengan pidana penjara paling
 lama 7 (tujuh) tahun.
 (2) Setiap Orang yang melakukan Tindak Pidana
-sebagaimana dimaksud pada ayat (1) yang
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-589/ayat-1) yang
 mengakibatkan Luka Berat, dipidana dengan pidana
 penjara paling lama 9 (sembilan) tahun.
 (3) Setiap Orang yang melakukan Tindak Pidana
-sebagaimana dimaksud pada ayat (1) yang
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-589/ayat-1) yang
 mengakibatkan matinya orang, dipidana dengan pidana
 penjara paling lama 12 (dua belas) tahun.
 
@@ -7932,17 +7962,17 @@ dipertanggungkan, atau untuk kepentingan muatan
 tersebut telah diterima uang tanggungan, dipidana
 dengan pidana penjara paling lama 10 (sepuluh) tahun.
 (2) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) terjadi pada Pesawat Udara Dalam
+[ayat (1)](/uu/2023/1/pasal-590/ayat-1) terjadi pada Pesawat Udara Dalam
 Penerbangan, dipidana dengan pidana penjara paling
 lama 15 (lima belas) tahun.
 (3) Jika Tindak Pidana sebagaimana dimaksud pada
-ayat (1) mengakibatkan Penumpang Pesawat Udara
+[ayat (1)](/uu/2023/1/pasal-590/ayat-1) mengakibatkan Penumpang Pesawat Udara
 yang dipertanggungkan terhadap bahaya mendapat
 kecelakaan dipidana dengan:
-a. pidana penjara paling lama 12 (dua belas) tahun,
-jika mengakibatkan Luka Berat; atau
-b. pidana penjara paling lama 15 (lima belas) tahun,
-jika mengakibatkan matinya orang.
+  a. pidana penjara paling lama 12 (dua belas) tahun,
+  jika mengakibatkan Luka Berat; atau
+  b. pidana penjara paling lama 15 (lima belas) tahun,
+  jika mengakibatkan matinya orang.
 
 BAB XXXIII
 TINDAK PIDANA PENADAHAN, PENERBITAN, DAN PENCETAKAN
@@ -7954,16 +7984,16 @@ Pasal 591
 Dipidana karena penadahan dengan pidana penjara paling
 lama 4 (empat) tahun atau pidana denda paling banyak
 kategori V, Setiap Orang yang:
-a. membeli, menawarkan, menyewa, menukarkan,
-menerima jaminan atau gadai, menerima hadiah atau
-untuk menarik keuntungan, menjual, menyewakan,
-menukarkan, menggadaikan, mengangkut, menyimpan
-atau menyembunyikan suatu benda yang diketahui
-atau patut diduga bahwa benda tersebut diperoleh dari
-Tindak Pidana; atau
-b. menarik keuntungan dari hasil suatu benda, yang
-diketahui atau patut diduga bahwa benda tersebut
-diperoleh dari Tindak Pidana.
+  a. membeli, menawarkan, menyewa, menukarkan,
+  menerima jaminan atau gadai, menerima hadiah atau
+  untuk menarik keuntungan, menjual, menyewakan,
+  menukarkan, menggadaikan, mengangkut, menyimpan
+  atau menyembunyikan suatu benda yang diketahui
+  atau patut diduga bahwa benda tersebut diperoleh dari
+  Tindak Pidana; atau
+  b. menarik keuntungan dari hasil suatu benda, yang
+  diketahui atau patut diduga bahwa benda tersebut
+  diperoleh dari Tindak Pidana.
 
 Pasal 592
 (1) Setiap Orang yang menjadikan kebiasaan untuk
@@ -7973,13 +8003,13 @@ diperoleh dari Tindak Pidana, dipidana dengan pidana
 penjara paling lama 6 (enam) tahun atau pidana denda
 paling banyak kategori V.
 (2) Jika pelaku Tindak Pidana sebagaimana dimaksud pada
-ayat (1) melakukan perbuatan tersebut sebagai mata
+[ayat (1)](/uu/2023/1/pasal-592/ayat-1) melakukan perbuatan tersebut sebagai mata
 pencaharian, dapat dijatuhi pidana tambahan berupa
-pencabutan hak sebagaimana dimaksud dalam Pasal 86
+pencabutan hak sebagaimana dimaksud dalam [Pasal 86](/uu/2023/1/pasal-86)
 huruf a, huruf b, huruf c, dan/atau huruf g.
 
 Pasal 593
-Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 591
+Jika Tindak Pidana sebagaimana dimaksud dalam [Pasal 591](/uu/2023/1/pasal-591)
 yang nilai Barangnya tidak lebih dari Rp500.000,00
 (lima ratus ribu rupiah), dipidana karena penadahan ringan,
 dengan pidana denda paling banyak kategori II.
@@ -7992,28 +8022,28 @@ Setiap Orang yang menerbitkan tulisan atau gambar yang
 menurut sifatnya dapat dipidana, dipidana dengan pidana
 penjara paling lama 1 (satu) tahun atau pidana denda paling
 banyak kategori II, jika:
-a. orang yang meminta menerbitkan tulisan atau gambar
-tidak diketahui atau pada teguran pertama setelah
-dimulai penuntutan tidak diberitahukan; atau
-b. penerbit mengetahui atau patut menduga bahwa orang
-yang meminta menerbitkan pada saat penerbitan, tidak
-dapat dituntut atau menetap di luar negeri.
+  a. orang yang meminta menerbitkan tulisan atau gambar
+  tidak diketahui atau pada teguran pertama setelah
+  dimulai penuntutan tidak diberitahukan; atau
+  b. penerbit mengetahui atau patut menduga bahwa orang
+  yang meminta menerbitkan pada saat penerbitan, tidak
+  dapat dituntut atau menetap di luar negeri.
 
 Pasal 595
 Setiap Orang yang mencetak tulisan atau gambar yang
 menurut sifatnya dapat dipidana, dipidana dengan pidana
 penjara paling lama 1 (satu) tahun atau pidana denda paling
 banyak kategori II, jika:
-a. orang yang meminta mencetak tulisan atau gambar
-tidak diketahui atau pada teguran pertama setelah
-dimulai penuntutan tidak diberitahukan; atau
-b. pencetak mengetahui atau patut menduga bahwa orang
-yang meminta mencetak pada saat penerbitan, tidak
-dapat dituntut atau menetap di luar negeri.
+  a. orang yang meminta mencetak tulisan atau gambar
+  tidak diketahui atau pada teguran pertama setelah
+  dimulai penuntutan tidak diberitahukan; atau
+  b. pencetak mengetahui atau patut menduga bahwa orang
+  yang meminta mencetak pada saat penerbitan, tidak
+  dapat dituntut atau menetap di luar negeri.
 
 Pasal 596
 Jika sifat tulisan atau gambar sebagaimana dimaksud dalam
-Pasal 594 dan Pasal 595 merupakan Tindak Pidana yang
+[Pasal 594](/uu/2023/1/pasal-594) dan [Pasal 595](/uu/2023/1/pasal-595) merupakan Tindak Pidana yang
 hanya dapat dituntut atas pengaduan, penerbit atau
 pencetak hanya dapat dituntut atas pengaduan dari orang
 yang terkena Tindak Pidana tersebut.
@@ -8026,9 +8056,9 @@ Pasal 597
 hukum yang hidup dalam masyarakat dinyatakan
 sebagai perbuatan yang dilarang, diancam dengan
 pidana.
-(2) Pidana sebagaimana dimaksud pada ayat (1) berupa
+(2) Pidana sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-597/ayat-1) berupa
 pemenuhan kewajiban adat sebagaimana dimaksud
-dalam Pasal 66 ayat (1) huruf f.
+dalam [Pasal 66 ayat (1)](/uu/2023/1/pasal-66/ayat-1) huruf f.
 
 BAB XXXV
 TINDAK PIDANA KHUSUS
@@ -8041,16 +8071,16 @@ Dipidana karena genosida, Setiap Orang yang dengan
 maksud menghancurkan atau memusnahkan seluruh atau
 sslagian kelompok bangsa, ras, etnis, agama, atau
 kepercayaan dengan cara:
-a. membunuh anggota kelompok;
-b. mengakibatkan penderitaan fisik atau mental berat
-terhadap anggota kelompok;
-c. menciptakan kondisi kehidupan kelompok yang
-diperhitungkan akan mengakibatkan kemusnahan
-secara fisik, baik seluruh maupun sebagian;
-d. memaksakan tindakan yang bertujuan mencegah
-kelahiran dalam kelompok; atau
-e. memindahkan secara paksa Anak dari kelompok ke
-kelompok lain,
+  a. membunuh anggota kelompok;
+  b. mengakibatkan penderitaan fisik atau mental berat
+  terhadap anggota kelompok;
+  c. menciptakan kondisi kehidupan kelompok yang
+  diperhitungkan akan mengakibatkan kemusnahan
+  secara fisik, baik seluruh maupun sebagian;
+  d. memaksakan tindakan yang bertujuan mencegah
+  kelahiran dalam kelompok; atau
+  e. memindahkan secara paksa Anak dari kelompok ke
+  kelompok lain,
 dengan pidana mati, pidana penjara seumur hidup, atau
 pidana penjara paling singkat 5 (lima) tahun dan paling lama
 20 (dua puluh) tahun.
@@ -8061,34 +8091,34 @@ Setiap Orang yang melakukan salah satu perbuatan sebagai
 bagian dari serangan yang meluas atau sistematis yang
 diketahuinya bahwa serangan tersebut ditujukan terhadap
 penduduk sipil, berupa:
-a. pembunuhan, pemusnahan, pengusiran atau
-pemindahan penduduk secara paksa, perampasan
-kemerdekaan atau perampasan kebebasan fisik lain
-yang melanggar aturan dasar hukum internasional,
-atau kejahatan apartheid, dengan pidana mati, pidana
-penjara seumur hidup, atau pidana penjara paling
-singkat 5 (lima) tahun dan paling lama 20 (dua puluh)
-tahun;
-b. perbudakan, penyiksaan, atau perbuatan tidak
-manusiawi lainnya yang sama sifatnya yang ditujukan
-untuk menimbulkan penderitaan yang berat atau luka
-yang serius pada tubuh atau kesehatan fisik dan
-mental, dengan pidana paling singkat 5 (lima) tahun dan
-paling lama 15 (lima belas) tahun;
-c. persekusi terhadap kelompok atau perkumpulan atas
-dasar politik, ras, kebangsaan, etnis, budaya, agama,
-kepercayaan, jenis kelamin, atau persekusi dengan
-alasan diskriminatif lain yang telah diakui secara
-universal sebagai hal yang dilarang menurut hukum
-internasional, dengan pidana penjara paling singkat
-5 (lima) tahun dan paling lama 15 (lima belas) tahun;
-atau
-d. perkosaan, perbudakan seksual, pelacuran secara
-paksa, pemaksaan kehamilan, pemandulan atau
-sterilisasi secara paksa, atau bentuk-bentuk Kekerasan
-seksual lain yang setara, atau penghila.ngan orang
-secara paksa, dengan pidana penjara paling singkat
-5 (lima) tahun dan paling lama 20 (dua puluh) tahun.
+  a. pembunuhan, pemusnahan, pengusiran atau
+  pemindahan penduduk secara paksa, perampasan
+  kemerdekaan atau perampasan kebebasan fisik lain
+  yang melanggar aturan dasar hukum internasional,
+  atau kejahatan apartheid, dengan pidana mati, pidana
+  penjara seumur hidup, atau pidana penjara paling
+  singkat 5 (lima) tahun dan paling lama 20 (dua puluh)
+  tahun;
+  b. perbudakan, penyiksaan, atau perbuatan tidak
+  manusiawi lainnya yang sama sifatnya yang ditujukan
+  untuk menimbulkan penderitaan yang berat atau luka
+  yang serius pada tubuh atau kesehatan fisik dan
+  mental, dengan pidana paling singkat 5 (lima) tahun dan
+  paling lama 15 (lima belas) tahun;
+  c. persekusi terhadap kelompok atau perkumpulan atas
+  dasar politik, ras, kebangsaan, etnis, budaya, agama,
+  kepercayaan, jenis kelamin, atau persekusi dengan
+  alasan diskriminatif lain yang telah diakui secara
+  universal sebagai hal yang dilarang menurut hukum
+  internasional, dengan pidana penjara paling singkat
+  5 (lima) tahun dan paling lama 15 (lima belas) tahun;
+  atau
+  d. perkosaan, perbudakan seksual, pelacuran secara
+  paksa, pemaksaan kehamilan, pemandulan atau
+  sterilisasi secara paksa, atau bentuk-bentuk Kekerasan
+  seksual lain yang setara, atau penghila.ngan orang
+  secara paksa, dengan pidana penjara paling singkat
+  5 (lima) tahun dan paling lama 20 (dua puluh) tahun.
 
 Bagian Kedua
 Tindak Pidala Terorisme
@@ -8115,7 +8145,7 @@ benda orang lain, atau untuk menimbulkan kerusakan atau
 kehancuran terhadap objek vital yang strategis, lingkungan
 hidup, fasilitas publik, atau fasilitas internasional, dipidana
 dengan pidana penjara paling singkat 3 (tiga) tahun dan
-paling lama 2O (dua puluh) tahun atau pidana penjara
+paling lama 20 (dua puluh) tahun atau pidana penjara
 seumur hidup.
 
 Pasal 602
@@ -8134,7 +8164,7 @@ Tindak Pidana Korupsi
 Pasal 603
 Setiap Orang yang secara melawan hukum melakukan
 perbuatan memperkaya diri sendiri, orang lain, atau
-Korporasi yang menrgikan keuangan negara atau
+Korporasi yang merugikan keuangan negara atau
 perekonomian negara, dipidana dengan pidana penjara
 seumur hidup atau pidana penjara paling singkat 2 (dua)
 tahun dan paling lama 20 (dua puluh) tahun dan pidana
@@ -8157,20 +8187,20 @@ Pasal 605
 tahun dan paling lama 5 (lima) tahun dan pidana denda
 paling sedikit kategori III dan paling banyak kategori V,
 Setiap Orang yang:
-a. memberi atau menjanjikan sesuatu kepada pegawai
-negeri atau penyelenggara negara dengan maksud
-supaya pegawai negeri atau penyelenggara negara
-tersebut berbuat atau tidak berbuat sesuatu dalam
-jabatannya, yang bertentangan dengan
-kewaj ibannya; atau
-b. memberi sesuatu kepada pegawai negeri atau
-penyelenggara negara karena atau berhubungan
-dengan sesuatu yang bertentangan dengan
-kewajiban, yang dilakukan atau tidak dilakukan
-dalam jabatannya.
+  a. memberi atau menjanjikan sesuatu kepada pegawai
+  negeri atau penyelenggara negara dengan maksud
+  supaya pegawai negeri atau penyelenggara negara
+  tersebut berbuat atau tidak berbuat sesuatu dalam
+  jabatannya, yang bertentangan dengan
+  kewaj ibannya; atau
+  b. memberi sesuatu kepada pegawai negeri atau
+  penyelenggara negara karena atau berhubungan
+  dengan sesuatu yang bertentangan dengan
+  kewajiban, yang dilakukan atau tidak dilakukan
+  dalam jabatannya.
 (2) Pegawai negeri atau penyelenggara negara yang
 menerima pemberian atau janji sebagaimana dimaksud
-pada ayat (1), dipidana dengan pidana penjara paling
+pada [ayat (1)](/uu/2023/1/pasal-605/ayat-1), dipidana dengan pidana penjara paling
 singkat 1 (satu) tahun dan paling lama 6 (enam) tahun
 dan pidana denda paling sedikit kategori III dan paling
 banyak kategori V.
@@ -8186,7 +8216,7 @@ pidana penjara paling lama 3 (tiga) tahun dan pidana
 denda paling banyak kategori IV.
 (2) Pegawai negeri atau penyelenggara negara yang
 menerima hadiah atau janji sebagaimana dimaksud
-pada ayat (1), dipidana dengan pidana penjara paling
+pada [ayat (1)](/uu/2023/1/pasal-606/ayat-1), dipidana dengan pidana penjara paling
 lama 4 (empat) tahun dan pidana denda paling banyak
 kategori IV.
 
@@ -8195,69 +8225,71 @@ Tindak Pidana Pencucian Uang
 
 Pasal 607
 (1) Setiap Orang yang:
-a. menempatkan, mentransfer, mengalihkan,
-membelanjakan, membayarkan, menghibahkan,
-menitipkan, membawa ke luar negeri, mengubah
-bentuk, menukarkan dengan mata uang atau Surat
-berharga atau perbuatan lain atas Harta Kekayaan
-yang diketahuinya atau patut diduganya merupakan
-hasil Tindak Pidana dengan tujuan
-menyembunyikan atau menyamarkan asal usul
-Harta Kekayaan, dipidana dengan pidana penjara
-paling lama 15 (lima belas) tahun dan pidana denda
-paling banyak kategori VII;
-b. menyembunyikan atau menyamarkan asal usul,
-sumber, lokasi, peruntukan, pengalihan hak-hak,
-atau kepemilikan yang sebenarnya atas Harta
-Kekayaan yang diketahuinya atau patut diduganya
-merupakan hasil Tindak Pidana, dipidana dengan
-pidana penjara paling lama 15 (lima belas) tahun
-dan pidana denda paling banyak kategori VI;
-c. menerima atau menguasai penempatan,
-pentransferan, pembayaran, hibah, sumbangan,
-penitipan, penukaran, atau menggunakan Harta
-Kekayaan yang diketahuinya atau patut diduganya
-merupakan hasil Tindak Pidana, dipidana dengan
-pidana penjara paling lama 5 (lima) tahun dan
-pidana denda paling banyak kategori VI.
+  a. menempatkan, mentransfer, mengalihkan,
+  membelanjakan, membayarkan, menghibahkan,
+  menitipkan, membawa ke luar negeri, mengubah
+  bentuk, menukarkan dengan mata uang atau Surat
+  berharga atau perbuatan lain atas Harta Kekayaan
+  yang diketahuinya atau patut diduganya merupakan
+  hasil Tindak Pidana dengan tujuan
+  menyembunyikan atau menyamarkan asal usul
+  Harta Kekayaan, dipidana dengan pidana penjara
+  paling lama 15 (lima belas) tahun dan pidana denda
+  paling banyak kategori VII;
+  b. menyembunyikan atau menyamarkan asal usul,
+  sumber, lokasi, peruntukan, pengalihan hak-hak,
+  atau kepemilikan yang sebenarnya atas Harta
+  Kekayaan yang diketahuinya atau patut diduganya
+  merupakan hasil Tindak Pidana, dipidana dengan
+  pidana penjara paling lama 15 (lima belas) tahun
+  dan pidana denda paling banyak kategori VI;
+  c. menerima atau menguasai penempatan,
+  pentransferan, pembayaran, hibah, sumbangan,
+  penitipan, penukaran, atau menggunakan Harta
+  Kekayaan yang diketahuinya atau patut diduganya
+  merupakan hasil Tindak Pidana, dipidana dengan
+  pidana penjara paling lama 5 (lima) tahun dan
+  pidana denda paling banyak kategori VI.
 (2) Hasil Tindak Pidana sebagaimana dimaksud pada
-ayat (1) adalah Harta Kekayaan yang diperoleh dari
+[ayat (1)](/uu/2023/1/pasal-607/ayat-1) adalah Harta Kekayaan yang diperoleh dari
 Tindak Pidana:
-a. korupsi;
-b. penyuapan;
-c. narkotika;
-d. psikotropika;
-e. penyelundupan tenaga kerja;
-f. penyelundupan migran;
-g. di bidang perbankan;
-h. di bidang pasar modal;
-i. di bidang perasuransian;
-j. kepabeanan;
-k. cukai;
-l. perdagangan orang;
-m. perdagangan senjata gelap;
-n. terorisme;
-o. penculikan;
-p. pencurian;
-q. penggelapan;
-r. penipuan;
-s. pemalsuan uang;
-t. perjudian;
-u. prostitusi;
-v. di bidang perpajakan;
-w. di bidang kehutanan;
-x. di bidang lingkungan hidup;
-y. di bidang kelautan dan perikanan; atau
-z. Tindak Pidana lain yang diancam dengan pidana
-penjara 4 (empat) tahun atau lebih.
-(3) Tindak Pidana sebagaimana dimaksud pada ayat (1)
-merupakan Tindak Pidana pencucian uang.
+  a. korupsi;
+  b. penyuapan;
+  c. narkotika;
+  d. psikotropika;
+  e. penyelundupan tenaga kerja;
+  f. penyelundupan migran;
+  g. di bidang perbankan;
+  h. di bidang pasar modal;
+  i. di bidang perasuransian;
+  j. kepabeanan;
+  k. cukai;
+  l. perdagangan orang;
+  m. perdagangan senjata gelap;
+  n. terorisme;
+  o. penculikan;
+  p. pencurian;
+  q. penggelapan;
+  r. penipuan;
+  s. pemalsuan uang;
+  t. perjudian;
+  u. prostitusi;
+  v. di bidang perpajakan;
+  w. di bidang kehutanan;
+  x. di bidang lingkungan hidup;
+  y. di bidang kelautan dan perikanan; atau
+  z. Tindak Pidana lain yang diancam dengan pidana
+  penjara 4 (empat) tahun atau lebih.
+(3) Tindak Pidana sebagaimana dimaksud pada [ayat (1)]
+(/uu/2023/1/pasal-607/ayat-1) merupakan Tindak Pidana
+pencucian uang.
 
 Pasal 608
-Ketentuan sebagaimana dimaksud dalam Pasal 6O7 ayat (1)
+Ketentuan sebagaimana dimaksud dalam [Pasal 6O7 ayat (1)](/uu/2023/1/pasal-607/ayat-1)
 huruf c tidak berlaku bagi pihak pelapor yang melaksanakan
-kewajiban pelaporan sebagaimana diatur dalam UndangUndang tentang Pencegahan dan Pemberantasan Tindak
-Pidana Pencucian Uang.
+kewajiban pelaporan sebagaimana diatur dalam Undang-Undang
+tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian
+Uang.
 
 Bagian Kelima
 Tindak Pidana Narkotika
@@ -8265,75 +8297,75 @@ Tindak Pidana Narkotika
 Pasal 609
 (1) Setiap Orang yang tanpa hak memiliki, menyimpan,
 menguasai, atau menyediakan:
-a. Narkotika Golongan I bukan tanaman, dipidana
-dengan pidana penjara paling singkat 4 (empat)
-tahun dan paling lama 12 (dua belas) tahun dan
-pidana denda paling sedikit kategori IV dan paling
-banyak kategori VI;
-b. Narkotika Golongan II, dipidana dengan pidana
-penjara paling singkat 3 (tiga) tahun dan paling lama
-10 (sepuluh) tahun dan pidana denda paling sedikit
-kategori IV dan paling banyak kategori VI; dan
-c. Narkotika Golongan III, dipidana dengan pidana
-penjara paling singkat 2 (dua) tahun dan paling lama
-7 (tqjuh) tahun dan pidana denda paling sedikit
-kategori IV dan paling banyak kategori VI.
+  a. Narkotika Golongan I bukan tanaman, dipidana
+  dengan pidana penjara paling singkat 4 (empat)
+  tahun dan paling lama 12 (dua belas) tahun dan
+  pidana denda paling sedikit kategori IV dan paling
+  banyak kategori VI;
+  b. Narkotika Golongan II, dipidana dengan pidana
+  penjara paling singkat 3 (tiga) tahun dan paling lama
+  10 (sepuluh) tahun dan pidana denda paling sedikit
+  kategori IV dan paling banyak kategori VI; dan
+  c. Narkotika Golongan III, dipidana dengan pidana
+  penjara paling singkat 2 (dua) tahun dan paling lama
+  7 (tujuh) tahun dan pidana denda paling sedikit
+  kategori IV dan paling banyak kategori VI.
 (2) Dalam hal perbuatan sebagaimana dirnaksud pada
-ayat (1) dilakukan terhadap:
-a. Narkotika Golongan I bukan tanaman yang beratnya
-melebihi 5 (lima) gram dipidana dengan pidana
-penjara seumur hidup atau pidana penjara paling
-singkat 5 (lima) tahun dan paling lama 20 (dua
-puluh) tahun dan pidana denda paling sedikit
-kategori V dan paling banyak kategori VI;
-b. Narkotika Golongan II yang beratnya melebihi
-5 (lima) gram dipidana dengan pidana penjara paling
-singkat 5 (lima) tahun dan paling lama 15 (lima
-belas) tahun dan pidana denda paling sedikit
-kategori V dan paling banyak kategori VI; dan
-c. Narkotika Golongan III yang beratnya melebihi
-5 (lima) gram dipidana dengan pidana penjara paling
-singkat 3 (tiga) tahun dan paling lama 10 (sepuluh)
-tahun dan pidana denda paling sedikit kategori V
-dan paling banyak kategori VI.
+[ayat (1)](/uu/2023/1/pasal-609/ayat-1) dilakukan terhadap:
+  a. Narkotika Golongan I bukan tanaman yang beratnya
+  melebihi 5 (lima) gram dipidana dengan pidana
+  penjara seumur hidup atau pidana penjara paling
+  singkat 5 (lima) tahun dan paling lama 20 (dua
+  puluh) tahun dan pidana denda paling sedikit
+  kategori V dan paling banyak kategori VI;
+  b. Narkotika Golongan II yang beratnya melebihi
+  5 (lima) gram dipidana dengan pidana penjara paling
+  singkat 5 (lima) tahun dan paling lama 15 (lima
+  belas) tahun dan pidana denda paling sedikit
+  kategori V dan paling banyak kategori VI; dan
+  c. Narkotika Golongan III yang beratnya melebihi
+  5 (lima) gram dipidana dengan pidana penjara paling
+  singkat 3 (tiga) tahun dan paling lama 10 (sepuluh)
+  tahun dan pidana denda paling sedikit kategori V
+  dan paling banyak kategori VI.
 
 Pasal 610
 (1) Setiap Orang yang tanpa hak memproduksi,
 mengimpor, mengekspor, atau menyalurkan:
-a. Narkotika Golongan I dipidana dengan pidana
-penjara paling singkat 5 (lima) tahun dan paling
-lama 15 (lima belas) tahun dan pidana denda paling
-sedikit kategori IV dan paling banyak kategori V;
-b. Narkotika Golongan II dipidana dengan pidana
-penjara paling singkat 4 (empat) tahun dan paling
-lama 12 (dua belas) tahun dan pidana denda paling
-sedikit kategori IV dan paling banyak kategori V; dan
-c. Narkotika Golongan III dipidana dengan pidana
-penjara paling singkat 3 (tiga) tahun dan paling lama
-1O (sepuluh) tahun dan pidana denda paling sedikit
-kategori IV dan paling banyak kategori V.
+  a. Narkotika Golongan I dipidana dengan pidana
+  penjara paling singkat 5 (lima) tahun dan paling
+  lama 15 (lima belas) tahun dan pidana denda paling
+  sedikit kategori IV dan paling banyak kategori V;
+  b. Narkotika Golongan II dipidana dengan pidana
+  penjara paling singkat 4 (empat) tahun dan paling
+  lama 12 (dua belas) tahun dan pidana denda paling
+  sedikit kategori IV dan paling banyak kategori V; dan
+  c. Narkotika Golongan III dipidana dengan pidana
+  penjara paling singkat 3 (tiga) tahun dan paling lama
+  10 (sepuluh) tahun dan pidana denda paling sedikit
+  kategori IV dan paling banyak kategori V.
 (2) Dalam hal perbuatan sebagaimana dimaksud pada
-ayat (1) dilakukan terhadap:
-a. Narkotika Golongan I dalam bentuk tanaman yang
-beratnya melebihi 1 (satu) kilogram atau melebihi
-5 (lima) batang pohon, atau Narkotika Golongan I
-bukan tanaman yang beratnya melebihi 5 (lima)
-gram dipidana dengan pidana mati, pidana penjara
-seumur hidup, atau pidana penjara paling singkat
-5 (lima) tahun dan paling lama 20 (dua puluh) tahun
-dan pidana denda paling sedikit kategori V dan
-paling banyak kategori M;
-b. Narkotika Golongan II yang beratnya melebihi
-5 (lima) gram dipidana dengan pidana mati, pidana
-penjara seumur hidup, atau pidana penjara paling
-singkat 5 (lima) tahun dan paling lama 20 (dua
-puluh) tahun dan pidana denda paling sedikit
-kategori V dan paling banyak kategori VI; dan
-c. Narkotika Golongan III yang beratnya melebihi
-5 (lima) gram dipidana dengan pidana penjara paling
-singkat 5 (lima) tahun dan paling lama 15 (lima
-belas) tahun dan pidana denda paling sedikit
-kategori V dan paling banyak kategori VI.
+[ayat (1)](/uu/2023/1/pasal-610/ayat-1) dilakukan terhadap:
+  a. Narkotika Golongan I dalam bentuk tanaman yang
+  beratnya melebihi 1 (satu) kilogram atau melebihi
+  5 (lima) batang pohon, atau Narkotika Golongan I
+  bukan tanaman yang beratnya melebihi 5 (lima)
+  gram dipidana dengan pidana mati, pidana penjara
+  seumur hidup, atau pidana penjara paling singkat
+  5 (lima) tahun dan paling lama 20 (dua puluh) tahun
+  dan pidana denda paling sedikit kategori V dan
+  paling banyak kategori VI;
+  b. Narkotika Golongan II yang beratnya melebihi
+  5 (lima) gram dipidana dengan pidana mati, pidana
+  penjara seumur hidup, atau pidana penjara paling
+  singkat 5 (lima) tahun dan paling lama 20 (dua
+  puluh) tahun dan pidana denda paling sedikit
+  kategori V dan paling banyak kategori VI; dan
+  c. Narkotika Golongan III yang beratnya melebihi
+  5 (lima) gram dipidana dengan pidana penjara paling
+  singkat 5 (lima) tahun dan paling lama 15 (lima
+  belas) tahun dan pidana denda paling sedikit
+  kategori V dan paling banyak kategori VI.
 
 Bagian Keenam
 Permufakatan Jahat, Persiapan, Percobaan, dan Pembantuan
@@ -8346,7 +8378,8 @@ Narkotika.
 
 Pasal 612
 Ketentuan mengenai permufakatan jahat, persiapan,
-percobaan, dan pembantuan yang diatur dalam UndangUndang mengenai Tindak Pidana berat terhadap hak asasi
+percobaan, dan pembantuan yang diatur dalam Undang-Undang
+mengenai Tindak Pidana berat terhadap hak asasi
 manusia, Tindak Pidana terorisme, Tindak Pidana korupsi,
 Tindak Pidana pencucian uang, dan Tindak Pidana narkotika
 berlaku sesuai dengan ketentuan dalam Undang-Undang
@@ -8361,55 +8394,58 @@ Undang-Undang dan Peraturan Daerah yang memuat
 ketentuan pidana harus menyesuaikan dengan
 ketentuan Buku Kesatu Undang-Undang ini.
 (2) Ketentuan mengenai penyesuaian ketentuan pidana
-sebagaimana dimaksud pada ayat (1) diatur dengan
-Undang-Undang.
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-613/ayat-1) diatur
+dengan Undang-Undang.
 
 Pasal 614
 Pada saat Undang-Undang ini mulai berlaku:
-a. istilah kejahatan dan pelanggaran yang digunakan
-dalam Undang-Undang di luar Undang-Undang ini dan
-Peraturan Daerah diganti menjadi Tindak Pidana;
-b. istilah badan hukum yang berbentuk perseroan
-terbatas, yayasan, perkumpulan, koperasi, badan
-usaha milik negara, badan usaha milik daerah, badan
-usaha milik desa, atau yang disamakan dengan itu,
-maupun perkumpulan yang tidak berbadan hukum
-atau badan usaha yang berbentuk firma, persekutuan
-komanditer, atau yang disamakan dengan itu yang
-diatur dalam peraturan perundang-undangan di luar
-Undang-Undang ini disamakan dengan Korporasi
-sebagaimana ditentukan dalam Undang-Undang ini;
-c. istilah benda berwujud atau tidak berwujud, benda
-bergerak atau tidak bergerak termasuk air dan uang
-giral, aliran listrik, gas, data dan program Komputer
-yang diatur dalam Undang-Undang di luar UndangUndang ini disamakan dengan Barang sebagaimana
-ditentukan dalam Undang-Undang ini; dan
-d. istilah pegawai negeri, aparatur sipil negara, anggota
-Kepolisian Negara Republik Indonesia, anggota Tentara
-Nasional Indonesia, pejabat negara, pejabat publik,
-pejabat daerah, orang yang menerima gaji atau upah
-dari keuangan negara atau daerah, orang yang
-menerima gaji atau upah dari Korporasi yang selunrh
-atau sebagian besar modalnya milik negara atau
-daerah, atau pejabat lain yang diatur dalam peraturan
-perundang-undangan di luar Undang-Undang ini dan
-memenuhi ketentuan sebagaimana dimaksud dalam
-Pasal 154 merupakan Pejabat sebagaimana ditentukan
-dalam Undang-Undang ini.
+  a. istilah kejahatan dan pelanggaran yang digunakan
+  dalam Undang-Undang di luar Undang-Undang ini dan
+  Peraturan Daerah diganti menjadi Tindak Pidana;
+  b. istilah badan hukum yang berbentuk perseroan
+  terbatas, yayasan, perkumpulan, koperasi, badan
+  usaha milik negara, badan usaha milik daerah, badan
+  usaha milik desa, atau yang disamakan dengan itu,
+  maupun perkumpulan yang tidak berbadan hukum
+  atau badan usaha yang berbentuk firma, persekutuan
+  komanditer, atau yang disamakan dengan itu yang
+  diatur dalam peraturan perundang-undangan di luar
+  Undang-Undang ini disamakan dengan Korporasi
+  sebagaimana ditentukan dalam Undang-Undang ini;
+  c. istilah benda berwujud atau tidak berwujud, benda
+  bergerak atau tidak bergerak termasuk air dan uang
+  giral, aliran listrik, gas, data dan program Komputer
+  yang diatur dalam Undang-Undang di luar Undang-Undang
+  ini disamakan dengan Barang sebagaimana
+  ditentukan dalam Undang-Undang ini; dan
+  d. istilah pegawai negeri, aparatur sipil negara, anggota
+  Kepolisian Negara Republik Indonesia, anggota Tentara
+  Nasional Indonesia, pejabat negara, pejabat publik,
+  pejabat daerah, orang yang menerima gaji atau upah
+  dari keuangan negara atau daerah, orang yang
+  menerima gaji atau upah dari Korporasi yang seluruh
+  atau sebagian besar modalnya milik negara atau
+  daerah, atau pejabat lain yang diatur dalam peraturan
+  perundang-undangan di luar Undang-Undang ini dan
+  memenuhi ketentuan sebagaimana dimaksud dalam
+  [Pasal 154](/uu/2023/1/pasal-154) merupakan Pejabat sebagaimana
+  ditentukan dalam Undang-Undang ini.
 
 Pasal 615
 (1) Pada saat Undang-Undang ini mulai berlaku, pidana
-kurungan dalam Undang-Undang lain di luar UndangUndang ini dan Peraturan Daerah diganti menjadi
+kurungan dalam Undang-Undang lain di luar Undang-Undang
+ini dan Peraturan Daerah diganti menjadi
 pidana denda dengan ketentuan:
-a. pidana kurungan kurang dari 6 (enam) Bulan
-diganti dengan pidana denda paling banyak
-kategori I; dan
-b. pidana kurungan 6 (enam) Bulan atau lebih diganti
-dengan pidana denda paling banyak kategori II.
+  a. pidana kurungan kurang dari 6 (enam) Bulan
+  diganti dengan pidana denda paling banyak
+  kategori I; dan
+  b. pidana kurungan 6 (enam) Bulan atau lebih diganti
+  dengan pidana denda paling banyak kategori II.
 (2) Dalam hal pidana denda yang diancamkan secara
 alternatif dengan pidana kurungan sebagaimana
-dimaksud pada ayat (1) melebihi kategori II, tetap
-berlaku ketentuan dalam peraturan perundangundangan tersebut.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-615/ayat-1) melebihi
+kategori II, tetap berlaku ketentuan dalam peraturan
+perundang-undangan tersebut.
 
 Pasal 616
 Pada saat Undang-Undang ini mulai berlaku, UndangUndang lain di luar Undang-Undang ini yang menetapkan
@@ -8421,13 +8457,9 @@ Pada saat Undang-Undang ini mulai berlaku, jika ketentuan
 pidana dalam Undang-Undang di luar Undang-Undang ini
 menunjuk pada pasal-pasal tertentu yang diatur dalam Kitab
 Undang-Undang Hukum Pidana yang diberlakukan dengan
-Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan
-Hukum Pidana dan Undang-Undang Nomor 73 Tahun 1958
-tentang Menyatakan Berlakunya Undang-Undang No. 1
-Tahun 1946 Republik Indonesia tentang Peraturan Hukum
-Pidana Untuk Seluruh Wilayah Republik Indonesia dan
-Mengubah Kitab Undang-Undang Hukum Pidana
-disesuaikan dengan perubahan yang ada dalam UndangUndang ini.
+[Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana](/uu/1946/1) dan [Undang-Undang Nomor 73 Tahun 1958 tentang Menyatakan Berlakunya Undang-Undang No. 1 Tahun 1946 Republik Indonesia tentang Peraturan Hukum Pidana Untuk Seluruh Wilayah Republik Indonesia dan Mengubah Kitab Undang-Undang Hukum Pidana](/uu/1958/73)
+disesuaikan dengan perubahan yang ada dalam Undang-
+Undang ini.
 
 Pasal 618
 Pada saat Undang-Undang ini mulai berlaku, Tindak Pidana
@@ -8438,14 +8470,14 @@ menguntungkan bagi tersangka atau terdakwa.
 
 Pasal 619
 Pada saat Undang-Undang ini mulai berlaku, pidana tutupan
-tetap dilaksanakan berdasarkan Undang-Undang Nomor 20
-Tahun 1946 tentang Hukuman Tutupan sampai
+tetap dilaksanakan berdasarkan [Undang-Undang Nomor 20 Tahun 1946 tentang Hukuman Tutupan](/uu/1946/20) sampai
 dibentuknya Undang-Undang mengenai pidana tutupan
 yang baru.
 
 Pasal 620
 Pada saat Undang-Undang ini mulai berlaku, ketentuan
-dalam Bab tentang Tindak Pidana Khusus dalam UndangUndang ini dilaksanakan oleh lembaga penegak hukum
+dalam Bab tentang Tindak Pidana Khusus dalam Undang-
+Undang ini dilaksanakan oleh lembaga penegak hukum
 berdasarkan tugas dan kewenangan yang diatur dalam
 Undang-Undang masing-masing.
 
@@ -8460,423 +8492,194 @@ Undang-Undang ini diundangkan.
 Pasal 622
 (1) Pada saat Undang-Undang ini mulai berlaku, ketentuan
 dalam:
-a. Undang-Undang Nomor 1 Tahun 1946 tentang
-Peraturan Hukum Pidana (Berita Negara Republik
-Indonesia II Nomor 9);
-b. Pasal 5 ayat (3) huruf b dan huruf c Undang-Undang
-Darurat Nomor I Tahun 1951 tentang TindakanTindakan Sementara Untuk
-Kesatuan Susunan Kekuasaan dan Acara
-Pengadilan-Pengadilan Sipil (Lembaran Negara
-Republik Indonesia Nomor 9 Tahun 1951, Tambahan
-kmbaran Negara Republik Indonesia Nomor 81);
-c. Pasal 1 dan Pasal 2 Undang-Undang Darurat Nomor
-12 Tahun 1951 tentang Mengubah " Ordonnantie
-Tijdelijke Bgzondere Strafbepalingen" (Stbl. 1948 No. 17) dan Undang-Undang R.I. Dahulu NR 8
-Tahun 1948 (Lembaran Negara Republik Indonesia
-Nomor 78 Tahun 1951);
-d. Undang-Undang Nomor 73 Tahun 1958 tentang
-Menyatakan Berlakunya Undang-Undang No. 1
-Tahun 1946 Republik Indonesia tentang Peraturan
-Hukum Pidana Untuk Seluruh Wilayah Republik
-Indonesia dan Mengubah Kitab Undang-Undang
-Hukum Pidana (Lembaran Negara Republik
-Indonesia Tahun 1958 Nomor 127, Tarrrbaherrr
-Lembaran Negara Repubtk Indonesia Nomor 1660);
-e. Undang-Undang Nomor 1 Tahun 196O tentang
-Perubahan Kitab Undang-Undang Hukum Pidana;
-f. Undang-Undang Nomor 16 Prp. Tahun 1960 tentang
-Beberapa Perubahan Dalam Kitab Undang-Undang
-Hukum Pidana (Lerribaran Negara Tahun 1960
-Nomor 5O, Tambahan Lembaran Negara
-Nomor 1976);
-g. Undang-Undang Nomor 18 Prp. Tahun 1960 tentang
-Perubahan Jumlah Hukuman Denda dalam Kitab
-Undang-Undang Hukum Pidana dan dalam
-Ketentuan Pidana Lainnya yang Dikeluarkan
-Sebelum Tanggal 17 Agustus 1945 (kmbaran Negara
-Tahun 1960 Nomor 52, Tambahan kmbaran Negara
-Nomor 1978);
-h. Pasal 4 Penetapan Presiden Nomor 1 Tahun 1965
-tentang Pencegahan dan/atau
-Penodaan Agama (Lembaran Negara Republik
-Indonesia Tahun 1965 Nomor 3, Tambahan
-Lembaran Negara Republik Indonesia Nomor 27261;
-i. Undang-Undang Nomor 7 Tahun 1974 tentang
-Penertiban Perjudian (Lembaran Negara Republik
-Indonesia Tahun 197 4 Nomor 54, Tambahan
-Lembaran Negara Republik Indonesia Nomor 3O40);
-j. Undang-Undang Nomor 4 Tahun 1976 tentang
-Perubahan dan Penambahan Beberapa Pasal dalam
-Kitab Undang-Undang Hukum Pidana Bertalian
-dengan Perluasan Berlakunya Ketentuan Perundangundangan Pidana, Kejahatan Penerbangan, dan
-Kejahatan terhadap Sarana/Prasarana Penerbangan
-(Lembaran Negara Republik Indonesia Tahun 1976
-Nomor 26, Tambahan Lembaran Negara Republik
-Indonesia Nomor 3080);
-k. Undang-Undang Nomor 27 Tahun 1999 tentang
-Perubahan Kitab Undang-Undang Hukum Pidana
-yang Berkaitan dengan Kejahatan Terhadap
-Keamanan Negara (Lembaran Negara Republik
-Indonesia Tahun L999 Nomor 74, Tambahan
-kmbaran Negara Republik Indonesia Nomor 385O);
-l. Pasal 2 ayat (1), Pasal 3, Pasal 5, Pasal 11, dan
-Pasal 13 Undang-Undang Nomor 31 Tahun 1999
-tentang Pemberantasan Tindak Pidana Korupsi
-(kmbaran Negara Republik Indonesia Tahun 1999
-Nomor 140, Tambahan Lembaran Negara Republik
-Indonesia Nomor 3874) sebagaimana telah diubah
-dengan Undang-Undang Nomor 20 Tahun 2001
-tentang Perubahan atas Undang-Undang Nomor 31
-Tahun 1999 tentang Pemberantasan Tindak Pidana
-Korupsi (tembaran Negara Republik Indonesia
-Tahun 2O01 Nomor 134, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4150);
-m. Pasal 8, Pasal 9, dan Pasal 36 sampai dengan
-Pasal 40 Undang-Undang Nomor 26 Tahun 2O00
-tentang Pengadilan Hak Asasi Manusia (Lembaran
-Negara Republik Indonesia Tahun 2O0O Nomor 2O8,
-Tambahan Iembaran Negara Republik Indonesia
-Nomor 4026);
-n. Pasal 81 ayat (1) dan Pasal 82 Undang-Undang
-Nomor 23 Tahun 2002 tentang Perlindungan Anak
-(Lembaran Negara Republik Indonesia Tahun 2002
-Nomor 109, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4235) sebagaimana telah beberapa
-kali diubah, terakhir dengan Undang-Undang Nomor
-17 Tahun 2016 tentang Penetapan Peraturan
-Pemerintah Pengganti Undang-Undang Nomor 1
-Tahun 2016 tentang Perubahan Kedua atas UndangUndang Nomor 23 Tahun 2002 tentang Perlindungan
-Anak Menjadi Undang-Undang (Ircmbaran Negara
-Republik Indonesia Tahun 2016 Nomor 237,
-Tambahan Lembaran Negara Republik Indonesia
-Nomor 5946);
-o. Pasal 6 dan Pasal 7 Undang-Undang Nomor 15 Tahun
-2003 tentang Penetapan Peraturan Pemerintah
-Pengganti Undang-Undang Nomor 1 Tahun 2002
-tentang Pemberantasan Tindak Pidana Terorisme,
-Menjadi Undang-Undang (Lembaran Negara Republik
-Indonesia Tahun 2003 Nomor 45, Tambahan
-Iembaran Negara Republik Indonesia Nomor 4284)
-sebagaimana telah diubah dengan Undang-Undang
-Nomor 5 Tahun 2018 tentang Perubahan atas
-Undang-Undang Nomor 15 Tahun 2003 tentang
-Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2OO2 tentang
-Pemberantasan Tindak Pidana Terorisme Menjadi
-Undang-Undang (Lembaran Negara Republik
-Indonesia Tahun 2018 Nomor 92, Tambahan
-Lembaran Negara Republik Indonesia Nomor 6216);
-p. Pasal 69 Undang-Undang Nomor 20 Tahun 2003
-tentang Sistem Pendidikan Nasional (kmbaran
-Negara Republik Indonesia Tahun 20O3 Nomor 78,
-Tambahan Iembaran Negara Republik Indonesia
-Nomor 4301);
-q. Pasal 2 Undang-Undang Nomor 2l Tal:run 2OO7
-tentang Pemberantasan Tindak Pidana Perdagangan
-Orang (kmbaran Negara Republik Indonesia
-Tahun 2007 Nomor 58, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4720);
-r. Pasal 27 ayat (1), Pasal 27 ayat (3), Pasal 2a ayat(21,
-Pasal 30, Pasal 31 ayat (1), Pasal 31 ayat (21,
-Pasal 36, Pasal 45 ayat (1), Pasal 45 ayat (3),
-Pasal 45A ayat (21, Pasal 46, Pasal 47, dan Pasal 51
-ayat (2) Undang-Undang Nomor 11 Tahun 2008
-tentang Informasi dan Transaksi Elektronik
-(Lembaran Negara Republik Indonesia Tahun 2OO8
-Nomor 58, Tambahan lrmbaran Negara Republik
-Indonesia Nomor 4843) sebagaimana telah diubah
-dengan Undang-Undang Nomor 19 Tahun 2016
-tentang Perubahan atas Undang-Undang Nomor 11
-Tahun 2008 tentang Informasi dan Transaksi
-Elektronik (Lembaran Negara Republik Indonesia
-Tahun 2O16 Nomor 251, Tambahan Lembaran
-Negara Republik Indonesia Nomor 5952);
-s. Pasal 15 dan Pasal 17 Undang-Undang Nomor 40
-Tahun 2008 tentang Penghapusan Diskriminasi Ras
-dan Etnis (Lembaran Negara Republik Indonesia
-Tahun 20O8 Nomor 170, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4919);
-t. Pasal 29 Undang-Undang Nomor 44 Tahun 2O08
-tentang Pornografi (l,embaran Negara Republik
-Indonesia Tahun 2O08 Nomor 181, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4928);
-u. Pasal 66 sampai dengan Pasal 71 Undang-Undang
-Nomor 24 Tahun 2009 tentang Bendera, Bahasa, dan
-Lambang Negara, serta Lagu Kebangsaan (kmbaran
-Negara Republik Indonesia Tahun 2009 Nomor 109,
-Tambahan Lembaran Negara Republik Indonesia
-Nomor 5035);
-v. Pasal 192, Pasal 194, dart Pasal 195 Undang-Undang
-Nomor 36 Tahun 2009 tentang Kesehatan (l,embaran
-Negara Republik Indonesia Tahun 2009 Nomor 144,
-Tambahan kmbaran Negara Republik Indonesia
-Nomor 5063) sebagaimana telah diubah dengan
-Undang-Undang Nomor 11 Tahun 2O2O tentang
-Cipta Kerja (Lembaran Negara Republik Indonesia
-Tahun 2020 Nomor 245, Tambahan l€mbaran
-Negara Republik Indonesia Nomor 6573);
-w. Pasal 11 1 sampai dengan Pasal 126 Undang-Undang
-Nomor 35 Tahun 2O09 tentang Narkotika (kmbaran
-Negara Republik Indonesia Tahun 2009 Nomor 143,
-Tambahan Lembaran Negara Republik Indonesia
-Tahun 2009 Nomor 5062) sebagaimana telah diubah
-dengan Undang-Undang Nomor 11 Tahun 2O20
-tentang Cipta Kerja (Lembaran Negara Republik
-Indonesia Tahun 2020 Nomor 245, Tambahan
-Lembaran Negara Republik Indonesia Nomor 6573);
-x. Pasal 2 ayat(ll, Pasal 3, Pasal 4, dan Pasal 5 UndangUndang Nomor 8 Tahun 2010 tentang Pencegahan
-dan Pemberantasan Tindak Pidana Pencucian Uang
-(t embaran Negara Republik Indonesia Tahun 2010
-Nomor 122, Tambahan lrmbaran Negara Republik
-Indonesia Nomor 5164);
-y. Pasal l2O ayat (1) dan Pasal 126 huruf e UndangUndang Nomor 6 Tahun 2O11 tentang Keimigrasian
-(kmbaran Negara Republik Indonesia Tahun 2011
-Nomor 52, Tambahan kmbaran Negara Republik
-Indonesia Nomor 5216) sebagaimana telah diubah
-dengan Undang-Undang Nomor 11 Tahun 2O2O
-tentang Cipta Kerja (Lembaran Negara Republik
-Indonesia Tahun 2020 Nomor 245, Tambahan
-Lembaran Negara Republik Indonesia Nomor 6573);
-z. Pasal 36 ayat (1), ayat l2l, ayat (3), dan ayat (4)
-Undang-Undang Nomor 7 Tahun 2011 tentang Mata
-Uang (kmbaran Negara Republik Indonesia Tahun
-2OlI Nomor 64, Tambahan lembaran Negara
-Republik Indonesia Nomor 5223);
-aa. Pasal 136 Undang-Undang Nomor 18 Tahun 2012
-tentang Pangan (Lembaran Negara Republik
-Indonesia Tahiurr 2Ol2 Nomor 227, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5360)
-sebagaimana telah diubah dengan Undang-Undang
-Nomor 1l Tahun 202O tentang Cipta Ke{a (kmbaran
-Negara Republik Indonesia Tahun 2020 Nomor 245,
-Tambahan Lembaran Negara Republik Indonesia
-Nomor 6573);
-bb. Pasal 4 Undang-Undang Nomor 9 Tahun 2013
-tentang Pencegahan dan Pemberantasan Tindak
-Pidana Pendanaan Terorisme (Lembaran Negara
-Republik Indonesia Tahun 2Ol3 Nomor 50,
-Tambahan Lembaran Negara Republik Indonesia
-Nomor 5406); dan
-ac. Pasal 37, Pasal 38, Pasal 39, dan Pasal 41 UndangUndang Nomor 13 Tahun 2006 tentang Perlindungan
-Saksi dan Korban (Lembaran Negara Republik
-Indonesia Tahun 2006 Nomor 64, Tambahan
-kmbaran Negara Republik Indonesia Nomor 4635)
-sebagaimana telah diubah dengan Undang-Undang
-Nomor 31 Tahun 2014 tentang Perubahan atas
-Undang-Undang Nomor 13 Tahun 2006 tentang
-Perlindungan Saksi dan Korban (kmbaran Negara
-Republik Indonesia Tahun 2OL4 Nomor 293,
-Tambahan kmbaran Negara Republik Indonesia
-Nomor 5602),
+  a. [Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana (Berita Negara Republik Indonesia II Nomor 9)](/uu/1946/1);
+  b. Pasal 5 ayat (3) huruf b dan huruf c [Undang-Undang Darurat Nomor 1 Tahun 1951 tentang Tindakan-Tindakan Sementara Untuk Kesatuan Susunan Kekuasaan dan Acara Pengadilan-Pengadilan Sipil (Lembaran Negara Republik Indonesia Nomor 9 Tahun 1951, Tambahan Lembaran Negara Republik Indonesia Nomor 81)](/uudrt/1951/1);
+  c. Pasal 1 dan Pasal 2 [Undang-Undang Darurat Nomor 12 Tahun 1951 tentang Mengubah "_Ordonnantie Tijdelijke Bgzondere Strafbepalingen_" (Stbl. 1948 No. 17) dan Undang-Undang R.I. Dahulu NR 8 Tahun 1948 (Lembaran Negara Republik Indonesia Nomor 78 Tahun 1951)](/uudrt/1951/12);
+  d. [Undang-Undang Nomor 73 Tahun 1958 tentang Menyatakan Berlakunya Undang-Undang No. 1 Tahun 1946 Republik Indonesia tentang Peraturan Hukum Pidana Untuk Seluruh Wilayah Republik Indonesia dan Mengubah Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 127, Tambahan Lembaran Negara Repubtk Indonesia Nomor 1660)](/uu/1958/73);
+  e. [Undang-Undang Nomor 1 Tahun 196O tentang Perubahan Kitab Undang-Undang Hukum Pidana](/uu/1960/1);
+  f. [Undang-Undang Nomor 16 Prp. Tahun 1960 tentang Beberapa Perubahan Dalam Kitab Undang-Undang Hukum Pidana (Lembaran Negara Tahun 1960 Nomor 5O, Tambahan Lembaran Negara Nomor 1976)](/uu/1960/16);
+  g. [Undang-Undang Nomor 18 Prp. Tahun 1960 tentang Perubahan Jumlah Hukuman Denda dalam Kitab Undang-Undang Hukum Pidana dan dalam Ketentuan Pidana Lainnya yang Dikeluarkan Sebelum Tanggal 17 Agustus 1945 (Lembaran Negara Tahun 1960 Nomor 52, Tambahan Lembaran Negara Nomor 1978)](/uu/1960/18);
+  h. Pasal 4 [Penetapan Presiden Nomor 1 Tahun 1965 tentang Pencegahan dan/atau Penodaan Agama (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 3, Tambahan Lembaran Negara Republik Indonesia Nomor 27261)](/tappres/1965/1);
+  i. [Undang-Undang Nomor 7 Tahun 1974 tentang Penertiban Perjudian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 54, Tambahan Lembaran Negara Republik Indonesia Nomor 3O40)](/uu/1974/7);
+  j. [Undang-Undang Nomor 4 Tahun 1976 tentang Perubahan dan Penambahan Beberapa Pasal dalam Kitab Undang-Undang Hukum Pidana Bertalian dengan Perluasan Berlakunya Ketentuan Perundangundangan Pidana, Kejahatan Penerbangan, dan Kejahatan terhadap Sarana/Prasarana Penerbangan (Lembaran Negara Republik Indonesia Tahun 1976 Nomor 26, Tambahan Lembaran Negara Republik Indonesia Nomor 3080)](/uu/1976/4);
+  k. [Undang-Undang Nomor 27 Tahun 1999 tentang Perubahan Kitab Undang-Undang Hukum Pidana yang Berkaitan dengan Kejahatan Terhadap Keamanan Negara (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 385O)](/uu/1999/27);
+  l. Pasal 2 ayat (1), Pasal 3, Pasal 5, Pasal 11, dan Pasal 13 [Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 3874) sebagaimana telah diubah dengan Undang-Undang Nomor 20 Tahun 2001 tentang Perubahan atas Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 134, Tambahan Lembaran Negara Republik Indonesia Nomor 4150)](/uu/1999/31);
+  m. Pasal 8, Pasal 9, dan Pasal 36 sampai dengan Pasal 40 [Undang-Undang Nomor 26 Tahun 2O00 tentang Pengadilan Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 2O0O Nomor 2O8, Tambahan Iembaran Negara Republik Indonesia Nomor 4026)](/uu/2000/26);
+  n. Pasal 81 ayat (1) dan Pasal 82 [Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235)](/uu/2002/23) sebagaimana telah beberapa kali diubah, terakhir dengan [Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946)](/uu/2016/17);
+  o. Pasal 6 dan Pasal 7 [Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme, Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 45, Tambahan Iembaran Negara Republik Indonesia Nomor 4284)](/uu/2003/15) sebagaimana telah diubah dengan [Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 92, Tambahan Lembaran Negara Republik Indonesia Nomor 6216)](/uu/2018/5);
+  p. Pasal 69 [Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Iembaran Negara Republik Indonesia Nomor 4301)](/uu/2003/20);
+  q. Pasal 2 [Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720)](/uu/2007/21);
+  r. Pasal 27 ayat (1), Pasal 27 ayat (3), Pasal 2a ayat (2), Pasal 30, Pasal 31 ayat (1), Pasal 31 ayat (2), Pasal 36, Pasal 45 ayat (1), Pasal 45 ayat (3), Pasal 45A ayat (2), Pasal 46, Pasal 47, dan Pasal 51 ayat (2) [Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2OO8 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843)](/uu/2008/11) sebagaimana telah diubah dengan [Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2O16 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 5952)](/uu/2016/19);
+  s. Pasal 15 dan Pasal 17 [Undang-Undang Nomor 40 Tahun 2008 tentang Penghapusan Diskriminasi Ras dan Etnis (Lembaran Negara Republik Indonesia Tahun 20O8 Nomor 170, Tambahan Lembaran Negara Republik Indonesia Nomor 4919)](/uu/2008/40);
+  t. Pasal 29 [Undang-Undang Nomor 44 Tahun 2008 tentang Pornografi (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 181, Tambahan Lembaran Negara Republik Indonesia Nomor 4928)](/uu/2008/44);
+  u. Pasal 66 sampai dengan Pasal 71 [Undang-Undang Nomor 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 5035)](/uu/2009/24);
+  v. Pasal 192, Pasal 194, dan Pasal 195 [Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan kmbaran Negara Republik Indonesia Nomor 5063)](/uu/2009/36) sebagaimana telah diubah dengan [Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573)](/uu/2020/11);
+  w. Pasal 111 sampai dengan Pasal 126 [Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika (kmbaran Negara Republik Indonesia Tahun 2009 Nomor 143, Tambahan Lembaran Negara Republik Indonesia Tahun 2009 Nomor 5062)](/uu/2009/35) sebagaimana telah diubah dengan [Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573)](/uu/2020/11);
+  x. Pasal 2 ayat (1), Pasal 3, Pasal 4, dan Pasal 5 [Undang-Undang Nomor 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 5164)](/uu/2010/8);
+  y. Pasal 120 ayat (1) dan Pasal 126 huruf e [Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian (kmbaran Negara Republik Indonesia Tahun 2011 Nomor 52, Tambahan kmbaran Negara Republik Indonesia Nomor 5216)](/uu/2011/6) sebagaimana telah diubah dengan [Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573)](/uu/2020/11);
+  z. Pasal 36 ayat (1), ayat 121, ayat (3), dan ayat (4) [Undang-Undang Nomor 7 Tahun 2011 tentang Mata Uang (kmbaran Negara Republik Indonesia Tahun 2011 Nomor 64, Tambahan lembaran Negara Republik Indonesia Nomor 5223)](/uu/2011/7);
+  aa. Pasal 136 [Undang-Undang Nomor 18 Tahun 2012 tentang Pangan (Lembaran Negara Republik Indonesia Tahiurr 2012 Nomor 227, Tambahan Lembaran Negara Republik Indonesia Nomor 5360)](/uu/2012/18) sebagaimana telah diubah dengan [Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (kmbaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573)](/uu/2020/11);
+  bb. Pasal 4 [Undang-Undang Nomor 9 Tahun 2013 tentang Pencegahan dan Pemberantasan Tindak Pidana Pendanaan Terorisme (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 5406)](/uu/2013/9);
+  cc. Pasal 37, Pasal 38, Pasal 39, dan Pasal 41 [Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan kmbaran Negara Republik Indonesia Nomor 4635)](/uu/2006/13) sebagaimana telah diubah dengan [Undang-Undang Nomor 31 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 293, Tambahan Lembaran Negara Republik Indonesia Nomor 5602)](/uu/2014/31),
 dicabut dan dinyatakan tidak berlaku.
 (2) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 tentang senjata api, amunisi, bahan peledak, dan
-senjata lain sebagaimana dimaksud pada ayat (1)
-hurt'f c diacu oleh ketentuan Pasal Undang-Undang
+senjata lain sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1)
+huruf c diacu oleh ketentuan Pasal Undang-Undang
 yang bersangkutan, pengacuannya diganti dengan Pasal
 dalam Undang-Undang ini dengan ketentuan sebagai
 berikut:
-a. Pasal 1 pengacuannya diganti dengan Pasal 306;
-dan
-b. Pasal 2 pengacuannya diganti dengan Pasal 307.
+  a. Pasal 1 pengacuannya diganti dengan [Pasal 306](/uu/2023/1/pasal-306);
+  dan
+  b. Pasal 2 pengacuannya diganti dengan [Pasal 307](/uu/2023/1/pasal-307).
 (3) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 terhadap agama dan kepercayaan sebagaimana
-dimaksud pada ayat (1) huruf h mengacu Pasal 4
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf h mengacu Pasal 4
 Undang-Undang yang bersangkutan, pengacuannya
-diganti dengan Pasal 30O dan Pasal 3O2 ayat (1)
+diganti dengan [Pasal 300](/uu/2023/1/pasal-300) dan [Pasal 302 ayat (1)](/uu/2023/1/pasal-302/ayat-1)
 Undang-Undang ini.
 (4) Dalam hal ketentuan Pasal mengenai Tindak Pidana
-korupsi sebagaimana dimaksud pada ayat (1) huruf I
+korupsi sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf l
 diacu oleh ketentuan Pasal Undang-Undang yang
 bersangkutan, pengacuannya diganti dengan Pasal
 dalam Undang-Undang ini dengan ketentuan sebagai
 berikut:
-a. Pasal 2 ayat (1) pengacuannya diganti dengan
-Pasal 6O3;
-b. Pasal 3 pengacuannya diganti dengan Pasal 604;
-c. Pasal 5 pengacuannya diganti dengan Pasal 605;
-d. Pasal 11 pengacuannya diganti dengan Pasal 606
-ayat (2); dan
-e. Pasal 13 pengacuannya diganti dengan Pasal 606
-ayat (1).
+  a. Pasal 2 ayat (1) pengacuannya diganti dengan [Pasal 603](/uu/2023/1/pasal-603);
+  b. Pasal 3 pengacuannya diganti dengan [Pasal 604](/uu/2023/1/pasal-604);
+  c. Pasal 5 pengacuannya diganti dengan [Pasal 605](/uu/2023/1/pasal-605);
+  d. Pasal 11 pengacuannya diganti dengan [Pasal 606 ayat (2)](/uu/2023/1/pasal-606/ayat-2); dan
+  e. Pasal 13 pengacuannya diganti dengan [Pasal 606 ayat (1)](/uu/2023/1/pasal-606/ayat-1).
 (5) Dalam hal ketentuan Pasal mengenai Tindak Pidana
-berat terhadap hak asasi manusia s6!agei1n614
-dimaksud pada ayat (1) huruf m diacu oleh ketentuan
+berat terhadap hak asasi manusia sebagaimana
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf m diacu oleh ketentuan
 pasal Undang-Undang yang bersangkutan,
 pengacuannya diganti dengan Pasal dalam UndangUndang ini dengan ketentuan sebagai berikut:
-a. Pasa1 8 dan Pasal 36 pengacuannya diganti dengan
-Pasal 598; dan
-b. Pasal 9 dan Pasal 37 sampai dengan Pasal 40
-pengacuannya diganti dengan Pasal 599.
+  a. Pasa1 8 dan Pasal 36 pengacuannya diganti dengan [Pasal 598](/uu/2023/1/pasal-598); dan
+  b. Pasal 9 dan Pasal 37 sampai dengan Pasal 40 pengacuannya diganti dengan [Pasal 599](/uu/2023/1/pasal-599).
 (6) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 persetubuhan atau pencabulan dengan Anak
-sebagaimana dimaksud pada ayat (1) huruf n mengacu
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf n mengacu
 Pasal 81 ayat (1) Undang-Undang yang bersangkutan,
-pengacuannya diganti dengan Pasal 473 ayat (41
-Undang-Undang ini.
+pengacuannya diganti dengan [Pasal 473 ayat (4)](/uu/2023/1/pasal-473/ayat-4) Undang-Undang ini.
 (7) Dalam hal ketentuan Pasal mengenai Tindak Pidana
-terorisme sebagaimana dimaksud pada ayat (1) huruf o
+terorisme sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf o
 diacu oleh ketentuan Pasal Undang-Undang yang
 bersangkutan, pengacuannya diganti dengan Pasal
 dalam Undang-Undang ini dengan ketentuan sebagai
 berikut:
-a. Pasal 6 pengacuannya diganti dengan Pasal 600; dan
-b. Pasal 7 pengacuannya diganti dengan Pasal 601.
+  a. Pasal 6 pengacuannya diganti dengan [Pasal 600](/uu/2023/1/pasal-600); dan
+  b. Pasal 7 pengacuannya diganti dengan [Pasal 601](/uu/2023/1/pasal-601).
 (8) Dalam hal ketentuan pasal mengenai Tindak Pidana
-penggunaan ljazal: atau gelar akademik palsu
-sebagaimana dimaksud pada ayat (1) huruf p mengacu
+penggunaan ijazah atau gelar akademik palsu
+sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf p mengacu
 Pasal 69 Undang-Undang yang bersangkutan,
-pengacuannya diganti dengan Pasal 272 ayat (21
+pengacuannya diganti dengan [Pasal 272 ayat (2)](/uu/2023/1/pasal-272/ayat-2)
 Undang-Undang ini.
 (9) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 perdagangan orang sebagaimana dimaksud pada
-ayat (1) huruf q mengacu Pasal 2 Undang-Undang yang
-bersangkutan, pengacuannya diganti dengan Pasal 455
-Undang-Undang ini.
+[ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf q mengacu Pasal 2 Undang-Undang yang
+bersangkutan, pengacuannya diganti dengan [Pasal 455](/uu/2023/1/pasal-455) Undang-Undang ini.
 (10) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 terhadap informatika dan elektronika sebagaimana
-dimaksud pada ayat (1) huruf r diacu oleh ketentuan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf r diacu oleh ketentuan
 Pasal Undang-Undang yang bersangkutan,
 pengacuannya diganti dengan Pasal dalam UndangUndang ini dengan ketentuan sebagai berikut:
-a. Pasal 27 ayat (1) dan Pasal 45 ayat (1) pengacuannya
-diganti dengan Pasal 4O7;
-b. Pasal 27 ayat (3) dan Pasal 45 ayat (3) pengacuannya
-diganti dengan Pasal 441;
-c. Pasal 2A ayat (2)dan Pasal 45A ayat l2l
-pengacuannya diganti dengan Pasal 243;
-d. Pasal 30 dan Pasal 46 pengacuannya diganti dengan
-Pasal 332; dan
-e. Pasal 31 ayat (1), Pasal 31 ayat (21, dan Pasal 47
-pengacuannya diganti dengan Pasal 258 ayat (21.
+  a. Pasal 27 ayat (1) dan Pasal 45 ayat (1) pengacuannya diganti dengan [Pasal 407](/uu/2023/1/pasal-407);
+  b. Pasal 27 ayat (3) dan Pasal 45 ayat (3) pengacuannya diganti dengan [Pasal 441](/uu/2023/1/pasal-441);
+  c. Pasal 2A ayat (2) dan Pasal 45A ayat (2) pengacuannya diganti dengan [Pasal 243](/uu/2023/1/pasal-243);
+  d. Pasal 30 dan Pasal 46 pengacuannya diganti dengan [Pasal 332](/uu/2023/1/pasal-332); dan
+  e. Pasal 31 ayat (1), Pasal 31 ayat (2), dan Pasal 47 pengacuannya diganti dengan [Pasal 258 ayat (2)](/uu/2023/1/pasal-258/ayat-2).
 (11) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 atas dasar diskriminasi ras dan etnis sebagaimana
-dimaksud pada ayat (1) huruf s diacu oleh ketentuan
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf s diacu oleh ketentuan
 Pasal Undang-Undang yang bersangkutan,
 pengacuannya diganti dengan Pasal dalam UndangUndang ini dengan ketentuan sebagai berikut:
-a. Pasal 15 pengacuannya diganti dengan Pasal 244;
-dan
-b. Pasal 17 pengacuannya diganti dengan Pasal 245.
+  a. Pasal 15 pengacuannya diganti dengan [Pasal 244](/uu/2023/1/pasal-244); dan
+  b. Pasal 17 pengacuannya diganti dengan [Pasal 245](/uu/2023/1/pasal-245).
 (12) Dalam hal ketentuan Pasal mengenai Tindak Pidana
-Pornograli sebagaimana dimaksud pada ayat (1) huruf t
+Pornograli sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf t
 mengacu Pasal 29 Undang-Undang yang bersangkutan,
-pengacuannya diganti dengan Pasal 407 ayat (1)
+pengacuannya diganti dengan [Pasal 407 ayat (1)](/uu/2023/1/pasal-407/ayat-1)
 Undang-Undang ini.
 (13) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 penodaan terhadap bendera negara, lambang negara,
 dan lagu kebangsaan sebagaimana dimaksud pada
-ayat (1) huruf u diacu oleh ketentuan pasal UndangUndang yang bersangkutan, pengacuannya diganti
+[ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf u diacu oleh ketentuan pasal Undang-
+Undang yang bersangkutan, pengacuannya diganti
 dengan Pasal dalam Undang-Undang ini dengan
 ketentuan sebagai berikut:
-a. Pasal 66 pengacuannya diganti dengan Pasal 234;
-b. Pasal 67 pengacuannya diganti dengan Pasal 235;
-c. Pasal 68 pengacuannya diganti dengan Pasal 236;
-d. Pasal 69 pengacuannya diganti dengan Pasal237;
-e. Pasal 70 pengacuannya diganti dengan Pasal 238;
-dan
-f. Pasal 71 pengacuannya diganti dengan Pasal 239.
+  a. Pasal 66 pengacuannya diganti dengan [Pasal 234](/uu/2023/1/pasal-234);
+  b. Pasal 67 pengacuannya diganti dengan [Pasal 235](/uu/2023/1/pasal-235);
+  c. Pasal 68 pengacuannya diganti dengan [Pasal 236](/uu/2023/1/pasal-236);
+  d. Pasal 69 pengacuannya diganti dengan [Pasal 237](/uu/2023/1/pasal-237);
+  e. Pasal 70 pengacuannya diganti dengan [Pasal 238](/uu/2023/1/pasal-238); dan
+  f. Pasal 71 pengacuannya diganti dengan [Pasal 239](/uu/2023/1/pasal-239).
 (14) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 terhadap organ manusia, jaringan tubuh manusia,
 darah manusia, dan aborsi sebagaimana dimaksud
-pada ayat (1) huruf v diacu oleh ketentuan Pasal
+pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf v diacu oleh ketentuan Pasal
 Undang-Undang yang bersangkutan, pengacuannya
 diganti dengan Pasal dalam Undang-Undang ini dengan
 ketentuan sebagai berikut:
-a. Pasal 192 pengacuannya diganti dengan Pasal 345
-huruf a;
-b. Pasal 194 pengacuannya diganti dengan Pasal 463,
-Pasal 464, dan Pasal 465; dan
-c. Pasal 195 pengacuannya diganti dengan Pasal 345
-huruf b.
+  a. Pasal 192 pengacuannya diganti dengan [Pasal 345](/uu/2023/1/pasal-345) huruf a;
+  b. Pasal 194 pengacuannya diganti dengan [Pasal 463](/uu/2023/1/pasal-463),
+  [Pasal 464](/uu/2023/1/pasal-464), dan [Pasal 465](/uu/2023/1/pasal-465); dan
+  c. Pasal 195 pengacuannya diganti dengan [Pasal 345](/uu/2023/1/pasal-345) huruf b.
 (15) Dalam hal ketentuan pasal mengenai Tindak Pidana
-narkotika sebagaimana dimaksud pada ayat (1) huruf w
+narkotika sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf w
 diacu oleh ketentuan Pasal Undang-Undang yang
-bersangkutan, pengacuErnnya diganti dengan Pasal
+bersangkutan, pengacuannya diganti dengan Pasal
 dalam Undang-Undang ini dengan ketentuan sebagai
 berikut:
-a. Pasal ll2 ayal (1) pengacuannya diganti dengan
-Pasal 609 ayat (1) hurufa;
-b. Pasal ll2 ayat (2) pengacuannya diganti dengan
-Pasal 609 ayat(2)hurufa;
-c. Pasal 113 ayat (1) pengacuannya diganti dengan
-Pasal 610 ayat (1) huruf a;
-d. Pasal 113 ayat (2) pengacuannya diganti dengan
-Pasal 610 ayar(2)hurufa;
-e. Pasal 117 ayat (1) pengacuannya diganti dengan
-Pasal 609 ayat (1) hurufb;
-f. Pasal ll7 ayat (2) pengacuannya diganti dengan
-Pasal 609 ayat(2)hurufb;
-g. Pasal 118 ayat (1) pengacuannya diganti dengan
-Pasal 610 ayat (1) hurufb;
-h. Pasal 118 ayat (2) pengacuannya diganti dengan
-Pasal 610 ayat(2)hurufb;
-i. Pasal 122 ayat (1) pengacuannya diganti dengan
-Pasal 609 ayat (1) huruf c;
-j. Pasal 122 ayat (2) pengacuannya diganti dengan ' Pasal 609 ayat (2) huruf c;
-k. Pasal 123 ayat (1) pengacuannya diganti dengan
-Pasal 610 ayat (1) huruf c;
-l. Pasal 123 ayal (2) pengacuannya diganti dengan
-Pasal 610 ayat(2)hurufc.
+  a. Pasal 112 ayat (1) pengacuannya diganti dengan
+  [Pasal 609 ayat (1)](/uu/2023/1/pasal-609/ayat-1) huruf a;
+  b. Pasal 112 ayat (2) pengacuannya diganti dengan
+  [Pasal 609 ayat (2)](/uu/2023/1/pasal-609/ayat-2) huruf a;
+  c. Pasal 113 ayat (1) pengacuannya diganti dengan
+  [Pasal 610 ayat (1)](/uu/2023/1/pasal-610/ayat-1) huruf a;
+  d. Pasal 113 ayat (2) pengacuannya diganti dengan
+  [Pasal 610 ayat (2)](/uu/2023/1/pasal-610/ayat-2) huruf a;
+  e. Pasal 117 ayat (1) pengacuannya diganti dengan
+  [Pasal 609 ayat (1)](/uu/2023/1/pasal-609/ayat-1) huruf b;
+  f. Pasal 117 ayat (2) pengacuannya diganti dengan
+  [Pasal 609 ayat (2)](/uu/2023/1/pasal-609/ayat-2) huruf b;
+  g. Pasal 118 ayat (1) pengacuannya diganti dengan
+  [Pasal 610 ayat (1)](/uu/2023/1/pasal-610/ayat-1) huruf b;
+  h. Pasal 118 ayat (2) pengacuannya diganti dengan
+  [Pasal 610 ayat (2)](/uu/2023/1/pasal-610/ayat-2) huruf b;
+  i. Pasal 122 ayat (1) pengacuannya diganti dengan
+  [Pasal 609 ayat (1)](/uu/2023/1/pasal-609/ayat-1) huruf c;
+  j. Pasal 122 ayat (2) pengacuannya diganti dengan
+  [Pasal 609 ayat (2)](/uu/2023/1/pasal-609/ayat-2) huruf c;
+  k. Pasal 123 ayat (1) pengacuannya diganti dengan
+  [Pasal 610 ayat (1)](/uu/2023/1/pasal-610/ayat-1) huruf c;
+  l. Pasal 123 ayat (2) pengacuannya diganti dengan
+  [Pasal 610 ayat (2)](/uu/2023/1/pasal-610/ayat-2) huruf c.
 (16) Dalam hal ketentuan pasal mengenai Tindak Pidana
-pencucian uang sebagaimana dimaksud pada ayat (1)
-huruf x diacu oleh ketentuan Pasal Undang-Undang
-yang bersangkutan, pengacuannya diganti dengan Pasal
-dalam Undang-Undang ini dengan ketentuan sebagai
-berikut:
-a. Pasal 2 ayat (1) pengacuannya diganti dengan
-Pasal 607 ayat(21;
-b. Pasal 3 pengacuannya diganti dengan Pasal 6O7
-ayat (1) huruf a;
-c. Pasal 4 pengacuannya diganti dengan Pasal 607
-ayat (l ) huruf b;
-d. Pasal 5 ayat (1) pengacuannya diganti dengan
-Pasal 607 ayat (1) huruf c; dan
-e. Pasal 5 ayat (2)pengacuannya diganti dengan Pasal 608.
-(17) Dalam hal ketentuan Pasal mengenai Tindak Pidana
-penyelundupan manusia atau pemalsuan paspor, Surat
-perjalanan laksana paspor, atau Surat yang diberikan
-menurut ketentuan Undang-Undang tentang
-keimigrasian sebagaimana dimalsud pada ayat (1)
-huruf y diacu oleh ketentuan pasal Undang-Undang
-yang bersangkutan, pengacuannya diganti dengan Pasal
-dalam Undang-Undang ini dengan ketentuan sebagai
-berikut:
-a. Pasal l2O ayat (1) pengacuannya diganti dengan
-Pasal 457; dan
-b. Pasal 126 hunrf e pengacuannya diganti dengan
-Pasal 398 ayat (r ).
+pencucian uang sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf x diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
+  a. Pasal 2 ayat (1) pengacuannya diganti dengan
+  [Pasal 607 ayat(2)](/uu/2023/1/pasal-607/ayat-2);
+  b. Pasal 3 pengacuannya diganti dengan [Pasal 607 ayat (1)](/uu/2023/1/pasal-607/ayat-1) huruf a;
+  c. Pasal 4 pengacuannya diganti dengan [Pasal 607 ayat (1)](/uu/2023/1/pasal-607/ayat-1) huruf b;
+  d. Pasal 5 ayat (1) pengacuannya diganti dengan [Pasal 607 ayat (1)](/uu/2023/1/pasal-607/ayat-1) huruf c; dan
+  e. Pasal 5 ayat (2) pengacuannya diganti dengan [Pasal 608](/uu/2023/1/pasal-608).
+(17) Dalam hal ketentuan Pasal mengenai Tindak Pidana penyelundupan manusia atau pemalsuan paspor, Surat perjalanan laksana paspor, atau Surat yang diberikan menurut ketentuan Undang-Undang tentang keimigrasian sebagaimana dimalsud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf y diacu oleh ketentuan pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
+  a. Pasal 120 ayat (1) pengacuannya diganti dengan [Pasal 457](/uu/2023/1/pasal-457); dan
+  b. Pasal 126 huruf e pengacuannya diganti dengan [Pasal 398 ayat (1)](/uu/2023/1/pasal-398/ayat-1).
 (18) Dalam hal ketentuan Pasal mengenai Tindak Pidana
 pemalsuan mata uang atau uang kertas sebagaimana
-dimaksud pada ayat (1) huruf z diacu oleh ketentuan
-Pasal Undang-Undang yang bersangkutan,
-pengacuannya diganti dengan Pasal dalam UndangUndang ini dengan ketentuan sebagai berikut:
-a. Pasal 36 ayat (1) pengacuannya diganti dengan
-Pasal 374;
-b. Pasal 36 ayat (2) pengacuannya diganti dengan
-Pasal 375 huruf b;
-c. Pasal 36 ayat (3) pengacuannya diganti dengan
-Pasal 375 huruf a; dan
-d. Pasal 36 ayat (4) pengacuannya diganti dengan
-Pasal 375 hurufb.
-(19) Dalam hal ketentuan Pasal mengenai Tindak Pidana di
-bidang pangan sebagaimana dimaksud pada ayat (1)
-huruf aa mengacu Pasal 136 Undang-Undang yang
-bersangkutan, pengacuannya diganti dengan Pasal 504
-dalam Undang-Undang ini.
-(20) Dalam hal ketentuan Pasal mengenai Tindak Pidana
-pendanaan terorisme sebagaimana dimaksud pada
-ayat (1) huruf bb mengacu Pasal 4 Undang-Undang yang
-bersangkutan, pengacuannya diganti dengan Pasal 6O2
-dalam Undang-Undang ini.
-(21) Dalam hal ketentuan pasal mengenai Tindak Pidana
-terhadap saksi dan korban sebagaimana dimaksud
-pada ayat (1) huruf cc diacu oleh ketentuan Pasal
-Undang-Undang yang bersangkutan, pengacuannya
-diganti dengan pasal dalam Undang-Undang ini dengan
-ketentuan sebagai berikut:
-a. Pasal 37 pengacuannya diganti dengan Pasal 295;
-b. Pasal 38 pengacuannya diganti dengan Pasal 296;
-c. Pasal 39 pengacuannya diganti dengan Pasal 297;
-dan
-d. Pasal 41 pengacuannya diganti dengan Pasal 299.
+dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf z diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
+  a. Pasal 36 ayat (1) pengacuannya diganti dengan [Pasal 374](/uu/2023/1/pasal-374);
+  b. Pasal 36 ayat (2) pengacuannya diganti dengan [Pasal 375](/uu/2023/1/pasal-375) huruf b;
+  c. Pasal 36 ayat (3) pengacuannya diganti dengan [Pasal 375](/uu/2023/1/pasal-375) huruf a; dan
+  d. Pasal 36 ayat (4) pengacuannya diganti dengan [Pasal 375](/uu/2023/1/pasal-375) huruf b.
+(19) Dalam hal ketentuan Pasal mengenai Tindak Pidana di bidang pangan sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf aa mengacu Pasal 136 Undang-Undang yang bersangkutan, pengacuannya diganti dengan [Pasal 504](/uu/2023/1/pasal-504) dalam Undang-Undang ini.
+(20) Dalam hal ketentuan Pasal mengenai Tindak Pidana pendanaan terorisme sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf bb mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan [Pasal 602](/uu/2023/1/pasal-602) dalam Undang-Undang ini.
+(21) Dalam hal ketentuan pasal mengenai Tindak Pidana terhadap saksi dan korban sebagaimana dimaksud pada [ayat (1)](/uu/2023/1/pasal-622/ayat-1) huruf cc diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
+  a. Pasal 37 pengacuannya diganti dengan [Pasal 295](/uu/2023/1/pasal-295);
+  b. Pasal 38 pengacuannya diganti dengan [Pasal 296](/uu/2023/1/pasal-296);
+  c. Pasal 39 pengacuannya diganti dengan [Pasal 297](/uu/2023/1/pasal-297);
+  d. Pasal 41 pengacuannya diganti dengan [Pasal 299](/uu/2023/1/pasal-299).
 
 Pasal 623
 Undang-Undang ini dapat disebut dengan KUHP.
