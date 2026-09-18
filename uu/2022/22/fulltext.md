@@ -1,122 +1,220 @@
- Menimbang Menimbang Mengingat UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 22 TAHUN 2022 TENTANG PEMASYARAKATAN
-DENGAN RAHMAT TUHAN YANG MAHA ESA a. bahwa pada hakikatnya perlakuan terhadap tersangka, terdakwa, dan terpidana yang dirarnpas kemerdekaannya harus didasarkan pada prinsip pelindungan hukum dan penghormatan hak asasi manusia yang berlandaskan Pancasila dan Undang- Undang Dasar Negara Republik Indonesia Tahun 1945; b, bahwa pemasyarakatan merupakan bagian yang tidak terpisahkan dari sistem peradilan pidana terpadu yang diselenggarakan oleh pemerintah sebagai bagian dari proses penegakan hukum dalam rangka pelayanan serta pembinaan dan pembimbingan untuk reintegrasi sosial;
-c. bahwa Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan sudah tidak sesuai lagi dengan perkembangan hukum masyarakat dan belum sepenuhnya mencerminkan kebutuhan pelaksanaan sistem pemasyarakatan sehingga perlu diganti;
-d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Pemasyarakatan; Pasal 5 ayat (1), Pasal 20, Pasal 27 ayat (1), dan Pasal 2BD ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan MEMUTUSKAN Menetapkan UNDANG-UNDANG TENTANG PEMASYARAKATAN BAB I KETENTUAN UMUM
+UNDANG-UNDANG REPUBLIK INDONESIA
+NOMOR 22 TAHUN 2022
+TENTANG
+PEMASYARAKATAN
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang :
+a. bahwa pada hakikatnya perlakuan terhadap
+tesangka, terdakwa, dan terpidana yang dirarnpas
+kemerdekaannya harus didasarkan pada prinsip
+pelindungan hukum dan penghormatan hak asasi
+manusia yang berlandaskan Pancasila dan Undang-
+Undang Dasar Negara Republik Indonesia Tahun 1945;
+b. bahwa pemasyarakatan merupakan bagian yang tidak
+terpisahkan dari sistem peradilan pidana terpadu
+yang diselenggarakan oleh pemerintah sebagai bagian
+dari proses penegakan hukum dalam rangka
+pelayanan serta pembinaan dan pembimbingan untuk
+reintegrasi sosial;
+c. bahwa Undang-Undang Nomor 12 Tahun 1995
+tentang Pemasyarakatan sudah tidak sesuai lagi
+dengan perkembangan hukum masyarakat dan belum
+sepenuhnya mencerminkan kebutuhan pelaksanaan
+sistem pemasyarakatan sehingga perlu diganti;
+d. bahwa berdasarkan pertimbangan sebagaimana
+dimaksud dalam huruf a, huruf b, dan huruf c, perlu
+membentuk Undang-Undang tentang Pemasyarakatan;
+
+Mengingat :
+Pasal 5 ayat (1), Pasal 20, Pasal 27 ayat (1), dan
+Pasal 2BD ayat (1) Undang-Undang Dasar Negara
+Republik Indonesia Tahun 1945;
+
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+dan
+PRESIDEN REPUBLIK INDONESIA
+
+MEMUTUSKAN:
+Menetapkan :
+UNDANG-UNDANG TENTANG PEMASYARAKATAN
+
+BAB I
+KETENTUAN UMUM
+
 Pasal 1
 Dalam Undang-Undang ini yang dimaksud dengan:
-1. Pemasyarakatan adalah subsistem peradilan pidana yang mcnyelenggarakan penegakan hukum di bidang perlakuan terhadap tahanan, anak, dan warga binaan. 2. Sistem Pemasyarakatan adalah suatu tatanan mcngenai arah dan batas serta metode pelaksanaan fungsi Pemasyarakatan secara terpadu. 3. Warga Binaan adalah narapidana, anak binaan, dan klicn. 4. Tahanan adalah tersangka atau terdakwa yang sedang menjalani proses peradilan dan ditahan di rumah tahanan negara. 5. Anak yang Berkonflik dengan Hukum yang selanjutnya disebut Anak adalah anak yang telah berumur 12 (dua belas) tahun, tetapi belum berumur 18 (delapan belas) tahun yang diduga melakukan tindak pidana. 6. Narapidana adalah terpidana yang sedang menjalani pidana penjara untuk waktu tertentu dan seumur hidup atau terpidana mati yang sedang menunggu pelaksanaan putusan, yang sedang menjalani pembinaan di lembaga pemasyarakatan.
-7. Anak 7. Anak Binaan adalah anak yang telah berumur 14 (empat belas) tahun, tetapi belum berumur 18 (delapan belas) tahun yang sedang menjalani pembinaan di lembaga pembinaan khusus anak. 8. Klien Pemasyarakatan yang selanjutnya disebut Klien adalah seseorang yang berada dalam pembimbingan kemasyarakatan, baik dewasa maupun anak. 9. Pelayanan adalah kegiatan yang diselenggarakan untuk memberikan pelindungan dan pemenuhan hak bagi Tahanan dan Anak pada proses peradilan. 10. Pembinaan adalah kegiatan yang diselenggarakan untuk meningkatkan kualitas kepribadian dan kemandirian Narapidana dan Anak Binaan.
-16. Rumah Tahanan Negara yang selanjutnya disebut Rutan adalah lembaga atau tempat yang menjalankan fungsi Pelayanan terhadap Tahanan. L7. Lernbaga Penempatan Anak Sementara yang selanjutnya disingkat LPAS adalah tempat sementara bagi Anak selama proses peradilan berlangsung.
-18. Lembaga Pemasyarakatan yang selanjutnya disebut Lapas adalah lembaga atau tempat yang menjalankan fungsi Pembinaan terhadap Narapidana.
-19. Lembaga Pembinaan Khusus Anak yang selanjutnya disingkat LPKA adalah lembaga atau tempat Anak Binaan menjalani masa pidananya.
-20. Balai Pemasyarakatan yang selanjutnya disebut Bapas adalah lembaga atau tempat yang menjalankan fungsi Pembimbingan Kemasyarakatan terhadap Klien. 21. Petugas Pemasyarakatan adalah pejabat fungsional penegak hukum yang diberi wewenang berdasarkan Undang-Undang untuk melaksanakan tugas Pemasyarakatan dalam sistem peradilan pidana.
-22. Wah Pemasyarakatan adalah Petugas Pemasyarakatan yang membantu kepala Lapas atau kepala LPKA dalam menjalankan Pembinaan terhadap Narapidana dan Anak Binaan. 23. Pembimbing Kemasyarakatan adalah Petugas Pemasyarakatan yang melaksanakan Litmas, pendampingan, pembimbingan, dan pengawasan terhadap Klien, baik di dalam maupun di luar proses peradilan pidana.
-24. Asesor Pemasyarakatan adalah Petugas Pemasyarakatan yang melaksanakan asesmen terhadap Tahanan, Anak, dan Warga Binaan.
+  1. Pemasyarakatan adalah subsistem peradilan pidana yang mcnyelenggarakan penegakan hukum di bidang perlakuan terhadap tahanan, anak, dan warga binaan.
+  2. Sistem Pemasyarakatan adalah suatu tatanan mcngenai arah dan batas serta metode pelaksanaan fungsi Pemasyarakatan secara terpadu.
+  3. Warga Binaan adalah narapidana, anak binaan, dan klien.
+  4. Tahanan adalah tersangka atau terdakwa yang sedang menjalani proses peradilan dan ditahan di rumah tahanan negara.
+  5. Anak yang Berkonflik dengan Hukum yang selanjutnya disebut Anak adalah anak yang telah berumur 12 (dua belas) tahun, tetapi belum berumur 18 (delapan belas) tahun yang diduga melakukan tindak pidana.
+  6. Narapidana adalah terpidana yang sedang menjalani pidana penjara untuk waktu tertentu dan seumur hidup atau terpidana mati yang sedang menunggu pelaksanaan putusan, yang sedang menjalani pembinaan di lembaga pemasyarakatan.
+  7. Anak Binaan adalah anak yang telah berumur 14 (empat belas) tahun, tetapi belum berumur 18 (delapan belas) tahun yang sedang menjalani pembinaan di lembaga pembinaan khusus anak.
+  8. Klien Pemasyarakatan yang selanjutnya disebut Klien adalah seseorang yang berada dalam pembimbingan kemasyarakatan, baik dewasa maupun anak.
+  9. Pelayanan adalah kegiatan yang diselenggarakan untuk memberikan pelindungan dan pemenuhan hak bagi Tahanan dan Anak pada proses peradilan.
+  10. Pembinaan adalah kegiatan yang diselenggarakan untuk meningkatkan kualitas kepribadian dan kemandirian Narapidana dan Anak Binaan.
+  11. Pembimbingan Kemasyarakatan adalah kegiatan yang diselenggarakan guna pendampingan Klien di dalam dan di luar proses peradilan pidana serta mempersiapkan Klien untuk proses reintegrasi sosial.
+  12. Perawatan adalah kegiatan yang diselenggarakan untuk mendukung terjaganya kondisi fisik dan psikologis Tahanan, Anak, Narapidana, dan Anak Binaan.
+  13. Pengamanan adalah segala bentuk kegiatan dalam rangka melakukan pencegahan, penindakan, dan pemulihan gangguan keamanan dan ketertiban yang diselenggarakan untuk menciptakan kondisi yang aman dan tertib di rumah tahanan negara dan lembaga pemasyarakatan.
+  14. Pengamatan adalah segala bentuk kegiatan dalam rangka melakukan pencegahan, penegakan disiplin, dan pemulihan gangguan keamanan dan ketertiban yang diselenggarakan untuk menciptakan kondisi yang aman dan tertib di lembaga penempatan anak sementara dan lembaga pembinaan khusus anak.
+  15. Penelitian Kemasyarakatan yang selanjutnya disebut Litmas adalah kegiatan pengumpulan, pengolahan, analisis, dan penyajian data yang dilakukan secara sistematis dan objektif untuk kepentingan Pelayanan Tahanan atau Anak, Pembinaan Narapidana atau Anak Binaan, dan Pembimbingan Kemasyarakatan Klien, serta sebagai dasar pertimbangan penyidik, penuntut umum, dan hakim dalam penyelesaian perkara.
+  16. Rumah Tahanan Negara yang selanjutnya disebut Rutan adalah lembaga atau tempat yang menjalankan fungsi Pelayanan terhadap Tahanan.
+  17. Lembaga Penempatan Anak Sementara yang selanjutnya disingkat LPAS adalah tempat sementara bagi Anak selama proses peradilan berlangsung.
+  18. Lembaga Pemasyarakatan yang selanjutnya disebut Lapas adalah lembaga atau tempat yang menjalankan fungsi Pembinaan terhadap Narapidana.
+  19. Lembaga Pembinaan Khusus Anak yang selanjutnya disingkat LPKA adalah lembaga atau tempat Anak Binaan menjalani masa pidananya.
+  20. Balai Pemasyarakatan yang selanjutnya disebut Bapas adalah lembaga atau tempat yang menjalankan fungsi Pembimbingan Kemasyarakatan terhadap Klien.
+  21. Petugas Pemasyarakatan adalah pejabat fungsional penegak hukum yang diberi wewenang berdasarkan Undang-Undang untuk melaksanakan tugas Pemasyarakatan dalam sistem peradilan pidana.
+  22. Wali Pemasyarakatan adalah Petugas Pemasyarakatan yang membantu kepala Lapas atau kepala LPKA dalam menjalankan Pembinaan terhadap Narapidana dan Anak Binaan.
+  23. Pembimbing Kemasyarakatan adalah Petugas Pemasyarakatan yang melaksanakan Litmas, pendampingan, pembimbingan, dan pengawasan terhadap Klien, baik di dalam maupun di luar proses peradilan pidana.
+  24. Asesor Pemasyarakatan adalah Petugas Pemasyarakatan yang melaksanakan asesmen terhadap Tahanan, Anak, dan Warga Binaan.
+
 Pasal 2
 Sistem Pemasyarakatan diselenggarakan untuk tujuan:
-a. memberikan jaminan pelindungan terhadap hak Tahanan dan Anak;
-b. meningkatkan kualitas kepribadian dan kemandirian Warga Binaan agar mcnyadari kesalahan, memperbaiki diri, dan tidak mengulangi tindak pidana, sehingga dapat diterima kembali oleh lingkungan masyarakat, dapat hidup secara wajar sebagai warga yang baik, taat hukum, bertanggung jawab, dan dapat aktif berperan dalam pembangunan; dan
-c. memberikan pelindungan kepada masyarakat dari pengulangan tindak pidana.
+  a. memberikan jaminan pelindungan terhadap hak Tahanan dan Anak;
+  b. meningkatkan kualitas kepribadian dan kemandirian Warga Binaan agar menyadari kesalahan, memperbaiki diri, dan tidak mengulangi tindak pidana, sehingga dapat diterima kembali oleh lingkungan masyarakat, dapat hidup secara wajar sebagai warga yang baik, taat hukum, bertanggung jawab, dan dapat aktif berperan dalam pembangunan; dan
+  c. memberikan pelindungan kepada masyarakat dari pengulangan tindak pidana.
+
 Pasal 3
 Sistem Pemasyarakatan dilaksanakan berdasarkan asas:
-a. pengayoman;
-b. nondiskriminasi;
-c. kemanusiaan;
-d. gotong royong;
-e. kemandirian;
-f. proporsionalitas;
-g. kehilangan kemerdekaan sebagai satu-satunya penderitaan; dan
-h. profesionalitas. Pasal 4 Fungsi Pemasyarakatan meliputi:
-a. Pelayanan;
-b. Pembinaan;
-c. Pembimbingan Kemasyarakatan;
-d. Perawatan;
-e. Pengamanan; dan
-f. Pengamatan. Pasal 5 (1) Sistem dan fungsi Pemasyarakatan sebagaimana dimaksud dalam Pasal 2 dan Pasal 4 diselenggarakan oleh kementerian / lembaga.
-(2) Ketentuan BAB II HAK DAN KEWAJIBAN TAHANAN, ANAK, DAN WARGA BINAAN Bagian Kesatu Hak dan Kewajiban Tahanan dan Narapidana
-Pasal 7
+  a. pengayoman;
+  b. nondiskriminasi;
+  c. kemanusiaan;
+  d. gotong royong;
+  e. kemandirian;
+  f. proporsionalitas;
+  g. kehilangan kemerdekaan sebagai satu-satunya penderitaan; dan
+  h. profesionalitas.
+
+Pasal 4
+Fungsi Pemasyarakatan meliputi:
+  a. Pelayanan;
+  b. Pembinaan;
+  c. Pembimbingan Kemasyarakatan;
+  d. Perawatan;
+  e. Pengamanan; dan
+  f. Pengamatan.
+
+Pasal 5
+(1) Sistem dan fungsi Pemasyarakatan sebagaimana dimaksud dalam Pasal 2 dan Pasal 4 diselenggarakan oleh kementerian / lembaga.
 (2) Ketentuan lebih lanjut mengenai kementerian/lembaga sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Presiden.
+
 Pasal 6
-(1) Penyelenggaraan sistem dan fungsi Pemasyarakatan sebagaimana dimaksud dalam Pasal 5 dilaksanakan di Rutan, LPAS, Lapas, LPKA, Bapas, atau tempat lain yang ditentukan. (2) Rutan, LPAS, Lapas, dan LPI(A sebagaimana dimaksud pada ayat (1) merupakan area dengan fungsi khusus. Tahanan berhak:
-a. menjalankan ibadah sesuai dengan agama atau kepercayaannya;
-b. mendapatkan perawatan, baik jasmani maupun rohani;
-c. mendapatkan pendidikan, pengajaran, dan kegiatan rekreasional, serta kesempatan mengembangkan potensi;
-d. mendapatkan pelayanan kesehatan dan makanan yang layak sesuai dengan kebutuhan gizi;
-e. mendapatkan layanan informasi;
-f. mendapatkan penyuluhan hukum dan bantuan hukum;
-g. menyampaikan pengaduan dan/atau keluhan;
-h. mendapatkan h. mendapatkan bahan bacaan dan mengikuti siaran media massa yang tidak dilarang;
-i. mendapatkan perlakuan secara manusiawi dan dilindungi dari tindakan penyiksaan, eksploitasi, pembiaran, kekerasan, dan segala tindakan yang membahayakan fisik dan mental;
-j. mendapatkan pelayanan sosial; dan
-k. menerima atau menolak kunjungan dari keluarga, advokat, pendamping, dan masyarakat.
+(1) Penyelenggaraan sistem dan fungsi Pemasyarakatan sebagaimana dimaksud dalam Pasal 5 dilaksanakan di Rutan, LPAS, Lapas, LPKA, Bapas, atau tempat lain yang ditentukan.
+(2) Rutan, LPAS, Lapas, dan LPKA sebagaimana dimaksud pada ayat (1) merupakan area dengan fungsi khusus.
+
+BAB II
+HAK DAN KEWAJIBAN TAHANAN, ANAK, DAN WARGA BINAAN
+
+Bagian Kesatu
+Hak dan Kewajiban Tahanan dan Narapidana
+
+Pasal 7
+Tahanan berhak:
+  a. menjalankan ibadah sesuai dengan agama atau kepercayaannya;
+  b. mendapatkan perawatan, baik jasmani maupun rohani;
+  c. mendapatkan pendidikan, pengajaran, dan kegiatan rekreasional, serta kesempatan mengembangkan potensi;
+  d. mendapatkan pelayanan kesehatan dan makanan yang layak sesuai dengan kebutuhan gizi;
+  e. mendapatkan layanan informasi;
+  f. mendapatkan penyuluhan hukum dan bantuan hukum;
+  g. menyampaikan pengaduan dan/atau keluhan;
+  h. mendapatkan bahan bacaan dan mengikuti siaran media massa yang tidak dilarang;
+  i. mendapatkan perlakuan secara manusiawi dan dilindungi dari tindakan penyiksaan, eksploitasi, pembiaran, kekerasan, dan segala tindakan yang membahayakan fisik dan mental;
+  j. mendapatkan pelayanan sosial; dan
+  k. menerima atau menolak kunjungan dari keluarga, advokat, pendamping, dan masyarakat.
+
 Pasal 8
 Tahanan wajib:
-a. menaati peraturan tata tertib;
-b. mengikuti secara tertib program Pelayanan;
-c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
-d. menghormati hak asasi setiap orang di lingkungannya.
+  a. menaati peraturan tata tertib;
+  b. mengikuti secara tertib program Pelayanan;
+  c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
+  d. menghormati hak asasi setiap orang di lingkungannya.
+
 Pasal 9
 Narapidana berhak:
-a. menjalankan ibadah sesuai dengan agama atau kepercayaannya;
-b. mendapatkan perawatan, baik ^jasmani maupun rohani;
-c. mendapatkan pendidikan, pengajaran, dan kegiatan rekreasional serta kesempatan mengembangkan potensi;
-d. mendapatkan pelayanan kesehatan dan makanan yang layak sesuai dengan kebutuhan gizi;
-e. mendapatkan layanan informasi;
-f. mendapatkan penyuluhan hukum dan bantuan hukum;
-g. menyampaikan pengaduan dan/atau keluhan;
-h. mendapatkan bahan bacaan dan mengikuti siaran media massa yang tidak dilarang;
-i. mendapatkan perlakuan secara manusiawi dan dilindungi dari tindakan penyiksaan, eksploitasi, pembiaran, kekerasan, dan segala tindakan yang membahayakan fisik dan mental;
-j. mendapatkan jaminan keselamatan kerja, upah, atau premi hasil bekerja;
-k. mendapatkan pelayanan sosial; dan
-l. menerima atau menolak kunjungan dari keluarga, advokat, pendamping, dan masyarakat.
+  a. menjalankan ibadah sesuai dengan agama atau kepercayaannya;
+  b. mendapatkan perawatan, baik ^jasmani maupun rohani;
+  c. mendapatkan pendidikan, pengajaran, dan kegiatan rekreasional serta kesempatan mengembangkan potensi;
+  d. mendapatkan pelayanan kesehatan dan makanan yang layak sesuai dengan kebutuhan gizi;
+  e. mendapatkan layanan informasi;
+  f. mendapatkan penyuluhan hukum dan bantuan hukum;
+  g. menyampaikan pengaduan dan/atau keluhan;
+  h. mendapatkan bahan bacaan dan mengikuti siaran media massa yang tidak dilarang;
+  i. mendapatkan perlakuan secara manusiawi dan dilindungi dari tindakan penyiksaan, eksploitasi, pembiaran, kekerasan, dan segala tindakan yang membahayakan fisik dan mental;
+  j. mendapatkan jaminan keselamatan kerja, upah, atau premi hasil bekerja;
+  k. mendapatkan pelayanan sosial; dan
+  l. menerima atau menolak kunjungan dari keluarga, advokat, pendamping, dan masyarakat.
+
 Pasal 10
-(1) Selain hak sebagaimana dimaksud dalam Pasal 9, Narapidana yang telah memenuhi persyaratan tertentu tanpa terkecuali ^juga berhak atas:
-a. remisi;
-b. asimilasi;
-c. cuti mengunjungi atau dikunjungi keluarga;
-d. cuti bersyarat;
-e. cuti menjelang bebas;
-f. pembebasan bersyarat; dan
-g. hak lain sesuai dengan ketentuan peraturan perundang-undangan.
+(1) Selain hak sebagaimana dimaksud dalam Pasal 9, Narapidana yang telah memenuhi persyaratan tertentu tanpa terkecuali juga berhak atas:
+  a. remisi;
+  b. asimilasi;
+  c. cuti mengunjungi atau dikunjungi keluarga;
+  d. cuti bersyarat;
+  e. cuti menjelang bebas;
+  f. pembebasan bersyarat; dan
+  g. hak lain sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Persyaratan tertentu sebagaimana dimaksud pada ayat (1) meliputi:
-a. berkelakuan baik;
-b. aktif mengikuti program Pembinaan; dan
-c. telah menunjukkan penurllnan tingkat risiko. (3) Selain memenuhi persyaratan tertentu sebagaimana dimaksud pada ayat (2), bagi Narapidana yang akan diberikan cuti menjelang bebas atau pembebasan bersyarat sebagaimana dimaksud pada ayat (1) huruf e dan huruf f ^juga harus telah menjalani masa pidana paling singkat 213 (dua pertiga) dengan ketentuan 213 (dua pertiga) masa pidana tersebut paling sedikit 9 (sembilan) bulan.
-(4) Pemberian (4) Pemberian hak sebagaimana dimaksud pada ayat (1) tidak berlaku bagi Narapidana yang dijatuhi pidana penjara seumur hidup dan terpidana mati. Pasal 1 1 (1) Narapidana wajib:
-a. menaati peraturan tata tertib;
-b. mengikuti secara tertib program Pembinaan;
-c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
-d. menghormati hak asasi setiap orang di lingkungannya. (2\ Selain kewajiban sebagaimana dimaksud pada ayat (1), Narapidana juga wajib bekerja dengan mempertimbangkan kondisi kesehatan dan memiliki nilai guna. Bagian Kedua Hak dan Kewajiban Anak dan Anak Binaan Pasal 12 Anak dan Anak Binaan berhak:
-a. menjalankan ibadah sesuai dengan agama atau kepercayaannya;
-b. mendapatkan perawatan, baik ^jasmani maupun rohani;
-c. mendapatkan pendidikan, pengajaran, dan kegiatan rekreasional, serta kesempatan mengembangkan potensi dengan memperhatikan kebutuhan tumbuh kembangnya;
-d. mendapatkan pelayanan kesehatan dan makanan yang layak sesuai dengan kebutuhan gizi;
-e. mendapatkan layanan informasi;
-f. mendapatkan penyuluhan hukum dan bantuan hukum;
-g. menyampaikan pengaduan danf atau keluhan;
-h. mendapatkan bahan bacaan dan mengikuti siaran media massa yang tidak dilarang;
-i. mendapatkan perlakuan secara manusiawi dan dilindungi dari tindakan penyiksaan, eksploitasi, pembiaran, kekerasan, dan segala tindakan yang membahayakan fisik dan mental; j mendapatkan pelayanan sosial; dan
-k. menerima atau menolak kunjungan dari keluarga, pendamping, advokat, dan masyarakat.
+  a. berkelakuan baik;
+  b. aktif mengikuti program Pembinaan; dan
+  c. telah menunjukkan penurunan tingkat risiko.
+(3) Selain memenuhi persyaratan tertentu sebagaimana dimaksud pada ayat (2), bagi Narapidana yang akan diberikan cuti menjelang bebas atau pembebasan bersyarat sebagaimana dimaksud pada ayat (1) huruf e dan huruf f juga harus telah menjalani masa pidana paling singkat 2/3 (dua pertiga) dengan ketentuan 2/3 (dua pertiga) masa pidana tersebut paling sedikit 9 (sembilan) bulan.
+(4) Pemberian hak sebagaimana dimaksud pada ayat (1) tidak berlaku bagi Narapidana yang dijatuhi pidana penjara seumur hidup dan terpidana mati.
+
+Pasal 11
+(1) Narapidana wajib:
+  a. menaati peraturan tata tertib;
+  b. mengikuti secara tertib program Pembinaan;
+  c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
+  d. menghormati hak asasi setiap orang di lingkungannya.
+(2) Selain kewajiban sebagaimana dimaksud pada ayat (1), Narapidana juga wajib bekerja dengan mempertimbangkan kondisi kesehatan dan memiliki nilai guna.
+
+Bagian Kedua
+Hak dan Kewajiban Anak dan Anak Binaan
+
+Pasal 12
+Anak dan Anak Binaan berhak:
+  a. menjalankan ibadah sesuai dengan agama atau kepercayaannya;
+  b. mendapatkan perawatan, baik jasmani maupun rohani;
+  c. mendapatkan pendidikan, pengajaran, dan kegiatan rekreasional, serta kesempatan mengembangkan potensi dengan memperhatikan kebutuhan tumbuh kembangnya;
+  d. mendapatkan pelayanan kesehatan dan makanan yang layak sesuai dengan kebutuhan gizi;
+  e. mendapatkan layanan informasi;
+  f. mendapatkan penyuluhan hukum dan bantuan hukum;
+  g. menyampaikan pengaduan dan/atau keluhan;
+  h. mendapatkan bahan bacaan dan mengikuti siaran media massa yang tidak dilarang;
+  i. mendapatkan perlakuan secara manusiawi dan dilindungi dari tindakan penyiksaan, eksploitasi, pembiaran, kekerasan, dan segala tindakan yang membahayakan fisik dan mental;
+  j mendapatkan pelayanan sosial; dan
+  k. menerima atau menolak kunjungan dari keluarga, pendamping, advokat, dan masyarakat.
+
 Pasal 13
 (1) Selain hak sebagaimana dimaksud dalam Pasal 12, Anak Binaan yang telah memenuhi persyaratan tertentu tanpa terkecuali ^juga berhak atas:
-a. pengurangan masa pidana;
-b. asimilasi;
-c. cuti mengunjungi atau dikunjungi keluarga;
-d. cuti bersyarat;
-e. cuti menjelang bebas;
-f. pembebasan bersyarat; dan
-g. hak lain sesuai dengan ketentuan peraturan perundang-undangan.
+  a. pengurangan masa pidana;
+  b. asimilasi;
+  c. cuti mengunjungi atau dikunjungi keluarga;
+  d. cuti bersyarat;
+  e. cuti menjelang bebas;
+  f. pembebasan bersyarat; dan
+  g. hak lain sesuai dengan ketentuan peraturan perundang-undangan.
 (2) Persyaratan tertentu sebagaimana dimaksud pada ayat (1) meliputi:
-a. berkelakuan baik;
-b. aktif mengikuti program Pembinaan; dan
-c. telah menunjukkan penurunan tingkat risiko.
-(3) Selain memenuhi persyaratan tertentu sebagaimana dimaksud pada ayat (2), bagi Anak Binaan ^yang akan diberikan cuti menjelang bebas atau ^pembebasan bersyarat sebagaimana dimaksud pada ayat ^(1) huruf e dan huruf f ^juga harus telah menjalani ^masa pidana paling singkat 1/2 (satu perdua).
+  a. berkelakuan baik;
+  b. aktif mengikuti program Pembinaan; dan
+  c. telah menunjukkan penurunan tingkat risiko.
+(3) Selain memenuhi persyaratan tertentu sebagaimana dimaksud pada ayat (2), bagi Anak Binaan yang akan diberikan cuti menjelang bebas atau pembebasan bersyarat sebagaimana dimaksud pada ayat (1) huruf e dan huruf f juga harus telah menjalani masa pidana paling singkat 1/2 (satu perdua).
+
 Pasal 14
-Pasal 14 Anak dan Anak Binaan wajib:
-a. menaati peraturan tata tertib;
-b. mengikuti secara tertib program Pelayanan atau Pembinaan;
-c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
-d. menghormati hak asasi setiap orang di lingkungannya. Bagian Ketiga Hak dan Kewajiban Klien
+Anak dan Anak Binaan wajib:
+  a. menaati peraturan tata tertib;
+  b. mengikuti secara tertib program Pelayanan atau Pembinaan;
+  c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
+  d. menghormati hak asasi setiap orang di lingkungannya.
+
+Bagian Ketiga
+Hak dan Kewajiban Klien
+
 Pasal 15
 Klien berhak:
 a. mendapatkan pendampingan pada tahap praadjudikasi, adjudikasi, pascaadjudikasi, dan bimbingan lanjutan;
@@ -124,278 +222,570 @@ b. mendapatkan program pembimbingan pada tahap praadjudikasi, adjudikasi, pascaa
 c. mendapatkan izin keluar negeri untuk alasan penting bagi Klien yang menjalani pembebasan bersyarat;
 d. mendapatkan informasi tentang peraturan Pembimbingan Kemasyarakatan; dan
 e. menyampaikan pengaduan dan/atau keluhan.
+
 Pasal 16
 Klien wajib:
-a. mematuhi persyaratan Pembimbingan Kemasyarakatan;
-b. mengikuti secara tertib program Pembimbingan Kemasyarakatan;
-c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
-d. menghormati hak asasi setiap orang di lingkungannya.
+  a. mematuhi persyaratan Pembimbingan Kemasyarakatan;
+  b. mengikuti secara tertib program Pembimbingan Kemasyarakatan;
+  c. memelihara perikehidupan yang bersih, aman, tertib, dan damai; dan
+  d. menghormati hak asasi setiap orang di lingkungannya.
+
 Pasal 17
-Pasal 17
-Tahanan, Anak, dan Warga Binaan yang tidak menjalankan kewajiban sebagaimana dimaksud dalam Pasal 8, Pasal 1 1, Pasal 14, dan Pasal 16 dikenakan sanksi sesuai dengan ketentuan peraturan perundang-undangan.
+Tahanan, Anak, dan Warga Binaan yang tidak menjalankan kewajiban sebagaimana dimaksud dalam Pasal 8, Pasal 11, Pasal 14, dan Pasal 16 dikenakan sanksi sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 18
-Ketentuan lebih lanjut mengenai syarat dan tata cara pelaksanaan hak dan kewajiban Tahanan, Anak, dan Warga Binaan diatur dengan Peraturan Pemerintah. BAB III PENYELENGGARAAN FUNGSI PEMASYARAKATAN Bagian Kesatu Pelayanan Paragraf 1 Pelayanan Tahanan
+Ketentuan lebih lanjut mengenai syarat dan tata cara pelaksanaan hak dan kewajiban Tahanan, Anak, dan Warga Binaan diatur dengan Peraturan Pemerintah.
+
+BAB III
+PENYELENGGARAAN FUNGSI PEMASYARAKATAN
+
+Bagian Kesatu
+Pelayanan
+
+Paragraf 1
+Pelayanan Tahanan
+
 Pasal 19
-(1) Pelayanan terhadap Tahanan diselenggarakan di Rutan. (2) Rutan sebagaimana dimaksud pada ayat (1) dibentuk di kabupaten/kota.
+(1) Pelayanan terhadap Tahanan diselenggarakan di Rutan.
+(2) Rutan sebagaimana dimaksud pada ayat (1) dibentuk di kabupaten/kota.
+
 Pasal 20
 (1) Penyelenggaraan Pelayanan terhadap Tahanan sebagaimana dimaksud dalam Pasal 19 ayat (1) meliputi:
-a. penerimaan Tahanan;
-b. penempatan Tahanan;
-c. pelaksanaan Pelayanan Tahanan; dan
-d. pengeluaran Tahanan.
-(2) Dalam penerimaan Tahanan sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Tahanan. (3) Dokumen sebagaimana dimaksud pada ayat (2) meliputi:
-a. surat perintah penahanan atau penetapan penahanan; dan
-b. berita acara serah terima Tahanan. (4) Penempatan Tahanan sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan. (5) Pelaksanaan Pelayanan Tahanan sebagaimana dimaksud pada ayat (1) huruf c dilakukan berdasarkan hasil Litmas. (6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan. (7) Pengeluaran Tahanan sebagaimana dimaksud pada ayat (1) huruf d terdiri atas:
-a. pengeluaran tetap;
-b. pengeluaran sementara; dan
-c. pengeluaran demi hukum.
+  a. penerimaan Tahanan;
+  b. penempatan Tahanan;
+  c. pelaksanaan Pelayanan Tahanan; dan
+  d. pengeluaran Tahanan.
+(2) Dalam penerimaan Tahanan sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Tahanan.
+(3) Dokumen sebagaimana dimaksud pada ayat (2) meliputi:
+  a. surat perintah penahanan atau penetapan penahanan; dan
+  b. berita acara serah terima Tahanan.
+(4) Penempatan Tahanan sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan.
+(5) Pelaksanaan Pelayanan Tahanan sebagaimana dimaksud pada ayat (1) huruf c dilakukan berdasarkan hasil Litmas.
+(6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan.
+(7) Pengeluaran Tahanan sebagaimana dimaksud pada ayat (1) huruf d terdiri atas:
+  a. pengeluaran tetap;
+  b. pengeluaran sementara; dan
+  c. pengeluaran demi hukum.
+
 Pasal 21
 Pengeluaran tetap sebagaimana dimaksud dalam Pasal 20 ayat (7) huruf a, dilakukan karena:
-a. proses peradilan telah selcsai; atau
-b. Tahanan meninggal dunia.
+  a. proses peradilan telah selcsai; atau
+  b. Tahanan meninggal dunia.
+
 Pasal 22
 (1) Pengeluaran sementara sebagaimana dimaksud dalam Pasal 20 ayat (7) huruf b dilakukan dalam hal:
-a. permintaan instansi yang menahan; dan
-b. kondisi darurat.
-(2) Pengeluaran (2) Pengeluaran sementara dalam hal kondisi darurat sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan oleh kepala Rutan dengan memberitahukan kepada instansi yang menahan.
+  a. permintaan instansi yang menahan; dan
+  b. kondisi darurat.
+(2) Pengeluaran sementara dalam hal kondisi darurat sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan oleh kepala Rutan dengan memberitahukan kepada instansi yang menahan.
+
 Pasal 23
-Pengeluaran demi hukum sebagaimana dimaksud dalam Pasal 20 ayat (71 huruf c wajib dilakukan terhadap Tahanan yang telah habis masa penahanan atau perpanj angan penahanannya.
+Pengeluaran demi hukum sebagaimana dimaksud dalam Pasal 20 ayat (7) huruf c wajib dilakukan terhadap Tahanan yang telah habis masa penahanan atau perpanj angan penahanannya.
+
 Pasal 24
 Dalam hal Tahanan membutuhkan pendidikan, pengajaran, dan kegiatan rekreasional, serta kesempatan mengembangkan potensi diri, Tahanan dapat diberikan Pelayanan berupa:
-a. layanan kepribadian; dan
-b. layanan kemandirian.
+  a. layanan kepribadian; dan
+  b. layanan kemandirian.
+
 Pasal 25
-Untuk alasan kepentingan keamanan dan/atau keperluan proses peradilan, Tahanan dapat dipindahkan setelah mendapat izin dari instansi yang berwenang. Pasal 26 Kepala Rutan wajib mengeluarkan demi hukum sebagaimana dimaksud dalam Pasal 20 ayat (7) huruf c terhadap Tahanan yang telah habis masa penahanan atau perpanj angan penahanannya. Pasal 27 Ketentuan lebih lanjut mengenai penyelenggaraan Pelayanan Tahanan diatur dengan Peraturan Pemerintah. Paragraf2. Paragraf 2 Pelayanan Anak
+Untuk alasan kepentingan keamanan dan/atau keperluan proses peradilan, Tahanan dapat dipindahkan setelah mendapat izin dari instansi yang berwenang.
+
+Pasal 26
+Kepala Rutan wajib mengeluarkan demi hukum sebagaimana dimaksud dalam Pasal 20 ayat (7) huruf c terhadap Tahanan yang telah habis masa penahanan atau perpanj angan penahanannya.
+
+Pasal 27
+Ketentuan lebih lanjut mengenai penyelenggaraan Pelayanan Tahanan diatur dengan Peraturan Pemerintah.
+
+Paragraf 2
+Pelayanan Anak
+
 Pasal 28
-(1) Pelayanan terhadap Anak diselenggarakan di LPAS. (21 LPAS sebagaimana dimaksud pada ayat (1) dibentuk di provinsi.
+(1) Pelayanan terhadap Anak diselenggarakan di LPAS.
+(2) LPAS sebagaimana dimaksud pada ayat (1) dibentuk di provinsi.
+
 Pasal 29
 (1) Penyelenggaraan Pelayanan terhadap Anak sebagaimana dimaksud dalam Pasal 28 ayat (1) meliputi:
-a. penerimaan Anak;
-b. penempatan Anak;
-c. pelaksanaan Pelayanan Anak; dan
-d. pengeluaran Anak.
+  a. penerimaan Anak;
+  b. penempatan Anak;
+  c. pelaksanaan Pelayanan Anak; dan
+  d. pengeluaran Anak.
 (2) Dalam penerimaan Anak sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Anak.
-(3) Dokumen sebagaimana dimaksud pada ayat (21 meliputi:
-a. surat perintah penahanan atau penetapan penahanan; dan
-b. berita acara serah terima Anak.
+(3) Dokumen sebagaimana dimaksud pada ayat (2) meliputi:
+  a. surat perintah penahanan atau penetapan penahanan; dan
+  b. berita acara serah terima Anak.
 (4) Penempatan Anak sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan.
 (5) Pelaksanaan Pelayanan Anak sebagaimana dimaksud pada ayat (1) huruf c berdasarkan hasil Litmas.
 (6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan.
-(7) Pengeluaran PRES tDEN REPUBLIK INDONESIA (71 Pengeluaran Anak sebagaimana dimaksud pada ayat (1) huruf d terdiri atas:
-a. pengeluaran tetap;
-b. pengeluaran sementara; dan
-c. pengeluaran demi hukum. (8) Ketentuan mengenai pengeluaran Tahanan sebagaimana dimaksud dalam Pasal 2l dan Pasal 23 berlaku ^juga bagi ketentuan pengeluaran Anak. Pasal 30 (1) Pengeluaran sementara sebagaimana dimaksud dalam Pasal 29 ayat (7) huruf b dilakukan dalam hal:
-a. permintaan instansi yang menahan; dan
-b. kondisi darurat. (2) Pengeluaran sementara dalam hal kondisi darurat sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan oleh kepala LPAS dengan memberitahukan kepada instansi yang menahan. Pasal 31 (1) Penyelenggaraan Pelayanan Anak di LPAS diutamakan pada pelaksanaan pendidikan berdasarkan asas kepentingan terbaik bagi Anak. (2) Pelaksanaan pendidikan sebagaimana dimaksud pada ayat (1) tidak harus menyesuaikan dengan lamanya masa penahanan. Pasal 32 Untuk alasan kepentingan keamanan dan/atau keperluan proses peradilan, Anak dapat dipindahkan setelah mendapat izin dari instansi yang berwenang. Pasal 34 Ketentuan lebih lanjut mengenai penyelenggaraan Pelayanan Anak diatur dengan Peraturan Pemerintah. Bagian Kedua Pembinaan Paragraf 1 Pembinaan Narapidana Pasal 35 (1) Pembinaan terhadap Narapidana diselenggarakan oleh Lapas. (2) Lapas sebagaimana dimaksud pada ayat (1) dibentuk di kabupaten/kota. Pasal 36 (1) Penyelenggaraan Pembinaan terhadap Narapidana sebagaimana dimaksud dalam Pasal 35 ayat (1) meliputi:
-a. penerimaan Narapidana;
-b. penempatan Narapidana;
-c. pelaksanaan Pembinaan Narapidana;
-d. pengeluaran Narapidana; dan
-e. pembebasan Narapidana. (21 Dalam penerimaan Narapidana sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Narapidana. (3) Dokumen sebagaimana dimaksud pada ayat (21 meliputi:
-a. salinan atau petikan putusan pengadilan yang telah berkekuatan hukum tetap;
-b. berita acara pelaksanaan putusan; dan
-c. berita acara serah terima Narapidana.
-(4) Penempatan (41 Penempatan Narapidana sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan. (5) Pelaksanaan Pembinaan Narapidana sebagaimana dimaksud pada ayat (1) huruf c dilakukan berdasarkan hasil Litmas. (6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan. (71 Pengeluaran Narapidana sebagaimana dimaksud pada ayat (1) huruf d dilakukan dalam hal:
-a. perawatan kesehatan;
-b. masih ada perkara lain;
-c. pelaksanaan Pembinaan;
-d. terdapat alasan penting lainnya; dan
-e. kondisi darurat. (8) Pembebasan Narapidana sebagaimana dimaksud pada ayat (1) huruf e dilakukan karena telah selesai menjalani masa pidana. Pasal 37 Untuk kepentingan keamanan, keperluan proses peradilan, dipindahkan. Pasal 38 Berdasarkan hasil Litmas, Pembinaan berupa:
+(7) Pengeluaran Anak sebagaimana dimaksud pada ayat (1) huruf d terdiri atas:
+  a. pengeluaran tetap;
+  b. pengeluaran sementara; dan
+  c. pengeluaran demi hukum.
+(8) Ketentuan mengenai pengeluaran Tahanan sebagaimana dimaksud dalam Pasal 21 dan Pasal 23 berlaku juga bagi ketentuan pengeluaran Anak.
+
+Pasal 30
+(1) Pengeluaran sementara sebagaimana dimaksud dalam Pasal 29 ayat (7) huruf b dilakukan dalam hal:
+  a. permintaan instansi yang menahan; dan
+  b. kondisi darurat.
+(2) Pengeluaran sementara dalam hal kondisi darurat sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan oleh kepala LPAS dengan memberitahukan kepada instansi yang menahan.
+
+Pasal 31
+(1) Penyelenggaraan Pelayanan Anak di LPAS diutamakan pada pelaksanaan pendidikan berdasarkan asas kepentingan terbaik bagi Anak.
+(2) Pelaksanaan pendidikan sebagaimana dimaksud pada ayat (1) tidak harus menyesuaikan dengan lamanya masa penahanan.
+
+Pasal 32
+Untuk alasan kepentingan keamanan dan/atau keperluan proses peradilan, Anak dapat dipindahkan setelah mendapat izin dari instansi yang berwenang.
+
+Pasal 34
+Ketentuan lebih lanjut mengenai penyelenggaraan Pelayanan Anak diatur dengan Peraturan Pemerintah.
+
+Bagian Kedua
+Pembinaan
+
+Paragraf 1
+Pembinaan Narapidana
+
+Pasal 35
+(1) Pembinaan terhadap Narapidana diselenggarakan oleh Lapas.
+(2) Lapas sebagaimana dimaksud pada ayat (1) dibentuk di kabupaten/kota.
+
+Pasal 36
+(1) Penyelenggaraan Pembinaan terhadap Narapidana sebagaimana dimaksud dalam Pasal 35 ayat (1) meliputi:
+  a. penerimaan Narapidana;
+  b. penempatan Narapidana;
+  c. pelaksanaan Pembinaan Narapidana;
+  d. pengeluaran Narapidana; dan
+  e. pembebasan Narapidana.
+(2) Dalam penerimaan Narapidana sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Narapidana.
+(3) Dokumen sebagaimana dimaksud pada ayat (2) meliputi:
+  a. salinan atau petikan putusan pengadilan yang telah berkekuatan hukum tetap;
+  b. berita acara pelaksanaan putusan; dan
+  c. berita acara serah terima Narapidana.
+(4) Penempatan Narapidana sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan.
+(5) Pelaksanaan Pembinaan Narapidana sebagaimana dimaksud pada ayat (1) huruf c dilakukan berdasarkan hasil Litmas.
+(6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan.
+(7) Pengeluaran Narapidana sebagaimana dimaksud pada ayat (1) huruf d dilakukan dalam hal:
+  a. perawatan kesehatan;
+  b. masih ada perkara lain;
+  c. pelaksanaan Pembinaan;
+  d. terdapat alasan penting lainnya; dan
+  e. kondisi darurat.
+(8) Pembebasan Narapidana sebagaimana dimaksud pada ayat (1) huruf e dilakukan karena telah selesai menjalani masa pidana.
+
+Pasal 37
+Untuk kepentingan keamanan, keperluan proses peradilan, dipindahkan.
+
+Pasal 38
+Berdasarkan hasil Litmas, Pembinaan berupa:
 a. pembinaan kepribadian; dan
-b. pembinaan kemandirian. Pembinaan, dan/atau Narapidana dapat Narapidana diberikan Pasal 39 (1) Pembinaan kemandirian sebagaimana dimaksud dalam Pasal 38 huruf b dapat ditingkatkan menjadi kegiatan menghasilkan barang dan ^jasa yang memiliki manfaat dan nilai tambah.
-(2) Hasil (21 Hasil Pembinaan sebagaimana dimaksud pada ayat (1) menjadi sumber penerimaan negara bukan pajak sesuai dengan ketentuan peraturan perundang- undangan.
+b. pembinaan kemandirian.
+
+Pasal 39
+(1) Pembinaan kemandirian sebagaimana dimaksud dalam Pasal 38 huruf b dapat ditingkatkan menjadi kegiatan menghasilkan barang dan jasa yang memiliki manfaat dan nilai tambah.
+(2) Hasil Pembinaan sebagaimana dimaksud pada ayat (1) menjadi sumber penerimaan negara bukan pajak sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 40
-Dalam menjalankan Pembinaan sebagaimana dimaksud dalam Pasal 36, kepala Lapas dapat dibantu oleh Wali Pemasyarakatan. Pasal 4 1 Ketentuan Pembinaan Pemerintah. lebih lanjut Narapidana mengenai penyelenggaraan diatur dengan Peraturan
+Dalam menjalankan Pembinaan sebagaimana dimaksud dalam Pasal 36, kepala Lapas dapat dibantu oleh Wali Pemasyarakatan.
+
+Pasal 41
+Ketentuan lebih lanjut mengenai Pembinaan Narapidana diatur dengan Peraturan Pemerintah.
+
 Pasal 42
-Ketentuan mengenai Pembinaan terhadap Narapidana sebagaimana dimaksud dalam Pasal 38 berlaku ^juga terhadap Narapidana yang menjalani pidana tutupan.
+Ketentuan mengenai Pembinaan terhadap Narapidana sebagaimana dimaksud dalam Pasal 38 berlaku juga terhadap Narapidana yang menjalani pidana tutupan.
+
 Pasal 43
-(1) Dalam hal Narapidana terlibat perkara lain sebagai tersangka atau saksi, penyidikan dilakukan di Lapas tempat Narapidana yang bersangkutan menjalani pidana. (2) Penyidikan sebagaimana dimaksud pada ayat (1) dilaksanakan setelah penyidik menyerahkan surat izin melaksanakan penyidikan kepada kepala Lapas. (3) Dalam keadaan tertentu, kepala Lapas dapat menolak pelaksanaan penyidikan di Lapas sebagaimana dimaksud pada ayat (1).
+(1) Dalam hal Narapidana terlibat perkara lain sebagai tersangka atau saksi, penyidikan dilakukan di Lapas tempat Narapidana yang bersangkutan menjalani pidana.
+(2) Penyidikan sebagaimana dimaksud pada ayat (1) dilaksanakan setelah penyidik menyerahkan surat izin melaksanakan penyidikan kepada kepala Lapas.
+(3) Dalam keadaan tertentu, kepala Lapas dapat menolak pelaksanaan penyidikan di Lapas sebagaimana dimaksud pada ayat (1).
 (4) Dalam hal penyidikan sebagaimana dimaksud pada ayat (1) tidak dapat dilakukan di Lapas, penyidikan dapat dilakukan di luar Lapas setelah rnendapat surat izin dari kepala Lapas.
-(5) Pengeluaran (5) Pengeluaran Narapidana untuk keperluan penyidikan sebagaimana dimaksud pada ayat (4) dapat dilakukan paling lama 24 (dua puluh empat) jam terhitung sejak dibawa keluar Lapas, kecuali ditentukan lain oleh Undang-Undang. (6) Dalam hal penyidikan Narapidana dilakukan di luar wilayah tempat Narapidana menjalankan pidana, Narapidana dapat dititipkan ke Lapas terdekat dengan tempat penyidikan.
+(5) Pengeluaran Narapidana untuk keperluan penyidikan sebagaimana dimaksud pada ayat (4) dapat dilakukan paling lama 24 (dua puluh empat) jam terhitung sejak dibawa keluar Lapas, kecuali ditentukan lain oleh Undang-Undang.
+(6) Dalam hal penyidikan Narapidana dilakukan di luar wilayah tempat Narapidana menjalankan pidana, Narapidana dapat dititipkan ke Lapas terdekat dengan tempat penyidikan.
+
 Pasal 44
-(1) Untuk keperluan penuntutan dan pemeriksaan di sidang pengadilan, Narapidana dapat dikeluarkan setelah mendapat surat rzin dari kepala Lapas. (2) Dalam hal penuntutan dan pemeriksaan di sidang pengadilan sebagaimana dimaksud pada ayat (1) dilakukan di luar wilayah tempat Narapidana menjalankan pidana, Narapidana dapat dititipkan ke Lapas terdekat dengan tempat penuntutan dan pemeriksaan di sidang pengadilan.
+(1) Untuk keperluan penuntutan dan pemeriksaan di sidang pengadilan, Narapidana dapat dikeluarkan setelah mendapat surat izin dari kepala Lapas.
+(2) Dalam hal penuntutan dan pemeriksaan di sidang pengadilan sebagaimana dimaksud pada ayat (1) dilakukan di luar wilayah tempat Narapidana menjalankan pidana, Narapidana dapat dititipkan ke Lapas terdekat dengan tempat penuntutan dan pemeriksaan di sidang pengadilan.
+
 Pasal 45
-(1) Dalam hal tertentu, Narapidana dapat dipindahkan ke negara lain berdasarkan perjanjian. (2) Ketentuan mengenai pemindahan Narapidana sebagaimana dimaksud pada ayat (1) diatur dengan Undang-Undang.
+(1) Dalam hal tertentu, Narapidana dapat dipindahkan ke negara lain berdasarkan perjanjian.
+(2) Ketentuan mengenai pemindahan Narapidana sebagaimana dimaksud pada ayat (1) diatur dengan Undang-Undang.
+
 Pasal 46
-Kepala Lapas wajib membebaskan Narapidana yang telah selesai menjalani masa pidananya. Paragraf 2 Pembinaan Anak Binaan Pasal 47 (1) Pembinaan terhadap Anak Binaan diselenggarakan oleh LPKA.
-(2) LPKA (21 LPKA sebagaimana dimaksud pada ayat (1) dibentuk di provinsi. Pasal 48 (1) Penyelenggaraan Pembinaan terhadap Anak Binaan sebagaimana dimaksud dalam Pasal 47 ayat (1) meliputi:
-a. penerimaan Anak Binaan;
-b. penempatan Anak Binaan;
-c. pelaksanaan Pembinaan Anak Binaan;
-d. pengeluaran Anak Binaan; dan
-e. pembebasan Anak Binaan. (21 Dalam penerimaan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Anak Binaan. (3) Dokumen sebagaimana dimaksud pada ayat (21 meliputi:
-a. salinan atau petikan putusan pengadilan yang telah berkekuatan hukum tetap;
-b. berita acara pelaksanaan putusan; dan
-c. berita acara serah terima Anak Binaan. (4) Penempatan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan. (5) Pelaksanaan Pembinaan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf c berdasarkan hasil Litmas. (6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan. (71 Pengeluaran Anak Binaan sebagaimana dimaksud pada ayat (1) huruf d dilakukan dalam hal:
-a. perawatan kesehatan;
-b. masih ada perkara lain;
-c. pelaksanaan Pembinaan;
-d. terdapat alasan penting lainnya; dan
-e. kondisi darurat.
-(8) Pembebasan (8) Pembebasan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf e dilakukan karena telah selesai menjalani masa pidana. Pasal 49 Untuk kepentingan keamanan, keperluan proses peradilan, dipindahkan. Pembinaan, dan/atau Anak Binaan dapat Pasal 50 (1) Berdasarkan hasil Litmas, Anak Binaan diberikan Pembinaan berupa:
-a. pendidikan;
-b. pembinaan kepribadian; dan
-c. pembinaan kemandirian. (2) Pendidikan sebagaimana dimaksud pada ayat (1) huruf a terdiri atas pendidikan formal, nonformal, danlatau informal. (3) Pembinaan kepribadian sebagaimana dimaksud pada ayat (1) huruf b berupa kegiatan yang bertujuan pada pembinaan mental dan spiritual. (41 Pembinaan kemandirian sebagaimana dimaksud pada ayat (1) huruf c berupa pelatihan keterampilan. (5) Pembinaan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan mengutamakan kepentingan terbaik bagi Anak Binaan. Pasal 51 Dalam menjalankan Pembinaan sebagaimana dimaksud dalam Pasal 48, kepala LPKA dapat dibantu oleh Wali Pemasyarakatan. Ketentuan Pembinaan Pemerintah Pasal 52 lebih lanjut Anak Binaan mengenai penyelenggaraan diatur dengan Peraturan Bagian Ketiga Pelayanan Tahanan dan Pembinaan Narapidana Risiko Tinggi
-Pasal 54
+Kepala Lapas wajib membebaskan Narapidana yang telah selesai menjalani masa pidananya.
+
+Paragraf 2
+Pembinaan Anak Binaan
+
+Pasal 47
+(1) Pembinaan terhadap Anak Binaan diselenggarakan oleh LPKA.
+(2) LPKA sebagaimana dimaksud pada ayat (1) dibentuk di provinsi.
+
+Pasal 48
+(1) Penyelenggaraan Pembinaan terhadap Anak Binaan sebagaimana dimaksud dalam Pasal 47 ayat (1) meliputi:
+  a. penerimaan Anak Binaan;
+  b. penempatan Anak Binaan;
+  c. pelaksanaan Pembinaan Anak Binaan;
+  d. pengeluaran Anak Binaan; dan
+  e. pembebasan Anak Binaan.
+(2) Dalam penerimaan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf a dilakukan pemeriksaan keabsahan dokumen dan kondisi kesehatan Anak Binaan.
+(3) Dokumen sebagaimana dimaksud pada ayat (2) meliputi:
+  a. salinan atau petikan putusan pengadilan yang telah berkekuatan hukum tetap;
+  b. berita acara pelaksanaan putusan; dan
+  c. berita acara serah terima Anak Binaan.
+(4) Penempatan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf b dikelompokkan berdasarkan usia dan jenis kelamin, atau alasan lain sesuai dengan asesmen risiko dan kebutuhan yang dilakukan oleh Asesor Pemasyarakatan.
+(5) Pelaksanaan Pembinaan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf c berdasarkan hasil Litmas.
+(6) Litmas sebagaimana dimaksud pada ayat (5) disusun oleh Pembimbing Kemasyarakatan.
+(7) Pengeluaran Anak Binaan sebagaimana dimaksud pada ayat (1) huruf d dilakukan dalam hal:
+  a. perawatan kesehatan;
+  b. masih ada perkara lain;
+  c. pelaksanaan Pembinaan;
+  d. terdapat alasan penting lainnya; dan
+  e. kondisi darurat.
+(8) Pembebasan Anak Binaan sebagaimana dimaksud pada ayat (1) huruf e dilakukan karena telah selesai menjalani masa pidana.
+
+Pasal 49
+Untuk kepentingan keamanan, keperluan proses peradilan, Pembinaan, dan/atau Anak Binaan dapat dipindahkan.
+
+Pasal 50
+(1) Berdasarkan hasil Litmas, Anak Binaan diberikan Pembinaan berupa:
+  a. pendidikan;
+  b. pembinaan kepribadian; dan
+  c. pembinaan kemandirian.
+(2) Pendidikan sebagaimana dimaksud pada ayat (1) huruf a terdiri atas pendidikan formal, nonformal, dan/atau informal.
+(3) Pembinaan kepribadian sebagaimana dimaksud pada ayat (1) huruf b berupa kegiatan yang bertujuan pada pembinaan mental dan spiritual.
+(4) Pembinaan kemandirian sebagaimana dimaksud pada ayat (1) huruf c berupa pelatihan keterampilan.
+(5) Pembinaan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan mengutamakan kepentingan terbaik bagi Anak Binaan.
+
+Pasal 51
+Dalam menjalankan Pembinaan sebagaimana dimaksud dalam Pasal 48, kepala LPKA dapat dibantu oleh Wali Pemasyarakatan.
+
+Pasal 52
+Ketentuan lebih lanjut mengenai penyelenggaraan Pembinaan terhadap Anak Binaan diatur dengan Peraturan Pemerintah.
+
+Bagian Ketiga
+Pelayanan Tahanan dan Pembinaan Narapidana Risiko Tinggi
+
 Pasal 53
 Kepala LPKA wajib membebaskan Anak Binaan yang telah selesai menjalani masa pidananya.
-(1) Terhadap Tahanan atau Narapidana risiko tinggi diberikan Pelayanan atau Pembinaan khusus berdasarkan hasil Litmas. (2) Hasil Litmas sebagaimana dimaksud pada ayat (1) disusun berdasarkan asesmen yang dilakukan oleh Asesor Pemasyarakatan pada Bapas dan/atau instansi terkait. (3) Pelayanan atau Pembinaan khusus sebagaimana dimaksud pada ayat (1) meliputi:
-a. penempatan dalam tempat tertentu; dan
-b. pemberian program Pelayanan atau Pembinaan berkoordinasi dengan instansi terkait. (4) Ketentuan lebih lanjut mengenai Pelayanan atau Pembinaan khusus sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah. Bagian Keempat Pembimbingan Kemasyarakatan Pasal 55 (1) Pembimbingan Kemasyarakatan terhadap Klien diselenggarakan oleh Bapas. (21 Bapas sebagaimana dimaksud pada ayat (1) dibentuk di kabupaten/kota. Pasal 56 (1) Penyelenggaraan Pembimbingan Kemasyarakatan meliputi:
-a. pendampingan;
-b. pembimbingan; dan
-c. pengawasan. (21 Penyelenggaraan Pembimbingan Kemasyarakatan sebagaimana dimaksud pada ayat (1) dilakukan melalui tahapan:
-a. penerimaan Klien;
-b. pemberian program; dan
-c. pengakhiran.
-(3) Pendampingan sebagaimana dimaksud pada ayat (1) huruf a digunakan untuk pemenuhan kebutuhan dan pelindungan hak dalam proses peradilan sejak tahap praadjudikasi sampai dengan tahap pascaadjudikasi dan bimbingan lanjutan. (4) Pembimbingan sebagaimana dimaksud pada ayat (1) huruf b digunakan untuk memberikan bekal dalam meningkatkan kualitas mental dan spiritual, intelektual, keterampilan, dan kemandirian bagi Klien. (5) Pengawasan sebagaimana dimaksud pada ayat (1) huruf c digunakan untuk memastikan pelaksanaan syarat dan program yang telah ditetapkan. (6) Kegiatan pendampingan, pembimbingan, dan pengawasan sebagaimana dimaksud pada ayat (3), ayat (4), dan ayat (5) dilakukan berdasarkan hasil Litmas. (71 Litmas sebagaimana dimaksud pada ayat (6) disusun oleh Pembimbing Kemasyarakatan.
+
+Pasal 54
+(1) Terhadap Tahanan atau Narapidana risiko tinggi diberikan Pelayanan atau Pembinaan khusus berdasarkan hasil Litmas.
+(2) Hasil Litmas sebagaimana dimaksud pada ayat (1) disusun berdasarkan asesmen yang dilakukan oleh Asesor Pemasyarakatan pada Bapas dan/atau instansi terkait.
+(3) Pelayanan atau Pembinaan khusus sebagaimana dimaksud pada ayat (1) meliputi:
+  a. penempatan dalam tempat tertentu; dan
+  b. pemberian program Pelayanan atau Pembinaan berkoordinasi dengan instansi terkait.
+(4) Ketentuan lebih lanjut mengenai Pelayanan atau Pembinaan khusus sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+Bagian Keempat
+Pembimbingan Kemasyarakatan
+
+Pasal 55
+(1) Pembimbingan Kemasyarakatan terhadap Klien diselenggarakan oleh Bapas.
+(2) Bapas sebagaimana dimaksud pada ayat (1) dibentuk di kabupaten/kota.
+
+Pasal 56
+(1) Penyelenggaraan Pembimbingan Kemasyarakatan meliputi:
+  a. pendampingan;
+  b. pembimbingan; dan
+  c. pengawasan.
+(2) Penyelenggaraan Pembimbingan Kemasyarakatan sebagaimana dimaksud pada ayat (1) dilakukan melalui tahapan:
+  a. penerimaan Klien;
+  b. pemberian program; dan
+  c. pengakhiran.
+(3) Pendampingan sebagaimana dimaksud pada ayat (1) huruf a digunakan untuk pemenuhan kebutuhan dan pelindungan hak dalam proses peradilan sejak tahap praadjudikasi sampai dengan tahap pascaadjudikasi dan bimbingan lanjutan.
+(4) Pembimbingan sebagaimana dimaksud pada ayat (1) huruf b digunakan untuk memberikan bekal dalam meningkatkan kualitas mental dan spiritual, intelektual, keterampilan, dan kemandirian bagi Klien.
+(5) Pengawasan sebagaimana dimaksud pada ayat (1) huruf c digunakan untuk memastikan pelaksanaan syarat dan program yang telah ditetapkan.
+(6) Kegiatan pendampingan, pembimbingan, dan pengawasan sebagaimana dimaksud pada ayat (3), ayat (4), dan ayat (5) dilakukan berdasarkan hasil Litmas.
+(7) Litmas sebagaimana dimaksud pada ayat (6) disusun oleh Pembimbing Kemasyarakatan.
+
 Pasal 57
-Ketentuan mengenai Pembimbingan Kemasyarakatan terhadap Klien sebagaimana dimaksud dalam Pasal 56 berlaku ^juga terhadap Klien yang menjalani: a pidana a. pidana kerja sosial dan pidana pengawasan bagi dewasa; dan
-b. pidana peringatan, pidana dengan syarat, pelatihan kerja, dan pembinaan dalam lembaga bagi anak.
+Ketentuan mengenai Pembimbingan Kemasyarakatan terhadap Klien sebagaimana dimaksud dalam Pasal 56 berlaku juga terhadap Klien yang menjalani:
+  a. pidana kerja sosial dan pidana pengawasan bagi dewasa; dan
+  b. pidana peringatan, pidana dengan syarat, pelatihan kerja, dan pembinaan dalam lembaga bagi anak.
+
 Pasal 58
 (1) Pembimbingan Klien berakhir karena:
-a. telah selesai menjalani masa Pembimbingan Kemasyarakatan berdasarkan putusan pengadilan atau keputusan menteri/pimpinan lembaga;
-b. meninggal dunia; atau
-c. dicabut Pembimbingan Kemasyarakatannya karena melanggar persyaratan Pembimbingan Kemasyarakatan.
-(2) Kepala Bapas wajib mengakhiri Pembimbingan Kemasyarakatan Klien sebagaimana dimaksud pada ayat (1). Pasal 59 Ketentuan lebih lanjut mengenai pelaksanaan Pembimbingan Kemasyarakatan diatur dengan Peraturan Pemerintah. Bagian Kelima Perawatan Pasal 60 (1) Rutan, LPAS, Lapas, dan LPKA dalam melaksanakan fungsi Pelayanan dan Pembinaan memberikan Perawatan terhadap Tahanan, Anak, Narapidana, dan Anak Binaan. (21 Perawatan sebagaimana dimaksud pada ayat (1) terdiri atas:
-a. pemeliharaan kesehatan;
-b. rehabilitasi; dan
-c. pemenuhan kebutuhan dasar. PRES tDEN REPUBLIK INDONESIA
+  a. telah selesai menjalani masa Pembimbingan Kemasyarakatan berdasarkan putusan pengadilan atau keputusan menteri/pimpinan lembaga;
+  b. meninggal dunia; atau
+  c. dicabut Pembimbingan Kemasyarakatannya karena melanggar persyaratan Pembimbingan Kemasyarakatan.
+(2) Kepala Bapas wajib mengakhiri Pembimbingan Kemasyarakatan Klien sebagaimana dimaksud pada ayat (1).
+
+Pasal 59
+Ketentuan lebih lanjut mengenai pelaksanaan Pembimbingan Kemasyarakatan diatur dengan Peraturan Pemerintah.
+
+Bagian Kelima
+Perawatan
+
+Pasal 60
+(1) Rutan, LPAS, Lapas, dan LPKA dalam melaksanakan fungsi Pelayanan dan Pembinaan memberikan Perawatan terhadap Tahanan, Anak, Narapidana, dan Anak Binaan.
+(2) Perawatan sebagaimana dimaksud pada ayat (1) terdiri atas:
+  a. pemeliharaan kesehatan;
+  b. rehabilitasi; dan
+  c. pemenuhan kebutuhan dasar.
+
 Pasal 61
 (1) Rutan, LPAS, Lapas, dan LPKA memberikan perlakuan khusus terhadap kelompok berkebutuhan khusus.
 (2) Kelompok berkebutuhan khusus sebagaimana dimaksud pada ayat (1) terdiri atas:
-a. Anak;
-b. Anak Binaan;
-c. perempuan dalam fungsi reproduksi;
-d. pengidap penyakit kronis;
-e. penyandang disabilitas; dan
-f. manusia lanjut usia.
+  a. Anak;
+  b. Anak Binaan;
+  c. perempuan dalam fungsi reproduksi;
+  d. pengidap penyakit kronis;
+  e. penyandang disabilitas; dan
+  f. manusia lanjut usia.
+
 Pasal 62
-(1) Anak dari Tahanan atau anak dari Narapidana perempuan yang dibawa ke dalam Rutan atau Lapas, atau yang lahir di Lapas dapat tinggal bersama ibunya paling lama sampai dengan anak berusia 3 (tiga) tahun. (21 Anak dari Tahanan atau anak dari Narapidana perempuan sebagaimana dimaksud pada ayat (1) ditempatkan secara khusus bersama dengan Tahanan atau Narapidana perempuan tersebut.
+(1) Anak dari Tahanan atau anak dari Narapidana perempuan yang dibawa ke dalam Rutan atau Lapas, atau yang lahir di Lapas dapat tinggal bersama ibunya paling lama sampai dengan anak berusia 3 (tiga) tahun.
+(2) Anak dari Tahanan atau anak dari Narapidana perempuan sebagaimana dimaksud pada ayat (1) ditempatkan secara khusus bersama dengan Tahanan atau Narapidana perempuan tersebut.
 (3) Dalam hal anak dari Tahanan atau anak dari Narapidana perempuan sebagaimana dimaksud pada ayat (1) merupakan anak yang berkebutuhan khusus, anak dapat ditempatkan pada unit layanan disabilitas.
 (4) Anak sebagaimana dimaksud pada ayat (1) dapat diberi makanan tambahan atas petunjuk dokter atau ahl: gizi.
+
 Pasal 63
 Ketentuan lebih lanjut mengenai Perawatan Tahanan, Anak, Narapidana, dan Anak Binaan diatur dengan Peraturan Pemerintah.
-Bagian Keenam Bagian Keenam Pengamanan
+
+Bagian Keenam
+Pengamanan
+
 Pasal 64
-(1) Penyelenggaraan Pengarnanan dilakukan di Rutan dan Lapas. (2) Penyelenggaraan Pengamanan sebagaimana dimaksud pada ayat (1) dapat dilakukan ditempat lain. (3) Penyelenggaraan Pengamanan sebagaimana dimaksud pada ayat (1) dan ayat (21terdiri atas:
-a. pencegahan;
-b. penindakan; dan
-c. pemulihan.
+(1) Penyelenggaraan Pengamanan dilakukan di Rutan dan Lapas.
+(2) Penyelenggaraan Pengamanan sebagaimana dimaksud pada ayat (1) dapat dilakukan ditempat lain.
+(3) Penyelenggaraan Pengamanan sebagaimana dimaksud pada ayat (1) dan ayat (2) terdiri atas:
+  a. pencegahan;
+  b. penindakan; dan
+  c. pemulihan.
+
 Pasal 65
-(1) Pencegahan sebagaimana dimaksud dalam Pasal 64 ayat (3) huruf a merupakan upaya untuk mengurangi atau menghilangkan potensi dan ancaman gangguan keamanan dan ketertiban. (2) Dalam melaksanakan pencegahan di Rutan dan Lapas sebagaimana dimaksud pada ayat (1), Petugas Pemasyarakatan berwenang melakukan:
-a. pemeriksaan;
-b. pengawasan komunikasi; dan
-c. tindakan pencegahan lainnya.
+(1) Pencegahan sebagaimana dimaksud dalam Pasal 64 ayat (3) huruf a merupakan upaya untuk mengurangi atau menghilangkan potensi dan ancaman gangguan keamanan dan ketertiban.
+(2) Dalam melaksanakan pencegahan di Rutan dan Lapas sebagaimana dimaksud pada ayat (1), Petugas Pemasyarakatan berwenang melakukan:
+  a. pemeriksaan;
+  b. pengawasan komunikasi; dan
+  c. tindakan pencegahan lainnya.
+
 Pasal 66
-(1) Penindakan sebagaimana dimaksud dalam Pasal 64 ayat (3) huruf b merupakan upaya untuk menghentikan, mengurangi, dan melokalisasi gangguan keamanan dan ketertiban. (2) Dalam melaksanakan penindakan sebagaimana dimaksud pada ayat (1) di Rutan dan Lapas, Petugas Pemasyarakatan berwenang untuk:
-a. mengamankan barang terlarang;
-b. menggunakan kekuatan;
-c. menjatuhkan sanksi; dan
-d. menjatuhkan tindakan pembatasan. Pasal 67 (1) Penjatuhan sanksi bagi Tahanan dan Narapidana sebagaimana dimaksud dalam Pasal 66 ayat (21 huruf c berupa:
-a. penempatan dalam sel pengasingan paling lama 12 (dua belas) hari; dan/atau
-b. penundaan atau pembatasan hak sebagaimana dimaksud dalam Pasal 7 huruf k dan Pasal 10 ayat (1). (2) Sanksi sebagaimana dimaksud pada ayat (1) huruf a tidak diberikan bagi Tahanan dan Narapidana perempuan dalam fungsi reproduksi. Pasal 68 Dalam menjatuhkan sanksi kepada Tahanan dan Narapidana, Petugas Pemasyarakatan rvajib:
-a. memperlakukan Tahanan dan Narapidana secara adil dan tidak bcrtindak sewenang-wenang; dan
-b. mendasarkan tindakannya pada peraturan tata tertib Rutan dan Lapas.
+(1) Penindakan sebagaimana dimaksud dalam Pasal 64 ayat (3) huruf b merupakan upaya untuk menghentikan, mengurangi, dan melokalisasi gangguan keamanan dan ketertiban.
+(2) Dalam melaksanakan penindakan sebagaimana dimaksud pada ayat (1) di Rutan dan Lapas, Petugas Pemasyarakatan berwenang untuk:
+  a. mengamankan barang terlarang;
+  b. menggunakan kekuatan;
+  c. menjatuhkan sanksi; dan
+  d. menjatuhkan tindakan pembatasan.
+
+Pasal 67
+(1) Penjatuhan sanksi bagi Tahanan dan Narapidana sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf c berupa:
+  a. penempatan dalam sel pengasingan paling lama 12 (dua belas) hari; dan/atau
+  b. penundaan atau pembatasan hak sebagaimana dimaksud dalam Pasal 7 huruf k dan Pasal 10 ayat (1).
+(2) Sanksi sebagaimana dimaksud pada ayat (1) huruf a tidak diberikan bagi Tahanan dan Narapidana perempuan dalam fungsi reproduksi.
+
+Pasal 68
+Dalam menjatuhkan sanksi kepada Tahanan dan Narapidana, Petugas Pemasyarakatan wajib:
+  a. memperlakukan Tahanan dan Narapidana secara adil dan tidak bcrtindak sewenang-wenang; dan
+  b. mendasarkan tindakannya pada peraturan tata tertib Rutan dan Lapas.
+
 Pasal 69
-Dalam hal pelanggaran yang dilakukan oleh Tahanan atau Narapidana diduga tindak pidana, kepala Rutan atau kepala Lapas melaporkan kepada instansi yang berwenang untuk diproses sesuai dengan ketentuan peraturan perundang-undangan. Pasal 7O (1) Tindakan pembatasan sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf d berdasarkan hasil penilaian Petugas Pemasyarakatan dikenakan bagi Tahanan dan Narapidana yang:
-a. terancam oleh lingkungan sekitar; atau
-b. risiko tinggi.
-(2) Tindakan pembatasan sebagaimana dimaksud pada ayat (1) berupa penempatan di tempat tertentu. Pasal 71 (1) Pemulihan sebagaimana dimaksud dalam Pasal 64 ayat (3) huruf c merupakan upaya untuk memperbaiki dan mengembalikan keadaan kondisi pasca gangguan keamanan dan ketertiban. (2) Pemulihan sebagaimana dimaksud pada ayat (1) dilakukan melalui cipta kondisi di Rutan dan Lapas. Pasal 72 Dalam melaksanakan penyelenggaraan Pengamanan, Petugas Pemasyarakatan dilengkapi dengan senjata api serta sarana dan prasarana Pengamanan lainnya sesuai dengan ketentuan peraturan perundang-undangan. Bagian Ketujuh Pengamatan Pasal 73 (1) Penyelenggaraan Pengamatarr dilakrrkan di LPAS dan LPKA. (21 Penyelenggaraan Pengamatan sebagaimana dimaksud pada ayat (1) dapat dilakukan di tempat lain. (3) Pengamatan sebagaimana dimaksud pada ayat (1) terdiri atas:
-a. pencegahan;
-b. penegakan disiplin; dan
-c. pemulihan. Pasal 74 (1) Pencegahan sebagaimana dimaksud dalam Pasal 73 ayat (3) huruf a merupakan upaya untuk mengurangi atau menghilangkan potensi dan ancaman gangguan keamanan dan ketertiban.
-(2) Dalam (21 Dalam melaksanakan pencegahan di LPAS dan LPKA sebagaimana dimaksud pada ayat (1), Petugas Pemasyarakatan berwenang melakukan:
-a. pemeriksaan;
-b. pengawasan komunikasi; dan
-c. tindakan pencegahan lainnya. Pasal 75 Dalam melaksanakan penegakan disiplin sebagaimana dimaksud dalam Pasal 73 ayat (3) huruf b di LPAS dan LPKA, Petugas Pemasyarakatan berwenang untuk:
-a. mengamankan barang terlarang; dan
-b. menjatuhkan tindakan disiplin. Pasal 76 Tindakan disiplin bagi Anak dan Anak Binaan sebagaimana dimaksud dalam Pasal 75 huruf b berupa:
-a. peringatan atau teguran;
-b. permintaan maaf secara lisan atau tertulis;
-c. membersihkan lingkungan; dan
-d. tindakan disiplin sesuai kesepakatan bersama antara Anak atau Anak Binaan dengan Petugas Pemasyarakatan. Pasal 77 Dalam menjatuhkan tindakan disiplin kepada Anak dan Anak Binaan, Petugas Pemasyarakatan wajib:
-a. memperlakukan Anak dan Anak Binaan secara adil;
-b. mendasarkan tindakannya pada peraturan tata tertib LPAS dan LPKA; dan
-c. tidak bertindak sewenang-wenang. Pasal 78 Dalam hal pelanggaran yang dilakukan oleh Anak atau Anak Binaan diduga merupakan tindak pidana, kepala LPAS atau kepala LPKA melaporkan kepada instansi yang berwenang untuk diproses sesuai dengan ketentuan peraturan perundang-undangan.
-Pasal 79
+Dalam hal pelanggaran yang dilakukan oleh Tahanan atau Narapidana diduga tindak pidana, kepala Rutan atau kepala Lapas melaporkan kepada instansi yang berwenang untuk diproses sesuai dengan ketentuan peraturan perundang-undangan.
+
+Pasal 70
+(1) Tindakan pembatasan sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf d berdasarkan hasil penilaian Petugas Pemasyarakatan dikenakan bagi Tahanan dan Narapidana yang:
+  a. terancam oleh lingkungan sekitar; atau
+  b. risiko tinggi.
+(2) Tindakan pembatasan sebagaimana dimaksud pada ayat (1) berupa penempatan di tempat tertentu.
+
+Pasal 71
+(1) Pemulihan sebagaimana dimaksud dalam Pasal 64 ayat (3) huruf c merupakan upaya untuk memperbaiki dan mengembalikan keadaan kondisi pasca gangguan keamanan dan ketertiban.
+(2) Pemulihan sebagaimana dimaksud pada ayat (1) dilakukan melalui cipta kondisi di Rutan dan Lapas.
+
+Pasal 72
+Dalam melaksanakan penyelenggaraan Pengamanan, Petugas Pemasyarakatan dilengkapi dengan senjata api serta sarana dan prasarana Pengamanan lainnya sesuai dengan ketentuan peraturan perundang-undangan.
+
+Bagian Ketujuh
+Pengamatan
+
+Pasal 73
+(1) Penyelenggaraan Pengamatarr dilakrrkan di LPAS dan LPKA.
+(2) Penyelenggaraan Pengamatan sebagaimana dimaksud pada ayat (1) dapat dilakukan di tempat lain.
+(3) Pengamatan sebagaimana dimaksud pada ayat (1) terdiri atas:
+  a. pencegahan;
+  b. penegakan disiplin; dan
+  c. pemulihan.
+
+Pasal 74
+(1) Pencegahan sebagaimana dimaksud dalam Pasal 73 ayat (3) huruf a merupakan upaya untuk mengurangi atau menghilangkan potensi dan ancaman gangguan keamanan dan ketertiban.
+(2) Dalam melaksanakan pencegahan di LPAS dan LPKA sebagaimana dimaksud pada ayat (1), Petugas Pemasyarakatan berwenang melakukan:
+  a. pemeriksaan;
+  b. pengawasan komunikasi; dan
+  c. tindakan pencegahan lainnya.
+
+Pasal 75
+Dalam melaksanakan penegakan disiplin sebagaimana dimaksud dalam Pasal 73 ayat (3) huruf b di LPAS dan LPKA, Petugas Pemasyarakatan berwenang untuk:
+  a. mengamankan barang terlarang; dan
+  b. menjatuhkan tindakan disiplin.
+
+Pasal 76
+Tindakan disiplin bagi Anak dan Anak Binaan sebagaimana dimaksud dalam Pasal 75 huruf b berupa:
+  a. peringatan atau teguran;
+  b. permintaan maaf secara lisan atau tertulis;
+  c. membersihkan lingkungan; dan
+  d. tindakan disiplin sesuai kesepakatan bersama antara Anak atau Anak Binaan dengan Petugas Pemasyarakatan.
+
+Pasal 77
+Dalam menjatuhkan tindakan disiplin kepada Anak dan Anak Binaan, Petugas Pemasyarakatan wajib:
+  a. memperlakukan Anak dan Anak Binaan secara adil;
+  b. mendasarkan tindakannya pada peraturan tata tertib LPAS dan LPKA; dan
+  c. tidak bertindak sewenang-wenang.
+
+Pasal 78
+Dalam hal pelanggaran yang dilakukan oleh Anak atau Anak Binaan diduga merupakan tindak pidana, kepala LPAS atau kepala LPKA melaporkan kepada instansi yang berwenang untuk diproses sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 79
 (1) Pemulihan sebagaimana dimaksud dalam Pasal 73 ayat (3) huruf c merupakan upaya untuk memperbaiki dan mengembalikan keadaan kondisi pasca gangguan keamanan dan ketertiban.
-(2) Pemulihan sebagaimana dimaksud pada ayat (1) dilakukan melalui cipta kondisi di LPAS dan LPI(A.
-Pasal 8O
+(2) Pemulihan sebagaimana dimaksud pada ayat (1) dilakukan melalui cipta kondisi di LPAS dan LPKA.
+
+Pasal 80
 Ketentuan lebih lanjut mengenai penyelenggaraan Pengamanan dan Pengamatan diatur dengan Peraturan Pemerintah.
-BAB IV INTELIJ EN PEMASYARAKATAN
+
+BAB IV
+INTELIJEN PEMASYARAKATAN
+
 Pasal 81
-(1) Penyelenggaraan Pengamanan sebagaimana dimaksud dalam Pasal 64 sampai dengan Pasal 7 | dan Pengamatan sebagaimana dimaksud dalam Pasal 73 sampai dengan Pasal 79 didukung dengan kegiatan intelijen.
+(1) Penyelenggaraan Pengamanan sebagaimana dimaksud dalam Pasal 64 sampai dengan Pasal 72 dan Pengamatan sebagaimana dimaksud dalam Pasal 73 sampai dengan Pasal 79 didukung dengan kegiatan intelijen.
 (2) Kegiatan intelijen sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Petugas Pemasyarakatan.
 (3) Dalam melaksanakan kegiatan intelijen sebagaimana dimaksud pada ayat (2), Petugas Pemasyarakatan berwenang melakukan:
-a. pengumpulan informasi intelijen;
-b. pengelolaan dan analisis informasi intelijen;
-c. penyajian data dan inforrrrasi intelijen; dan
-d. pertukaran informasi intelijen.
-BAB V BAB V SISTEM TEKNOLOGI INFORMASI PEMASYARAKATAN
+  a. pengumpulan informasi intelijen;
+  b. pengelolaan dan analisis informasi intelijen;
+  c. penyajian data dan informasi intelijen; dan
+  d. pertukaran informasi intelijen.
+
+BAB V
+SISTEM TEKNOLOGI INFORMASI
+PEMASYARAKATAN
+
 Pasal 82
 (1) Untuk mendukung pelaksanaan fungsi Pemasyarakatan digunakan sistem teknologi informasi Pemasyarakatan.
 (2) Sistem teknologi informasi Pemasyarakatan sebagaimana dimaksud pada ayat (1) meliputi pengaturan mengenai kelembagaan, proses bisnis, sumber daya manusia, data, layanan dan aplikasi, infrastruktur, keamanan, audit teknologi informasi, dan pusat data.
-(3) Ketentuan lebih lanjut mengenai sistem teknologi informasi Pemasyarakatan diatur dengan peraturan menteri/ pimpinan lembaga. BAB VI SARANA DAN PRASARANA Pasal 83 (1) Dalam melaksanakan kebijakan penyelenggaraan fungsi Pemasyarakatan, pemerintah menyediakan sarana dan prasarana yang dibutuhkan. (21 Sarana dan prasarana sebagaimana dimaksud pada ayat (1) paling sedikit meliputi sarana dan prasarana:
-a. Pelayanan, Pembinaan, Pembimbingan Kemasyarakatan, Perawatan, Pengamanan, dan Pengamatan;
-b. lingkungan;
-c. bangunan;
-d. teknologi informasi; dan
-e. pendidikan. (3) Sarana dan prasarana sebagaimana dimaksud pada ayat (21memiliki fungsi yang terintegrasi antara aspek ruang gerak, kesehatan, dan keselamatan.
-(4) Ketentr:
+(3) Ketentuan lebih lanjut mengenai sistem teknologi informasi Pemasyarakatan diatur dengan peraturan menteri/ pimpinan lembaga.
+
+BAB VI
+SARANA DAN PRASARANA
+
+Pasal 83
+(1) Dalam melaksanakan kebijakan penyelenggaraan fungsi Pemasyarakatan, pemerintah menyediakan sarana dan prasarana yang dibutuhkan.
+(2) Sarana dan prasarana sebagaimana dimaksud pada ayat (1) paling sedikit meliputi sarana dan prasarana:
+  a. Pelayanan, Pembinaan, Pembimbingan Kemasyarakatan, Perawatan, Pengamanan, dan Pengamatan;
+  b. lingkungan;
+  c. bangunan;
+  d. teknologi informasi; dan
+  e. pendidikan.
+(3) Sarana dan prasarana sebagaimana dimaksud pada ayat (2) memiliki fungsi yang terintegrasi antara aspek ruang gerak, kesehatan, dan keselamatan.
 (4) Ketentuan lebih lanjut mengenai sarana dan prasarana diatur dengan peraturan menteri/pimpinan lembaga.
-BAB VII PETUGAS PEMASYARAKATAN
+
+BAB VII
+PETUGAS PEMASYARAKATAN
+
 Pasal 84
 (1) Petugas Pemasyarakatan merupakan pejabat fungsional penegak hukum yang melaksanakan fungsi Pemasyarakatan.
 (2) Ketentuan mengenai pejabat fungsional sebagaimana dimaksud pada ayat (1) diatur sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 85
 (1) Untuk dapat diangkat sebagai Petugas Pemasyarakatan, selain memenuhi syarat yang ditentukan dalam penerimaan aparatur sipil negara, juga harus mengikuti pendidikan dan pelatihan di bidang Pemasyarakatan.
 (2) Ketentuan lebih lanjut mengenai pelaksanaan pendidikan dan pelatihan di bidang Pemasyarakatan sebagaimana dimaksud pada ayat (1) diatur dengan peraturan menteri/ pimpinan lembaga.
+
 Pasal 86
 (1) Petugas Pemasyarakatan wajib menghormati hak asasi Tahanan, Anak, dan Warga Binaan.
 (2) Petugas Pemasyarakatan wajib berpedoman pada kode etik dan kode perilaku.
-(3) Dalam (3) Dalam hal terjadi pelanggaran kode etik dan kode perilaku sebagaimana dimaksud pada ayat(21, Petugas Pemasyarakatan diproses sesuai dengan ketentuan kode etik dan kode perilaku.
-(4) Dalam hal terjadi pelanggaran kode etik dan kode perilaku sebagaimana dimaksud pada ayat (3) yang diduga merupakan tindak pidana, Petugas Pemasyarakatan diproses sesuai dengan ketentuan peraturan perundan g-undangan.
-(5) Ketentuan lebih lanjut mengenai kode etik dan kode perilaku sebagaimana dimaksud pada ayat (21 diatur dengan peraturan menteri/pimpinan lembaga.
+(3) Dalam hal terjadi pelanggaran kode etik dan kode perilaku sebagaimana dimaksud pada ayat (2), Petugas Pemasyarakatan diproses sesuai dengan ketentuan kode etik dan kode perilaku.
+(4) Dalam hal terjadi pelanggaran kode etik dan kode perilaku sebagaimana dimaksud pada ayat (3) yang diduga merupakan tindak pidana, Petugas Pemasyarakatan diproses sesuai dengan ketentuan peraturan perundang-undangan.
+(5) Ketentuan lebih lanjut mengenai kode etik dan kode perilaku sebagaimana dimaksud pada ayat (2) diatur dengan peraturan menteri/pimpinan lembaga.
+
 Pasal 87
 (1) Petugas Pemasyarakatan berhak mendapat bantuan hukum dalam melaksanakan tugas dan fungsinya.
-(2) Petugas Pemasyarakatan wajib diberi pelindungan oleh negara dari kemungkinan ancaman yang membahayakan diri, jiwa, danf atau hartanya dalam melaksanakan tugas dan fungsinya.
+(2) Petugas Pemasyarakatan wajib diberi pelindungan oleh negara dari kemungkinan ancaman yang membahayakan diri, jiwa, dan/atau hartanya dalam melaksanakan tugas dan fungsinya.
 (3) Pelindungan sebagaimana dimaksud pada ayat (2) diberikan juga kepada keluarga Petugas Pemasyarakatan, dalam hal terdapat ancaman.
-(4) Pemberian bantuan hukurn dan pelindungan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. BAB VIII PENGAWASAN Pasal 88 (1) Pcngawasan internal penyelenggaraan fungsi Pemasyarakatan dilakukan oleh menteri/pimpinan lembaga.
-(2) Pengawasan.
-(2) Pengawasan eksternal penyelenggaraan Pemasyarakatan dilakukan oleh komisi di Perwakilan Rakyat Republik Indonesia menangani bidang hukum. fungsi Dewan yang (3) Dalam melaksanakan pengawasan sebagaimana dimaksud pada ayat (2), komisi membentuk tim pengawas. (41 Ketentuan lebih lanjut mengenai pembentukan tim pengawas sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Dewan Perwakilan Ralryat Republik Indonesia. BAB IX KERJA SAMA DAN PERAN SERTA MASYARAKAT
+(4) Pemberian bantuan hukum dan pelindungan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+BAB VIII
+PENGAWASAN
+
+Pasal 88
+(1) Pengawasan internal penyelenggaraan fungsi Pemasyarakatan dilakukan oleh menteri/pimpinan lembaga.
+(2) Pengawasan eksternal penyelenggaraan Pemasyarakatan dilakukan oleh komisi di Perwakilan Rakyat Republik Indonesia menangani bidang hukum.
+(3) Dalam melaksanakan pengawasan sebagaimana dimaksud pada ayat (2), komisi membentuk tim pengawas.
+(4) Ketentuan lebih lanjut mengenai pembentukan tim pengawas sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Dewan Perwakilan Rakyat Republik Indonesia.
+
+BAB IX
+KERJA SAMA DAN PERAN SERTA
+MASYARAKAT
+
 Pasal 89
 (1) Dalam rangka pelaksanaan tugas Pemasyarakatan, menteri/pimpinan lembaga dapat mengadakan kerja sama dengan kementerian, pemerintah daerah, lembaga, dan perorangan yang kegiatannya sesuai dengan penyelenggaraan Sistem Pemasyarakatan.
 (2) Kementerian, pemerintah daerah, dan lembaga juga dapat memberikan bantuan dan dukungan terhadap program Pemasyarakatan.
+
 Pasal 90
-Dalam mengadakan kerja sama sebagaimana dimaksud dalam Pasal 89, pemerin+"ah daerah dapat menyediakan lahan, infrastruktur, dan/atau dana untuk penyelenggaraan Pemasyarakatan di wilayahnya.
+Dalam mengadakan kerja sama sebagaimana dimaksud dalam Pasal 89, pemerintah daerah dapat menyediakan lahan, infrastruktur, dan/atau dana untuk penyelenggaraan Pemasyarakatan di wilayahnya.
+
 Pasal 91
-Dalam melaksanakan fungsi, tugas, dan wewenang, setiap pimpinan satuan kerja Pemasyarakatan menerapkan prinsip koordinasi, integrasi, dan sinkronisasi, serta bekeda sama dalam lingkup internal dan eksternal.
+Dalam melaksanakan fungsi, tugas, dan wewenang, setiap pimpinan satuan kerja Pemasyarakatan menerapkan prinsip koordinasi, integrasi, dan sinkronisasi, serta bekerja sama dalam lingkup internal dan eksternal.
+
 Pasal 92
 Masyarakat dapat berperan serta dalam penyelenggaraan fungsi Pemasyarakatan dengan cara:
-a. mengajukan usul progranr Pemasyarakatan;
-b. membantu pelaksanaan program Pemasyarakatan;
-c. berpartisipasi dalam pembimbingan mantan Narapidana dan Anak Binaan; dan/atau
-d. melakukan penelitian mengenai Pemasyarakatan.
+  a. mengajukan usul program Pemasyarakatan;
+  b. membantu pelaksanaan program Pemasyarakatan;
+  c. berpartisipasi dalam pembimbingan mantan Narapidana dan Anak Binaan; dan/atau
+  d. melakukan penelitian mengenai Pemasyarakatan.
+
 Pasal 93
-Ketentuan lebih lanjut mengenai kerja sama dan peran serta masyarakat sebagaimana dimaksud dalam Pasal 89 sampai dengan Pasal 92 diatur dengan Peraturan Pemerintah. BAB X KETENTUAN PERALIHAN
+Ketentuan lebih lanjut mengenai kerja sama dan peran serta masyarakat sebagaimana dimaksud dalam Pasal 89 sampai dengan Pasal 92 diatur dengan Peraturan Pemerintah.
+
+BAB X
+KETENTUAN PERALIHAN
+
 Pasal 94
-Sebelum peraturan pelaksanaan dari Undang-Undang ini mulai berlaku maka: Peraturan Pemerintah Nomor 31 Tahun 1999 tentang Pembinaan dan Pembimbingan Warga Binaan Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 3842); 1 2. Peraturan 2. Peraturan Pemerintah Nomor 32 Tahun 1999 tentang Syarat dan Tata Cara Pelaksanaan Hak Warga Binaan Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 38a6);
-3. Peraturan Pemerintah Nomor 57 Tahun 1999 tentang Kerjasama Penyelenggaraan Pembinaan dan Pembimbingan Warga Binaan Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 16, ^'l'ambahan Lembaran Negara Republik Indonesia Nomor 3857);
-4. Peraturan Pemerintah Nomor 58 Tahun 1999 tentang Syarat-Syarat dan Tata Cara Pelaksanaan Wewenang, Tugas dan Tanggung Jawab Perawatan Tahanan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor ll2, Tambahan Lenrharan Negara Republik Indonesia Nomor 3858), dinyatakan masih tetap berlaku.
+Sebelum peraturan pelaksanaan dari Undang-Undang ini mulai berlaku maka:
+  1. Peraturan Pemerintah Nomor 31 Tahun 1999 tentang Pembinaan dan Pembimbingan Warga Binaan Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 3842); 
+  2. Peraturan Pemerintah Nomor 32 Tahun 1999 tentang Syarat dan Tata Cara Pelaksanaan Hak Warga Binaan Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 69, Tambahan Lembaran Negara Republik Indonesia Nomor 38a6);
+  3. Peraturan Pemerintah Nomor 57 Tahun 1999 tentang Kerjasama Penyelenggaraan Pembinaan dan Pembimbingan Warga Binaan Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 16, Tambahan Lembaran Negara Republik Indonesia Nomor 3857);
+  4. Peraturan Pemerintah Nomor 58 Tahun 1999 tentang Syarat-Syarat dan Tata Cara Pelaksanaan Wewenang, Tugas dan Tanggung Jawab Perawatan Tahanan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor ll2, Tambahan Lenrharan Negara Republik Indonesia Nomor 3858),
+dinyatakan masih tetap berlaku.
+
 Pasal 95
-Pada saat Peraturan Presiden mengenai kementerian/lembaga sebagaimana dimaksud dalam Pasal 5 ayat (2) Undang-Undang rni belum berlaku, fungsi Pemasyarakatan tetap dilaksanakan berdasarkan Peraturan Presiden Nomor 44 Tahun 2Ol5 tentang Kementerian Hukum dan Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 84).
-BAB XI KETENTUAN PENUTUP
+Pada saat Peraturan Presiden mengenai kementerian/lembaga sebagaimana dimaksud dalam Pasal 5 ayat (2) Undang-Undang ini belum berlaku, fungsi Pemasyarakatan tetap dilaksanakan berdasarkan Peraturan Presiden Nomor 44 Tahun 2015 tentang Kementerian Hukum dan Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 84).
+
+BAB XI
+KETENTUAN PENUTUP
+
 Pasal 96
 Pada saat Undang-Undang ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 3614), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan Undang-Undang ini.
+
 Pasal 97
-Pada saat Undang-Undang ini mulai berlaku, Undang- Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan (Lembaran Negara Republik Indonesia T'ahun 1995 Nomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 3614), dicabut dan dinyatakan tidak berlaku.
+Pada saat Undang-Undang ini mulai berlaku, Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 3614), dicabut dan dinyatakan tidak berlaku.
+
 Pasal 98
 Peraturan pelaksanaan dari Undang-Undang ini harus ditetapkan paling lama 1 (satu) tahun terhitung sejak Undang- Undang ini diundangkan.
+
 Pasal 99
-Undang-Undang ini mulai berlaku pada tanggal cliundangkan. Agar
-Agar setiap orang mengetahuinya, ^memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara ^Republik Indonesia. Disahkan di Jakarta pada tanggal 3 Agustus 2022 ttd JOKO WIDODO Diundangkan di Jakarta pada tanggal 3 Agustus 2022 MENTERI SEKRETARIS NEGARA REPUBLIK INDONESIA AD INTERIM, PRAMONO ANUNG PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 22 TAHUN 2022 TENTANG PEMASYARAKATAN I. UMUM Pemasyarakatan merupakan bagian dari sistem peradilan pidana terpadu yang menyelenggarakan penegakan hukum di bidang perlakuan terhadap Tahanan, Anak, dan Warga Binaan dalam tahap praadjudikasi, adjudikasi, dan pascaadjudikasi. Penyelenggaraan Pemasyarakatan sebagai bagian dari sistem peradilan pidana terpadu berdasar pada sebuah sistem yang disebut sebagai Sistem Pemasyarakatan yang merupakan suatu tatanan mengenai arah dan batas serta metode pelaksanaan fungsi Pemasyarakatan secara terpadu antara petugas, Tahanan, Anak, Warga Binaan, dan masyarakat. Sistem Pemasyarakatan diselenggarakan dalam rangka memberikan jaminan pelindungan terhadap hak Tahanan dan Anak serta meningkatkan kualitas kepribadian dan kemandirian Warga Binaan agar menyadari kesalahan, memperbaiki diri, dan tidak mengulangi tindak pidana, sehingga dapat diterima kembali oleh lingkungan masyarakat, dapat hidup secara wajar sebagai warga yang baik, taat hukum, bertanggung jawab, dan dapat aktif berperan dalam pembangunan serta sekaligus memberikan pelindungan kepada masyarakat dari pengulangan tindak pidana. Sistem Pemasyarakatan sebagai sebuah sistem perlakuan terhadap Tahanan, Anak, dan Warga Binaan dilaksanakan melalui fungsi Pemasyarakatan yang meliputi Pelayanan, Pembinaan, Pembimbingan Kemasyarakatan, Perawatan, Pengamanan, dan Pengamatan dengan menjunjung tinggi penghormatan, pelindungan, dan pemenuhan hak asasi manusia. Hal ini sesuai dengan Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Martabat Manusia sebagaimana telah diratifikasi dengan Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Conuention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or htnishment (Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Martabat Manusia). Dengan demikian Pemasyarakatan tidak lagi hanya pada tahap akhir dari bekerjanya sistem peradilan pidana namun sudah bekerja sejak dimulainya proses peradilan pidana. Undang-Undang ini dibentuk untuk memperkuat Sistem Pemasyarakatan di Indonesia yang dengan Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan telah menganut konsep reintegrasi sosial sebagai pengganti konsep pembalasan dan penjeraan. Undang- Undang ini disamping memperkuat konsep reintegrasi sosial ^juga memperkuat konsep keadilan restoratif yang dianut dalam Sistem Peradilan Pidana Anak dan pembaruan hukum pidana nasional Indonesia. Undang-Undang ini merupakan penyempurnaan terhadap materi muatan dalam Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan, antara lain:
+Undang-Undang ini mulai berlaku pada tanggal cliundangkan.
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Disahkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 3 Agustus 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;JOKO WIDODO
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 3 Agustus 2022  
+MENTERI SEKRETARIS NEGARA  
+REPUBLIK INDONESIA AD INTERIM,  
+ttd.  
+PRAMONO ANUNG
+
+<br/>
+
+
+<!--PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 22 TAHUN 2022 TENTANG PEMASYARAKATAN
+
+I. UMUM
+Pemasyarakatan merupakan bagian dari sistem peradilan pidana terpadu yang menyelenggarakan penegakan hukum di bidang perlakuan terhadap Tahanan, Anak, dan Warga Binaan dalam tahap praadjudikasi, adjudikasi, dan pascaadjudikasi. Penyelenggaraan Pemasyarakatan sebagai bagian dari sistem peradilan pidana terpadu berdasar pada sebuah sistem yang disebut sebagai Sistem Pemasyarakatan yang merupakan suatu tatanan mengenai arah dan batas serta metode pelaksanaan fungsi Pemasyarakatan secara terpadu antara petugas, Tahanan, Anak, Warga Binaan, dan masyarakat. Sistem Pemasyarakatan diselenggarakan dalam rangka memberikan jaminan pelindungan terhadap hak Tahanan dan Anak serta meningkatkan kualitas kepribadian dan kemandirian Warga Binaan agar menyadari kesalahan, memperbaiki diri, dan tidak mengulangi tindak pidana, sehingga dapat diterima kembali oleh lingkungan masyarakat, dapat hidup secara wajar sebagai warga yang baik, taat hukum, bertanggung jawab, dan dapat aktif berperan dalam pembangunan serta sekaligus memberikan pelindungan kepada masyarakat dari pengulangan tindak pidana. Sistem Pemasyarakatan sebagai sebuah sistem perlakuan terhadap Tahanan, Anak, dan Warga Binaan dilaksanakan melalui fungsi Pemasyarakatan yang meliputi Pelayanan, Pembinaan, Pembimbingan Kemasyarakatan, Perawatan, Pengamanan, dan Pengamatan dengan menjunjung tinggi penghormatan, pelindungan, dan pemenuhan hak asasi manusia. Hal ini sesuai dengan Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Martabat Manusia sebagaimana telah diratifikasi dengan Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Conuention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or htnishment (Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Martabat Manusia). Dengan demikian Pemasyarakatan tidak lagi hanya pada tahap akhir dari bekerjanya sistem peradilan pidana namun sudah bekerja sejak dimulainya proses peradilan pidana. Undang-Undang ini dibentuk untuk memperkuat Sistem Pemasyarakatan di Indonesia yang dengan Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan telah menganut konsep reintegrasi sosial sebagai pengganti konsep pembalasan dan penjeraan. Undang-Undang ini disamping memperkuat konsep reintegrasi sosial juga memperkuat konsep keadilan restoratif yang dianut dalam Sistem Peradilan Pidana Anak dan pembaruan hukum pidana nasional Indonesia. Undang-Undang ini merupakan penyempurnaan terhadap materi muatan dalam Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan, antara lain:
 a. pemasyarakatan adalah tahap akhir dari sistem peradilan pidana yang melaksanakan kegiatan pembinaan kepada warga binaan pemasyarakatan;
 b. lingkup pelaksanaan tugas pemasyarakatan hanya mencakup pelaksanaan pembinaan dan pembimbingan bagi warga binaan pemasyarakatan;
 c. belum ada pengaturan mengenai pelayanan tahanan;
