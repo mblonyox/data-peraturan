@@ -1,60 +1,131 @@
- $-,D $-,D UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 37 TAHUN 2014 TENTANG KONSERVASI TANAH DAN AIR Menimbang
-DENGAN RAHMAT TUHAN YANG MAHA ESA a. bahwa tanah dan air dalam wilayah Negara Kesatuan Republik Indonesia merupakan karunia sekaligus amanah Tuhan Yang Maha Esa untuk bangsa Indonesia yang perlu dijaga kelestariannya dan dimanfaatkan untuk sehesar_ besar kemakmuran ra$at, baik bagi generasi sekarang maupun bagi generasi yang akan datang;
-b. bahwa tanah dan air merupakan sumber daya alam yang tak terbarukan dan mudah terdegradasi fungsinya karena posisi geografis dan akibat penggu.r.* y..g tidak sesuai dengan fungsi, peruntukan, dan k...ra-prai-r.rya sehingga perlu dilindungi, diputihkan, ditingkatkan, dan dipelihara melalui Konservasi Tanah dan Air;
+UNDANG-UNDANG REPUBLIK INDONESIA
+NOMOR 37 TAHUN 2014
+TENTANG
+KONSERVASI TANAH DAN AIR
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang :
+a. bahwa tanah dan air dalam wilayah Negara Kesatuan Republik Indonesia merupakan karunia sekaligus amanah Tuhan Yang Maha Esa untuk bangsa Indonesia yang perlu dijaga kelestariannya dan dimanfaatkan untuk sebesar-besar kemakmuran rakyat, baik bagi generasi sekarang maupun bagi generasi yang akan datang;
+b. bahwa tanah dan air merupakan sumber daya alam yang tak terbarukan dan mudah terdegradasi fungsinya karena posisi geografis dan akibat penggunaan yang tidak sesuai dengan fungsi, peruntukan, dan kapasitasnya sehingga perlu dilindungi, diperbaiki, ditingkatkan, dan dipelihara melalui Konservasi Tanah dan Air;
 c. bahwa pengaturan mengenai Konservasi Tanah dan Air saat ini masih belum memadai dan belum diatur secara terpadu dan komprehensif;
-d. bahwa trerdasarkan penimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu membentuk Undang-Undang tenlang Konservasi Tanah dan Air; Pasal 20, Pasal 21, dan pasal 33 ayat (3) Undang_Undang Dasar Nega,: a Republik Indonesia fahun f O+S; Mengingat PRESiDEi..i RE-t-,i,: lir i[.]iJ()1..i: : ^ja -2- Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA Menetapkan dan MEMUTUST(AN: UNDANG.UNDANG TENTANG KONSERVASI TANAH DAN AIR.
-BAB I KETENTUAN UMUM pasal 1 Dalam Undang-Undang ini yang dimaksud dengan:
-1. Tanah dan Air adalah lapisan permukaan bumi yang terdiri .atas zat padat berupa mineral dan bahan organik] zat cair berupa arr yang berada dalam pori_pori ianah dan yang terikat pada butiran tanah, serta udara sebagai satu. kesatuan yang berfungsi sebagai penyangga kehidupan dan media pengatur tata air. 2. Konservasi Tanah dan Air adalah upaya pelindungan, pemulihan,- peningkatan, dan pemeliharaan Fungsi Tanah pada Lahan sesuai dengan kemampuan dan peruntukan Lahan untuk mendukung pembangunan yang berkelanjutan dan kehidupan yang lesiari. 3. Lahan. adalah bagian daratan dari permukaan bumi sebagai suatu lingkungan hsik yang meliputi tanah beserta segenap faktor ya.rg ^" mempen5,.rruhi P: lCqulaannya ^se-perti ^iklim, ^relief, ^aspek ^geologi, ^dan nlorologl yang terbentuk secara alami maupun akibat pengaruh manusia. 4. Lahan Prima adalah Lahan yang berfungsi secara baik untuk menumbuhkan tanaman yang aiUuiiaayakan atau yang tidak dibudidayakan. 5. Lahan Kritis adalah Lahan yang fungsinya kurang baik sebagai media produksi untuk *."uLU"t tan tanaman yang dibudidayakan atau yang tidak dibudidavakan.
-6. '' ^I,A Lahan Rusak adalah Lahan yang tidak dapat berfungsi lagi sebagai media produksi untuk menumbuhkan tanaman yang dibudidayakan atau yang tidak dibudidayakan. Fungsi Tanah adalah penyedia dan penyimpan unsur hara dan air, media pengatur tata air, dan sebagai sistem penyangga kehidupan secara lestari. Kawasan Lindung adalah wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan. Kawasan Budi Daya acialah wilayah yang ditetapkan dengan fungsi utama untuk dibudidayakan atas dasar kondisi dan potensi sumber daya alam, sumber daya manusia, dan sumber daya buatan. 1O. Ambang Batas Kekritisan Lahan adalah kekritisan Lahan yang telah mencapai dan/atau melampaui tingkatan kritis.
-11. Daerah Aliran Sungai yang selanjutnya disingkat DAS adalah satuan wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak-anak sungai yang berfungsi menampung, menyimpan, dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alamiah, yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan.
-12. Pengeloiaan DAS adalah upaya manusia dalam mengatur hubungan timbal balik antara sumber daya alam dan manusia di dalam DAS serta segala aktivitasnya agar terwujud kelestarian dan keserasian ekosistem serta meningkatnya kemanfaatan sumber daya alam bagi manusia secara berkelanjutan.
-13. Setiap Orang adalah orang perseorangan, badan hukum, dan/atau badan usaha.
-14. Pemerintah Pusat, selanjutnya disebut pemerintah, adalah Presiden Republik Indonesia yang memegang kekuasaan negara Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
-7.
-8.
-9. # r"- Q i-: s tD E r.l RE.r-,i:
-.ti.iK iliDe ,j : ,;
-15. Pemerintah Daerah adalah gubernur, bupati, atau wali kota, dan perangkat daerah sebagai unsur penyelenggara Pemerintahan daerah.
-16. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Konservasi Tanah dan Air. BAB II ASAS, TUJUAN, DAN RUANG LINGKUP
+d. bahwa trerdasarkan penimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu membentuk Undang-Undang tentang Konservasi Tanah dan Air;
+
+Mengingat :
+Pasal 20, Pasal 21, dan pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+MEMUTUSKAN:
+Menetapkan :
+UNDANG-UNDANG TENTANG KONSERVASI TANAH DAN AIR.
+
+BAB I
+KETENTUAN UMUM
+
+Pasal 1
+Dalam Undang-Undang ini yang dimaksud dengan:
+  1. Tanah dan Air adalah lapisan permukaan bumi yang terdiri atas zat padat berupa mineral dan bahan organikk zat cair berupa arr yang berada dalam pori-pori tanah dan yang terikat pada butiran tanah, serta udara sebagai satu. kesatuan yang berfungsi sebagai penyangga kehidupan dan media pengatur tata air.
+  2. Konservasi Tanah dan Air adalah upaya pelindungan, pemulihan, peningkatan, dan pemeliharaan Fungsi Tanah pada Lahan sesuai dengan kemampuan dan peruntukan Lahan untuk mendukung pembangunan yang berkelanjutan dan kehidupan yang lesiari.
+  3. Lahan adalah bagian daratan dari permukaan bumi sebagai suatu lingkungan fisik yang meliputi tanah beserta segenap faktor yang mempengaruhinya, seperti iklim, relief, aspek geologi, dan hidrologi yang terbentuk secara alami maupun akibat pengaruh manusia.
+  4. Lahan Prima adalah Lahan yang berfungsi secara baik untuk menumbuhkan tanaman yang dibudidayakan atau yang tidak dibudidayakan.
+  5. Lahan Kritis adalah Lahan yang fungsinya kurang baik sebagai media produksi untuk menumbuhkan tanaman yang dibudidayakan atau yang tidak dibudidavakan.
+  6. Lahan Rusak adalah Lahan yang tidak dapat berfungsi lagi sebagai media produksi untuk menumbuhkan tanaman yang dibudidayakan atau yang tidak dibudidayakan.
+  7. Fungsi Tanah adalah penyedia dan penyimpan unsur hara dan air, media pengatur tata air, dan sebagai sistem penyangga kehidupan secara lestari.
+  8. Kawasan Lindung adalah wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan.
+  9. Kawasan Budi Daya adalah wilayah yang ditetapkan dengan fungsi utama untuk dibudidayakan atas dasar kondisi dan potensi sumber daya alam, sumber daya manusia, dan sumber daya buatan.
+  10. Ambang Batas Kekritisan Lahan adalah kekritisan Lahan yang telah mencapai dan/atau melampaui tingkatan kritis.
+  11. Daerah Aliran Sungai yang selanjutnya disingkat DAS adalah satuan wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak-anak sungai yang berfungsi menampung, menyimpan, dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alamiah, yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan.
+  12. Pengeloiaan DAS adalah upaya manusia dalam mengatur hubungan timbal balik antara sumber daya alam dan manusia di dalam DAS serta segala aktivitasnya agar terwujud kelestarian dan keserasian ekosistem serta meningkatnya kemanfaatan sumber daya alam bagi manusia secara berkelanjutan.
+  13. Setiap Orang adalah orang perseorangan, badan hukum, dan/atau badan usaha.
+  14. Pemerintah Pusat, selanjutnya disebut pemerintah, adalah Presiden Republik Indonesia yang memegang kekuasaan negara Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+  15. Pemerintah Daerah adalah gubernur, bupati, atau wali kota, dan perangkat daerah sebagai unsur penyelenggara Pemerintahan daerah.
+  16. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Konservasi Tanah dan Air.
+
+BAB II
+ASAS, TUJUAN, DAN RUANG LINGKUP
+
 Pasal 2
 Penyelenggaraan Konservasi Tanah dan Air berdasarkan pada asas:
-a. partisipatif;
-b. keterpaduan;
-c. keseimbangan;
-d. keadilan;
-e. kemanfaatan;
-f. kearifan lokal; dan
-g. kelestarian. pasal 3 Penyelenggaraan Konservasi Tanah dan Air bertujuan:
-a. melindungi permukaan tanah dari pukulan air hujan yang jatuh, meningkatkan kapasitas infiltrasi tanah, ian mencegah terjadinya konsentrasi aliran permukaan;
-b. menjamin Fungsi Tanah pada Lahan agar mendukung kehidupan masyarakat;
-c. mengoptimalkan Fungsi Tanah pada Lahan untuk mewujudkan manfaat ekonomi, sosi.l, da., lingkungan hidup secara seimbang dan lestari;
-d. meningkatkan daya dukung DAS;
-e. meningkatkan kemampuan untuk mengembangkan kapasitas dan memberdayakan keikutsertaan masyarakat secara partisipatif; dan s t ,4 -5- f. menjamin kemanfaatan Konservasi Tanah dan Air secara adil dan merata untuk kepentingan masyarakat.
+  a. partisipatif;
+  b. keterpaduan;
+  c. keseimbangan;
+  d. keadilan;
+  e. kemanfaatan;
+  f. kearifan lokal; dan
+  g. kelestarian.
+
+Pasal 3
+Penyelenggaraan Konservasi Tanah dan Air bertujuan:
+  a. melindungi permukaan tanah dari pukulan air hujan yang jatuh, meningkatkan kapasitas infiltrasi tanah, dan mencegah terjadinya konsentrasi aliran permukaan;
+  b. menjamin Fungsi Tanah pada Lahan agar mendukung kehidupan masyarakat;
+  c. mengoptimalkan Fungsi Tanah pada Lahan untuk mewujudkan manfaat ekonomi, sosial dan lingkungan hidup secara seimbang dan lestari;
+  d. meningkatkan daya dukung DAS;
+  e. meningkatkan kemampuan untuk mengembangkan kapasitas dan memberdayakan keikutsertaan masyarakat secara partisipatif; dan
+  f. menjamin kemanfaatan Konservasi Tanah dan Air secara adil dan merata untuk kepentingan masyarakat.
+
 Pasal 4
 Ruang lingkup Konservasi Tanah dan Air meliputi:
-a. perencanaan Konservasi Tanah dan Air;
-b. penyelenggaraan Konservasi Tanah dan Air; dan
-c. pembinaan dan pengawasan Konservasi Tanah dan Air. BAB III PENGUASAAN, WEWENANG, DAN TANGGUNG JAWAB pasal 5 (1) Tanah dan air dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat. (2) Penguasaan terhadap tanah dan air oleh negara sebagaimana dimaksud pada ayat (1) memberi ..*..r*..rg kepada Pemerintah uniuk mengatur dan menyelenggarakan Konservasi Tanah dan Aii. Pasal 6 Dalam melaksanakan wewenang untuk mengatur dan menyelenggarakan Konservasi Tanah dan Air sebagaimana dimaksud daiam pasal S ayat (2), Pemerintatr menyelenggarakan sendiri atau dapat melimpahkan sebagian kewenangannya kepada perangkat Pemerintah atau wakil pemirintah di daerah atau dapat menugaskannya kepada pemerintah Daerah. Dalam melaksanakan kewenangan sebagaimana dimaksud pada ayat (1), pemerintah Daerah sesuai dengan kewenangannya menyelenggarakan sendiri berdasarkan ketentuan peraturan pe.undang-undangan.
-(1) (21 #s ' ^,l: : : i .,r-il R!:
-.. i.tLrt);
-i.-r_ A -6- (3) Pelaksanaan we\\,enang Pemerintah sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+  a. perencanaan Konservasi Tanah dan Air;
+  b. penyelenggaraan Konservasi Tanah dan Air; dan
+  c. pembinaan dan pengawasan Konservasi Tanah dan Air.
+
+BAB III
+PENGUASAAN, WEWENANG, DAN TANGGUNG JAWAB
+
+Pasal 5
+(1) Tanah dan air dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.
+(2) Penguasaan terhadap tanah dan air oleh negara sebagaimana dimaksud pada ayat (1) memberi wewenang kepada Pemerintah untuk mengatur dan menyelenggarakan Konservasi Tanah dan Air.
+
+Pasal 6
+(1) Dalam melaksanakan wewenang untuk mengatur dan menyelenggarakan Konservasi Tanah dan Air sebagaimana dimaksud dalam pasal 5 ayat (2), Pemerintah menyelenggarakan sendiri atau dapat melimpahkan sebagian kewenangannya kepada perangkat Pemerintah atau wakil pemerintah di daerah atau dapat menugaskannya kepada pemerintah Daerah.
+(2) Dalam melaksanakan kewenangan sebagaimana dimaksud pada ayat (1), pemerintah Daerah sesuai dengan kewenangannya menyelenggarakan sendiri berdasarkan ketentuan peraturan perundang-undangan.
+(3) Pelaksanaan wewenang Pemerintah sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 7
-Pemerintah, Pcmcrintah Daerah, pemegang hak atas tanah, pcmcgang kuetsa atas tanah, pemegang izin, dan/atau pengguna Lahan bertanggung jawab dalam penyelenggaraan Konservasi Tanah dan Air. Dalam penyelenggaraan Konservasi Tanah dan Air sebagaimana dimaksucl pada ayat (1), pemerintah, Pemerintah Daerah, pemegang hak atas tanah, pemegang kuasa atas tanah, pemegang izin, dan/atau pengguna Lahan wa.jib rnerrgikuti prinsip konservasi dan menghormatL irirk 1,ang dimiliki Setiap Orang sesuar dengan ketentuan peraturan perundang-undangan.
-BAB IV PERENCANAAN KONSERVASI TANAH DAN AIR (1) (2t (1) (2t
+(1) Pemerintah, Pemerintah Daerah, pemegang hak atas tanah, pemegang kuasa atas tanah, pemegang izin, dan/atau pengguna Lahan bertanggung jawab dalam penyelenggaraan Konservasi Tanah dan Air.
+(2) Dalam penyelenggaraan Konservasi Tanah dan Air sebagaimana dimaksud pada ayat (1), pemerintah, Pemerintah Daerah, pemegang hak atas tanah, pemegang kuasa atas tanah, pemegang izin, dan/atau pengguna Lahan wajib mengikuti prinsip konservasi dan menghormati hak yang dimiliki setiap orang sesuai dengan ketentuan peraturan perundang-undangan.
+
+BAB IV
+PERENCANAAN KONSERVASI TANAH DAN AIR
+
 Pasal 8
-Konservasi Tanah dan Air dilakukan berdasarkan suatu perencanaan yang disusun di tingkat nasional, provinsi, dan kabupaten/kota. Perencanaan sebagaimana dimaksud pada ayat (1) disusun oleh Perncrintah, pemerintah daerah provinsi, dan pemerintah daerah kabupaten/kota dengan melibatkan masyarakat. Perencanaan Konservasi Tanah dan Air tingkat nasional menjadi acuan bagi perencanaan Konservasi Tanah dan Air tingkat provinsi.
-(3) R li,L,, t;
-.- (4) Perenr: a; lr it: t iiol,, rvasi Tanah dan Air tingkat provinsi menjadi ercuan bargi perencanaan Konservasi Tanah dan Air tingkat kabupaten/kota. (5) Perencanaan Konservasi Tanah dan Air tingkat kabupaten/kota menjadi acuan kegiatan Konservasi Tanal-r dan Air. }: agi masyarakat. ir tr! D r- ^,\ --S,A pasal 9 (1) Perencanaan sebagaimana dimaksud dalam pasal B avat (1) terdiri a tas:
-a. perencanaan jangka panjang;
-b. pcrencanaan jangka menengah; dan
-c. perencanaan tahunan. (2) Perencanaan Konservasi Tanah dan Air jangka panjang dan jangka menengah sebagaimana dimaisud pada ayai (1) hurul a dan huruf b ntemuat inventarisasi dan identifikasi kualitas tanah, sasaran, serta upaya penyelenggaraan Konservasi Tanah dan Air. (3) Perencanaan Konsen.asi Tanah dan Air tahunan sebaqaimana cl.ime]<sucl pada ayat (1) hurul c memuat sasaran, pen,,r'lollrn, pentantauan, dan pembiayaan. pasal 10 Perencanaan Konservasr Tanah dan Air harus memperhatikan rcncana tata ruang wilayah dan rencana pembangunan nasional dan daerah sesuai dengan ketentuan peraturan perundang_undangan. pasal 11 Ketentuan lebih lanjut mengenai perencanaan Konservasi Tanah dan Air sebagaimana dimaksud dalam pasal B sampai dengan Pasal 10 diatur dalam peraturan pemerintah. lllr: _ ' i ' ': r- : ^l &-W-ri; ).: "a i, .; t)i ", ..4-*" .-,: : ,r: ^.: , lilt ir, I l R: :
-BAB V PtrNYELENGGARAAN KONSERVASI TANAH DAN AIR
-Bagian Kesatu Umum pasal 12 (1) Penyelenggaraan Konservasi Tanah dan Air meliputi:
-a. pelindungan Fungsi Tanah pada Lahan;
-b. pemulihan Fungsi Tanah pada Lahan;
-c. peningkatan Fungsi Tanah pada Lahan; dan/atau
-d. pemeiiharaan Fungsi Tanah pada Lahan. (2) Penyelenggaraan Konscrvasi Tanah dan Air sebagaimana dimaksud pada ayat [1) dikecualikan pelaksanaannya terlrlrcilri;
-.i,rrr., i: : ; r_ii, cltgar alam d,an zorra inti taman nasioneri.
+(1) Konservasi Tanah dan Air dilakukan berdasarkan suatu perencanaan yang disusun di tingkat nasional, provinsi, dan kabupaten/kota.
+(2) Perencanaan sebagaimana dimaksud pada ayat (1) disusun oleh Pemerintah, pemerintah daerah provinsi, dan pemerintah daerah kabupaten/kota dengan melibatkan masyarakat.
+(3) Perencanaan Konservasi Tanah dan Air tingkat nasional menjadi acuan bagi perencanaan Konservasi Tanah dan Air tingkat provinsi.
+(4) Perencanaan Konservasi Tanah dan Air tingkat provinsi menjadi acuan bagi perencanaan Konservasi Tanah dan Air tingkat kabupaten/kota.
+(5) Perencanaan Konservasi Tanah dan Air tingkat kabupaten/kota menjadi acuan kegiatan Konservasi Tanah dan Air bagi masyarakat.
+
+Pasal 9
+(1) Perencanaan sebagaimana dimaksud dalam pasal 8 ayat (1) terdiri atas:
+  a. perencanaan jangka panjang;
+  b. perencanaan jangka menengah; dan
+  c. perencanaan tahunan.
+(2) Perencanaan Konservasi Tanah dan Air jangka panjang dan jangka menengah sebagaimana dimaksud pada ayat (1) huruf a dan huruf b memuat inventarisasi dan identifikasi kualitas tanah, sasaran, serta upaya penyelenggaraan Konservasi Tanah dan Air.
+(3) Perencanaan Konservasi Tanah dan Air tahunan sebagaimana dimaksud pada ayat (1) huruf c memuat sasaran, penentuan, pemantauan, dan pembiayaan.
+
+Pasal 10
+Perencanaan Konservasi Tanah dan Air harus memperhatikan rencana tata ruang wilayah dan rencana pembangunan nasional dan daerah sesuai dengan ketentuan peraturan perundang-undangan.
+
+Pasal 11
+Ketentuan lebih lanjut mengenai perencanaan Konservasi Tanah dan Air sebagaimana dimaksud dalam pasal 8 sampai dengan Pasal 10 diatur dalam peraturan pemerintah.
+
+BAB V
+PENYELENGGARAAN KONSERVASI TANAH DAN AIR
+
+Bagian Kesatu
+Umum
+
+Pasal 12
+(1) Penyelenggaraan Konservasi Tanah dan Air meliputi:
+  a. perlindungan Fungsi Tanah pada Lahan;
+  b. pemulihan Fungsi Tanah pada Lahan;
+  c. peningkatan Fungsi Tanah pada Lahan; dan/atau
+  d. pemeiiharaan Fungsi Tanah pada Lahan.
+(2) Penyelenggaraan Konscrvasi Tanah dan Air sebagaimana dimaksud pada ayat (1) dikecualikan pelaksanaannya terlrlrcilri; .i,rrr., i: : ; r_ii, cltgar alam d,an zorra inti taman nasioneri.
 (3) PelindLrngan Fr-rngsi Tanah pada Lahan sebagaimana dimaksud pada ayat (1) huruf a diselenggarakan untuk menjaga dan mempertahankan Lahan prima. (4) Pemulihan Fur-rgsi Tanah pada Lahan sebagaimana dimaksud pada ayat (1) huruf b diselenggarakan untuk mengembalikan kernampuan dan Fungsi Tanah pada Lahan Kritis dan Lahan Rusak. (5) Peningkatan Fungsl Tanah pada Lahan sebagaimana dimaksud pada ayat (1) huruf c diselenggarakan untuk meningkatkan kemampuan Lahan Kritis dan Lahan Rusak yang suCah diperbaiki. (6) Pemeliharaan Fungsi Tanah pada Lahan sebagaimana dimaksud pada ayat (1) huruf d diselenggarakan untuk memelihara Laharl prima, Lahan Kritis, di Lahan Rusak yang sudah diperbaiki guna menjamin kelestarian Fungsi Tanah pada Lahan.
 (1) (2) FrREStDEi.r F-.: ,'t:
 r. tr. ^|. D..j!... irrl -9-
@@ -299,13 +370,27 @@ Badan hukum atau badan usaha yang karena kelalaiannya tidak menyelenggarakan Kon
 a. badan hukum atau badan usaha; dan/atau
 b. orang yang memberi perintah untuk pidana atau orang yang bertindak kegiatan daiam tindak pidana. melakukan tindak sebagai pemimpin pasal 66 Selain pidana sebagaimana dimaksud dalam Undang- U-ndang ini, terhadap badan hukum atau badan usaha dapat dikenai pidana tambahan atau tindakan tata tertib berupa:
 a. perampasan keuntungan yang diperoleh dari tindak pidana; *,) b. PRESIDfI.J REFi rFLIK IND(Jt., ^r._: _-r A _43_ penutupan seluruh atau sebagian tempat usaha dan/atau kegiatan; perbaikan akibat tindak pidana; kewajiban mengerjakan apa yang dilalaikan tanpa hak; dan/atau penempatan perusahaan di bawah pengampuan paling lama 3 (tiga) tahun.
-BAB XVI KETENTUAN PERALIHAN c.
-d.
-(1) (2t e. Undang-Undang diundangkan.
-BAB XVII KETENTUAN PENUTUP Pasal 69 ini rnulai
+BAB XVI
+KETENTUAN PERALIHAN
+
+Pasal 67
+Pada saat Undang-Undang ini mulai berlaku, semua p€raturan. perundang-undangan yang mengatur Konservasi Tanah dan Air tetap berlaku sepaniang lidak bertentangan dengan Undang-Undang ini.
+
+Pasal 68
+Pada saat Undang-Undang ini mulai berlaku, badan hukum atau badan usaha yang izinnya masih berlaku wajib menyelenggarakan Konservasi Tanah dan Air paling lama 2 (dua) tahun terhitung sejak Undang-Undang ini diundangkan.
+
+Pasal 69
+Peraturan pelaksanaan dari Undang-Undang ini harus ditetapkan paling lama 2 (dua) tahun terhitung sejak Undang-Undang ini diundangkan.
+
+BAB XVII
+KETENTUAN PENUTUP
+
+Pasal 69 ini rnulai
 Pasal 67
 Pada saat Undang-Undang ini mulai berlaku, semua p€raturan. perundang-undangan yang mengatur Konservasi Tanah dan Air tetap berlaku sepaniang lidak bertentangan dengan Undang-Undang ini. Pada saat Undang-Undang ini mulai berlaku, badan hukum atau badan usaha yang izinnya masih berlaku wajib menyelenggarakan Konservasi Tanah dan Air paling lama 2 (dua) tahun terhitung sejak Undang-Undang ini diundangkan. pasal 6g Peraturan pelaksanaan dari Undang-Undang ini harus ditetapkan .paling lama 2 (dua) taf,un teriitung sejak Undang-Undang ini diundangkan. tangga.l berlaku pada memerintahkan penempatannya Diundangkan di Jakarta pada tanggal lZ Oktober 2074 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. AMIR SYAMSUDDIN #$ ,,Ri !lDt \ FE?l:
-. r', ^r\lt)r'l PENJELASAN ATAS UNDANG.UNDANG REPUBLIK INDONESIA NOMOR 37 TAHUN 2014 TENTANG KONSERVASI TANAH DAN AIR I. UMUM Tanah dan air dalam. wilayah Negara Kesatuan Republik Indonesia merupakan karunia sekaligus "-..r.li Tuhan yang Maha Esa kepada li: g: " Indonesia yang. tik ternilai harganya yang perlu disyukuri, dilindungi, dan dikelola secara berkerJnjutan ^- ,.r"trk ".u."r._u."r. kemakrnuran ra\rat. Hal itu sesuai dengan amanat yang terkandung dalam li: l ss ayat (3) Undang-undang Dasai Negara Republik Indonesia Tahun 1945 serta_ makna yang _terkanldung datair fatsafah dan dasar - ."g"., Pancasila. Untuk mewujudkan aman"at pasal 33 ayat (3) Undang-Undang Dasar N_e_gara Republik Indonesia Tahun t 945 tersebut, Undang_Undang tentang Konservasi Tanah_ dan Air ini menyatakan bahwa ".gr.^ -ir..rgr,r. dan menyelenggarakan Konservasi Tanah dan eir yang- p.f"t"a"ra" kewenangannya d akukan oreh pemerintah, pemerintair dieratr prorrinsr, dan pemerintah daerah. kabupaten/kota iengan mengindahkan kaidah Konservasi ranah dan Air serta tetap menghormati hak*yang dim iki oleh Setiap Orang. Tanah dan air merupakan sumber daya alam yang tak terbarukan (non reneutable resources) yarig merupakan satrl kesatuan yang berperan sebagai srstem pendukung kehidup an .(Itft support sgsteml -bagi' kepentingan seluruh rakyat Indonesia. posisiny- "a.rgat ^strategis ^sebagai ^modar ^dasar pembangunan nasional yang beikelanju"tan, selaTn itu j-"!" ^--..,rp^r.., sumber .devisa negara dan memberitian kontribusi yai'rg" u."". ^=i.t^- menyumbang pertumbuhan ekonomi nasionar. Di rain pirr.t] t..r.r, dan air merupakan sumber daya. a_lam yang mudah terdegradasi f; g; i";
+. r', ^r\lt)r'l 
+
+<!--PENJELASAN ATAS UNDANG.UNDANG REPUBLIK INDONESIA NOMOR 37 TAHUN 2014 TENTANG KONSERVASI TANAH DAN AIR I. UMUM Tanah dan air dalam. wilayah Negara Kesatuan Republik Indonesia merupakan karunia sekaligus "-..r.li Tuhan yang Maha Esa kepada li: g: " Indonesia yang. tik ternilai harganya yang perlu disyukuri, dilindungi, dan dikelola secara berkerJnjutan ^- ,.r"trk ".u."r._u."r. kemakrnuran ra\rat. Hal itu sesuai dengan amanat yang terkandung dalam li: l ss ayat (3) Undang-undang Dasai Negara Republik Indonesia Tahun 1945 serta_ makna yang _terkanldung datair fatsafah dan dasar - ."g"., Pancasila. Untuk mewujudkan aman"at pasal 33 ayat (3) Undang-Undang Dasar N_e_gara Republik Indonesia Tahun t 945 tersebut, Undang_Undang tentang Konservasi Tanah_ dan Air ini menyatakan bahwa ".gr.^ -ir..rgr,r. dan menyelenggarakan Konservasi Tanah dan eir yang- p.f"t"a"ra" kewenangannya d akukan oreh pemerintah, pemerintair dieratr prorrinsr, dan pemerintah daerah. kabupaten/kota iengan mengindahkan kaidah Konservasi ranah dan Air serta tetap menghormati hak*yang dim iki oleh Setiap Orang. Tanah dan air merupakan sumber daya alam yang tak terbarukan (non reneutable resources) yarig merupakan satrl kesatuan yang berperan sebagai srstem pendukung kehidup an .(Itft support sgsteml -bagi' kepentingan seluruh rakyat Indonesia. posisiny- "a.rgat ^strategis ^sebagai ^modar ^dasar pembangunan nasional yang beikelanju"tan, selaTn itu j-"!" ^--..,rp^r.., sumber .devisa negara dan memberitian kontribusi yai'rg" u."". ^=i.t^- menyumbang pertumbuhan ekonomi nasionar. Di rain pirr.t] t..r.r, dan air merupakan sumber daya. a_lam yang mudah terdegradasi f; g; i";
 il..r,u kondisi geografis dan 1klbat p."gg; r,ru., Vu.,g tra"t sesuai dengan fungsi, peruntukan, dan kemampua.rnyi sehingga p!.rggr.r".., dan pemanfaatan tanah harus dilaksanakan "..r.L t....,.J.,? iu"ionrt, dan bijaksana. Upaya tersebut dilaksanakan dengan cara melindungi, memulihkan, meningkatkan, dan memelihaia Fungsi Tanah pada Lahan melalui penyelenggaraan Konservasi Tanah iu., Arr ".t".. -.,,,rari-^'"gu. manfaatnya dapat didayagunakan secara U..f."i.rr.;
 .rt.r, fl"t"" g.".ir'"i. FIRE.SIDIN RE.PI-lLrl..l( ^jNDirl -2- _ Sejalan dengan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 sebagai landasan konst-itusionat yan"g -e*ajibk^r-, agar bumi, air dan kekayaan alam yang terkandung ai aatarinya dikuasai oleh negara dan dipergunakan untuk iebesar_besai kemakmuran rakyat, penyelenggaraan Konservasi Tanah dan Air senantiasa mengandung jiu,a dan semangat kerakyatan, berkeadilan, dan berkelanjutan. Konservasi Tanah dan Air harus diselenggarakan dengan berasaskan lr"SCrrlg ^jawab ^negara, ^partisipatif, keterpaduin, ^keseimbalngan, keadilan, kemanfaatan, kearifan lokal, dan kelestarian, serta bertujuan untuk mewujudkan sebesar-besarnya kesejahteraan ra\zat yang berliead a., da., berkelanjutan. Sesuai dengan wewenang dan penguasaan atas Lahan yang bersangkutan, Konservasi Tanah da"n A# -; "J; ; i ,r"gg""g ^'lr*.n Pemerintah, pemerintah daerah provinsi, ^- pe_e.irri."f, " daerah kabupaten/kota, pemegang hak atas tanah, pemegang kuasa atas tanah, pemegang izrn, dan/atau pengguna Lahan.' Konservasi Tanah dan Air diselenggarakan pada setiap hamparan tanah Lahan, baik di Kawasan Lindung maupun di Kawasan Budi baya. Penyelenggaraan Konservasi Tanah dan Air yang meliputi pelindungan Fungsi. Tanah pada Lahan, pemulihan Fungsi Tanah pada Lahan, peningkatan Fungsi Tanah pada Lahan, aan peme,t araan Fungsi i...n pada Lahan dilaksanakan pada Lahan prima, Lahan Kritis, dan Lahan Rusak di Kawasan Lindung dan di Kawasan Budi Daya p"a" ".ii"fi.r_ri" penggunaan Lahan yang meliputi pertanian, perkebunan, kehutanan, padang penggembaraan, peterna-kan, perilanan, pl.t"-u""L"", perindustrian, pariwisata, permukiman (p..ltt^r., dan perdesaan), dan jalan. Guna mencegah semakin menurunnya ketersediaan Lahan yang baik serta menjamin kerestariannya untuk iujuan menumbuhkan tanaman penghasil termasuk di dalamnya Lahan pe.ianian, perkebunan, hutan, dan padang rumput, tidak termaiuk perkoiaan, fermukiman, dan perairan, pelindungan Fungsi Tanah pada Lafra" a"fa- !e.ryel..,gga.aan Konservasr Tanah dan Air dilaksanakan a..rg.., ^- .ri. pengendalian konversi penggunaan Lahan prima, _serta penga-a.,a., dan lenataa, t "*r"o., Pemulihan Fungsi Tanah pada L"rri" alr"r."""ukan pada Lahan Kritis dan Lahan Rusak dengan metode vegetatif Ua."pu penanaman tanaman konservasi, dan/atau sip . ^teknis ^u.i"pu ^p.--u.,.ru, ^bangunan ^Konservasi Tanah dan Air. Metode sip, teknis ua"t JiiJ"tan daram tir*r"... ii.rar.,.,g. Peningkatan Fungsi Tanah pada L"h"" dii; ; ; ; ; kan pada Lahan Kritis dan Lahan. Rusak dengan metode agronomi, vegetatif, dan sipil teknis. Pemeliharaan Fungsi Tanah pada L?f."" Jii"Xonakan pada Lahan prima, Lahan Kritis, dan Lahan nusak yang tefah ^'dipufifrkan dan ditingkatkan fungsinya dengan menggun-aka.r" -?,.J. " #.nomi dan pemeriharaan bangunan Konservasi Tanah dan Air. Pada dasarnya Setiap Orang yang terdiri atas badan hukum dan/atau badan usaha berhak:
 a. menikmati Fungsi Tanah pada Lahan yang dihasilkan dari penyelenggaraan Konservasi Tanah dan Air;

@@ -548,7 +548,7 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini de
 &nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 20 April 1999  
 &nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
 &nbsp;&nbsp;&nbsp;&nbsp;ttd.  
-&nbsp;&nbsp;&nbsp;&nbsp;BACHRUDDIN JUSUF HABIBIE
+&nbsp;&nbsp;&nbsp;&nbsp;BACHARUDDIN JUSUF HABIBIE
 
 <br/>
 
@@ -556,7 +556,7 @@ Diundangkan di Jakarta
 pada tanggal 20 April 1999  
 MENTERI NEGARA SEKRETARIS NEGARA REPUBLIK INDONESIA,  
 ttd.  
-AKBAR TANJUNG
+AKBAR TANDJUNG
 
 <br/>
 

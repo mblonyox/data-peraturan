@@ -1,16 +1,29 @@
- UNDANG-UNDANG REPUBLIK INDONESIA UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 1999 TENTANG LARANGAN PRAKTEK MONOPOLI DAN PERSAINGAN USAHA TIDAK SEHAT
-DENGAN RAHMAT TUHAN YANG MAHA ESA
-Menimbang :
+UNDANG-UNDANG REPUBLIK INDONESIA
+NOMOR 5 TAHUN 1999
+TENTANG
+LARANGAN PRAKTEK MONOPOLI DAN PERSAINGAN USAHA TIDAK SEHAT
 
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang :
 a. bahwa pembangunan bidang ekonomi harus diarahkan kepada terwujudnya kesejahteraan rakyat berdasarkan Pancasila dan Undang-Undang Dasar 1945;
 b. bahwa demokrasi dalam bidang ekonomi menghendaki adanya kesempatan yang sama bagi setiap warga negara untuk berpartisipasi di dalam proses produksi dan pemasaran barang dan atau jasa, dalam iklim usaha yang sehat, efektif, dan efisien sehingga dapat mendorong pertumbuhan ekonomi dan bekerjanya ekonomi pasar yang wajar;
 c. bahwa setiap orang yang berusaha di Indonesia harus berada dalam situasi persaingan yang sehat dan wajar, sehingga tidak menimbulkan adanya pemusatan kekuatan ekonomi pada pelaku usaha tertentu, dengan tidak terlepas dari kesepakatan yang telah dilaksanakan oleh Negara Republik Indonesia terhadap perjanjian-perjanjian internasional;
 d. bahwa untuk mewujudkan sebagaimana yang dimaksud dalam huruf a, huruf b, dan huruf c, atas usul inisiatif Dewan Perwakilan Rakyat perlu disusun Undang-undang Tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat;
+
 Mengingat :
- Pasal 5 ayat (1), Pasal 21 ayat (1), Pasal 27 ayat (2) dan Pasal 33 Undang-Undang Dasar 1945; Dengan Persetujuan DEWAN PERWAKILAN RAKYAT
+Pasal 5 ayat (1), Pasal 21 ayat (1), Pasal 27 ayat (2) dan Pasal 33 Undang-Undang Dasar 1945;
+
+Dengan Persetujuan DEWAN PERWAKILAN RAKYAT
 MEMUTUSKAN:
- Menetapkan : UNDANG-UNDANG TENTANG LARANGAN PRAKTEK MONOPOLI DAN PERSAINGAN USAHA TIDAK SEHAT
-BAB I KETENTUAN UMUM
+Menetapkan :
+UNDANG-UNDANG TENTANG LARANGAN PRAKTEK MONOPOLI DAN PERSAINGAN USAHA TIDAK SEHAT
+
+BAB I
+KETENTUAN UMUM
+
 Pasal 1
 Dalam Undang-undang ini yang dimaksud dengan:
 1. Monopoli adalah penguasaan atas produksi dan atau pemasaran barang dan atau atas penggunaan jasa tertentu oleh satu pelaku usaha atau satu kelompok pelaku usaha.
@@ -32,269 +45,425 @@ Dalam Undang-undang ini yang dimaksud dengan:
 17. Jasa adalah setiap layanan yang berbentuk pekerjaan atau prestasi yang diperdagangkan dalam masyarakat untuk dimanfaatkan oleh konsumen atau pelaku usaha.
 18. Komisi Pengawas Persaingan Usaha adalah komisi yang dibentuk untuk mengawasi pelaku usaha dalam menjalankan kegiatan usahanya agar tidak melakukan monopoli dan atau persaingan usaha tidak sehat.
 19. Pengadilan Negeri adalah pengadilan, sebagaimana dimaksud dalam peraturan perundang-undangan yang berlaku, di tempat kedudukan hukum usaha pelaku usaha.
-BAB II ASAS DAN TUJUAN
+
+BAB II
+ASAS DAN TUJUAN
+
 Pasal 2
 Pelaku usaha di Indonesia dalam menjalankan kegiatan usahanya berasaskan demokrasi ekonomi dengan memperhatikan keseimbangan antara kepentingan pelaku usaha dan kepentingan umum.
+
 Pasal 3
 Tujuan pembentukan undang-undang ini adalah untuk:
-a. menjaga kepentingan umum dan meningkatkan efisiensi ekonomi nasional sebagai salah satu upaya untuk meningkatkan kesejahteraan rakyat;
-b. mewujudkan iklim usaha yang kondusif melalui pengaturan persaingan usaha yang sehat sehingga menjamin adanya kepastian kesempatan berusaha yang sama bagi pelaku usaha besar, pelaku usaha menengah, dan pelaku usaha kecil;
-c. mencegah praktek monopoli dan atau persaingan usaha tidak sehat yang ditimbulkan oleh pelaku usaha; dan
-d. terciptanya efektivitas dan efisiensi dalam kegiatan usaha.
-BAB III PERJANJIAN YANG DILARANG
-Bagian Pertama Oligopoli
+  a. menjaga kepentingan umum dan meningkatkan efisiensi ekonomi nasional sebagai salah satu upaya untuk meningkatkan kesejahteraan rakyat;
+  b. mewujudkan iklim usaha yang kondusif melalui pengaturan persaingan usaha yang sehat sehingga menjamin adanya kepastian kesempatan berusaha yang sama bagi pelaku usaha besar, pelaku usaha menengah, dan pelaku usaha kecil;
+  c. mencegah praktek monopoli dan atau persaingan usaha tidak sehat yang ditimbulkan oleh pelaku usaha; dan
+  d. terciptanya efektivitas dan efisiensi dalam kegiatan usaha.
+
+BAB III
+PERJANJIAN YANG DILARANG
+
+Bagian Pertama
+Oligopoli
+
 Pasal 4
 (1) Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha lain untuk secara bersama-sama melakukan penguasaan produksi dan atau pemasaran barang dan atau jasa yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
 (2) Pelaku usaha patut diduga atau dianggap secara bersama-sama melakukan penguasaan produksi dan atau pemasaran barang dan atau jasa, sebagaimana dimaksud ayat (1), apabila 2 (dua) atau 3 (tiga) pelaku usaha atau kelompok pelaku usaha menguasai lebih dari 75% (tujuh puluh lima persen) pangsa pasar satu jenis barang atau jasa tertentu.
-Bagian Kedua Penetapan Harga
+
+Bagian Kedua
+Penetapan Harga
+
 Pasal 5
 (1) Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha pesaingnya untuk menetapkan harga atas mutu suatu barang dan atau jasa yang harus dibayar oleh konsumen atau pelanggan pada pasar bersangkutan yang sama.
 (2) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku bagi:
-a. suatu perjanjian yang dibuat dalam suatu usaha patungan; atau
-b. suatu perjanjian yang didasarkan undang-undang yang berlaku.
+  a. suatu perjanjian yang dibuat dalam suatu usaha patungan; atau
+  b. suatu perjanjian yang didasarkan undang-undang yang berlaku.
+
 Pasal 6
 Pelaku usaha dilarang membuat perjanjian yang mengakibatkan pembeli yang satu harus membayar dengan harga yang berbeda dari harga yang harus dibayar oleh pembeli lain untuk barang dan atau jasa yang sama.
+
 Pasal 7
 Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha pesaingnya untuk menetapkan harga di bawah harga pasar, yang dapat mengakibatkan terjadinya persaingan usaha tidak sehat.
+
 Pasal 8
 Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha lain yang membuat persyaratan bahwa penerima barang dan atau jasa tidak akan menjual atau memasok kembali barang dan atau jasa yang diterimanya, dengan harga yang lebih rendah daripada harga yang telah diperjanjikan sehingga dapat mengakibatkan terjadinya persaingan usaha tidak sehat.
-Bagian Ketiga Pembagian Wilayah
+
+Bagian Ketiga
+Pembagian Wilayah
+
 Pasal 9
 Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha pesaingnya yang bertujuan untuk membagi wilayah pemasaran atau alokasi pasar terhadap barang dan atau jasa sehingga dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
-Bagian Keempat Pemboikotan
+
+Bagian Keempat
+Pemboikotan
+
 Pasal 10
 (1) Pelaku usaha dilarang membuat perjanjian, dengan pelaku usaha pesaingnya, yang dapat menghalangi pelaku usaha lain untuk melakukan usaha yang sama, baik untuk tujuan pasar dalam negeri maupun pasar luar negeri.
 (2) Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha pesaingnya, untuk menolak menjual setiap barang dan atau jasa dari pelaku usaha lain sehingga perbuatan tersebut:
-a. merugikan atau dapat diduga akan merugikan pelaku usaha lain; atau
-b. membatasi pelaku usaha lain dalam menjual atau membeli setiap barang dan atau jasa dari pasar bersangkutan.
-Bagian Kelima Kartel
+  a. merugikan atau dapat diduga akan merugikan pelaku usaha lain; atau
+  b. membatasi pelaku usaha lain dalam menjual atau membeli setiap barang dan atau jasa dari pasar bersangkutan.
+
+Bagian Kelima
+Kartel
+
 Pasal 11
 Pelaku usaha dilarang membuat perjanjian, dengan pelaku usaha pesaingnya, yang bermaksud untuk mempengaruhi harga dengan mengatur produksi dan atau pemasaran suatu barang dan atau jasa, yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
-Bagian Keenam Trust
+
+Bagian Keenam
+Trust
+
 Pasal 12
 Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha lain untuk melakukan kerja sama dengan membentuk gabungan perusahaan atau perseroan yang lebih besar, dengan tetap menjaga dan mempertahankan kelangsungan hidup masing-masing perusahaan atau perseroan anggotanya, yang bertujuan untuk mengontrol produksi dan atau pemasaran atas barang dan atau jasa, sehingga dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
-Bagian Ketujuh Oligopsoni
+
+Bagian Ketujuh
+Oligopsoni
+
 Pasal 13
 (1) Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha lain yang bertujuan untuk secara bersama-sama menguasai pembelian atau penerimaan pasokan agar dapat mengendalikan harga atas barang dan atau jasa dalam pasar bersangkutan, yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
 (2) Pelaku usaha patut diduga atau dianggap secara bersama-sama menguasai pembelian atau penerimaan pasokan sebagaimana dimaksud dalam ayat (1) apabila 2 (dua) atau 3 (tiga) pelaku usaha atau kelompok pelaku usaha menguasai lebih dari 75% (tujuh puluh lima persen) pangsa pasar satu jenis barang atau jasa tertentu.
-Bagian Kedelapan Integrasi Vertikal
+
+Bagian Kedelapan
+Integrasi Vertikal
+
 Pasal 14
 Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha lain yang bertujuan menguasai produksi sejumlah produk yang termasuk dalam rangkaian produksi barang dan atau jasa tertentu yang mana setiap rangkaian produksi merupakan hasil pengolahan atau proses lanjutan, baik dalam satu rangkaian langsung maupun tidak langsung, yang dapat mengakibatkan terjadinya persaingan usaha tidak sehat dan atau merugikan masyarakat.
-Bagian Kesembilan Perjanjian Tertutup
+
+Bagian Kesembilan
+Perjanjian Tertutup
+
 Pasal 15
 (1) Pelaku usaha dilarang membuat perjanjian dengan pelaku usaha lain yang memuat persyaratan bahwa pihak yang menerima barang dan atau jasa hanya akan memasok atau tidak memasok kembali barang dan atau jasa tersebut kepada pihak tertentu dan atau pada tempat tertentu.
 (2) Pelaku usaha dilarang membuat perjanjian dengan pihak lain yang memuat persyaratan bahwa pihak yang menerima barang dan atau jasa tertentu harus bersedia membeli barang dan atau jasa lain dari pelaku usaha pemasok.
 (3) Pelaku usaha dilarang membuat perjanjian mengenai harga atau potongan harga tertentu atas barang dan atau jasa, yang memuat persyaratan bahwa pelaku usaha yang menerima barang dan atau jasa dari pelaku usaha pemasok:
-a. harus bersedia membeli barang dan atau jasa lain dari pelaku usaha pemasok; atau
-b. tidak akan membeli barang dan atau jasa yang sama atau sejenis dari pelaku usaha lain yang menjadi pesaing dari pelaku usaha pemasok.
-Bagian Kesepuluh Perjanjian Dengan Pihak Luar Negeri
+  a. harus bersedia membeli barang dan atau jasa lain dari pelaku usaha pemasok; atau
+  b. tidak akan membeli barang dan atau jasa yang sama atau sejenis dari pelaku usaha lain yang menjadi pesaing dari pelaku usaha pemasok.
+
+Bagian Kesepuluh
+Perjanjian Dengan Pihak Luar Negeri
+
 Pasal 16
 Pelaku usaha dilarang membuat perjanjian dengan pihak lain di luar negeri yang memuat ketentuan yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
-BAB IV KEGIATAN YANG DILARANG
-Bagian Pertama Monopoli
+
+BAB IV
+KEGIATAN YANG DILARANG
+
+Bagian Pertama
+Monopoli
+
 Pasal 17
 (1) Pelaku usaha dilarang melakukan penguasaan atas produksi dan atau pemasaran barang dan atau jasa yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
 (2) Pelaku usaha patut diduga atau dianggap melakukan penguasaan atas produksi dan atau pemasaran barang dan atau jasa sebagaimana dimaksud dalam ayat (1) apabila :
-a. barang dan atau jasa yang bersangkutan belum ada substansinya; atau
-b. mengakibatkan pelaku usaha lain tidak dapat masuk ke dalam persaingan usaha barang dan atau jasa yang sama; atau
-c. satu pelaku usaha atau satu kelompok pelaku usaha menguasai lebih dari 50% (lima puluh persen) pangsa pasar satu jenis barang atau jasa tertentu.
-Bagian Kedua Monopsoni
+  a. barang dan atau jasa yang bersangkutan belum ada substansinya; atau
+  b. mengakibatkan pelaku usaha lain tidak dapat masuk ke dalam persaingan usaha barang dan atau jasa yang sama; atau
+  c. satu pelaku usaha atau satu kelompok pelaku usaha menguasai lebih dari 50% (lima puluh persen) pangsa pasar satu jenis barang atau jasa tertentu.
+
+Bagian Kedua
+Monopsoni
+
 Pasal 18
 (1) Pelaku usaha dilarang menguasai penerimaan pasokan atau menjadi pembeli tunggal atas barang dan atau jasa dalam pasar bersangkutan yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
 (2) Pelaku usaha patut diduga atau dianggap menguasai penerimaan pasokan atau menjadi pembeli tunggal sebagaimana dimaksud dalam ayat (1) apabila satu pelaku usaha atau satu kelompok pelaku usaha menguasai lebih dari 50% (lima puluh persen) pangsa pasar satu jenis barang atau jasa tertentu.
-Bagian Ketiga Penguasaan Pasar
+
+Bagian Ketiga
+Penguasaan Pasar
+
 Pasal 19
 Pelaku usaha dilarang melakukan satu atau beberapa kegiatan, baik sendiri maupun bersama pelaku usaha lain, yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat berupa :
-a. menolak dan atau menghalangi pelaku usaha tertentu untuk melakukan kegiatan usaha yang sama pada pasar bersangkutan; atau
-b. menghalangi konsumen atau pelanggan pelaku usaha pesaingnya untuk tidak melakukan hubungan usaha dengan pelaku usaha pesaingnya itu; atau
-c. membatasi peredaran dan atau penjualan barang dan atau jasa pada pasar bersangkutan; atau
-d. melakukan praktek monopoli terhadap pelaku usaha tertentu.
+  a. menolak dan atau menghalangi pelaku usaha tertentu untuk melakukan kegiatan usaha yang sama pada pasar bersangkutan; atau
+  b. menghalangi konsumen atau pelanggan pelaku usaha pesaingnya untuk tidak melakukan hubungan usaha dengan pelaku usaha pesaingnya itu; atau
+  c. membatasi peredaran dan atau penjualan barang dan atau jasa pada pasar bersangkutan; atau
+  d. melakukan praktek monopoli terhadap pelaku usaha tertentu.
+
 Pasal 20
 Pelaku usaha dilarang melakukan pemasokan barang dan atau jasa dengan cara melakukan jual rugi atau menetapkan harga yang sangat rendah dengan maksud untuk menyingkirkan atau mematikan usaha pesaingnya di pasar bersangkutan sehingga dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
+
 Pasal 21
 Pelaku usaha dilarang melakukan kecurangan dalam menetapkan biaya produksi dan biaya lainnya yang menjadi bagian dari komponen harga barang dan atau jasa yang dapat mengakibatkan terjadinya persaingan usaha tidak sehat.
-Bagian Keempat Persekongkolan
+
+Bagian Keempat
+Persekongkolan
+
 Pasal 22
 Pelaku usaha dilarang bersekongkol dengan pihak lain untuk mengatur dan atau menentukan pemenang tender sehingga dapat mengakibatkan terjadinya persaingan usaha tidak sehat.
+
 Pasal 23
 Pelaku usaha dilarang bersekongkol dengan pihak lain untuk mendapatkan informasi kegiatan usaha pesaingnya yang diklasifikasikan sebagai rahasia perusahaan sehingga dapat mengakibatkan terjadinya persaingan usaha tidak sehat.
+
 Pasal 24
 Pelaku usaha dilarang bersekongkol dengan pihak lain untuk menghambat produksi dan atau pemasaran barang dan atau jasa pelaku usaha pesaingnya dengan maksud agar barang dan atau jasa yang ditawarkan atau dipasok di pasar bersangkutan menjadi berkurang baik dari jumlah, kualitas, maupun ketepatan waktu yang dipersyaratkan.
-BAB V POSISI DOMINAN
-Bagian Pertama Umum
+
+BAB V
+POSISI DOMINAN
+
+Bagian Pertama
+Umum
+
 Pasal 25
 (1) Pelaku usaha dilarang menggunakan posisi dominan baik secara langsung maupun tidak langsung untuk :
-a. menetapkan syarat-syarat perdagangan dengan tujuan untuk mencegah dan atau menghalangi konsumen memperoleh barang dan atau jasa yang bersaing, baik dari segi harga maupun kualitas; atau
-b. membatasi pasar dan pengembangan teknologi; atau
-c. menghambat pelaku usaha lain yang berpotensi menjadi pesaing untuk memasuki pasar bersangkutan.
+  a. menetapkan syarat-syarat perdagangan dengan tujuan untuk mencegah dan atau menghalangi konsumen memperoleh barang dan atau jasa yang bersaing, baik dari segi harga maupun kualitas; atau
+  b. membatasi pasar dan pengembangan teknologi; atau
+  c. menghambat pelaku usaha lain yang berpotensi menjadi pesaing untuk memasuki pasar bersangkutan.
 (2) Pelaku usaha memiliki posisi dominan sebagaimana dimaksud ayat (1) apabila :
-a. satu pelaku usaha atau satu kelompok pelaku usaha menguasai 50% (lima puluh persen) atau lebih pangsa pasar satu jenis barang dan atau jasa tertentu; atau
-b. dua atau tiga pelaku usaha atau kelompok pelaku usaha menguasai 75% (tujuh puluh lima persen) atau lebih pangsa pasar satu jenis barang dan atau jasa tertentu.
-Bagian Kedua Jabatan Rangkap
+  a. satu pelaku usaha atau satu kelompok pelaku usaha menguasai 50% (lima puluh persen) atau lebih pangsa pasar satu jenis barang dan atau jasa tertentu; atau
+  b. dua atau tiga pelaku usaha atau kelompok pelaku usaha menguasai 75% (tujuh puluh lima persen) atau lebih pangsa pasar satu jenis barang dan atau jasa tertentu.
+
+Bagian Kedua
+Jabatan Rangkap
+
 Pasal 26
 Seseorang yang menduduki jabatan sebagai direksi atau komisaris dari suatu perusahaan, pada waktu yang bersamaan dilarang merangkap menjadi direksi atau komisaris pada perusahaan lain, apabila perusahaan-perusahaan tersebut :
-a. berada dalam pasar bersangkutan yang sama; atau
-b. memiliki keterkaitan yang erat dalam bidang dan atau jenis usaha; atau
-c. secara bersama dapat menguasai pangsa pasar barang dan atau jasa tertentu, yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
-Bagian Ketiga Pemilikan Saham
+  a. berada dalam pasar bersangkutan yang sama; atau
+  b. memiliki keterkaitan yang erat dalam bidang dan atau jenis usaha; atau
+  c. secara bersama dapat menguasai pangsa pasar barang dan atau jasa tertentu, yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
+
+Bagian Ketiga
+Pemilikan Saham
+
 Pasal 27
 Pelaku usaha dilarang memiliki saham mayoritas pada beberapa perusahaan sejenis yang melakukan kegiatan usaha dalam bidang yang sama atau mendirikan beberapa perusahaan yang memiliki kegiatan usaha yang sama pada pasar bersangkutan yang sama, apabila kepemilikan tersebut mengakibatkan :
-a. satu pelaku usaha atau satu kelompok pelaku usaha menguasai lebih dari 50% (lima puluh persen) pangsa pasar satu jenis barang dan atau jasa tertentu;
-b. dua atau tiga pelaku usaha atau kelompok pelaku usaha menguasai lebih dari 75% (tujuh puluh lima persen) pangsa pasar satu jenis barang dan atau jasa tertentu.
-Bagian Keempat Penggabungan, Peleburan, dan Pengambilalihan
+  a. satu pelaku usaha atau satu kelompok pelaku usaha menguasai lebih dari 50% (lima puluh persen) pangsa pasar satu jenis barang dan atau jasa tertentu;
+  b. dua atau tiga pelaku usaha atau kelompok pelaku usaha menguasai lebih dari 75% (tujuh puluh lima persen) pangsa pasar satu jenis barang dan atau jasa tertentu.
+
+Bagian Keempat
+Penggabungan, Peleburan, dan Pengambilalihan
+
 Pasal 28
 (1) Pelaku usaha dilarang melakukan penggabungan atau peleburan badan usaha yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
 (2) Pelaku usaha dilarang melakukan pengambilalihan saham perusahaan lain apabila tindakan tersebut dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat.
 (3) ketentuan lebih lanjut mengenai penggabungan atau peleburan badan usaha yang dilarang sebagaimana dimaksud ayat (1), dan ketentuan mengenai pengambilalihan saham perusahaan sebagaimana dimaksud dalam ayat (2), diatur dalam Peraturan Pemerintah.
+
 Pasal 29
 (1) Penggabungan atau peleburan badan usaha, atau pengambilalihan saham sebagaimana dimaksud dalam Pasal 28 yang berakibat nilai aset dan atau nilai penjualannya melebihi jumlah tertentu, wajib diberitahukan kepada Komisi, selambat-lambatnya 30 (tiga puluh) hari sejak tanggal penggabungan, peleburan atua pengambilalihan tersebut.
 (2) Ketentuan tentang penetapan nilai aset dan atau nilai penjualan serta tata cara pemberitahuan sebagaimana dimaksud dalam ayat (1), diatur dalam Peraturan Pemerintah.
-BAB VI KOMISI PENGAWAS PERSAINGAN USAHA
-Bagian Pertama Status
+
+BAB VI
+KOMISI PENGAWAS PERSAINGAN USAHA
+
+Bagian Pertama
+Status
+
 Pasal 30
 (1) Untuk mengawasi pelaksanaan Undang-undang ini dibentuk Komisi Pengawas Persaingan Usaha yang selanjutnya disebut Komisi.
 (2) Komisi adalah suatu lembaga independen yang terlepas dari pengaruh dan kekuasaan Pemerintah serta pihak lain.
 (3) Komisi bertanggungjawab kepada Presiden.
-Bagian Kedua Keanggotaan
+
+Bagian Kedua
+Keanggotaan
+
 Pasal 31
 (1) Komisi terdiri atas seorang Ketua merangkap anggota, seorang Wakil Ketua merangkap anggota, dan sekurang-kurangnya 7 (tujuh) orang anggota.
 (2) Anggota Komisi diangkat dan diberhentikan oleh Presiden atas persetujuan Dewan Perwakilan Rakyat.
-(3) Masa jabatan anggota Komisi adalah 5 (lima) tahun dan dapat diangkat kembali untuk 1 (satu kali masa jabatan berikutnya.
+(3) Masa jabatan anggota Komisi adalah 5 (lima) tahun dan dapat diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya.
 (4) Apabila karena berakhirnya masa jabatan akan terjadi kekosongan dalam keanggotaan Komisi, maka masa jabatan anggota dapat diperpanjang sampai pengangkatan anggota baru.
+
 Pasal 32
 Persyaratan keanggotaan Komisi adalah :
-a. warga negara Republik Indonesia, berusia sekurang-kurangnya 30 (tiga puluh) tahun dan setinggi-tingginya 60 (enam puluh) tahun pada saat pengangkatan;
-b. setia kepada Pancasila dan Undang-Undang Dasar 1945;
-c. beriman dan bertaqwa kepada Tuhan Yang Maha Esa;
-d. jujur, adil dan berkelakuan baik;
-e. bertempat tinggal di wilayah negara Republik Indonesia;
-f. berpengalaman dalam bidang usaha atau mempunyai pengetahuan dan keahlian di bidang hukum dan atau ekonomi;
-g. tidak pernah dipidana;
-h. tidak pernah dinyatakan pailit oleh pengadilan; dan
-i. tidak terafiliasi dengan suatu badan usaha.
+  a. warga negara Republik Indonesia, berusia sekurang-kurangnya 30 (tiga puluh) tahun dan setinggi-tingginya 60 (enam puluh) tahun pada saat pengangkatan;
+  b. setia kepada Pancasila dan Undang-Undang Dasar 1945;
+  c. beriman dan bertaqwa kepada Tuhan Yang Maha Esa;
+  d. jujur, adil dan berkelakuan baik;
+  e. bertempat tinggal di wilayah negara Republik Indonesia;
+  f. berpengalaman dalam bidang usaha atau mempunyai pengetahuan dan keahlian di bidang hukum dan atau ekonomi;
+  g. tidak pernah dipidana;
+  h. tidak pernah dinyatakan pailit oleh pengadilan; dan
+  i. tidak terafiliasi dengan suatu badan usaha.
+
 Pasal 33
 Keanggotaan Komisi berhenti, karena :
-a. meninggal dunia;
-b. mengundurkan diri atas permintaan sendiri;
-c. bertempat tinggal di wilayah negara Republik Indonesia;
-d. sakit jasmani atau rohani terus menerus;
-e. berakhirnya masa jabatan keanggotaan Komisi; atau
-f. diberhentikan.
+  a. meninggal dunia;
+  b. mengundurkan diri atas permintaan sendiri;
+  c. bertempat tinggal di wilayah negara Republik Indonesia;
+  d. sakit jasmani atau rohani terus menerus;
+  e. berakhirnya masa jabatan keanggotaan Komisi; atau
+  f. diberhentikan.
+
 Pasal 34
 (1) Pembentukan Komisi serta susunan organisasi, tugas, dan fungsinya ditetapkan dengan Keputusan Presiden.
 (2) Untuk kelancaran pelaksanaan tugas, Komisi dibantu oleh sekretariat.
 (3) Komisi dapat membentuk kelompok kerja.
 (4) Ketentuan mengenai susunan organisasi, tugas, fungsi sekretariat dan kelompok kerja diatur lebih lanjut oleh keputusan Komisi.
-Bagian Ketiga Tugas
+
+Bagian Ketiga
+Tugas
+
 Pasal 35
 Tugas Komisi meliputi :
-a. melakukan penilaian terhadap perjanjian yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat sebagaimana diatur dalam Pasal 4 sampai dengan Pasal 16;
-b. melakukan penilaian terhadap kegiatan usaha dan atau tindakan pelaku usaha yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat sebagaimana diatur dalam Pasal 17 sampai dengan Pasal 24;
-c. melakukan penilaian terhadap ada atau tidaknya penyalahgunaan posisi dominan yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat sebagaimana diatur dalam Pasal 25 sampai dengan Pasal 28;
-d. mengambil tindakan sesuai dengan wewenang Komisi sebagaimana diatur dalam Pasal 36;
-e. memberikan saran dan pertimbangan terhadap kebijakan Pemerintah yang berkaitan dengan praktek monopoli dan atau persaingan usaha tidak sehat;
-f. menyusun pedoman dan atau publikasi yang berkaitan dengan Undang-undang ini;
-g. memberikan laporan secara berkala atas hasil kerja Komisi kepada Presiden dan Dewan Perwakilan Rakyat. Bagian keempat Wewenang
+  a. melakukan penilaian terhadap perjanjian yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat sebagaimana diatur dalam Pasal 4 sampai dengan Pasal 16;
+  b. melakukan penilaian terhadap kegiatan usaha dan atau tindakan pelaku usaha yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat sebagaimana diatur dalam Pasal 17 sampai dengan Pasal 24;
+  c. melakukan penilaian terhadap ada atau tidaknya penyalahgunaan posisi dominan yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat sebagaimana diatur dalam Pasal 25 sampai dengan Pasal 28;
+  d. mengambil tindakan sesuai dengan wewenang Komisi sebagaimana diatur dalam Pasal 36;
+  e. memberikan saran dan pertimbangan terhadap kebijakan Pemerintah yang berkaitan dengan praktek monopoli dan atau persaingan usaha tidak sehat;
+  f. menyusun pedoman dan atau publikasi yang berkaitan dengan Undang-undang ini;
+  g. memberikan laporan secara berkala atas hasil kerja Komisi kepada Presiden dan Dewan Perwakilan Rakyat.
+
+Bagian Keempat
+Wewenang
+
 Pasal 36
 Wewenang Komisi meliputi :
-a. menerima laporan dari masyarakat dan atau dari pelaku usaha tentang dugaan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat;
-b. melakukan penelitian tentang dugaan adanya kegiatan usaha dan atau tindakan pelaku usaha yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat;
-c. melakukan penyelidikan dan atau pemeriksaan terhadap kasus dugaan praktek monopoli dan atau persaingan usaha tidak sehat yang dilaporkan oleh masyarakat atau oleh pelaku usaha atau yang ditemukan oleh Komisi sebagai hasil dari penelitiannya;
-d. menyimpulkan hasil penyelidikan dan atau pemeriksaan tentang ada atau tidak adanya praktek monopoli dan atau persaingan usaha tidak sehat;
-e. memanggil pelaku usaha yang diduga telah melakukan pelanggaran terhadap ketentuan undang-undang ini;
-f. memanggil dan menghadirkan saksi, saksi ahli, dan setiap orang yang dianggap mengetahui pelanggaran terhadap ketentuan undang-undang ini;
-g. meminta bantuan penyidik untuk menghadirkan pelaku usaha, saksi, saksi ahli, atau setiap orang sebagaimana dimaksud huruf c, dan huruf f, yang tidak bersedia memenuhi panggilan Komisi;
-h. meminta keterangan dari instansi Pemerintah dalam kaitannya dengan penyelidikan dan atau pemeriksaan terhadap pelaku usaha yang melanggar ketentuan Undang-undang ini;
-i. mendapatkan, meneliti, dan atau menilai surat, dokumen atau alat bukti lain guna penyelidikan dan atau pemeriksaan;
-j. memutuskan dan menetapkan ada atau tidak adanya kerugian di pihak pelaku usaha lain atau masyarakat;
-k. memberitahukan putusan Komisi kepada pelaku usaha yang diduga melakukan praktek monopoli dan atau persaingan usaha tidak sehat;
-l. menjatuhkan sanksi berupa tindakan administratif kepada pelaku usaha yang melanggar ketentuan Undang-undang ini.
-Bagian Kelima Pembiayaan
+  a. menerima laporan dari masyarakat dan atau dari pelaku usaha tentang dugaan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat;
+  b. melakukan penelitian tentang dugaan adanya kegiatan usaha dan atau tindakan pelaku usaha yang dapat mengakibatkan terjadinya praktek monopoli dan atau persaingan usaha tidak sehat;
+  c. melakukan penyelidikan dan atau pemeriksaan terhadap kasus dugaan praktek monopoli dan atau persaingan usaha tidak sehat yang dilaporkan oleh masyarakat atau oleh pelaku usaha atau yang ditemukan oleh Komisi sebagai hasil dari penelitiannya;
+  d. menyimpulkan hasil penyelidikan dan atau pemeriksaan tentang ada atau tidak adanya praktek monopoli dan atau persaingan usaha tidak sehat;
+  e. memanggil pelaku usaha yang diduga telah melakukan pelanggaran terhadap ketentuan undang-undang ini;
+  f. memanggil dan menghadirkan saksi, saksi ahli, dan setiap orang yang dianggap mengetahui pelanggaran terhadap ketentuan undang-undang ini;
+  g. meminta bantuan penyidik untuk menghadirkan pelaku usaha, saksi, saksi ahli, atau setiap orang sebagaimana dimaksud huruf c, dan huruf f, yang tidak bersedia memenuhi panggilan Komisi;
+  h. meminta keterangan dari instansi Pemerintah dalam kaitannya dengan penyelidikan dan atau pemeriksaan terhadap pelaku usaha yang melanggar ketentuan Undang-undang ini;
+  i. mendapatkan, meneliti, dan atau menilai surat, dokumen atau alat bukti lain guna penyelidikan dan atau pemeriksaan;
+  j. memutuskan dan menetapkan ada atau tidak adanya kerugian di pihak pelaku usaha lain atau masyarakat;
+  k. memberitahukan putusan Komisi kepada pelaku usaha yang diduga melakukan praktek monopoli dan atau persaingan usaha tidak sehat;
+  l. menjatuhkan sanksi berupa tindakan administratif kepada pelaku usaha yang melanggar ketentuan Undang-undang ini.
+
+Bagian Kelima
+Pembiayaan
+
 Pasal 37
 Biaya untuk pelaksanaan tugas Komisi dibebankan kepada Anggaran Pendapatan dan Belanja Negara dan atau sumber-sumber lain yang diperbolehkan oleh peraturan perundang-undangan yang berlaku.
-BAB VII TATA CARA PENANGANAN PERKARA
+
+BAB VII
+TATA CARA PENANGANAN PERKARA
+
 Pasal 38
 (1) Setiap orang yang mengetahui telah terjadi atau patut diduga telah terjadi pelanggaran terhadap Undang-undang ini dapat melaporkan secara tertulis kepada Kommisi, dengan keterangan yang jelas tentang telah terjadinya pelanggaran, dengan menyertakan identitas pelapor.
 (2) Pihak yang dirugikan sebagai akibat terjadinya pelanggaran terhadap Undang-undang ini dapat melaporkan secara tertulis kepada Komisi dengan keterangan yang lengkap dan jelas tentang telah terjadinya pelanggaran serta kerugian yang ditimbulkan, dengan menyertakan identitas pelapor.
 (3) Identitas pelapor sebagaimana dimaksud dalam ayat (1) wajib dirahasiakan oleh Komisi.
 (4) Tata cara penyampaian laporan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut oleh Komisi.
+
 Pasal 39
 (1) Berdasarkan laporan sebagaimana dimaksud dalam Pasal 38 ayat (1) dan ayat (2), Komisi wajib melakukan pemeriksaan pendahuluan dan dalam waktu selambat-lambatnya 30 (tiga puluh) hari setelah menerima laporan, Komisi wajib menetapkan perlu atau tidaknya dilakukan pemeriksaan lanjutan.
 (2) Dalam pemeriksaan lanjutan, Komisi wajib melakukan pemeriksaan terhadap pelaku usaha yang dilaporkan.
 (3) Komisi wajib menjaga kerahasiaan informasi yang diperoleh dari pelaku usaha yang dikategorikan sebagai rahasia perusahaan.
 (4) Apabila dipandang perlu Komisi dapat mendengar keterangan saksi, saksi ahli, dan atau pihak lain.
 (5) Dalam melakukan kegiatan sebagaimana dimaksud dalam ayat (2) dan ayat (4), anggota Komisi dilengkapi dengan surat tugas.
+
 Pasal 40
 (1) Komisi dapat melakukan pemeriksaan terhadap pelaku usaha apabila ada dugaan terjadi pelanggaran Undang-undang ini walaupun tanpa adanya laporan.
 (2) Pemeriksaan sebagaimana dimaksud dalam ayat (1) dilaksanakan sesuai dengan tata cara sebagaimana diatur dalam Pasal 39.
+
 Pasal 41
 (1) Pelaku usaha dan atau pihak lain yang diperiksa wajib menyerahkan alat bukti yang diperlukan dalam penyelidikan dan atau pemeriksaan.
 (2) Pelaku usaha dilarang menolak diperiksa, menolak memberikan informasi yang diperlukan dalam penyelidikan dan atau pemeriksaan, atau menghambat proses penyelidikan dan atau pemeriksaan.
 (3) Pelanggaran terhadap ketentuan ayat (2), oleh Komisi diserahkan kepada penyidik untuk dilakukan penyidikan sesuai dengan ketentuan yang berlaku.
+
 Pasal 42
 Alat-alat bukti pemeriksaan Komisi berupa :
-a. keterangan saksi;
-b. keterangan ahli;
-c. surat dan atau dokumen;
-d. petunjuk;
-f. keterangan pelaku usaha.
+  a. keterangan saksi;
+  b. keterangan ahli;
+  c. surat dan atau dokumen;
+  d. petunjuk;
+  f. keterangan pelaku usaha.
+
 Pasal 43
 (1) Komisi wajib menyelesaikan pemeriksaan lanjutan selambat-lambatnya 60 (enam puluh) hari sejak dilakukan pemeriksaan lanjutan sebagaimana dimaksud dalam Pasal 39 ayat (1).
 (2) Bilamana diperlukan, jangka waktu pemeriksaan lanjutan sebagaimana dimaksud dalam ayat (1) dapat diperpanjang paling lama 30 (tiga puluh) hari.
 (3) Komisi wajib memutuskan telah terjadi atau tidak terjadi pelanggaran terhadap undang-undang ini selambat-lambatnya 30 (tiga puluh) hari terhitung sejak selesainya pemeriksaan lanjutan sebagaimana dimaksud dalam ayat (1) dan ayat (2).
 (4) Putusan Komisi sebagaimana dimaksud dalam ayat (3) harus dibacakan dalam suatu sidang yang dinyatakan terbuka untuk umum dan segera diberitahukan kepada pelaku usaha.
+
 Pasal 44
 (1) Dalam waktu 30 (tiga puluh) hari sejak pelaku usaha menerima pemberitahuan putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (4), pelaku usaha wajib melaksanakan putusan tersebut dan menyampaikan laporan pelaksanaannya kepada Komisi.
 (2) Pelaku usaha dapat mengajukan keberatan kepada Pengadilan Negeri selambat-lambatnya 14 (empat belas) hari setelah menerima pemberitahuan putusan tersebut.
 (3) Pelaku usaha yang tidak mengajukan keberatan dalam jangka waktu sebagaimana dimaksud dalam ayat (2) dianggap menerima putusan Komisi.
 (4) Apabila ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat (2) tidak dijalankan oleh pelaku usaha, Komisi menyerahkan putusan tersebut kepada penyidik untuk dilakukan penyidikan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 (5) Putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (4) merupakan bukti permulaan yang cukup bagi penyidik untuk melakukan penyidikan.
+
 Pasal 45
 (1) Pengadilan Negeri harus memeriksa keberatan pelaku usaha sebagaimana dimaksud dalam Pasal 44 ayat (2), dalam waktu 14 (empat belas) hari sejak diterimanya keberatan tersebut.
 (2) Pengadilan Negeri harus memberikan putusan dalam waktu 30 (tiga puluh) hari sejak dimulainya pemeriksaan keberatan tersebut.
 (3) Pihak yang keberatan terhadap putusan Pengadilan Negeri sebagaimana dimaksud dalam ayat (2), dalam waktu 14 (empat belas) hari dapat mengajukan kasasi kepada Mahkamah Agung Republik Indonesia.
 (4) Mahkamah Agung harus memberikan putusan dalam waktu 30 (tiga puluh) hari sejak permohonan kasasi diterima.
+
 Pasal 46
 (1) Apabila tidak terdapat keberatan, putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (3), telah mempunyai kekuatan hukum yang tetap.
 (2) Putusan Komisi sebagaimana dimaksud dalam ayat (1) dimintakan penetapan eksekusi kepada Pengadilan Negeri.
-BAB VIII SANKSI
-Bagian Pertama Tindakan Administrasi
+
+BAB VIII
+SANKSI
+
+Bagian Pertama
+Tindakan Administrasi
+
 Pasal 47
 (1) Komisi berwenang menjatuhkan sanksi berupa tindakan administratif terhadap pelaku usaha yang melanggar ketentuan Undang-undang ini.
 (2) Tindakan administratif sebagaimana dimaksud dalam ayat (1) dapat berupa :
-a. penetapan pembatalan perjanjian sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 13, Pasal 15, dan Pasal 16 dan atau b. perintah kepada pelaku usaha untuk menghentikan integrasi vertikal sebagaimana dimaksud dalam Pasal 14; dan atau c. perintah kepada pelaku usaha untuk menghentikan kegiatan yang terbukti menimbulkan praktek monopoli dan atau menyebabkan persaingan usaha tidak sehat dan atau merugikan masyarakat; dan atau d. perintah kepada pelaku usaha untuk menghentikan penyalahgunaan posisi dominan; dan atau e. penetapan pembatalan atas penggabungan atau peleburan badan usaha dan pengambilalihan saham sebagaimana dimaksud dalam Pasal 28; dan atau f. penetapan pembayaran ganti rugi; dan atau g. pengenaan denda serendah-rendahnya Rp 1.000.000.000,00 (satu miliar rupiah) dan setinggi-tingginya Rp 25.000.000.000,00 (dua puluh lima miliar rupiah).
-Bagian Kedua Pidana Pokok
+  a. penetapan pembatalan perjanjian sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 13, Pasal 15, dan Pasal 16 dan atau 
+  b. perintah kepada pelaku usaha untuk menghentikan integrasi vertikal sebagaimana dimaksud dalam Pasal 14; dan atau 
+  c. perintah kepada pelaku usaha untuk menghentikan kegiatan yang terbukti menimbulkan praktek monopoli dan atau menyebabkan persaingan usaha tidak sehat dan atau merugikan masyarakat; dan atau 
+  d. perintah kepada pelaku usaha untuk menghentikan penyalahgunaan posisi dominan; dan atau 
+  e. penetapan pembatalan atas penggabungan atau peleburan badan usaha dan pengambilalihan saham sebagaimana dimaksud dalam Pasal 28; dan atau 
+  f. penetapan pembayaran ganti rugi; dan atau 
+  g. pengenaan denda serendah-rendahnya Rp 1.000.000.000,00 (satu miliar rupiah) dan setinggi-tingginya Rp 25.000.000.000,00 (dua puluh lima miliar rupiah).
+
+Bagian Kedua
+Pidana Pokok
+
 Pasal 48
 (1) Pelanggaran terhadap ketentuan Pasal 4, Pasal 9 sampai dengan Pasal 14, Pasal 16 sampai dengan Pasal 19, Pasal 25, Pasal 27, dan Pasal 28 diancam pidana denda serendah-rendahnya 25.000.000.000,00 (dua puluh lima miliar rupiah) dan setinggi-tingginya Rp 100.000.000.000,00 (seratus miliar rupiah), atau pidana kurungan pengganti denda selama-lamanya 6 (enam) bulan.
 (2) Pelanggaran terhadap ketentuan Pasal 5 sampai dengan Pasal 8, Pasal 15, Pasal 20 sampai dengan Pasal 24, dan Pasal 26 Undang-undang ini diancam pidana denda serendah-rendahnya 5.000.000.000,00 (lima miliar rupiah) dan setinggi-tingginya Rp 25.000.000.000,00 (dua puluh lima miliar rupiah), atau pidana kurungan pengganti denda selama-lamanya 5 (lima) bulan.
-(3) Pelanggaran terhadap ketentuan Pasal 41 Undang-undang ini diancam pidana denda serendah-rendahnya 1.000.000.000,00 (satu miliar rupiah) dan setinggi-tingginya Rp 5.000.000.000,00 (lima miliar rupiah), atau pidana kurungan pengganti denda selama-lamanya 3 (tiga) bulan. Bagian ketiga Pidana Tambahan
+(3) Pelanggaran terhadap ketentuan Pasal 41 Undang-undang ini diancam pidana denda serendah-rendahnya 1.000.000.000,00 (satu miliar rupiah) dan setinggi-tingginya Rp 5.000.000.000,00 (lima miliar rupiah), atau pidana kurungan pengganti denda selama-lamanya 3 (tiga) bulan.
+
+Bagian Ketiga
+Pidana Tambahan
+
 Pasal 49
 Dengan menunjuk ketentuan Pasal 10 Kitab Undang-undang Hukum Pidana, terhadap pidana sebagaimana diatur dalam Pasal 48 dapat dijatuhkan pidana tambahan berupa :
-a. pencabutan izin usaha; atau
-b. larangan kepada pelaku usaha yang telah terbukti melakukan pelanggaran terhadap undang-undang ini untuk menduduki jabatan direksi atau komisaris sekurang-kurangnya 2 (dua) tahun dan selama-lamanya 5 (lima) tahun; atau
-c. penghentian kegiatan atau tindakan tertentu yang menyebabkan timbulnya kerugian pada pihak lain.
-BAB IX KETENTUAN LAIN
+  a. pencabutan izin usaha; atau
+  b. larangan kepada pelaku usaha yang telah terbukti melakukan pelanggaran terhadap undang-undang ini untuk menduduki jabatan direksi atau komisaris sekurang-kurangnya 2 (dua) tahun dan selama-lamanya 5 (lima) tahun; atau
+  c. penghentian kegiatan atau tindakan tertentu yang menyebabkan timbulnya kerugian pada pihak lain.
+
+BAB IX
+KETENTUAN LAIN
+
 Pasal 50
 Yang dikecualikan dari ketentuan undang-undang ini adalah :
-a. perbuatan dan atau perjanjian yang bertujuan melaksanakan peraturan perundang-undangan yang berlaku; atau
-b. perjanjian yang berkaitan dengan hak atas kekayaan intelektual seperti lisensi, paten, merek dagang, hak cipta, desain produk industri, rangkaian elektronik terpadu, dan rahasia dagang, serta perjanjian yang berkaitan dengan waralaba; atau
-c. perjanjian penetapan standar teknis produk barang dan atau jasa yang tidak mengekang dan atau menghalangi persaingan; atau
-d. perjanjian dalam rangka keagenan yang isinya tidak memuat ketentuan untuk memasok kembali barang dan atau jasa dengan harga yang lebih rendah daripada harga yang telah diperjanjikan; atau
-e. perjanjian kerja sama penelitian untuk peningkatan atau perbaikan standar hidup masyarakat luas; atau
-f. perjanjian internasional yang telah diratifikasi oleh Pemerintah Republik Indonesia; atau
-g. perjanjian dan atau perbuatan yang bertujuan untuk ekspor yang tidak mengganggu kebutuhan dan atau pasokan pasar dalam negeri; atau
-h. pelaku usaha yang tergolong dalam usaha kecil; atau
-i. kegiatan usaha koperasi yang secara khusus bertujuan untuk melayani anggotanya.
+  a. perbuatan dan atau perjanjian yang bertujuan melaksanakan peraturan perundang-undangan yang berlaku; atau
+  b. perjanjian yang berkaitan dengan hak atas kekayaan intelektual seperti lisensi, paten, merek dagang, hak cipta, desain produk industri, rangkaian elektronik terpadu, dan rahasia dagang, serta perjanjian yang berkaitan dengan waralaba; atau
+  c. perjanjian penetapan standar teknis produk barang dan atau jasa yang tidak mengekang dan atau menghalangi persaingan; atau
+  d. perjanjian dalam rangka keagenan yang isinya tidak memuat ketentuan untuk memasok kembali barang dan atau jasa dengan harga yang lebih rendah daripada harga yang telah diperjanjikan; atau
+  e. perjanjian kerja sama penelitian untuk peningkatan atau perbaikan standar hidup masyarakat luas; atau
+  f. perjanjian internasional yang telah diratifikasi oleh Pemerintah Republik Indonesia; atau
+  g. perjanjian dan atau perbuatan yang bertujuan untuk ekspor yang tidak mengganggu kebutuhan dan atau pasokan pasar dalam negeri; atau
+  h. pelaku usaha yang tergolong dalam usaha kecil; atau
+  i. kegiatan usaha koperasi yang secara khusus bertujuan untuk melayani anggotanya.
+
 Pasal 51
 Monopoli dan atau pemusatan kegiatan yang berkaitan dengan produksi dan atau pemasaran barang dan atau jasa yang menguasai hajat hidup orang banyak serta cabang-cabang produksi yang penting bagi negara diatur dengan undang-undang dan diselenggarakan oleh Badan Usaha Milik Negara dan atau badan atau lembaga yang dibentuk atau ditunjuk oleh Pemerintah.
-BAB X KETENTUAN PERALIHAN
+
+BAB X
+KETENTUAN PERALIHAN
+
 Pasal 52
 (1) Sejak berlakunya undang-undang ini, semua peraturan perundang-undangan yang mengatur atau berkaitan dengan praktek monopoli dan atau persaingan usaha dinyatakan tetap berlaku sepanjang tidak bertentangan atau belum diganti dengan yang baru berdasarkan Undang-undang ini.
 (2) Pelaku usaha yang telah membuat perjanjian dan atau melakukan kegiatan dan atau tindakan yang tidak sesuai dengan ketentuan undang-undang ini diberi waktu 6 (enam) bulan sejak Undang-undang ini diberlakukan untuk melakukan penyesuaian.
-BAB XI KETENTUAN PENUTUP
+
+BAB XI
+KETENTUAN PENUTUP
+
 Pasal 53
 Undang-undang ini mulai berlaku terhitung 1 (satu) tahun sejak tanggal diundangkan.
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Disahkan di Jakarta pada tanggal 5 Maret 1999 ttd. BACHARUDDIN JUSUF HABIBIE Diundangkan di Jakarta pada tanggal 5 Maret 1999 MENTERI NEGARA SEKRETARIS NEGARA REPUBLIK INDONESIA, ttd. AKBAR TANDJUNG LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 33 PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 1999 TENTANG LARANGAN PRAKTEK MONOPOLI DAN PERSAINGAN USAHA TIDAK SEHAT UMUM Pembangunan ekonomi pada Pembangunan Jangka Panjang Pertama telah menghasilkan banyak kemajuan, antara lain dengan meningkatnya kesejahteraan rakyat. Kemajuan pembangunan yang telah dicapai di atas, didorong oleh kebijakan pembangunan di berbagai bidang, termasuk kebijakan pembangunan bidang ekonomi yang tertuang dalam Garis-Garis Besar Haluan Negara dan Rencana Pembangunan Lima Tahunan, serta berbagai kebijakan ekonomi lainnya. Meskipun telah banyak kemajuan yang dicapai selama Pembangunan Jangka Panjang Pertama, yang ditunjukkan oleh pertumbuhan ekonomi yang tinggi, tetapi masih banyak pula tantangan atau persoalan, khususnya dalam pembangunan ekonomi yang belum terpecahkan, seiring dengan adanya kecenderungan globalisasi perekonomian serta dinamika dan perkembangan usaha swasta sejak awal tahun 1990-an. Peluang-peluang usaha yang tercipta selama tiga dasawarsa yang lalu dalam kenyataannya belum membuat seluruh masyarakat mampu dan dapat berpartisipasi dalam pembangunan di berbagai sektor ekonomi. Perkembangan usaha swasta selama periode tersebut, disatu sisi diwarnai terdistorsi. Di sisi lain, perkembangan usaha swasta dalam kenyataannya sebagian besar merupakan perwujudan dari kondisi persaingan usaha yang tidak sehat. Fenomena di atas telah berkembang dan didukung oleh adanya hubungan yang terkait antara pengambil keputusan dengan para pelaku usaha, baik secara langsung maupun tidak langsung, sehingga lebih memperburuk keadaan. Penyelenggaraan ekonomi nasional kurang mengacu kepada amanat Pasal 33 Undang-Undang Dasar 1945, serta cenderung menunjukkan corak yang sangat monopolistik. Para pengusaha yang dekat dengan elit kekuasaan mendapatkan kemudahan-kemudahan yang berlebihan sehingga berdampak kepada kesenjangan sosial. Munculnya konglomerasi dan sekelompok kecil pengusaha kuat yang tidak didukung oleh semangat kewirausahaan sejati merupakan salah satu faktor yang mengakibatkan ketahanan ekonomi menjadi sangat rapuh dan tidak mampu bersaing. Memperhatikan situasi dan kondisi tersebut di atas, menuntut kita untuk mencermati dan menata kembali kegiatan usaha di Indonesia, agar dunia usaha dapat tumbuh serta berkembang secara sehat dan benar, sehingga tercipta iklim persaingan usaha yang sehat, serta terhindarnya pemusatan kekuatan ekonomi pada perorangan atau kelompok tertentu, antara lain dalam bentuk praktek monopoli dan persaingan usaha tidak sehat yang merugikan masyarakat, yang bertentangan dengan cita-cita keadilan sosial. Oleh karena itu, perlu disusun Undang-Undang tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat yang dimaksudkan untuk menegakkan aturan hukum dan memberikan perlindungan yang sama bagi setiap pelaku usaha di dalam upaya untuk menciptakan persaingan usaha yang sehat. Undang-undang ini memberikan jaminan kepastian hukum untuk lebih mendorong percepatan pembangunan ekonomi dalam upaya meningkatkan kesejahteraan umum, serta sebagai implementasi dari semangat dan jiwa, Undang-Undang Dasar 1945. Agar implementasi undang-undang ini serta peraturan pelaksanaannya dapat berjalan efektif sesuai asas dan tujuannya, maka perlu dibentuk Komisi Pengawas Persaingan Usaha, yaitu lembaga independen yang terlepas dari pengaruh pemerintah dan pihak lain, yang berwenang melakukan pengawasan persaingan usaha dan menjatuhkan sanksi. Sanksi tersebut berupa tindakan administratif, sedangkan sanksi pidana adalah wewenang pengadilan. Secara umum, materi dari Undang-Undang Tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat ini mengandung 6 (enam) bagian pengaturan yang terdiri dari :
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Disahkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 5 Maret 1999  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;BACHARUDDIN JUSUF HABIBIE
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 5 Maret 1999  
+MENTERI NEGARA SEKRETARIS NEGARA REPUBLIK INDONESIA,  
+ttd.  
+AKBAR TANDJUNG 
+
+<br/>
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 33
+
+<!--PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 1999 TENTANG LARANGAN PRAKTEK MONOPOLI DAN PERSAINGAN USAHA TIDAK SEHAT UMUM Pembangunan ekonomi pada Pembangunan Jangka Panjang Pertama telah menghasilkan banyak kemajuan, antara lain dengan meningkatnya kesejahteraan rakyat. Kemajuan pembangunan yang telah dicapai di atas, didorong oleh kebijakan pembangunan di berbagai bidang, termasuk kebijakan pembangunan bidang ekonomi yang tertuang dalam Garis-Garis Besar Haluan Negara dan Rencana Pembangunan Lima Tahunan, serta berbagai kebijakan ekonomi lainnya. Meskipun telah banyak kemajuan yang dicapai selama Pembangunan Jangka Panjang Pertama, yang ditunjukkan oleh pertumbuhan ekonomi yang tinggi, tetapi masih banyak pula tantangan atau persoalan, khususnya dalam pembangunan ekonomi yang belum terpecahkan, seiring dengan adanya kecenderungan globalisasi perekonomian serta dinamika dan perkembangan usaha swasta sejak awal tahun 1990-an. Peluang-peluang usaha yang tercipta selama tiga dasawarsa yang lalu dalam kenyataannya belum membuat seluruh masyarakat mampu dan dapat berpartisipasi dalam pembangunan di berbagai sektor ekonomi. Perkembangan usaha swasta selama periode tersebut, disatu sisi diwarnai terdistorsi. Di sisi lain, perkembangan usaha swasta dalam kenyataannya sebagian besar merupakan perwujudan dari kondisi persaingan usaha yang tidak sehat. Fenomena di atas telah berkembang dan didukung oleh adanya hubungan yang terkait antara pengambil keputusan dengan para pelaku usaha, baik secara langsung maupun tidak langsung, sehingga lebih memperburuk keadaan. Penyelenggaraan ekonomi nasional kurang mengacu kepada amanat Pasal 33 Undang-Undang Dasar 1945, serta cenderung menunjukkan corak yang sangat monopolistik. Para pengusaha yang dekat dengan elit kekuasaan mendapatkan kemudahan-kemudahan yang berlebihan sehingga berdampak kepada kesenjangan sosial. Munculnya konglomerasi dan sekelompok kecil pengusaha kuat yang tidak didukung oleh semangat kewirausahaan sejati merupakan salah satu faktor yang mengakibatkan ketahanan ekonomi menjadi sangat rapuh dan tidak mampu bersaing. Memperhatikan situasi dan kondisi tersebut di atas, menuntut kita untuk mencermati dan menata kembali kegiatan usaha di Indonesia, agar dunia usaha dapat tumbuh serta berkembang secara sehat dan benar, sehingga tercipta iklim persaingan usaha yang sehat, serta terhindarnya pemusatan kekuatan ekonomi pada perorangan atau kelompok tertentu, antara lain dalam bentuk praktek monopoli dan persaingan usaha tidak sehat yang merugikan masyarakat, yang bertentangan dengan cita-cita keadilan sosial. Oleh karena itu, perlu disusun Undang-Undang tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat yang dimaksudkan untuk menegakkan aturan hukum dan memberikan perlindungan yang sama bagi setiap pelaku usaha di dalam upaya untuk menciptakan persaingan usaha yang sehat. Undang-undang ini memberikan jaminan kepastian hukum untuk lebih mendorong percepatan pembangunan ekonomi dalam upaya meningkatkan kesejahteraan umum, serta sebagai implementasi dari semangat dan jiwa, Undang-Undang Dasar 1945. Agar implementasi undang-undang ini serta peraturan pelaksanaannya dapat berjalan efektif sesuai asas dan tujuannya, maka perlu dibentuk Komisi Pengawas Persaingan Usaha, yaitu lembaga independen yang terlepas dari pengaruh pemerintah dan pihak lain, yang berwenang melakukan pengawasan persaingan usaha dan menjatuhkan sanksi. Sanksi tersebut berupa tindakan administratif, sedangkan sanksi pidana adalah wewenang pengadilan. Secara umum, materi dari Undang-Undang Tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat ini mengandung 6 (enam) bagian pengaturan yang terdiri dari :
 1. perjanjian yang dilarang;
 2. kegiatan yang dilarang;
 3. posisi dominan;
