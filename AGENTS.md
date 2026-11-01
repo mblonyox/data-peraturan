@@ -61,9 +61,7 @@ Struktur naskah dalam `fulltext.md` merefleksikan kaidah penyusunan peraturan pe
 │    - Pengundangan (ttd.)                               │
 │    - Lembaran Negara & Tambahan Lembaran Negara        │
 ├────────────────────────────────────────────────────────┤
-│ 6. PENJELASAN (Opsional, atau di dalam <!-- ... -->)   │
-├────────────────────────────────────────────────────────┤
-│ 7. LAMPIRAN (Opsional)                                 │
+│ 6. PENJELASAN & LAMPIRAN (Bungkus di dalam <!-- ... -->)│
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -300,18 +298,16 @@ LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 1
 
 ### 3.8 Penjelasan dan Lampiran
 
-1. **Bagian Penjelasan**:
-   - Diletakkan setelah blok Lembaran Negara.
-   - Judul diawali `PENJELASAN ATAS [NAMA PERATURAN]`.
-   - Terdiri dari:
-     - `I. UMUM`
-     - `II. PASAL DEMI PASAL`
-     - Penjelasan tiap pasal diawali `Pasal X` dan baris berikutnya `Cukup jelas.` atau teks penjelasan pasal/ayat.
-   - **Komentar HTML (`<!-- ... -->`)**: Jika naskah Penjelasan masih berantakan dari OCR dan belum sempat dirapikan secara manual, lingkupi seluruh bagian penjelasan dalam komentar HTML `<!--` dan `-->` agar tidak merusak rendering frontend.
+Bagian **Penjelasan** dan **Lampiran** tidak perlu diformat atau dirapikan secara khusus. Cukup lingkupi seluruh teks Penjelasan dan Lampiran ke dalam blok komentar HTML (`<!-- ... -->`) agar tidak merusak rendering naskah utama di frontend:
 
-2. **Bagian Lampiran**:
-   - Diawali dengan `LAMPIRAN [NAMA PERATURAN]`.
-   - Struktur tabel disajikan dalam tabel Markdown (`| kolom 1 | kolom 2 |`).
+```markdown
+<!--
+PENJELASAN ATAS ...
+...
+LAMPIRAN ...
+...
+-->
+```
 
 ---
 
@@ -371,4 +367,5 @@ Sebelum menandai pekerjaan pembersihan dokumen selesai, lakukan validasi berikut
 - [ ] **Artefak OCR:** Apakah semua nomor halaman (`- 2 -`), kode `SK No...`, running text, dan stempel salinan sudah dibersihkan?
 - [ ] **Typo Angka:** Apakah semua angka tahun dan nomor (misal `2OO8` -> `2008`) sudah dikoreksi?
 - [ ] **Penutup:** Apakah penutup menggunakan `<br/>`, `&nbsp;&nbsp;&nbsp;&nbsp;` pada penetapan, dan 2 spasi baris baru pada pengundangan?
+- [ ] **Penjelasan & Lampiran:** Jika terdapat naskah Penjelasan atau Lampiran, apakah seluruhnya sudah dibungkus dalam komentar HTML (`<!-- ... -->`)?
 - [ ] **Whitespace:** Tidak ada baris kosong berulang (double/triple empty lines).
