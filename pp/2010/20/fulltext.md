@@ -320,7 +320,7 @@ Pasal 35
 
 Pasal 36
 (1) Perwakilan perusahaan angkutan laut asing yang telah memenuhi semua persyaratan sebagaimana dimaksud dalam Pasal 35 ayat (3) wajib didaftarkan oleh perusahaan nasional keagenan kapal atau perusahaan angkutan laut nasional yang ditunjuk sebagai agen umum perusahaan angkutan laut asing kepada Menteri.
-(2) Terhadap perwakilan perusahaan angkutan laut asing yang telah memenuhi semua persyaratan sebagaimana dimaksud dalam Pasal 35 ayat (3), Menteri menerbitkan _Certificate of Owner’s Representative_ .
+(2) Terhadap perwakilan perusahaan angkutan laut asing yang telah memenuhi semua persyaratan sebagaimana dimaksud dalam Pasal 35 ayat (3), Menteri menerbitkan _Certificate of Owner’s Representative_.
 (3) _Certificate of Owner’s Representative_ sebagaimana dimaksud pada ayat (2) berlaku 1 (satu) tahun dan dapat diperpanjang.
 (4) Perwakilan perusahaan angkutan laut asing di Indonesia sebagaimana dimaksud pada ayat (2) dilarang melakukan kegiatan keagenan kapal, _booking_ muatan, dan kegiatan pencarian muatan.
 
@@ -718,7 +718,7 @@ Bagian Kedua
 Kegiatan Usaha Bongkar Muat Barang
 
 Pasal 80
-(1) Kegiatan usaha bongkar muat barang sebagaimana dimaksud dalam Pasal 79 ayat (2) huruf a merupakan kegiatan usaha yang bergerak dalam bidang bongkar dan muat barang dari dan ke kapal di pelabuhan yang meliputi kegiatan _stevedoring_ , _cargodoring_ , dan _receiving_ / _delivery_ .
+(1) Kegiatan usaha bongkar muat barang sebagaimana dimaksud dalam Pasal 79 ayat (2) huruf a merupakan kegiatan usaha yang bergerak dalam bidang bongkar dan muat barang dari dan ke kapal di pelabuhan yang meliputi kegiatan _stevedoring_ , _cargodoring_ , dan _receiving_ / _delivery_.
 (2) Kegiatan usaha bongkar muat barang sebagaimana dimaksud pada ayat (1) dilakukan oleh badan usaha yang didirikan khusus untuk bongkar muat barang di pelabuhan.
 (3) Selain badan usaha sebagaimana dimaksud pada ayat (2), kegiatan bongkar muat barang tertentu dapat dilakukan oleh perusahaan angkutan laut nasional hanya untuk kegiatan bongkar muat barang tertentu untuk kapal yang dioperasikannya.
 (4) Kegiatan bongkar muat sebagaimana dimaksud pada ayat (3) yang dilakukan oleh perusahaan angkutan laut, izin usahanya melekat pada izin usaha pokoknya.
@@ -1850,7 +1850,7 @@ Pasal 204
 (2) Denda administratif sebagaimana dimaksud pada ayat (1) merupakan penerimaan negara bukan pajak sesuai dengan ketentuan peraturan perundang-undangan.
 
 Pasal 205
-Perwakilan perusahaan angkutan laut asing yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 36 ayat (4) dikenai sanksi administratif berupa pembekuan _Certificate of Owner’s Representative_ .
+Perwakilan perusahaan angkutan laut asing yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 36 ayat (4) dikenai sanksi administratif berupa pembekuan _Certificate of Owner’s Representative_.
 
 Pasal 206
 Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif diatur dengan Peraturan Menteri.
@@ -1872,8 +1872,27 @@ Dengan berlakunya Peraturan Pemerintah ini, maka Peraturan Pemerintah Republik I
 
 Pasal 210
 Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 1 Februari 2010
 
-PRESIDEN REPUBLIK INDONESIA,
 
-ttd DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 1 Februari 2010 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd PATRIALIS AKBAR LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 26 
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ditetapkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 1 Februari 2010  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;DR. H. SUSILO BAMBANG YUDHOYONO
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 1 Februari 2010  
+MENTERI HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA,  
+ttd.  
+PATRIALIS AKBAR
+
+<br/>
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 26 
