@@ -28,12 +28,16 @@ def format_menetapkan(t: str) -> str:
     return t
 
 def format_bab(t: str) -> str:
-    r_bab = re.compile(r'\n+(BAB [IVXLC]+)\s([A-Z\-/_ ]+)\n+')
+    r_bab = re.compile(r'\n+(BAB [IVXLC]+)\s+([A-Z\-/_ ]+)\n+')
     return r_bab.sub(r'\n\n\1\n\2\n\n', t)
 
-def bagian_linebreaks(t: str) -> str:
-    r_bagian = re.compile(r'\n+(Bagian Ke\w+)\s([\w\-/_ ]+)\n+')
+def format_bagian(t: str) -> str:
+    r_bagian = re.compile(r'\n+(Bagian Ke\w+)\s+([\w\-/_ ]+)\n+')
     return r_bagian.sub(r'\n\n\1\n\2\n\n', t)
+
+def format_paragraf(t: str) -> str:
+    r_paragraf = re.compile(r'\n+(Paragraf \d+)\s+([\w\-/_ ]+)\n+')
+    return r_paragraf.sub(r'\n\n\1\n\2\n\n', t)
 
 def pasal_linebreaks(t: str) -> str:
     r_pasals = re.compile(r'\n+(Pasal \d+)\n')
@@ -55,7 +59,8 @@ def main():
     text = format_mengingat(text)
     text = format_menetapkan(text)
     text = format_bab(text)
-    text = bagian_linebreaks(text)
+    text = format_bagian(text)
+    text = format_paragraf(text)
     text = pasal_linebreaks(text)
     path.write_text(text, encoding="utf-8")
 
