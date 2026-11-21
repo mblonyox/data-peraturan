@@ -8,23 +8,23 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang :
-a. bahwa Negara Kesatuan Republik Indonesia menjamin kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak anak yang merupakan hak asasi manusia;
-b. bahwa anak adalah amanah dan karunia Tuhan Yang Maha Esa, yang dalam dirinya melekat harkat dan martabat sebagai manusia seutuhnya;
-c. bahwa anak adalah tunas, potensi, dan generasi muda penerus cita-cita perjuangan bangsa, memiliki peran strategis dan mempunyai ciri dan sifat khusus yang menjamin kelangsungan eksistensi bangsa dan negara pada masa depan;
-d. bahwa agar setiap anak kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;
-e. bahwa untuk mewujudkan perlindungan dan kesejahteraan anak diperlukan dukungan kelembagaan dan peraturan perundang-undangan yang dapat menjamin pelaksanaannya;
-f. bahwa berbagai undang-undang hanya mengatur hal-hal tertentu mengenai anak dan secara khusus belum mengatur keseluruhan aspek yang berkaitan dengan perlindungan anak;
-g. bahwa berdasarkan pertimbangan tersebut pada huruf a, b, c, d, e, dan f perlu ditetapkan Undang-undang tentang Perlindungan Anak;
+  a. bahwa Negara Kesatuan Republik Indonesia menjamin kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak anak yang merupakan hak asasi manusia;
+  b. bahwa anak adalah amanah dan karunia Tuhan Yang Maha Esa, yang dalam dirinya melekat harkat dan martabat sebagai manusia seutuhnya;
+  c. bahwa anak adalah tunas, potensi, dan generasi muda penerus cita-cita perjuangan bangsa, memiliki peran strategis dan mempunyai ciri dan sifat khusus yang menjamin kelangsungan eksistensi bangsa dan negara pada masa depan;
+  d. bahwa agar setiap anak kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;
+  e. bahwa untuk mewujudkan perlindungan dan kesejahteraan anak diperlukan dukungan kelembagaan dan peraturan perundang-undangan yang dapat menjamin pelaksanaannya;
+  f. bahwa berbagai undang-undang hanya mengatur hal-hal tertentu mengenai anak dan secara khusus belum mengatur keseluruhan aspek yang berkaitan dengan perlindungan anak;
+  g. bahwa berdasarkan pertimbangan tersebut pada huruf a, b, c, d, e, dan f perlu ditetapkan Undang-undang tentang Perlindungan Anak;
 
 Mengingat :
-1. Pasal 20, Pasal 20A ayat (1), Pasal 21, Pasal 28B ayat (2), dan Pasal 34 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
-2. Undang-undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Tahun 1979 Nomor 32, Tambahan Lembaran Negara Nomor 3143);
-3. Undang-undang Nomor 7 Tahun 1984 tentang Penghapusan Segala Bentuk Diskriminasi terhadap Perempuan (Convention on The Elimination of all Forms of Discrimination Against Women) (Lembaran Negara Tahun 1984 Nomor 29, Tambahan Lembaran Negara Nomor 3277);
-4. Undang-undang Nomor 3 Tahun 1997 tentang Pengadilan Anak (Lembaran Negara Tahun 1997 Nomor 3, Tambahan Lembaran Negara Nomor 3668);
-5. Undang-undang Nomor 4 Tahun 1997 tentang Penyandang Cacat (Lembaran Negara Tahun 1997 Nomor 9, Tambahan Lembaran Negara Nomor 3670);
-6. Undang-undang Nomor 20 Tahun 1999 tentang Pengesahan ILO Convention No. 138 Concerning Minimum Age for Admission to Employment (Konvensi ILO mengenai Usia Minimum untuk Diperbolehkan Bekerja) (Lembaran Negara Tahun 1999 Nomor 56, Tambahan Lembaran Negara Nomor 3835);
-7. Undang-undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Tahun 1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886);
-8. Undang-undang Nomor 1 Tahun 2000 tentang Pengesahan ILO Convention No. 182 Concerning The Prohibition and Immediate Action for The Elimination of The Worst Forms of Child Labour (Konvensi ILO No. 182 mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-bentuk Pekerjaan Terburuk untuk Anak) (Lembaran Negara Tahun 2000 Nomor 30, Tambahan Lembaran Negara Nomor 3941);
+  1. Pasal 20, Pasal 20A ayat (1), Pasal 21, Pasal 28B ayat (2), dan Pasal 34 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+  2. Undang-undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Tahun 1979 Nomor 32, Tambahan Lembaran Negara Nomor 3143);
+  3. Undang-undang Nomor 7 Tahun 1984 tentang Penghapusan Segala Bentuk Diskriminasi terhadap Perempuan (_Convention on The Elimination of all Forms of Discrimination Against Women_) (Lembaran Negara Tahun 1984 Nomor 29, Tambahan Lembaran Negara Nomor 3277);
+  4. Undang-undang Nomor 3 Tahun 1997 tentang Pengadilan Anak (Lembaran Negara Tahun 1997 Nomor 3, Tambahan Lembaran Negara Nomor 3668);
+  5. Undang-undang Nomor 4 Tahun 1997 tentang Penyandang Cacat (Lembaran Negara Tahun 1997 Nomor 9, Tambahan Lembaran Negara Nomor 3670);
+  6. Undang-undang Nomor 20 Tahun 1999 tentang Pengesahan _ILO Convention No. 138 Concerning Minimum Age for Admission to Employment_ (Konvensi ILO mengenai Usia Minimum untuk Diperbolehkan Bekerja) (Lembaran Negara Tahun 1999 Nomor 56, Tambahan Lembaran Negara Nomor 3835);
+  7. Undang-undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Tahun 1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886);
+  8. Undang-undang Nomor 1 Tahun 2000 tentang Pengesahan _ILO Convention No. 182 Concerning The Prohibition and Immediate Action for The Elimination of The Worst Forms of Child Labour_ (Konvensi ILO No. 182 mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-bentuk Pekerjaan Terburuk untuk Anak) (Lembaran Negara Tahun 2000 Nomor 30, Tambahan Lembaran Negara Nomor 3941);
 
 Dengan persetujuan :
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
@@ -38,33 +38,33 @@ KETENTUAN UMUM
 
 Pasal 1
 Dalam undang-undang ini yang dimaksud dengan :
-1. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk anak yang masih dalam kandungan.
-2. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi anak dan hak-haknya agar dapat hidup, tumbuh, berkembang, dan berpartisipasi, secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi.
-3. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri, atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu dan anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah sampai dengan derajat ketiga.
-4. Orang tua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu tiri, atau ayah dan/atau ibu angkat.
-5. Wali adalah orang atau badan yang dalam kenyataannya menjalankan kekuasaan asuh sebagai orang tua terhadap anak.
-6. Anak terlantar adalah anak yang tidak terpenuhi kebutuhannya secara wajar, baik fisik, mental, spiritual, maupun sosial.
-7. Anak yang menyandang cacat adalah anak yang mengalami hambatan fisik dan/atau mental sehingga mengganggu pertumbuhan dan perkembangannya secara wajar.
-8. Anak yang memiliki keunggulan adalah anak yang mempunyai kecerdasan luar biasa, atau memiliki potensi dan/atau bakat istimewa.
-9. Anak angkat adalah anak yang haknya dialihkan dari lingkungan kekuasaan keluarga orang tua, wali yang sah, atau orang lain yang bertanggung jawab atas perawatan, pendidikan, dan membesarkan anak tersebut, ke dalam lingkungan keluarga orang tua angkatnya berdasarkan putusan atau penetapan pengadilan.
-10. Anak asuh adalah anak yang diasuh oleh seseorang atau lembaga, untuk diberikan bimbingan, pemeliharaan, perawatan, pendidikan, dan kesehatan, karena orang tuanya atau salah satu orang tuanya tidak mampu menjamin tumbuh kembang anak secara wajar.
-11. Kuasa asuh adalah kekuasaan orang tua untuk mengasuh, mendidik, memelihara, membina, melindungi, dan menumbuhkembangkan anak sesuai dengan agama yang dianutnya dan kemampuan, bakat, serta minatnya.
-12. Hak anak adalah bagian dari hak asasi manusia yang wajib dijamin, dilindungi, dan dipenuhi oleh orang tua, keluarga, masyarakat, pemerintah, dan negara.
-13. Masyarakat adalah perseorangan, keluarga, kelompok, dan organisasi sosial dan/atau organisasi kemasyarakatan.
-14. Pendamping adalah pekerja sosial yang mempunyai kompetensi profesional dalam bidangnya.
-15. Perlindungan khusus adalah perlindungan yang diberikan kepada anak dalam situasi darurat, anak yang berhadapan dengan hukum, anak dari kelompok minoritas dan terisolasi, anak yang dieksploitasi secara ekonomi dan/atau seksual, anak yang diperdagangkan, anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya (napza), anak korban penculikan, penjualan, perdagangan, anak korban kekerasan baik fisik dan/atau mental, anak yang menyandang cacat, dan anak korban perlakuan salah dan penelantaran.
-16. Setiap orang adalah orang perseorangan atau korporasi.
-17. Pemerintah adalah Pemerintah yang meliputi Pemerintah Pusat dan Pemerintah Daerah.
+  1. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk anak yang masih dalam kandungan.
+  2. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi anak dan hak-haknya agar dapat hidup, tumbuh, berkembang, dan berpartisipasi, secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi.
+  3. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri, atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu dan anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah sampai dengan derajat ketiga.
+  4. Orang tua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu tiri, atau ayah dan/atau ibu angkat.
+  5. Wali adalah orang atau badan yang dalam kenyataannya menjalankan kekuasaan asuh sebagai orang tua terhadap anak.
+  6. Anak terlantar adalah anak yang tidak terpenuhi kebutuhannya secara wajar, baik fisik, mental, spiritual, maupun sosial.
+  7. Anak yang menyandang cacat adalah anak yang mengalami hambatan fisik dan/atau mental sehingga mengganggu pertumbuhan dan perkembangannya secara wajar.
+  8. Anak yang memiliki keunggulan adalah anak yang mempunyai kecerdasan luar biasa, atau memiliki potensi dan/atau bakat istimewa.
+  9. Anak angkat adalah anak yang haknya dialihkan dari lingkungan kekuasaan keluarga orang tua, wali yang sah, atau orang lain yang bertanggung jawab atas perawatan, pendidikan, dan membesarkan anak tersebut, ke dalam lingkungan keluarga orang tua angkatnya berdasarkan putusan atau penetapan pengadilan.
+  10. Anak asuh adalah anak yang diasuh oleh seseorang atau lembaga, untuk diberikan bimbingan, pemeliharaan, perawatan, pendidikan, dan kesehatan, karena orang tuanya atau salah satu orang tuanya tidak mampu menjamin tumbuh kembang anak secara wajar.
+  11. Kuasa asuh adalah kekuasaan orang tua untuk mengasuh, mendidik, memelihara, membina, melindungi, dan menumbuhkembangkan anak sesuai dengan agama yang dianutnya dan kemampuan, bakat, serta minatnya.
+  12. Hak anak adalah bagian dari hak asasi manusia yang wajib dijamin, dilindungi, dan dipenuhi oleh orang tua, keluarga, masyarakat, pemerintah, dan negara.
+  13. Masyarakat adalah perseorangan, keluarga, kelompok, dan organisasi sosial dan/atau organisasi kemasyarakatan.
+  14. Pendamping adalah pekerja sosial yang mempunyai kompetensi profesional dalam bidangnya.
+  15. Perlindungan khusus adalah perlindungan yang diberikan kepada anak dalam situasi darurat, anak yang berhadapan dengan hukum, anak dari kelompok minoritas dan terisolasi, anak yang dieksploitasi secara ekonomi dan/atau seksual, anak yang diperdagangkan, anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya (napza), anak korban penculikan, penjualan, perdagangan, anak korban kekerasan baik fisik dan/atau mental, anak yang menyandang cacat, dan anak korban perlakuan salah dan penelantaran.
+  16. Setiap orang adalah orang perseorangan atau korporasi.
+  17. Pemerintah adalah Pemerintah yang meliputi Pemerintah Pusat dan Pemerintah Daerah.
 
 BAB II
 ASAS DAN TUJUAN
 
 Pasal 2
 Penyelenggaraan perlindungan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta prinsip-prinsip dasar Konvensi Hak-Hak Anak meliputi :
-1. non diskriminasi;
-2. kepentingan yang terbaik bagi anak;
-3. hak untuk hidup, kelangsungan hidup, dan perkembangan; dan
-4. penghargaan terhadap pendapat anak.
+  1. non diskriminasi;
+  2. kepentingan yang terbaik bagi anak;
+  3. hak untuk hidup, kelangsungan hidup, dan perkembangan; dan
+  4. penghargaan terhadap pendapat anak.
 
 Pasal 3
 Perlindungan anak bertujuan untuk menjamin terpenuhinya hak-hak anak agar dapat hidup, tumbuh, berkembang, dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi, demi terwujudnya anak Indonesia yang berkualitas, berakhlak mulia, dan sejahtera.
@@ -103,12 +103,12 @@ Setiap anak yang menyandang cacat berhak memperoleh rehabilitasi, bantuan sosial
 
 Pasal 13
 (1) Setiap anak selama dalam pengasuhan orang tua, wali, atau pihak lain mana pun yang bertanggung jawab atas pengasuhan, berhak mendapat perlindungan dari perlakuan:
-1. diskriminasi;
-2. eksploitasi, baik ekonomi maupun seksual;
-3. penelantaran;
-4. kekejaman, kekerasan, dan penganiayaan;
-5. ketidakadilan; dan
-6. perlakuan salah lainnya.
+  1. diskriminasi;
+  2. eksploitasi, baik ekonomi maupun seksual;
+  3. penelantaran;
+  4. kekejaman, kekerasan, dan penganiayaan;
+  5. ketidakadilan; dan
+  6. perlakuan salah lainnya.
 (2) Dalam hal orang tua, wali atau pengasuh anak melakukan segala bentuk perlakuan sebagaimana dimaksud dalam ayat (1), maka pelaku dikenakan pemberatan hukuman.
 
 Pasal 14
@@ -116,22 +116,22 @@ Setiap anak berhak untuk diasuh oleh orang tuanya sendiri, kecuali jika ada alas
 
 Pasal 15
 Setiap anak berhak untuk memperoleh perlindungan dari :
-1. penyalahgunaan dalam kegiatan politik;
-2. pelibatan dalam sengketa bersenjata;
-3. pelibatan dalam kerusuhan sosial;
-4. pelibatan dalam peristiwa yang mengandung unsur kekerasan; dan
-5. pelibatan dalam peperangan.
+  1. penyalahgunaan dalam kegiatan politik;
+  2. pelibatan dalam sengketa bersenjata;
+  3. pelibatan dalam kerusuhan sosial;
+  4. pelibatan dalam peristiwa yang mengandung unsur kekerasan; dan
+  5. pelibatan dalam peperangan.
 
 Pasal 16
 (1) Setiap anak berhak memperoleh perlindungan dari sasaran penganiayaan, penyiksaan, atau penjatuhan hukuman yang tidak manusiawi.
 (2) Setiap anak berhak untuk memperoleh kebebasan sesuai dengan hukum.
-(3) Penangkapan, penahanan, atau tindak pidana penjara anak hanya dilakukan apabila sesuai dengan hukum yang berlaku dan hanya dapat dilakukan sebagai upaya terakhir. Pasal 17...
+(3) Penangkapan, penahanan, atau tindak pidana penjara anak hanya dilakukan apabila sesuai dengan hukum yang berlaku dan hanya dapat dilakukan sebagai upaya terakhir.
 
 Pasal 17
 (1) Setiap anak yang dirampas kebebasannya berhak untuk :
-1. mendapatkan perlakuan secara manusiawi dan penempatannya dipisahkan dari orang dewasa;
-2. memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukum yang berlaku; dan
-3. membela diri dan memperoleh keadilan di depan pengadilan anak yang objektif dan tidak memihak dalam sidang tertutup untuk umum.
+  1. mendapatkan perlakuan secara manusiawi dan penempatannya dipisahkan dari orang dewasa;
+  2. memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukum yang berlaku; dan
+  3. membela diri dan memperoleh keadilan di depan pengadilan anak yang objektif dan tidak memihak dalam sidang tertutup untuk umum.
 (2) Setiap anak yang menjadi korban atau pelaku kekerasan seksual atau yang berhadapan dengan hukum berhak dirahasiakan.
 
 Pasal 18
@@ -139,11 +139,11 @@ Setiap anak yang menjadi korban atau pelaku tindak pidana berhak mendapatkan ban
 
 Pasal 19
 Setiap anak berkewajiban untuk :
-1. menghormati orang tua, wali, dan guru;
-2. mencintai keluarga, masyarakat, dan menyayangi teman;
-3. mencintai tanah air, bangsa, dan negara;
-4. menunaikan ibadah sesuai dengan ajaran agamanya; dan
-5. melaksanakan etika dan akhlak yang mulia.
+  1. menghormati orang tua, wali, dan guru;
+  2. mencintai keluarga, masyarakat, dan menyayangi teman;
+  3. mencintai tanah air, bangsa, dan negara;
+  4. menunaikan ibadah sesuai dengan ajaran agamanya; dan
+  5. melaksanakan etika dan akhlak yang mulia.
 
 BAB IV
 KEWAJIBAN DAN TANGGUNG JAWAB
@@ -181,9 +181,9 @@ Kewajiban dan Tanggung Jawab Keluarga dan Orang Tua
 
 Pasal 26
 (1) Orang tua berkewajiban dan bertanggung jawab untuk :
-1. mengasuh, memelihara, mendidik, dan melindungi anak;
-2. menumbuhkembangkan anak sesuai dengan kemampuan, bakat, dan minatnya; dan
-3. mencegah terjadinya perkawinan pada usia anak-anak.
+  1. mengasuh, memelihara, mendidik, dan melindungi anak;
+  2. menumbuhkembangkan anak sesuai dengan kemampuan, bakat, dan minatnya; dan
+  3. mencegah terjadinya perkawinan pada usia anak-anak.
 (2) Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud dalam ayat (1) dapat beralih kepada keluarga, yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 BAB V
@@ -201,7 +201,6 @@ Pasal 27
 Pasal 28
 (1) Pembuatan akta kelahiran menjadi tanggung jawab pemerintah yang dalam pelaksanaannya diselenggarakan serendah-rendahnya pada tingkat kelurahan/desa.
 (2) Pembuatan akta kelahiran sebagaimana dimaksud dalam ayat (1) harus diberikan paling lambat 30 (tiga puluh) hari terhitung sejak tanggal diajukannya permohonan.
-(3) Pembuatan...
 (3) Pembuatan akta kelahiran sebagaimana dimaksud dalam ayat (1) tidak dikenai biaya.
 (4) Ketentuan mengenai tata cara dan syarat-syarat pembuatan akta kelahiran sebagaimana dimaksud dalam ayat (1), diatur dengan peraturan perundang-undangan.
 
@@ -227,10 +226,10 @@ Pasal 31
 (4) Perseorangan yang melaksanakan pengasuhan anak sebagaimana dimaksud dalam ayat (3) harus seagama dengan agama yang dianut anak yang akan diasuhnya.
 
 Pasal 32
-1. Penetapan pengadilan sebagaimana di_maksud dalam Pasal 31 ayat (3) sekurang-kurangnya memuat ketentuan :
-2. tidak memutuskan hubungan darah antara anak dan orang tua kandungnya;
-3. tidak menghilangkan kewajiban orang tuanya untuk membiayai hidup anaknya; dan
-4. batas waktu pencabutan.
+Penetapan pengadilan sebagaimana dimaksud dalam Pasal 31 ayat (3) sekurang-kurangnya memuat ketentuan:
+  1. tidak memutuskan hubungan darah antara anak dan orang tua kandungnya;
+  2. tidak menghilangkan kewajiban orang tuanya untuk membiayai hidup anaknya; dan
+  3. batas waktu pencabutan.
 
 BAB VII
 PERWALIAN
@@ -240,7 +239,6 @@ Pasal 33
 (2) Untuk menjadi wali anak sebagaimana dimaksud dalam ayat (1) dilakukan melalui penetapan pengadilan.
 (3) Wali yang ditunjuk sebagaimana dimaksud dalam ayat (2) agamanya harus sama dengan agama yang dianut anak.
 (4) Untuk kepentingan anak, wali sebagaimana dimaksud dalam ayat (2) wajib mengelola harta milik anak yang bersangkutan.
-(5) Ketentuan...
 (5) Ketentuan mengenai syarat dan tata cara penunjukan wali sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah.
 
 Pasal 34
@@ -264,7 +262,6 @@ Pengasuhan Anak
 Pasal 37
 (1) Pengasuhan anak ditujukan kepada anak yang orang tuanya tidak dapat menjamin tumbuh kembang anaknya secara wajar, baik fisik, mental, spiritual, maupun sosial.
 (2) Pengasuhan anak sebagaimana dimaksud dalam ayat (1) dilakukan oleh lembaga yang mempunyai kewenangan untuk itu.
-(3) Dalam...
 (3) Dalam hal lembaga sebagaimana dimaksud dalam ayat (2) berlandaskan agama, anak yang diasuh harus yang seagama dengan agama yang menjadi landasan lembaga yang bersangkutan.
 (4) Dalam hal pengasuhan anak dilakukan oleh lembaga yang tidak berlandaskan agama, maka pelaksanaan pengasuhan anak harus memperhatikan agama yang dianut anak yang bersangkutan.
 (5) Pengasuhan anak oleh lembaga dapat dilakukan di dalam atau di luar Panti Sosial.
@@ -342,11 +339,11 @@ Negara, pemerintah, keluarga, dan orang tua wajib memberikan kesempat_an yang se
 
 Pasal 50
 Pendidikan sebagaimana dimaksud dalam Pasal 48 diarahkan pada :
-1. pengembangan sikap dan kemam_puan kepribadian anak, bakat, kemampuan mental dan fisik sampai mencapai potensi mereka yang optimal;
-2. pengembangan penghormatan atas hak asasi manusia dan kebebasan asasi;
-3. pengembangan rasa hormat terha_dap orang tua, identitas budaya, bahasa dan nilai-nilainya sendiri, nilai-nilai nasional di mana anak bertempat tinggal, dari mana anak berasal, dan peradaban-peradaban yang berbeda-beda dari peradaban sendiri;
-4. persiapan anak untuk kehidupan yang bertanggung jawab; dan
-5. pengembangan rasa hormat dan cinta terhadap lingkungan hidup.
+  1. pengembangan sikap dan kemam_puan kepribadian anak, bakat, kemampuan mental dan fisik sampai mencapai potensi mereka yang optimal;
+  2. pengembangan penghormatan atas hak asasi manusia dan kebebasan asasi;
+  3. pengembangan rasa hormat terha_dap orang tua, identitas budaya, bahasa dan nilai-nilainya sendiri, nilai-nilai nasional di mana anak bertempat tinggal, dari mana anak berasal, dan peradaban-peradaban yang berbeda-beda dari peradaban sendiri;
+  4. persiapan anak untuk kehidupan yang bertanggung jawab; dan
+  5. pengembangan rasa hormat dan cinta terhadap lingkungan hidup.
 
 Pasal 51
 Anak yang menyandang cacat fisik dan/atau mental diberikan kesempatan yang sama dan aksesibilitas untuk memperoleh pendidikan biasa dan pendidikan luar biasa.
@@ -372,13 +369,12 @@ Pasal 55
 
 Pasal 56
 (1) Pemerintah dalam menyelenggarakan pemeliharaan dan perawatan wajib mengupayakan dan membantu anak, agar anak dapat :
-1. berpartisipasi;
-2. bebas menyatakan pendapat dan berpikir sesuai dengan hati nurani dan agamanya;
-3. bebas menerima informasi lisan atau tertulis sesuai dengan tahapan usia dan perkembangan anak;
-4. bebas berserikat dan berkumpul;
-5. bebas beristirahat, bermain, berekreasi, berkreasi, dan berkarya seni budaya; dan
-6. memperoleh...
-6. memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan.
+  1. berpartisipasi;
+  2. bebas menyatakan pendapat dan berpikir sesuai dengan hati nurani dan agamanya;
+  3. bebas menerima informasi lisan atau tertulis sesuai dengan tahapan usia dan perkembangan anak;
+  4. bebas berserikat dan berkumpul;
+  5. bebas beristirahat, bermain, berekreasi, berkreasi, dan berkarya seni budaya; dan
+  6. memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan.
 (2) Upaya sebagaimana dimaksud dalam ayat (1) dikembangkan dan disesuaikan dengan usia, tingkat kemampuan anak, dan lingkungannya agar tidak menghambat dan mengganggu perkembangan anak.
 
 Pasal 57
@@ -396,18 +392,18 @@ Pemerintah dan lembaga negara lainnya berkewajiban dan bertanggung jawab untuk m
 
 Pasal 60
 Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 59 terdiri atas :
-1. anak yang menjadi pengungsi;
-2. anak korban kerusuhan;
-3. anak korban bencana alam; dan
-4. anak dalam situasi konflik bersenjata.
+  1. anak yang menjadi pengungsi;
+  2. anak korban kerusuhan;
+  3. anak korban bencana alam; dan
+  4. anak dalam situasi konflik bersenjata.
 
 Pasal 61
 Perlindungan khusus bagi anak yang menjadi pengungsi sebagaimana dimaksud dalam Pasal 60 huruf a dilaksanakan sesuai dengan ketentuan hukum humaniter.
 
 Pasal 62
 Perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak dalam situasi konflik bersenjata sebagaimana dimaksud dalam Pasal 60 huruf b, huruf c, dan huruf d, dilaksanakan melalui :
-1. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan keamanan, dan persamaan perlakuan; dan
-2. pemenuhan kebutuhan khusus bagi anak yang menyandang cacat dan anak yang mengalami gangguan psikososial.
+  1. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan keamanan, dan persamaan perlakuan; dan
+  2. pemenuhan kebutuhan khusus bagi anak yang menyandang cacat dan anak yang mengalami gangguan psikososial.
 
 Pasal 63
 Setiap orang dilarang merekrut atau memperalat anak untuk kepentingan militer dan/atau lainnya dan membiarkan anak tanpa perlindungan jiwa.
@@ -415,19 +411,18 @@ Setiap orang dilarang merekrut atau memperalat anak untuk kepentingan militer da
 Pasal 64
 (1) Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud dalam Pasal 59 meliputi anak yang berkonflik dengan hukum dan anak korban tindak pidana, merupakan kewajiban dan tanggung jawab pemerintah dan masyarakat.
 (2) Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud dalam ayat (1) dilaksanakan melalui :
-1. perlakuan atas anak secara manusiawi sesuai dengan martabat dan hak-hak anak;
-2. penyediaan petugas pendamping khusus anak sejak dini;
-3. penyediaan sarana dan prasarana khusus;
-4. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi anak;
-5. pemantauan dan pencatatan terus menerus terhadap perkembangan anak yang berhadapan dengan hukum;
-6. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dan
-7. perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi.
-(3) Perlindungan...
+  1. perlakuan atas anak secara manusiawi sesuai dengan martabat dan hak-hak anak;
+  2. penyediaan petugas pendamping khusus anak sejak dini;
+  3. penyediaan sarana dan prasarana khusus;
+  4. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi anak;
+  5. pemantauan dan pencatatan terus menerus terhadap perkembangan anak yang berhadapan dengan hukum;
+  6. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dan
+  7. perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi.
 (3) Perlindungan khusus bagi anak yang menjadi korban tindak pidana sebagaimana dimaksud dalam ayat (1) dilaksanakan melalui :
-1. upaya rehabilitasi, baik dalam lembaga maupun di luar lembaga;
-2. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;
-3. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli, baik fisik, mental, maupun sosial; dan
-4. pemberian aksesibilitas untuk mendapatkan informasi mengenai perkembangan perkara.
+  1. upaya rehabilitasi, baik dalam lembaga maupun di luar lembaga;
+  2. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;
+  3. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli, baik fisik, mental, maupun sosial; dan
+  4. pemberian aksesibilitas untuk mendapatkan informasi mengenai perkembangan perkara.
 
 Pasal 65
 (1) Perlindungan khusus bagi anak dari kelompok minoritas dan terisolasi sebagaimana dimaksud dalam Pasal 59 dilakukan melalui penyediaan prasarana dan sarana untuk dapat menikmati budayanya sendiri, mengakui dan melaksanakan ajaran agamanya sendiri, dan menggunakan bahasanya sendiri.
@@ -436,9 +431,9 @@ Pasal 65
 Pasal 66
 (1) Perlindungan khusus bagi anak yang dieksploitasi secara ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal 59 merupakan kewajiban dan tanggung jawab pemerintah dan masyarakat.
 (2) Perlindungan khusus bagi anak yang dieksploitasi sebagaimana dimaksud dalam ayat (1) dilakukan melalui :
-1. penyebarluasan dan/atau sosialisasi ketentuan peraturan perundang-undangan yang berkaitan dengan perlindungan anak yang dieksploitasi secara ekonomi dan/atau seksual;
-2. pemantauan, pelaporan, dan pemberian sanksi; dan
-3. pelibatan berbagai instansi pemerintah, perusahaan, serikat pekerja, lembaga swadaya masyarakat, dan masyarakat dalam penghapusan eksploitasi terhadap anak secara ekonomi dan/atau seksual.
+  1. penyebarluasan dan/atau sosialisasi ketentuan peraturan perundang-undangan yang berkaitan dengan perlindungan anak yang dieksploitasi secara ekonomi dan/atau seksual;
+  2. pemantauan, pelaporan, dan pemberian sanksi; dan
+  3. pelibatan berbagai instansi pemerintah, perusahaan, serikat pekerja, lembaga swadaya masyarakat, dan masyarakat dalam penghapusan eksploitasi terhadap anak secara ekonomi dan/atau seksual.
 (3) Setiap orang dilarang menempatkan, membiarkan, melakukan, menyuruh melakukan, atau turut serta melakukan eksploitasi terhadap anak sebagaimana dimaksud dalam ayat (1).
 
 Pasal 67
@@ -451,16 +446,15 @@ Pasal 68
 
 Pasal 69
 (1) Perlindungan khusus bagi anak korban kekerasan sebagaimana dimaksud dalam Pasal 59 meliputi kekerasan fisik, psikis, dan seksual dilakukan melalui upaya :
-1. penyebarluasan dan sosialisasi ketentuan peraturan perundang-undangan yang melindungi anak korban tindak kekerasan; dan
-2. pemantauan, pelaporan, dan pemberian sanksi.
+  1. penyebarluasan dan sosialisasi ketentuan peraturan perundang-undangan yang melindungi anak korban tindak kekerasan; dan
+  2. pemantauan, pelaporan, dan pemberian sanksi.
 (2) Setiap orang dilarang menempatkan, membiarkan, melakukan, menyuruh melakukan, atau turut serta melakukan kekerasan sebagaimana dimaksud dalam ayat (1).
 
 Pasal 70
 (1) Perlindungan khusus bagi anak yang menyandang cacat sebagaimana dimaksud dalam Pasal 59 dilakukan melalui upaya :
-1. perlakuan anak secara manusiawi sesuai dengan martabat dan hak anak;
-2. pemenuhan kebutuhan-kebutuhan khusus; dan
-3. memperoleh...
-3. memperoleh perlakuan yang sama dengan anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu.
+  1. perlakuan anak secara manusiawi sesuai dengan martabat dan hak anak;
+  2. pemenuhan kebutuhan-kebutuhan khusus; dan
+  3. memperoleh perlakuan yang sama dengan anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu.
 (2) Setiap orang dilarang memperlakukan anak dengan mengabaikan pandangan mereka secara diskriminatif, termasuk labelisasi dan penyetaraan dalam pendidikan bagi anak-anak yang menyandang cacat.
 
 Pasal 71
@@ -491,16 +485,17 @@ Pasal 75
 
 Pasal 76
 Komisi Perlindungan Anak Indonesia bertugas :
-1. melakukan sosialisasi seluruh ketentuan peraturan perundang-undangan yang berkaitan dengan perlindungan anak, mengumpulkan data dan informasi, menerima pengaduan masyarakat, melakukan penelaahan, pemantauan, evaluasi, dan pengawasan terhadap penyelenggaraan perlindungan anak;
-2. memberikan laporan, saran, masukan, dan pertimbangan kepada Presiden dalam rangka perlindungan anak.
+  1. melakukan sosialisasi seluruh ketentuan peraturan perundang-undangan yang berkaitan dengan perlindungan anak, mengumpulkan data dan informasi, menerima pengaduan masyarakat, melakukan penelaahan, pemantauan, evaluasi, dan pengawasan terhadap penyelenggaraan perlindungan anak;
+  2. memberikan laporan, saran, masukan, dan pertimbangan kepada Presiden dalam rangka perlindungan anak.
 
 BAB XII
 KETENTUAN PIDANA
 
 Pasal 77
 Setiap orang yang dengan sengaja melakukan tindakan :
-1. diskriminasi terhadap anak yang mengakibatkan anak mengalami kerugian, baik materiil maupun moril sehingga menghambat fungsi sosialnya; atau
-2. penelantaran terhadap anak yang mengakibatkan anak mengalami sakit atau penderitaan, baik fisik, mental, maupun sosial, 3. dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau denda paling banyak Rp 100.000.000,00 (seratus juta rupiah).
+  1. diskriminasi terhadap anak yang mengakibatkan anak mengalami kerugian, baik materiil maupun moril sehingga menghambat fungsi sosialnya; atau
+  2. penelantaran terhadap anak yang mengakibatkan anak mengalami sakit atau penderitaan, baik fisik, mental, maupun sosial,
+  3. dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau denda paling banyak Rp 100.000.000,00 (seratus juta rupiah).
 
 Pasal 78
 Setiap orang yang mengetahui dan sengaja membiarkan anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 60, anak yang berhadapan dengan hukum, anak dari kelompok minoritas dan terisolasi, anak yang tereksploitasi secara ekonomi dan/atau seksual, anak yang diperdagangkan, anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya (napza), anak korban penculikan, anak korban perdagangan, atau anak korban kekerasan sebagaimana dimaksud dalam Pasal 59, padahal anak tersebut memerlukan pertolongan dan harus dibantu, dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau denda paling banyak Rp 100.000.000,00 (seratus juta rupiah).
@@ -529,7 +524,6 @@ Setiap orang yang secara melawan hukum melakukan transplantasi organ dan/atau ja
 
 Pasal 85
 (1) Setiap orang yang melakukan jual beli organ tubuh dan/atau jaringan tubuh anak dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau denda paling banyak Rp 300.000.000,00 (tiga ratus juta rupiah).
-(2) Setiap...
 (2) Setiap orang yang secara melawan hukum melakukan pengambilan organ tubuh dan/atau jaringan tubuh anak tanpa memperhatikan kesehatan anak, atau penelitian kesehatan yang menggunakan anak sebagai objek penelitian tanpa seizin orang tua atau tidak mengutamakan kepentingan yang terbaik bagi anak, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda paling banyak Rp 200.000.000,00 (dua ratus juta rupiah).
 
 Pasal 86
@@ -543,7 +537,6 @@ Setiap orang yang mengeksploitasi ekonomi atau seksual anak dengan maksud untuk 
 
 Pasal 89
 (1) Setiap orang yang dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam penyalahgunaan, produksi atau distribusi narkotika dan/atau psikotropika dipidana dengan pidana mati atau pidana penjara seumur hidup atau pidana penjara paling lama 20 (dua puluh) tahun dan pidana penjara paling singkat 5 (lima) tahun dan denda paling banyak Rp 500.000.000,00 (lima ratus juta rupiah) dan paling sedikit Rp 50.000.000,00 (lima puluh juta rupiah).
-(2) Setiap...
 (2) Setiap orang yang dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam penyalahgunaan, produksi, atau distribusi alkohol dan zat adiktif lainnya dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan paling singkat 2 (dua) tahun dan denda paling banyak Rp 200.000.000,00 (dua ratus juta rupiah) dan denda paling sedikit Rp 20.000.000,00 (dua puluh juta rupiah).
 
 Pasal 90
