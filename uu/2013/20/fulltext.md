@@ -23,6 +23,7 @@ dan
 PRESIDEN REPUBLIK INDONESIA
 
 MEMUTUSKAN:
+
 Menetapkan :
 UNDANG-UNDANG TENTANG PENDIDIKAN KEDOKTERAN.
 
@@ -480,7 +481,9 @@ Pemerintah memfasilitasi program studi kedokteran dan program studi kedokteran g
 
 Pasal 54
 Pemerintah mendukung program dokter layanan primer, dokter spesialis-subspesialis, dan dokter gigi spesialis-subspesialis yang lulusannya ditempatkan di daerah tertentu.
-Bagian Kedua Dukungan Pemerintah Daerah
+
+Bagian Kedua
+Dukungan Pemerintah Daerah
 
 Pasal 55
 (1) Pemerintah Daerah mendukung penyelenggaraan Pendidikan Kedokteran yang baik dan bermutu.
@@ -543,147 +546,24 @@ Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta
-pada tanggal 6 Agustus 2013
-PRESIDEN REPUBLIK INDONESIA,
-ttd.
-DR.H. SUSILO BAMBANG YUDHOYONO
+<br/>
 
-Diundangkan di Jakarta
-pada tanggal 6 Agustus 2013
-MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
-ttd.
+&nbsp;&nbsp;&nbsp;&nbsp;Disahkan di Jakarta  
+&nbsp;&nbsp;&nbsp;&nbsp;pada tanggal 6 Agustus 2013  
+&nbsp;&nbsp;&nbsp;&nbsp;PRESIDEN REPUBLIK INDONESIA,  
+&nbsp;&nbsp;&nbsp;&nbsp;ttd.  
+&nbsp;&nbsp;&nbsp;&nbsp;DR.H. SUSILO BAMBANG YUDHOYONO
+
+<br/>
+
+Diundangkan di Jakarta  
+pada tanggal 6 Agustus 2013. 
+MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,  
+ttd.  
 AMIR SYAMSUDIN
+
+<br/>
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2013 NOMOR 132
 
 
-PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 20 TAHUN 2013 TENTANG PENDIDIKAN KEDOKTERAN I. UMUM Pendidikan Kedokteran merupakan salah satu unsur perwujudan tujuan negara yang diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, khususnya untuk mencerdaskan kehidupan bangsa, melalui sistem pendidikan nasional yang berkesinambungan berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Gerakan reformasi di Indonesia telah mendorong prinsip demokrasi, desentralisasi, keadilan, dan menjunjung tinggi hak asasi manusia dalam kehidupan berbangsa, dan bernegara. Dalam hubungannya dengan Pendidikan Kedokteran, prinsip tersebut akan memberikan dampak yang mendasar pada substansi, proses, dan manajemen sistem Pendidikan Kedokteran sebagai komponen penting menuju terintegrasinya sistem pendidikan dan sistem kesehatan nasional di masa depan. Untuk menghadapi tantangan dan tuntutan perkembangan masyarakat, ilmu pengetahuan, teknologi, informasi, dan globalisasi perlu dilakukan pembaruan Pendidikan Kedokteran secara terencana, terarah, dan berkesinambungan agar mampu menghasilkan Dokter, Dokter Gigi, dokter layanan primer, dokter spesialis-subspesialis, dan dokter gigi spesialis-subspesialis yang bermutu, kompeten, profesional, bertanggung jawab, memiliki etika dan moral dengan memadukan pendekatan humanistik terhadap pasien, dan berjiwa sosial tinggi. Pendidikan Kedokteran yang menghasilkan lulusan Dokter, Dokter Gigi, dokter layanan primer, dokter spesialis-subspesialis, dan dokter gigi spesialis-subspesialis tersebut merupakan komponen utama pemberi pelayanan kesehatan kepada publik, serta berorientasi kepada kebutuhan kesehatan masyarakat. Pembaruan Pendidikan Kedokteran dilakukan secara terarah, terukur, dan terkoordinasi. Untuk itu diperlukan rencana strategis dan penyelenggaraan Pendidikan Kedokteran yang meliputi pembentukan, penyelenggaraan, dan pengembangan program studi kedokteran atau program studi kedokteran gigi, pengaturan Fakultas Kedokteran dan Fakultas Kedokteran Gigi, penyelenggaraan Pendidikan Kedokteran di Rumah Sakit Pendidikan dan Wahana Pendidikan Kedokteran, Pendidikan Akademik dan Pendidikan Profesi, sumber daya manusia, Standar Nasional Pendidikan Kedokteran, Kurikulum, Mahasiwa, beasiswa dan bantuan biaya pendidikan, uji kompetensi, kerjasama Fakultas Kedokteran/Fakultas Kedokteran Gigi dengan Rumah Sakit Pendidikan dan Wahana Pendidikan Kedokteran, penelitian, dan penjaminan mutu yang diselenggarakan secara komprehensif. Dalam praktiknya, berbagai Peraturan Perundang-undangan yang terkait dengan Sistem Pendidikan Nasional belum mengatur secara spesifik dan komprehensif mengenai penyelenggaraan Pendidikan Kedokteran. Berdasarkan pertimbangan tersebut diperlukan suatu Undang- Undang yang secara khusus dan komprehensif mengatur mengenai Pendidikan Kedokteran. Undang-Undang ini mengatur asas penyelenggaraan Pendidikan Kedokteran yang mengedepankan kebenaran ilmiah, tanggung jawab, manfaat, kemanusiaan, keseimbangan, kesetaraan, relevansi, afirmasi, dan etika profesi dengan tujuan untuk menghasilkan Dokter, Dokter Gigi, dokter layanan primer, dokter spesialis-subspesialis, dan dokter gigi spesialis-subspesialis yang berbudi luhur, bermartabat, bermutu, berkompeten, berbudaya menolong, beretika, berdedikasi tinggi, profesional, berorientasi pada keselamatan pasien, bertanggung jawab, bermoral, humanistis, sesuai dengan kebutuhan masyarakat, mampu beradaptasi dengan lingkungan sosial, dan berjiwa sosial tinggi. Untuk itu, kurikulum yang diterapkan dalam Pendidikan Kedokteran dan Kedokteran Gigi adalah kurikulum berbasis kompetensi dan dikembangkan dengan prinsip diversifikasi sesuai dengan muatan lokal, potensi daerah untuk memenuhi kebutuhan Dokter dan Dokter Gigi, dokter layanan primer, dokter spesialis- subspesialis, dan dokter gigi spesialis-subspesialis. Pendidikan Kedokteran meliputi Pendidikan Akademik dan Pendidikan Profesi, membutuhkan sarana Rumah Sakit Pendidikan dengan standar persyaratan yang ditetapkan yang dapat digunakan sebagai sarana praktik dalam Pendidikan Kedokteran. Untuk memenuhi kebutuhan Rumah Sakit Pendidikan tersebut, diperlukan kerja sama Fakultas Kedokteran atau Fakultas Kedokteran Gigi dengan Rumah Sakit Pendidikan dan Wahana Pendidikan Kedokteran yang memuat secara jelas dan tegas serta berkepastian hukum tentang hak dan kewajiban masing-masing pihak, sehingga para pihak dapat memperoleh manfaat positif dari kerja sama tersebut. Hubungan kerja sama antara Fakultas Kedokteran atau Fakultas Kedokteran Gigi dengan Rumah Sakit Pendidikan dan Wahana Pendidikan Kedokteran dilakukan secara terintegrasi, baik integrasi fungsional di bidang manajemen maupun integrasi struktural. Untuk meningkatkan pemahiran dan pemandirian Dokter dilaksanakan program internsip yang merupakan bagian dari program penempatan wajib sementara. Program penempatan wajib sementara bertujuan untuk menjamin pemerataan lulusan terdistribusi ke seluruh wilayah Negara Kesatuan Republik Indonesia. Hal Ini membutuhkan pendanaan dalam bentuk beasiswa atau bantuan biaya pendidikan. Pendanaan yang dimaksud dapat berasal dari Pemerintah, Pemerintah Daerah, atau pihak lain dengan mengedepankan kepentingan nasional berdasarkan ketentuan Peraturan Perundang-undangan. II. PASAL DEMI PASAL
-Pasal 1
-Cukup jelas.
-Pasal 2
-Cukup jelas.
-Pasal 3
-Huruf a Yang dimaksud dengan asas “kebenaran ilmiah” adalah bahwa penyelenggaraan Pendidikan Kedokteran dalam substansi dan proses belajar mengajar mengutamakan layanan berbasis bukti dan metoda ilmiah serta terciptanya suasana akademik dan tradisi keilmuan dan kehidupan profesi tertinggi. Huruf b Yang dimaksud dengan asas ”tanggung jawab” adalah bahwa pemimpin dan jajaran di Fakultas Kedokteran dan Fakultas Kedokteran Gigi dalam penyelenggaraan Pendidikan Kedokteran, Mahasiswa maupun lulusannya kelak memiliki kompetensi, integritas, sikap tulus, berniat baik, terbuka, jujur, hemat, efisien, penuh kebersamaan, etis dan profesional, humanistik dan berjiwa sosial dalam menjalankan fungsi dan tugas pelayanan primanya kepada penerima layanan dalam segala tantangan yang serba berubah di tingkat lokal, nasional, dan global. Huruf c Yang dimaksud dengan asas “manfaat” adalah bahwa penyelenggaraan Pendidikan Kedokteran selalu berorientasi kepada pencapaian status kesehatan dan derajat kesehatan masyarakat setinggi-tingginya serta kemajuan peradaban profesi. Huruf d Yang dimaksud dengan asas “kemanusiaan” adalah bahwa penyelenggaraan Pendidikan Kedokteran ditujukan sebagai upaya meringankan/menghilangkan penderitaan manusia, menumbuhkembangkankan budaya menolong dan keselamatan pasien, menghargai hak asasi manusia termasuk diantaranya calon profesional lulusannya dalam rangka kemajuan kesejahteraan umat manusia, meraih kepercayaan publik terhadap Dosen dan lembaganya, serta tercapainya harapan masyarakat terhadap masa depan lebih baik. Huruf e Yang dimaksud dengan asas “keseimbangan” adalah bahwa pengelolaan dan penyelenggaraan Pendidikan Kedokteran menjaga keserasian dan keselarasan antara layanan publik dengan layanan privat, individu yang sakit dengan masyarakat/populasi yang sehat, kendali mutu dengan kendali biaya, kebebasan penerapan ilmu dan teknologi dengan nilai moralistik/etika profesi. Huruf f Yang dimaksud dengan asas “kesetaraan” adalah bahwa Pendidikan Kedokteran dilakukan secara adil, tidak memihak, ketepatan kelompok sasaran afirmatif, keberimbangan mutu dan jumlah lulusan antarfakultas dan antardaerah, serta antarperguruan tinggi negeri dengan antar perguruan tinggi swasta. Huruf g Yang dimaksud dengan asas “relevansi” adalah bahwa Standar Nasional Pendidikan Kedokteran senantiasa disesuaikan dengan tuntutan zaman, kebutuhan masyarakat, perkembangan ilmu pengetahuan dan teknologi, dan pelbagai dinamika Negara Kesatuan Republik Indonesia khususnya profesi Dokter dan Dokter Gigi dalam menyikapi perubahan. Huruf h Yang dimaksud dengan asas “afirmasi” adalah adanya keberpihakan kepada daerah terpencil, terdepan/terluar, tertinggal, perbatasan, atau kepulauan, kesetaraan gender, generasi penerus, masyarakat rentan, masyarakat secara ekonomi kurang mampu, masyarakat rendah status kesehatannya dan tinggi risiko kesehatannya akibat kondisi struktural ataupun akibat bencana. Huruf i Yang dimaksud dengan asas “etika profesi” adalah bahwa penyelenggaraan Pendidikan Kedokteran harus sejalan dengan dengan sistem norma, nilai, dan aturan profesional yang berlaku dalam profesi Dokter dan Dokter Gigi.
-Pasal 4
-Cukup jelas.
-Pasal 5
-Cukup jelas.
-Pasal 6
-Cukup jelas.
-Pasal 7
-Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Yang dimaksud dengan “internsip” adalah pemahiran dan pemandirian Dokter yang merupakan bagian dari program penempatan wajib sementara, paling lama 1 (satu) tahun. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas.
-Pasal 8
-Ayat (1) Cukup jelas. Ayat (2) Program dokter layanan primer ditujukan untuk memenuhi kualifikasi sebagai pelaku awal pada layanan kesehatan tingkat pertama, melakukan penapisan rujukan tingkat pertama ke tingkat kedua, dan melakukan kendali mutu serta kendali biaya sesuai dengan standar kompetensi dokter dalam sistem jaminan kesehatan nasional. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas.
-Pasal 9
-Cukup jelas.
-Pasal 10
-Cukup jelas.
-Pasal 11
-Ayat (1) Yang dimaksud dengan “lembaga lain” adalah lembaga yang mewakili unsur akademis, dunia usaha, dan pemerintahan di dalam dan di luar negeri. Ayat (2) Cukup jelas.
-Pasal 12
-Cukup jelas.
-Pasal 13
-Cukup jelas.
-Pasal 14
-Cukup jelas.
-Pasal 15
-Cukup jelas.
-Pasal 16
-Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Fasilitas lain misalnya industri dan sarana olahraga.
-Pasal 17
-Cukup jelas.
-Pasal 18
-Ayat (1) Yang dimaksud dengan “bimbingan” adalah proses alih pengetahuan, keterampilan, dan sikap dari Dosen kepada Mahasiswa untuk mencapai tujuan pembelajaran tertentu dalam jangka waktu tertentu. Yang dimaksud dengan “pengawasan” adalah proses jaga mutu dari Dosen kepada Mahasiswa untuk memastikan tidak terjadinya kekeliruan atau kerugian terhadap pasien atau masyarakat yang dilibatkan dalam proses pembelajaran. Ayat (2) Cukup jelas.
-Pasal 19
-Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan “tahap mandiri dalam pendidikan dokter layanan primer, dokter spesialis-subspesialis, dan dokter gigi spesialis-subspesialis” adalah tahap pendidikan setelah memperoleh kompetensi tertentu yang dibutuhkan. Penempatan mahasiswa program pendidikan dokter spesialis-subspesialis tahap mandiri untuk kompetensi tertentu, bertujuan meningkatkan pemahiran dan pemerataan pelayanan spesialistik. Yang dimaksud dengan “visitasi” adalah kunjungan yang dilakukan oleh Fakultas Kedokteran ke rumah sakit selain Rumah Sakit Pendidikan untuk menilai kelaikan rumah sakit tersebut sebagai tempat pemahiran mahasiswa program dokter spesialis-subspesialis. Yang dimaksud dengan “rumah sakit selain Rumah Sakit Pendidikan” adalah rumah sakit yang tidak memiliki dokter spesialis dengan tujuan untuk keperluan afirmasi pemenuhan kebutuhan dokter spesialis. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
-Pasal 20
-Cukup jelas.
-Pasal 21
-Cukup jelas.
-Pasal 22
-Cukup jelas.
-Pasal 23
-Cukup jelas.
-Pasal 24
-Cukup jelas.
-Pasal 25
-Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan “kompetensi khusus” adalah kompetensi di luar kompetensi inti yang sesuai dengan misi khusus/unggulan perguruan tinggi, antara lain, kedokteran perkotaan, kesehatan populasi/komunitas, dan pendekatan kesehatan holistik. Huruf c Cukup jelas. Ayat (3) Cukup jelas.
-Pasal 26
-Cukup jelas.
-Pasal 27
-Cukup jelas.
-Pasal 28
-Cukup jelas.
-Pasal 29
-Ayat (1) Yang dimaksud dengan “prinsip afirmatif” adalah prinsip keberpihakan kepada calon mahasiswa yang berasal dari daerah terpencil, terdepan/terluar, tertinggal, perbatasan, atau kepulauan, kesetaraan gender, generasi penerus, masyarakat rentan, masyarakat secara ekonomi kurang mampu, masyarakat rendah status kesehatannya dan tinggi risiko kesehatannya akibat kondisi struktural ataupun akibat bencana. Yang dimaksud dengan “prinsip transparan” adalah prinsip keterbukaan dalam menyajikan informasi yang relevan secara tepat dan akurat kepada calon mahasiswa yang berasal dari daerah terpencil, terdepan/terluar, tertinggal, perbatasan, atau kepulauan, kesetaraan gender, generasi penerus, masyarakat rentan, masyarakat secara ekonomi kurang mampu, masyarakat rendah status kesehatannya dan tinggi risiko kesehatannya akibat kondisi struktural ataupun akibat bencana. Yang dimaksud dengan “prinsip berkeadilan” adalah prinsip kesamaan dalam memberikan kesempatan kepada semua warga terutama kepada calon mahasiswa yang berasal dari daerah terpencil, terdepan/terluar, tertinggal, perbatasan, atau kepulauan, kesetaraan gender, generasi penerus, masyarakat rentan, masyarakat secara ekonomi kurang mampu, masyarakat rendah status kesehatannya dan tinggi risiko kesehatannya akibat kondisi struktural ataupun akibat bencana. Ayat (2) Cukup jelas.
-Pasal 30
-Cukup jelas.
-Pasal 31
-Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan “insentif” adalah imbalan dalam bentuk materi yang diberikan oleh Rumah Sakit Pendidikan dan Wahana Pendidikan Kedokteran atas jasa pelayanan medis yang dilakukan sesuai kompetensinya. Huruf c Jumlah jam kerja di Rumah Sakit Pendidikan dan Wahana Pendidikan Kedokteran disesuaikan dengan standar jam kerja serta memperhatikan keselamatan diri dan pasien. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
-Pasal 32
-Cukup jelas.
-Pasal 33
-Cukup jelas.
-Pasal 34
-Cukup jelas.
-Pasal 35
-Cukup jelas.
-Pasal 36
-Cukup jelas.
-Pasal 37
-Cukup jelas.
-Pasal 38
-Cukup jelas.
-Pasal 39
-Cukup jelas.
-Pasal 40
-Cukup jelas.
-Pasal 41
-Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Yang dimaksud dengan “integrasi fungsional” adalah koordinasi dan kolaborasi antara Fakultas Kedokteran dan rumah sakit dalam perencanaan, pelaksanaan, dan evaluasi dalam pendidikan, pelayanan, penelitian, dan pengabdian kepada masyarakat. Yang dimaksud dengan “integrasi struktural” adalah menyatunya Fakultas Kedokteran dan rumah sakit menjadi satu satuan kerja dalam menjalankan fungsi pendidikan, pelayanan, penelitian, dan pengabdian kepada masyarakat.
-Pasal 42
-Cukup jelas.
-Pasal 43
-Cukup jelas.
-Pasal 44
-Cukup jelas.
-Pasal 45
-Cukup jelas.
-Pasal 46
-Cukup jelas.
-Pasal 47
-Ayat (1) Sistem penjaminan mutu yang dilaksanakan secara internal dikembangkan perguruan tinggi, sedangkan sistem penjaminan mutu yang dilaksanakan secara eksternal dilakukan oleh lembaga akreditasi mandiri. Ayat (2) Cukup jelas.
-Pasal 48
-Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Huruf a Cukup jelas. Huruf b Pendanaan pendidikan dalam bentuk zakat diberikan kepada Mahasiswa yang tidak mampu secara ekonomi sesuai dengan kriteria mustahik. Huruf c Cukup jelas. Huruf d Cukup jelas.
-Pasal 49
-Cukup jelas.
-Pasal 50
-Cukup jelas.
-Pasal 51
-Cukup jelas.
-Pasal 52
-Cukup jelas.
-Pasal 53
-Cukup jelas.
-Pasal 54
-Yang dimaksud dengan “daerah tertentu” antara lain daerah terpencil, terdepan/terluar, tertinggal, perbatasan, kepulauan, industri, pertambangan, atau endemis penyakit menular. Bentuk dukungan Pemerintah antara lain: sarana prasarana, alat, tenaga, dan pendanaan dalam rangka mensinergikan Mahasiswa pada saat melakukan pelayanan terhadap pasien yang terkait status sebagai Mahasiswa sekaligus tenaga kesehatan strategis.
-Pasal 55
-Cukup jelas.
-Pasal 56
-Yang dimaksud dengan “beasiswa khusus” adalah beasiswa yang diberikan kepada Mahasiswa yang lahir di daerah tertentu, menyelesaikan pendidikan dasar sampai dengan pendidikan menengah di daerah kelahirannya, dan setelah lulus dari Pendidikan Kedokteran kembali ke tempat kelahirannya.
-Pasal 57
-Cukup jelas.
-Pasal 58
-Cukup jelas.
-Pasal 59
-Cukup jelas.
-Pasal 60
-Cukup jelas.
-Pasal 61
-Cukup jelas.
-Pasal 62
-Cukup jelas.
-Pasal 63
-Cukup jelas.
-Pasal 64
-Cukup jelas. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5434
